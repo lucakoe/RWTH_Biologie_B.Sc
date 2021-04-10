@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="538" height="200">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <ellipse ry="12.92308" rx="25.53846" id="819a187632f5494fa35257373edaf04f-ao-1" cy="132.92308" cx="153.07692" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse ry="13.23077" rx="49.84615" id="819a187632f5494fa35257373edaf04f-ao-2" cy="168.92308" cx="51.23077" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse ry="16.61538" rx="45.23077" id="819a187632f5494fa35257373edaf04f-ao-3" cy="20.61538" cx="157.69231" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <ellipse ry="13.84615" rx="28.30769" id="819a187632f5494fa35257373edaf04f-ao-5" cy="53.53846" cx="508.76923" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="819a187632f5494fa35257373edaf04f-ao-6" height="24.61538" width="62.76923" y="115.38462" x="11.53846" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="819a187632f5494fa35257373edaf04f-ao-7" height="22.46154" width="39.38462" y="117.23077" x="81.69231" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="819a187632f5494fa35257373edaf04f-ao-8" height="14.76923" width="32.30769" y="115.38462" x="380.15385" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="819a187632f5494fa35257373edaf04f-ao-9" height="13.23077" width="39.07692" y="32.30769" x="442" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
