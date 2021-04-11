@@ -18942,6 +18942,16 @@
                     "guid": "DZr8BK+nD*",
                     "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Test Tobi",
+                        "Test"
+                    ],
+                    "guid": "ur{!oIOYeA",
+                    "note_model_uuid": "a69ea2c6-6d5b-11e6-adf3-8c705a50cbf0",
+                    "tags": []
                 }
             ]
         }
