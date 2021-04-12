@@ -113,13 +113,15 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div>Was besagt die Präformationstheorie?</div>",
-                                "<div>Die Präformationslehre oder Präformationstheorie (lat. prae ‚vor‘ und formatio ‚Gestaltung‘, ‚Bildung‘) ist eine entwicklungsbiologische Theorie, die in der Antike von dem griechischen Philosophen Anaxagoras vertreten wurde und in der Neuzeit im 17. Jahrhundert wieder auftrat und dann bis in das 19. Jahrhundert hinein vorherrschend war.</div>\n<div><br></div>\n<div>Die Präformisten nahmen an, dass der gesamte Organismus im Spermium (Animalkulismus) bzw. im Ei (Ovismus oder Ovulismus) vorgebildet („präformiert“) sei und sich nur noch entfalten und wachsen müsse.</div>",
-                                ""
+                                "Was besagt die Präformationstheorie?",
+                                "<span style=\"color: rgb(32, 33, 34);\">Die&nbsp;</span><b>Präformationslehre</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;oder&nbsp;</span><b>Präformationstheorie</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;(</span><a href=\"https://de.wikipedia.org/wiki/Latein\">lat.</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><i>prae</i><span style=\"color: rgb(32, 33, 34);\">&nbsp;‚vor‘ und&nbsp;</span><i>formatio</i><span style=\"color: rgb(32, 33, 34);\">&nbsp;‚Gestaltung‘, ‚Bildung‘) ist eine&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Entwicklungsbiologie\">entwicklungsbiologische</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;Theorie, die in der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Altertum\">Antike</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;von dem griechischen Philosophen&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Anaxagoras\">Anaxagoras</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;vertreten wurde und in der&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Neuzeit\">Neuzeit</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;im 17. Jahrhundert wieder auftrat und dann bis in das 19. Jahrhundert hinein vorherrschend war.<br><br></span><span style=\"color: rgb(32, 33, 34);\">Die Präformisten nahmen an, dass der gesamte Organismus im&nbsp;</span><a href=\"https://de.wikipedia.org/wiki/Spermium\">Spermium</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;(</span><b>Animalkulismus</b><span style=\"color: rgb(32, 33, 34);\">) bzw. im Ei (</span><b>Ovismus</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;oder&nbsp;</span><b>Ovulismus</b><span style=\"color: rgb(32, 33, 34);\">) vorgebildet („präformiert“) sei und sich nur noch entfalten und wachsen müsse.</span><span style=\"color: rgb(32, 33, 34);\"><br></span>"
                             ],
-                            "guid": "n8Y!GDa&Yi",
-                            "note_model_uuid": "5d800576-9ae8-11eb-b44e-6c6a774fbdf6",
-                            "tags": []
+                            "guid": "g0FWYZARKP",
+                            "note_model_uuid": "73f38a9b-9ae8-11eb-8bdf-00d861e4e2e9",
+                            "tags": [
+                                "Präformation,",
+                                "Theorie"
+                            ]
                         }
                     ]
                 },
@@ -19238,13 +19240,12 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "5d800576-9ae8-11eb-b44e-6c6a774fbdf6",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "crowdanki_uuid": "73f38a9b-9ae8-11eb-8bdf-00d861e4e2e9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
                 {
                     "font": "Arial",
-                    "media": [],
-                    "name": "Front",
+                    "name": "Vorderseite",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -19252,18 +19253,8 @@
                 },
                 {
                     "font": "Arial",
-                    "media": [],
-                    "name": "Back",
+                    "name": "Rückseite",
                     "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Add Reverse",
-                    "ord": 2,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -19272,66 +19263,35 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic (optional reversed card)-36926",
+            "name": "Einfach",
             "req": [
                 [
                     0,
-                    "none",
-                    []
-                ],
-                [
-                    1,
-                    "all",
+                    "any",
                     [
-                        1,
-                        2
+                        0
                     ]
-                ],
-                [
-                    2,
-                    "none",
-                    []
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Präformation,",
+                "Theorie"
+            ],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n\n\nDie Präformationslehre oder Präformationstheorie (lat. prae ‚vor‘ und formatio ‚Gestaltung‘, ‚Bildung‘) ist eine entwicklungsbiologische Theorie, die in der Antike von dem griechischen Philosophen Anaxagoras vertreten wurde und in der Neuzeit im 17. Jahrhundert wieder auftrat und dann bis in das 19. Jahrhundert hinein vorherrschend war.\n\nDie Präformisten nahmen an, dass der gesamte Organismus im Spermium (Animalkulismus) bzw. im Ei (Ovismus oder Ovulismus) vorgebildet („präformiert“) sei und sich nur noch entfalten und wachsen müsse.",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Karte 1",
                     "ord": 0,
-                    "qfmt": "Was besagt die Präformationstheorie?"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
-                },
-                {
-                    "afmt": "\n\n\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Karte 3",
-                    "ord": 2,
-                    "qfmt": ""
+                    "qfmt": "{{Vorderseite}}"
                 }
             ],
-            "type": 0,
-            "vers": []
+            "type": 0
         },
         {
             "__type__": "NoteModel",
@@ -19708,6 +19668,103 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5d800576-9ae8-11eb-b44e-6c6a774fbdf6",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (optional reversed card)-36926",
+            "req": [
+                [
+                    0,
+                    "none",
+                    []
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ],
+                [
+                    2,
+                    "none",
+                    []
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n\n\nDie Präformationslehre oder Präformationstheorie (lat. prae ‚vor‘ und formatio ‚Gestaltung‘, ‚Bildung‘) ist eine entwicklungsbiologische Theorie, die in der Antike von dem griechischen Philosophen Anaxagoras vertreten wurde und in der Neuzeit im 17. Jahrhundert wieder auftrat und dann bis in das 19. Jahrhundert hinein vorherrschend war.\n\nDie Präformisten nahmen an, dass der gesamte Organismus im Spermium (Animalkulismus) bzw. im Ei (Ovismus oder Ovulismus) vorgebildet („präformiert“) sei und sich nur noch entfalten und wachsen müsse.",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "Was besagt die Präformationstheorie?"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                },
+                {
+                    "afmt": "\n\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 3",
+                    "ord": 2,
+                    "qfmt": ""
                 }
             ],
             "type": 0,
