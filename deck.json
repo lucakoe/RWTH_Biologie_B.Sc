@@ -20968,6 +20968,85 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "59a701ca-9b5b-11eb-b22c-001a7dda7113",
+                    "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Einführung in die Genetik",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "59a701ce-9b5b-11eb-81b6-001a7dda7113",
+                    "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Allgemeine Organische Chemie",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "59a728be-9b5b-11eb-98dc-001a7dda7113",
+                    "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Einführung in die Mikrobiologie",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "59a728c2-9b5b-11eb-b70d-001a7dda7113",
+                    "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Bau der Organismen II (Pflanzen)",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "59a728c6-9b5b-11eb-89c8-001a7dda7113",
+                    "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Physik (für Biowissenschaften)",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "59a6dade-9b5b-11eb-8387-001a7dda7113",
+            "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Biologie SS21",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "c19055cc-9a41-11eb-8e42-001a7dda7113",
