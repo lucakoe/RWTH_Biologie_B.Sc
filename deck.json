@@ -81,9 +81,244 @@
                     "dyn": 0,
                     "extendNew": 10,
                     "extendRev": 50,
-                    "media_files": [],
+                    "media_files": [
+                        "paste-042e55c6e903be250eb8762254ee3964bbcbfab5.jpg",
+                        "paste-0eb0242d46cfe0a0f205f43c9643f460bf9c78fa.jpg",
+                        "paste-1a9828affa0170b2230c94feed29ca6d2e757b5d.jpg",
+                        "paste-1aab4be4ed643e5d248e18532ef47a61609eb0b8.jpg",
+                        "paste-1da88c377e12ea0dbb8cc6f7e40b301be97c4eca.jpg",
+                        "paste-2cfa779566623da3f8f48e4c56778976fb1c66a0.jpg",
+                        "paste-358fa43ee388f66fcf635292168f2b3f289400ef.jpg",
+                        "paste-4b1eef483854370e0c97c848754194b8d7155c2c.jpg",
+                        "paste-517aa12974b5143a872037eb5b2b46d3e040d67c.jpg",
+                        "paste-585b6d346bc1fc81d845cd4b286ca31d74f62f6c.jpg",
+                        "paste-5916b36f1072bda33ac17c3f1f6ae42bc422d964.jpg",
+                        "paste-67efb42a6fd756d0cd1761e221584066146435ad.jpg",
+                        "paste-6c40b08b4d0caa3577a8a328dd6b6f55dcd0a1a5.jpg",
+                        "paste-6e5b199a0040ba823c53fad68efa876dc958ec6a.jpg",
+                        "paste-72f68c1b1339b8ebf759b717381dd3ef8bfe7860.jpg",
+                        "paste-76f20981048957b118e9195b0d05bd477580f8f5.jpg",
+                        "paste-881e4ac4d0f165568661d8bdc930df73a17a5f81.jpg",
+                        "paste-94cce5317d5d74a111fd1b25a918dce12162000d.jpg",
+                        "paste-a47609f5c9b2f0c408683c045eb73b8604460776.jpg",
+                        "paste-a89a02d0b17bcd6cc8c1a1135cb61f025b6e83a8.jpg",
+                        "paste-b6edfdc383e1c5af72e05ed37bda1e3355a2832b.jpg",
+                        "paste-c23d920f1c4cf49880b9612241e7e2ee8f5ff347.jpg",
+                        "paste-c3932c28516dbf8821aed54b91a8ec1c44490eef.jpg",
+                        "paste-e8fe6e05e7d1f670ddfbc7ab5ab0c2bd6a5d45c9.jpg"
+                    ],
+                    "mid": 1604688678599,
                     "name": "Allgemeine Organische Chemie",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Wie entstand die Chemie?</font> Wie wird Chemie aufgeteilt und wie ist organische Chemie definiert?",
+                                "<font color=\"#ffff00\">~ Während Mittelalter entstand Alchemie (chemische Produktion von Gold)</font><div><font color=\"#ffff00\"><img src=\"paste-76f20981048957b118e9195b0d05bd477580f8f5.jpg\"></font><br></div><div>Organische Chemie:</div><div><br></div><div>a) Vitalismus (alte Definition):</div><div>-&gt; Organische Stoffe können nur von lebenden Organismen produziert werden&nbsp;<br></div><div><u style=\"font-style: italic;\">~ nicht in vitro herstellbar</u>&nbsp;(frühere Vorstellung; heute Widerlegt)</div><div><br></div><div>b) Moderne Definition:</div><div><font color=\"#ff5500\">Chemie der Kohlenstoff- bzw. Kohlenwasserstoffverbindungen und deren Derivate</font></div><div><br></div><div>-&gt; Umwandlung ovn Molekülen</div><div>-&gt; Wechselwirkung zwischen Molekülen</div><div>-&gt; Eigenschaften von Molekülen&nbsp;</div>"
+                            ],
+                            "guid": "M`{&{LC}P[",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Wie wurde der Vitalismus widerlegt?</font>",
+                                "- Wöhler stellte 1828 synthetisch Harnstoff her, eine organische Verbindung<div>-&gt; Der Vitalismus (alte Defintion OC) besagt, dass organische Verbindungen nur von Lebewesen hergestellt werden konnten</div><div><br></div><div>-&gt; Somit leitete Wöhler die moderne der organischen Chemie ein, indem er den Vitalismus widerlegte</div><div><img src=\"paste-a89a02d0b17bcd6cc8c1a1135cb61f025b6e83a8.jpg\"><br></div>"
+                            ],
+                            "guid": "LSIyX.,arm",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Gibt es mehr Moleküle der anorganischen Chemie oder der organischen Chemie? Wozu sind Moleküle der organischen Chemie wichtig?</font>",
+                                "AC: 2Mio Moleküle<div>OC: 20Mio Moleküle; Tendenz steigend</div><div><br></div><div>Funktionen:</div><div>- Esthetik/ Lehre über Synthese<br></div><div>- Materialeigenschaften&nbsp;</div><div>- Pharmakologisch</div><div>~ Bsp: Atorvastatin</div>"
+                            ],
+                            "guid": "d_Jr_=}0Jv",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine chemische Reaktion?",
+                                "Reaktion:<br>Man überführt einen Reaktanden in ein Produkt mithilfe eines Reaktionsmechanismus<div><br></div><div>-&gt; Reaktionsmechanismus:</div><div>Gibt\nAussage über den Verlauf der Reaktion über Zwischenstufen oder\nÜbergangszustände.<br></div>"
+                            ],
+                            "guid": "F&5!0~p5/?",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist das Periodensystem aufgebaut? <font color=\"#ff5500\">Welche Trends gibt es?&nbsp;</font>",
+                                "<div><img src=\"paste-67efb42a6fd756d0cd1761e221584066146435ad.jpg\"><br></div><div>-&gt; Aufteiltung nach Elektronen/ Schalen (Perioden)</div><div>~ Elemente untereinander mit ähnlichen Eigenschaften&nbsp;</div><div>~ In OC vor allem H, C, N, O,</div><div>-&gt; Nur duch diese 4 extrem viele Derivate (Strukturen) auszubilden dank dem <font color=\"#ff5500\">Kohlenstoff</font></div><div><img src=\"paste-358fa43ee388f66fcf635292168f2b3f289400ef.jpg\"><br></div><div><b><u><font color=\"#ff5500\">Trends</font></u></b>:</div><div><img src=\"paste-6e5b199a0040ba823c53fad68efa876dc958ec6a.jpg\"><br></div>"
+                            ],
+                            "guid": "J=|wc~@S]",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Wie ist ein Atom aufgebaut?</font>",
+                                "Aufbau (Bohr)<div>- mehrfashc positiv geladener Kern mit negativ geladener Elektronenhülle aus mehreren Schalen</div><div>-&gt; Valenzschale (äußerste) bestimmt mit den Valenzelektronen über die chemischen Eigenschaften</div><div>~ Elektronenkonfiguration (8 VE in der äußersten Schale) ist besonders stabil (<font color=\"#ff5500\">Oktettregel</font>)</div>"
+                            ],
+                            "guid": "xRWs^qBOv8",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie und warum finden chemische Reaktionen statt?",
+                                "-&gt; Erfüllung der Edelgaskonfiguration<div>a) Metallbindung (VE trennen sich von dem Element und schwirren in einer Elektronenwolke herum)</div><div>b) Ionenbindung (Elektronen aus der Valenzschale übertragen (Donor oder Akzeptor bsp NaCl -&gt; Salz)</div><div>c) kovalente Bindung&nbsp;</div><div>~ Wasserstoff kann kein Elektron ganz abgeben, Kohlenstoff kann kaum alle abgeben/ aufnehmen, da man immer mehr Energie hereinstecken muss, um Elektronen zu lösen/ aufzunehmen</div><div>-&gt; Kohlenstoff immer 4-bindig, Doppel/ Dreifachbindungen,&nbsp;</div>"
+                            ],
+                            "guid": "t/NCF7t;Bi",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beschreibe das Grundlegende Prinzip von Atomorbitalen.",
+                                "- Elektron kann sowohl als Teilchen, als auch als Welle dargestellt werden (<i><b>Welle/ Teilchen Dualismus</b></i>)<div>-&gt; Wellenlänge bezeichnet die Energie des Teilchens</div><div><br></div><div><b><u>Schrödinger Gleichung (HΨ\n= E Ψ):</u></b></div><div>- beschreibt die die Aufenhaltsräume der Elektronen als Welle in einem bestimmten Raumabschnitt</div><div>-&gt; Der Aufbau von Orbitalen ist also abhängig von der Energie (Wellenlänge) und damit von dem Ergebnis der Schrödinger Gleichung</div><div><img src=\"paste-b6edfdc383e1c5af72e05ed37bda1e3355a2832b.jpg\"><br></div><div><br></div><div><b><u>Aufbauprinzip</u></b>:<br>a) Zuerst befüllen von Orbitalen mit weniger Energie</div><div>b) Pauli Prinzip: Jedes Orbital maximal 2 Elektronen mit unterschieldichem Spin (gepaarte Elektronen)</div><div>c) Hund'sche Regel: entartete Orbitale zunächst einfach besetzt (bei gleicher Energiestufe jedes Orbital nur ein Elektron)</div><div><img src=\"paste-72f68c1b1339b8ebf759b717381dd3ef8bfe7860.jpg\"><br></div>"
+                            ],
+                            "guid": "i$73oWQkA`",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie bilden sich chemische Bindungen Quantenchemisch aus? (Wiederholung)",
+                                "<b><u>Molekülorbitale</u></b>:<div>1) bindendes Molekülorbital (ovale Form)</div><div>- Die S-Orbitale überlappen und binden bei gleichem Vorzeichen</div><div>-&gt; Beide Wasserstoffatome erhalten 2VE (Edelgas Helium bei Wasserstoff)</div><div>2) anitbindendes Molekülorbital</div><div>- Die S-Orbitale überlappen und löschen sich aus bei unterschiedlichem Vorzeichen</div><div>-&gt; Keine Aufenthaltswahrscheinlichkeit von Elektronen zwischen den Kernen</div><div><img src=\"paste-1aab4be4ed643e5d248e18532ef47a61609eb0b8.jpg\"><br></div><div><br></div><div>Aufbau:</div><div><img src=\"paste-e8fe6e05e7d1f670ddfbc7ab5ab0c2bd6a5d45c9.jpg\"><img src=\"paste-2cfa779566623da3f8f48e4c56778976fb1c66a0.jpg\"><br></div><div><br></div>"
+                            ],
+                            "guid": "H1iw<l)svp",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Der gezeigte Aufbau entspricht den theoretischen Molekülorbital von Methan (CH<sub>4</sub>).</div><div>-&gt; Jedoch ist Methan tetraedrisch, hier jedoch würde ein H-Atom an das S-Orbital binden und zwischen allen Bindungen vom Kohlenstoffatom, gäbe es nicht die gleichen Winkel (kein Tetraeder)!</div><div>Was wird hier vergessen?</div><div><img src=\"paste-5916b36f1072bda33ac17c3f1f6ae42bc422d964.jpg\"><br></div>",
+                                "<b><u>Hybridisierung</u></b>:<div>- Orbitale können hybridisieren und Hybridorbitale bilden</div><div>-&gt; Orbitale \"nur mathematische Funktionen\" und können miteinander verrechnet werden</div><div><br></div><div>~ 2s Orbital kann mit den 2-Orbitalen vereint werden und ein 4sp<sup>3</sup>&nbsp;Hybridorbital bilden (gleicher Aufbau)</div><div>&nbsp; -&gt; Energie des 2s Orbitals wird um 3/4 erhöht</div><div>&nbsp; -&gt; Energie der 2p Orbitale wird um 1/4 erniedrigt</div><div>---&gt; Gesamtenergie bleibt gleich</div><div>~ Oftmals sind Wasserstoff-Kohlenstoffbindungen hybridisiert, jedoch findet eine Hybridisierung auch bei vielen anderen Bindungen statt</div><div><img src=\"paste-585b6d346bc1fc81d845cd4b286ca31d74f62f6c.jpg\"><br></div>"
+                            ],
+                            "guid": "AiZCF%@Xs*",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie groß ist der Tetraederwinkel?",
+                                "109,5°"
+                            ],
+                            "guid": "ftW|+6Zn?)",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist Methan aufgebaut (Molekülorbital)?",
+                                "<img src=\"paste-1a9828affa0170b2230c94feed29ca6d2e757b5d.jpg\"><div>-&gt; sp3- Hybridorbital</div>"
+                            ],
+                            "guid": "FDlbLR6pRA",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie ist Ethan aufgebaut?",
+                                "<img src=\"paste-c23d920f1c4cf49880b9612241e7e2ee8f5ff347.jpg\"><div>~ ein sp3-Hybridorbital bleibt \"frei\" und kann mit dem anderen sp3-Hybridorbital vom C-Atom eine sigma-Bindung eingehen</div><div>-&gt;<font color=\"#ff5500\"> 2 Tetraeder über Sigmabindung</font> verbunden und große Rotationsfreiheit</div>"
+                            ],
+                            "guid": "N`/RNpcREz",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sind Ammoniak und Wasser im Modell der Molekülorbitale dargestellt?",
+                                "<div><img src=\"paste-4b1eef483854370e0c97c848754194b8d7155c2c.jpg\"><br></div>Ammoniak:<div>- Tetraeder mit Sigma bindungen der sp3-Hybridorbitale</div><div><br></div><div>Wasser:</div><div>- Tetraeder mit Sig,a Bindugen der sp3-Hybridorbitale</div><div>-&gt; Wenn man die Orbitale, welche Elektronen beinhalten, aber keine Bindung eingehen weglässt ergibt sich eine gewinkelte Struktur (105°, da freie Elektronenpaare mehr Platz benötigen)</div>"
+                            ],
+                            "guid": "g11w0RKz4]",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Hybridisierung außer, der sp<sup>3</sup>-Hybritisierung gibt es?",
+                                "<div><b><u>sp<sup>2</sup>-Hybridorbital:</u></b></div>1s-Orbital + 2p-Orbitale = 3x sp<sup>2</sup>&nbsp;-Orbitale und 1x 2p Orbital<div><br></div><div>- 3x sp<sup>2</sup>-Orbitale liegen in der Ebene und zeigen auf die Ecken eines Dreiecks</div><div>- senkrecht dazu steht noch ein p-Orbital</div><div><img src=\"paste-881e4ac4d0f165568661d8bdc930df73a17a5f81.jpg\"><img src=\"paste-517aa12974b5143a872037eb5b2b46d3e040d67c.jpg\"><br></div><div><i><b>Funktion</b></i>:</div><div>- Es lässt sich eine eine Bindung zu einem anderen sp<sup>2</sup>-Hybridorbital ausbilden und durch das p-Orbital lässt sich eine weitere pi-Bindung ausbilden -&gt; z.B Ethylen</div><div>-&gt; planares Molekül ohne Rotationsfreiheit, wegen der Doppelbindung<br></div><div><img src=\"paste-6c40b08b4d0caa3577a8a328dd6b6f55dcd0a1a5.jpg\"><img src=\"paste-1da88c377e12ea0dbb8cc6f7e40b301be97c4eca.jpg\"><br></div><div><br></div><div><b><u>sp-Hybridorbital:</u></b></div><div>- 1x s-Orbital + 1x p-Orbital = 2x sp-Hybridorbital + 2x p-Orbital</div><div><br></div><div>- beide sp-Orbitale liegen in entgegengesetzter Richtung</div><div>- p Orbitale stehen senkrecht zueinander</div><div><img src=\"paste-94cce5317d5d74a111fd1b25a918dce12162000d.jpg\"><img src=\"paste-a47609f5c9b2f0c408683c045eb73b8604460776.jpg\"><br></div><div><b><i>Funktion:</i></b></div><div>- Es lassen sich 2x pi-Bindungen und eine Sigmabindung ausbilden</div><div>-&gt; 3-fach Bindung mit einer linearen Anordnung (z.B Acetylen)</div><div><img src=\"paste-042e55c6e903be250eb8762254ee3964bbcbfab5.jpg\"><img src=\"paste-c3932c28516dbf8821aed54b91a8ec1c44490eef.jpg\"><br></div>"
+                            ],
+                            "guid": "A%0jY(f}V2",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind polarisierte Atombindungen?",
+                                "<u><b>Polarisierte Atombindungen:</b></u><div>-&gt; Verschiedene Elemente besitzen verschiedene Elektronegativitäten, sodass die Elektronen in einer kovalenten Bindungen zu einem Bindungspartner stärker gezogen werden</div><div><img src=\"paste-0eb0242d46cfe0a0f205f43c9643f460bf9c78fa.jpg\"><br></div><div>~Polarisierung und Asymmetrie beeinflusst gewisse Reaktionen<br></div>"
+                            ],
+                            "guid": "s{<2G#/3**",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO1",
+                                "TobiS2"
+                            ]
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
@@ -133,11 +368,26 @@
                     "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
                     "desc": "",
                     "dyn": 0,
-                    "extendNew": 10,
+                    "extendNew": 0,
                     "extendRev": 50,
                     "media_files": [],
+                    "mid": 1618294007318,
                     "name": "Einführung in die Mikrobiologie",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist ein Pathogen</font></b>",
+                                "Pathogenität ist die Eigenschaft in bestimmten Organismen Erkrankungen hervorzurufen.&nbsp;<br><br><font color=\"#ff0000\">Krankheitserreger</font> (Bakterien, Parasiten, Viren, Toxine...) werden demnach als Pathogene bezeichnet.<br><br>Nicht Pathogene Stoffe sind apathogen."
+                            ],
+                            "guid": "nhM__;@M+<",
+                            "note_model_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
@@ -148,9 +398,51 @@
                     "dyn": 0,
                     "extendNew": 10,
                     "extendRev": 50,
-                    "media_files": [],
+                    "media_files": [
+                        "paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg"
+                    ],
                     "name": "Physik (für Biowissenschaften)",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Wie werden Abläufe in der Natur von der Physik versucht zu beschreiben?</font>",
+                                "1) quantitative Beschreibung:&nbsp;<div>&nbsp;Messungen \nmathematische Erfassung in Formeln&nbsp;</div><div>2) Verständnis:\nModelle/Gesetze aufstellen und experimentell untersuchen; <font color=\"#ff5500\"><b>streng nur Falsifikation möglich</b></font>, keine Verifikation&nbsp;</div><div>~ Qualität gemessen durch konsistente Erklärung unterschiedlicher Phänomene aus einem Prinzip heraus&nbsp;</div><div>-&gt; Bsp.: Gravitation: freier Fall und Himmelsmechanik</div><div><br></div><div><b><font color=\"#ff5500\">Naturgesetze sind quantitative, allgemein gültige Zusammenhänge, die möglichst viele Phänomene korrekt beschreibe</font></b><br></div>"
+                            ],
+                            "guid": "lO;wE%(`sb",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "PhyVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Wann sind Theorien in der Physik sinnvoll?</font>",
+                                "<img src=\"paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg\">"
+                            ],
+                            "guid": "ndrH64U$3r",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "PhyVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Einheiten?",
+                                "<div>Einheit:</div><div>Standardgröße</div><div><br></div><div>Messung:</div>Vergleich von beobachteten Größen mit Standardgröße"
+                            ],
+                            "guid": "iu7L,.yCXo",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "PhyVO2",
+                                "TobiS2"
+                            ]
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "59a6dade-9b5b-11eb-8387-001a7dda7113",
@@ -33357,6 +33649,64 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "PhyVO2",
+                "TobiS2"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "73f38a9b-9ae8-11eb-8bdf-00d861e4e2e9",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
@@ -33394,6 +33744,64 @@
             "tags": [
                 "Präformation,",
                 "Theorie"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "MBVO1",
+                "Ron"
             ],
             "tmpls": [
                 {
@@ -34376,7 +34784,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced-c4412",
+            "name": "Image Occlusion Enhanced-1ee65",
             "req": [
                 [
                     0,
@@ -34399,61 +34807,6 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Vorderseite",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Rückseite",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Einfach",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Karte 1",
-                    "ord": 0,
-                    "qfmt": "{{Vorderseite}}"
                 }
             ],
             "type": 0,
