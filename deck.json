@@ -368,10 +368,10 @@
                     "deck_config_uuid": "436ea31e-9a3b-11eb-bdad-001a7dda7113",
                     "desc": "",
                     "dyn": 0,
-                    "extendNew": 0,
+                    "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [],
-                    "mid": 1618294007318,
+                    "mid": 1618228008798,
                     "name": "Einführung in die Mikrobiologie",
                     "notes": [
                         {
@@ -33799,10 +33799,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "MBVO1",
-                "Ron"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
