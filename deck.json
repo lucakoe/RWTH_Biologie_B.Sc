@@ -88,7 +88,6 @@
                         "paste-1aab4be4ed643e5d248e18532ef47a61609eb0b8.jpg",
                         "paste-1da88c377e12ea0dbb8cc6f7e40b301be97c4eca.jpg",
                         "paste-2cfa779566623da3f8f48e4c56778976fb1c66a0.jpg",
-                        "paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg",
                         "paste-358fa43ee388f66fcf635292168f2b3f289400ef.jpg",
                         "paste-4b1eef483854370e0c97c848754194b8d7155c2c.jpg",
                         "paste-517aa12974b5143a872037eb5b2b46d3e040d67c.jpg",
@@ -318,45 +317,6 @@
                                 "OCVO1",
                                 "TobiS2"
                             ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<font color=\"#ffff00\">Wie werden Abläufe in der Natur von der Physik versucht zu beschreiben?</font>",
-                                "1) quantitative Beschreibung:&nbsp;<div>&nbsp;Messungen \nmathematische Erfassung in Formeln&nbsp;</div><div>2) Verständnis:\nModelle/Gesetze aufstellen und experimentell untersuchen; <font color=\"#ff5500\"><b>streng nur Falsifikation möglich</b></font>, keine Verifikation&nbsp;</div><div>~ Qualität gemessen durch konsistente Erklärung unterschiedlicher Phänomene aus einem Prinzip heraus&nbsp;</div><div>-&gt; Bsp.: Gravitation: freier Fall und Himmelsmechanik</div><div><br></div><div><b><font color=\"#ff5500\">Naturgesetze sind quantitative, allgemein gültige Zusammenhänge, die möglichst viele Phänomene korrekt beschreibe</font></b><br></div>"
-                            ],
-                            "guid": "lO;wE%(`sb",
-                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
-                            "tags": [
-                                "PhyVO1",
-                                "TobiS2"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<font color=\"#ffff00\">Wann sind Theorien in der Physik sinnvoll?</font>",
-                                "<img src=\"paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg\">"
-                            ],
-                            "guid": "ndrH64U$3r",
-                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
-                            "tags": [
-                                "PhyVO1",
-                                "TobiS2"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was sind Einheiten?",
-                                "<div>Einheit:</div><div>Standardgröße</div><div><br></div><div>Messung:</div>Vergleich von beobachteten Größen mit Standardgröße"
-                            ],
-                            "guid": "iu7L,.yCXo",
-                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
-                            "tags": [
-                                "PhyVO2",
-                                "TobiS2"
-                            ]
                         }
                     ]
                 },
@@ -423,9 +383,51 @@
                     "dyn": 0,
                     "extendNew": 10,
                     "extendRev": 50,
-                    "media_files": [],
+                    "media_files": [
+                        "paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg"
+                    ],
                     "name": "Physik (für Biowissenschaften)",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Wie werden Abläufe in der Natur von der Physik versucht zu beschreiben?</font>",
+                                "1) quantitative Beschreibung:&nbsp;<div>&nbsp;Messungen \nmathematische Erfassung in Formeln&nbsp;</div><div>2) Verständnis:\nModelle/Gesetze aufstellen und experimentell untersuchen; <font color=\"#ff5500\"><b>streng nur Falsifikation möglich</b></font>, keine Verifikation&nbsp;</div><div>~ Qualität gemessen durch konsistente Erklärung unterschiedlicher Phänomene aus einem Prinzip heraus&nbsp;</div><div>-&gt; Bsp.: Gravitation: freier Fall und Himmelsmechanik</div><div><br></div><div><b><font color=\"#ff5500\">Naturgesetze sind quantitative, allgemein gültige Zusammenhänge, die möglichst viele Phänomene korrekt beschreibe</font></b><br></div>"
+                            ],
+                            "guid": "lO;wE%(`sb",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "PhyVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffff00\">Wann sind Theorien in der Physik sinnvoll?</font>",
+                                "<img src=\"paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg\">"
+                            ],
+                            "guid": "ndrH64U$3r",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "PhyVO1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Einheiten?",
+                                "<div>Einheit:</div><div>Standardgröße</div><div><br></div><div>Messung:</div>Vergleich von beobachteten Größen mit Standardgröße"
+                            ],
+                            "guid": "iu7L,.yCXo",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "PhyVO2",
+                                "TobiS2"
+                            ]
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "59a6dade-9b5b-11eb-8387-001a7dda7113",
