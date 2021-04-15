@@ -631,9 +631,11 @@
                         "ec858ed15d5b47d9b468d6133407ca66-ao-8-Q.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-A.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-Q.svg",
-                        "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg"
+                        "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg",
+                        "paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg",
+                        "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg"
                     ],
-                    "mid": 1618228008798,
+                    "mid": 1618418953989,
                     "name": "Einführung in die Mikrobiologie",
                     "notes": [
                         {
@@ -666,7 +668,10 @@
                             ],
                             "guid": "HC;kIMH7/k",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -685,7 +690,10 @@
                             ],
                             "guid": "EzzWGd?Dxr",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -704,7 +712,10 @@
                             ],
                             "guid": "ARWb<`LMbm",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -723,7 +734,10 @@
                             ],
                             "guid": "b=<dWQAiS{",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -742,7 +756,10 @@
                             ],
                             "guid": "mym;Y5FQJn",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -761,7 +778,10 @@
                             ],
                             "guid": "tYE^%nQ;jH",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -780,7 +800,10 @@
                             ],
                             "guid": "L;?#emXmx3",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -799,7 +822,10 @@
                             ],
                             "guid": "yn*h<P=M(a",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -818,7 +844,10 @@
                             ],
                             "guid": "mDycIH<JQ=",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -837,7 +866,10 @@
                             ],
                             "guid": "bW>X_)v`6j",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -856,7 +888,10 @@
                             ],
                             "guid": "Av&tYGwa+&",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -875,7 +910,10 @@
                             ],
                             "guid": "b9P2zTyUes",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -894,7 +932,10 @@
                             ],
                             "guid": "jb;5})!M@n",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -913,7 +954,166 @@
                             ],
                             "guid": "IiW|W+>(,,",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Definiere Mikroorganismus</b></font>",
+                                "Ein <font color=\"#ff0000\">mikroskopisch kleiner</font> Organismus der als Einzelwesen nicht mit bloßem Auge erkennbar ist.<br><br>Dazu zählen überwiegend Einzeller, aber auch wenige Vielzeller.<br>Ob Viren dazu zählen ist umstritten."
+                            ],
+                            "guid": "Nm3Fdw0ItR",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Ordne den \"Lebewesen\" ungefähre Größen (nm bis mm) zu:<br>- Bakterien<br>- Viren<br>- Einzellige Eukaryoten</b></font>",
+                                "Viren (20-450nm)<br>Bakterien (250nm-750µm)<br>Einzellige Eukaryoten (1µm-1mm)"
+                            ],
+                            "guid": "Ea&#kFNOFt",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne die 3 Domänen des Lebens,&nbsp;</b></font><b><font color=\"#ffaa00\">die Ursache ihrer Entdeckung und&nbsp;</font></b><font color=\"#ffaa00\"><b>ihren letzten Gemeinsamen Vorfahren.</b></font>",
+                                "<font color=\"#ff0000\">Bakterien, Archaeen und Eukaryoten</font><br><br>Carls <font color=\"#ff0000\">Woese</font> schlug 1990 das 3-Domänenmodell mit seinem Kollegen vor.<br>Es basiert auf seiner Forschung an der <font color=\"#ff0000\">16S rRNA</font> von Prokaryoten, welche bei Archaeen der 18S rRNA der Eukaryoten ähnelt.<br><br>Der letzte gemeinsame Vorfahre der Domänen heißt<font color=\"#ff0000\"> LUCA </font>(Last Universal Common Ancestor)"
+                            ],
+                            "guid": "yb|XkV?>C8",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><u>Die Geschichte der Mikrobiologie</u></b><br><br>Der erste Mensch der Bakterien sah war&nbsp;{{c1::Antoni van Leeuwenhoek}} er stellte seiner Zeit (1632-1723) die besten Vergrößerungslinsen her.<br><br>Die Urzeugungstheorie (Leben aus nichts) wurde von {{c2::Francesco Redi}} (1626-1697) und {{c3::Lazzaro Spallanzani}} (1726-1799) mit Topf und Deckel wiederlegt.<br><br>{{c4::Florence Nightingales}} statistische Todesauswertungen während des Krimkrieges 1856 legten den Grundstein der Medizinischen Statistik.<br><br>Die erste Immunisierung fand 1876 durch Louis Pasteur statt. Er impfte Schafe gegen {{c5::Milzbrand}}.<br><br>1882 isolierte {{c6::Robert Koch}} den Tuberkulose erreger und ermöglichte damit die Klassifizierung von Patogenen.<br><br>Alexander Fleming entdeckte {{c7::1921}} das Penicillin.<br><br>Schon 1928 bewies {{c8::Frederick Griffith}} den möglichen Informationsaustausch zwischen Organismen, aber erst {{c9::1944}} klärte Oswald Avery die Rolle der DNA auf.<br><br>9 Jahre später (1953) entschlüsselten dann {{c10::Watson &amp; Crick}} die doppelhelix der DNA<br>(Rosalind Franklin und Maurice Wilkins werden dabei immer vergessen)<br><br>1990 folgten dann die {{c11::3 Domänen des Lebens}} von Carl Woese.",
+                                ""
+                            ],
+                            "guid": "kF4-WK0xgn",
+                            "note_model_uuid": "479efe42-9df1-11eb-90cf-00d861e4e2e9",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was besagen die 4 Henle-Koch Postulate</b></font>",
+                                "Eine Mikrobe gilt als <font color=\"#ff0000\">Krankheitserreger, wenn</font> er die folgenden Postulate erfüllt:<br><br>-Der Mikroorganismus kann in allen Fällen der Krankheit\nnachgewiesen werden,<font color=\"#ff0000\"> fehlt</font> aber <font color=\"#ff0000\">bei gesunden</font>\nIndividuen.<br><br>-Wenn der Mikroorganismus in einen gesunden,\nempfänglichen Wirt eingebracht wird, tritt <font color=\"#ff0000\">dieselbe\nErkrankung</font> auf.<br><br>-Der Mikroorganismus wurde vom erkrankten Wirt\n<font color=\"#ff0000\">isoliert</font> und in Reinkultur kultiviert.<br><br>-Vom neu erkrankten Wirt erhält man <font color=\"#ff0000\">denselben\nMikrobenstamm</font>."
+                            ],
+                            "guid": "H*3/n~iw[8",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie lief Frederick Griffiths Nachweis der Transformation von Bakterien 1928 ab?</b></font>",
+                                "<img src=\"paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg\">"
+                            ],
+                            "guid": "PE0SII.f?>",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wies Oswald Avery 1944 die Eigenschaft der Nukleinsäuren als Erbinformationsträger nach?</b></font>",
+                                "<img src=\"paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg\">"
+                            ],
+                            "guid": "DRulWof7Z+",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was heißt Natürliche Kompetenz und was bedeutet sie für Oswald Averys Versuch 1944?</b></font>",
+                                "Natürlich kompetente Bakterien können DNA aus ihrer Umwelt aufnehmen.<br><br>Avery hatte Glück, dass die von ihm gewählten Bakterien natürlich Kompetent waren. Sonst hätte er die DNA als Informationsträger nicht isolieren können."
+                            ],
+                            "guid": "AiaQw^^y&z",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Eigenschaft weist eine Gramnegative Zelle auf?</b></font>",
+                                "<font color=\"#ff0000\">Eine dünne Zellwand</font> (diese kann z.B. auch hinter einer zweiten Membran liegen [Endosymbionten-Theorie])<br><br>Benannt wurde die Gramfärbung nach&nbsp;Hans Christian Gram, welcher damit&nbsp;die Erreger der Lungenentzündung verschieden anfärbte."
+                            ],
+                            "guid": "JX:1.QA>&|",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne Unterschiede zwischen Pro- &amp; Eukaryoten.</b></font>",
+                                "Es gelten u.a. Größe, Organellen, Nukleus, Endosymbionten, zirkuläre DNA, 70S/80S Ribosomen"
+                            ],
+                            "guid": "MaME)MKM_4",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche 4 großen Molekularen Revoltionen beruhen auf Bakterien?</b></font>",
+                                "Das 1952 entdeckte <font color=\"#ff0000\">Restricktionsenzym</font> EcoR1 aus E.Coli<br><br>Die <font color=\"#ff0000\">Genregulation</font> durch das 1960 in E.Coli entdeckte Lac-Operon<br><br>Die 1983 entwickelte <font color=\"#ff0000\">PCR</font>, welche die hitzeresistente DNA Polymerase des Thermus aquaticus benötigt<br><br>Die 1995 entwickelte <font color=\"#ff0000\">Genomsequenzierung</font>"
+                            ],
+                            "guid": "G!-AWM|L>o",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie nennt sich die Hypothese, von George Beadle und Edward Tatum?&nbsp;</b></font><b><font color=\"#ffaa00\">Ist sie nach dem\nheutigen Wissen korrekt?</font></b>",
+                                "Ein-Gen-ein-Enzym Hypothese<br><br><div><b>Nach gegenwärtigem Forschungsstand kann man die Hypothese so modifizieren:</b></div><dl><dd>Ein Gen kodiert eine biologisch aktive RNA. Diese wird nicht zwangsläufig in ein (enzymatisch aktives) Polypeptid translatiert.</dd></dl>"
+                            ],
+                            "guid": "o]9X}P@Mo$",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO1",
+                                "Ron"
+                            ]
                         }
                     ]
                 },
@@ -34214,8 +34414,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "PhyVO2",
-                "TobiS2"
+                "MBVO1",
+                "Ron"
             ],
             "tmpls": [
                 {
@@ -34612,6 +34812,61 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "479efe42-9df1-11eb-90cf-00d861e4e2e9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Rückseite Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Lückentext",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "MBVO1",
+                "Ron"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Rückseite Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Lückentext",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         },
         {
             "__type__": "NoteModel",
