@@ -635,7 +635,7 @@
                         "paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg",
                         "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg"
                     ],
-                    "mid": 1618418953989,
+                    "mid": 1618228008798,
                     "name": "Einführung in die Mikrobiologie",
                     "notes": [
                         {
@@ -668,10 +668,7 @@
                             ],
                             "guid": "HC;kIMH7/k",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -690,10 +687,7 @@
                             ],
                             "guid": "EzzWGd?Dxr",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -712,10 +706,7 @@
                             ],
                             "guid": "ARWb<`LMbm",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -734,10 +725,7 @@
                             ],
                             "guid": "b=<dWQAiS{",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -756,10 +744,7 @@
                             ],
                             "guid": "mym;Y5FQJn",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -778,10 +763,7 @@
                             ],
                             "guid": "tYE^%nQ;jH",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -800,10 +782,7 @@
                             ],
                             "guid": "L;?#emXmx3",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -822,10 +801,7 @@
                             ],
                             "guid": "yn*h<P=M(a",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -844,10 +820,7 @@
                             ],
                             "guid": "mDycIH<JQ=",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -866,10 +839,7 @@
                             ],
                             "guid": "bW>X_)v`6j",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -888,10 +858,7 @@
                             ],
                             "guid": "Av&tYGwa+&",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -910,10 +877,7 @@
                             ],
                             "guid": "b9P2zTyUes",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -932,10 +896,7 @@
                             ],
                             "guid": "jb;5})!M@n",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -954,10 +915,7 @@
                             ],
                             "guid": "IiW|W+>(,,",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": [
-                                "MBVO1",
-                                "Ron"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -34414,8 +34372,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "MBVO1",
-                "Ron"
+                "PhyVO2",
+                "TobiS2"
             ],
             "tmpls": [
                 {
