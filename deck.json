@@ -342,7 +342,28 @@
                     "dyn": 0,
                     "extendNew": 10,
                     "extendRev": 50,
-                    "media_files": [],
+                    "media_files": [
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-1-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-1-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-2-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-2-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-3-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-3-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-4-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-4-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-5-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-5-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-6-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-6-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-7-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-7-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-8-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-8-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-9-A.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-9-Q.svg",
+                        "0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg",
+                        "tmpgabjxacj.png"
+                    ],
                     "mid": 1618159194681,
                     "name": "Einführung in die Genetik",
                     "notes": [
@@ -358,6 +379,216 @@
                                 "Präformation,",
                                 "Theorie"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wissenschaftlicher Name der Gartenerbse",
+                                "<i>Pisum sativum</i>"
+                            ],
+                            "guid": "wv[Iv6bS=S",
+                            "note_model_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Selbstbefruchtung (Pflanzen): Definition und Vorraussetzugen",
+                                "bei Pflanzen: Blüte wird von eigenen Pollen bestäubt<br>--&gt; brauchen männliche und weibliche Geschlechtsorgane (Andrözeum und Gynözeum)<br>"
+                            ],
+                            "guid": "dgq^`Wu2ok",
+                            "note_model_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pisum sativum: Eigenschaften",
+                                "- kleinwüchsig (30 cm - 1,8 m)<br>- kurze Generationsdauer (einjährig)<br>- Selbstbefruchtung"
+                            ],
+                            "guid": "pW,eQ6rH-K",
+                            "note_model_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-1",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-1-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "uY|smLlcfB",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-2",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-2-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "IHYrB+VL2)",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-3",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-3-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "sO~5ToZC+n",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-4",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-4-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "KC*VZ,y-t?",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-5",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-5-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "l%/`<T$iiE",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-6",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-6-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "bnLFYbAtN:",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-7",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-7-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "D6tr]W8<$)",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-8",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-8-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-8-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "eO~=z6B@*q",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "0b75cbde42dd416b9e10171f4cf8697b-ao-9",
+                                "",
+                                "<img src=\"tmpgabjxacj.png\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-9-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-9-A.svg\" />",
+                                "<img src=\"0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg\" />",
+                                ""
+                            ],
+                            "guid": "^&AWk:EtB",
+                            "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+                            "tags": []
                         }
                     ]
                 },
@@ -371,7 +602,14 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
-                        "Bakterien Formen.PNG"
+                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-A.svg",
+                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-Q.svg",
+                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-A.svg",
+                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-Q.svg",
+                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-A.svg",
+                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-Q.svg",
+                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg",
+                        "tmpy6w9n7vb.png"
                     ],
                     "mid": 1618228008798,
                     "name": "Einführung in die Mikrobiologie",
@@ -392,19 +630,57 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "MB1",
-                                "<font color=\"#ffaa00\"><b>Welche Formen weisen Bakterien auf?</b></font>",
+                                "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1",
+                                "",
+                                "<img src=\"tmpy6w9n7vb.png\" />",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-Q.svg\" />",
                                 "",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"Bakterien Formen.PNG\">",
                                 "",
-                                "",
-                                "",
-                                ""
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-A.svg\" />",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg\" />"
                             ],
-                            "guid": "n58el%z!Ie",
+                            "guid": "nhg&MbzKOp",
+                            "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2",
+                                "",
+                                "<img src=\"tmpy6w9n7vb.png\" />",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-A.svg\" />",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg\" />"
+                            ],
+                            "guid": "OJ9hdv1{-Y",
+                            "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3",
+                                "",
+                                "<img src=\"tmpy6w9n7vb.png\" />",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-A.svg\" />",
+                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg\" />"
+                            ],
+                            "guid": "I4{e=U>WXP",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
                             "tags": []
                         }
@@ -33532,12 +33808,12 @@
                 ],
                 "initialFactor": 2500,
                 "ints": [
-                    2,
-                    6,
+                    1,
+                    4,
                     0
                 ],
                 "order": 1,
-                "perDay": 100,
+                "perDay": 1000,
                 "separate": true
             },
             "newMix": 0,
@@ -33832,6 +34108,151 @@
                     "name": "Karte 1",
                     "ord": 0,
                     "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Hi",
+                    "ord": 11,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced-1ee65",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
             "type": 0,
@@ -34516,10 +34937,7 @@
                 ]
             ],
             "sortf": 1,
-            "tags": [
-                "MBVO1",
-                "Ron"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
@@ -34785,151 +35203,6 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "Image Occlusion Enhanced-ac250",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Header",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Image",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Footer",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Remarks",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Sources",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Hi",
-                    "ord": 11,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced-1ee65",
             "req": [
                 [
                     0,
