@@ -602,14 +602,12 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
-                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-A.svg",
-                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-Q.svg",
-                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-A.svg",
-                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-Q.svg",
-                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-A.svg",
-                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-Q.svg",
-                        "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg",
-                        "tmpy6w9n7vb.png"
+                        "0530312aa4f34c9faa99d30f12e35451-ao-1-A.svg",
+                        "0530312aa4f34c9faa99d30f12e35451-ao-1-Q.svg",
+                        "0530312aa4f34c9faa99d30f12e35451-ao-2-A.svg",
+                        "0530312aa4f34c9faa99d30f12e35451-ao-2-Q.svg",
+                        "0530312aa4f34c9faa99d30f12e35451-ao-O.svg",
+                        "Bakterien Formen.PNG"
                     ],
                     "mid": 1618228008798,
                     "name": "Einführung in die Mikrobiologie",
@@ -630,57 +628,38 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1",
+                                "0530312aa4f34c9faa99d30f12e35451-ao-1",
                                 "",
-                                "<img src=\"tmpy6w9n7vb.png\" />",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"Bakterien Formen.PNG\" />",
+                                "<img src=\"0530312aa4f34c9faa99d30f12e35451-ao-1-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-1-A.svg\" />",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"0530312aa4f34c9faa99d30f12e35451-ao-1-A.svg\" />",
+                                "<img src=\"0530312aa4f34c9faa99d30f12e35451-ao-O.svg\" />"
                             ],
-                            "guid": "nhg&MbzKOp",
+                            "guid": "mo{U7H7QUZ",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
                             "tags": []
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2",
+                                "0530312aa4f34c9faa99d30f12e35451-ao-2",
                                 "",
-                                "<img src=\"tmpy6w9n7vb.png\" />",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-Q.svg\" />",
-                                "",
-                                "",
+                                "<img src=\"Bakterien Formen.PNG\" />",
+                                "<img src=\"0530312aa4f34c9faa99d30f12e35451-ao-2-Q.svg\" />",
                                 "",
                                 "",
                                 "",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-2-A.svg\" />",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg\" />"
+                                "",
+                                "",
+                                "<img src=\"0530312aa4f34c9faa99d30f12e35451-ao-2-A.svg\" />",
+                                "<img src=\"0530312aa4f34c9faa99d30f12e35451-ao-O.svg\" />"
                             ],
-                            "guid": "OJ9hdv1{-Y",
-                            "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3",
-                                "",
-                                "<img src=\"tmpy6w9n7vb.png\" />",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-3-A.svg\" />",
-                                "<img src=\"8040ce9256b54b8bbdf3f9b4a3ff97c6-ao-O.svg\" />"
-                            ],
-                            "guid": "I4{e=U>WXP",
+                            "guid": "gupzG{bz/!",
                             "note_model_uuid": "dba3fd1a-9d69-11eb-9d26-00d861e4e2e9",
                             "tags": []
                         }
