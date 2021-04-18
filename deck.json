@@ -1300,6 +1300,12 @@
                         "0b75cbde42dd416b9e10171f4cf8697b-ao-9-A.svg",
                         "0b75cbde42dd416b9e10171f4cf8697b-ao-9-Q.svg",
                         "0b75cbde42dd416b9e10171f4cf8697b-ao-O.svg",
+                        "Screenshot 2021-04-18 154029.png",
+                        "Screenshot 2021-04-18 164040.png",
+                        "Screenshot 2021-04-18 164121.png",
+                        "Screenshot 2021-04-18 164300.png",
+                        "Screenshot 2021-04-18 164734.png",
+                        "Screenshot 2021-04-18 164906.png",
                         "tmpgabjxacj.png"
                     ],
                     "mid": 1618159194681,
@@ -1314,6 +1320,8 @@
                             "guid": "g0FWYZARKP",
                             "note_model_uuid": "73f38a9b-9ae8-11eb-8bdf-00d861e4e2e9",
                             "tags": [
+                                "GENVO1",
+                                "Luca",
                                 "Präformation,",
                                 "Theorie"
                             ]
@@ -1326,7 +1334,10 @@
                             ],
                             "guid": "wv[Iv6bS=S",
                             "note_model_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1336,7 +1347,10 @@
                             ],
                             "guid": "dgq^`Wu2ok",
                             "note_model_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1346,7 +1360,10 @@
                             ],
                             "guid": "pW,eQ6rH-K",
                             "note_model_uuid": "a52697f7-9b90-11eb-ba7d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1366,7 +1383,10 @@
                             ],
                             "guid": "uY|smLlcfB",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1386,7 +1406,10 @@
                             ],
                             "guid": "IHYrB+VL2)",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1406,7 +1429,10 @@
                             ],
                             "guid": "sO~5ToZC+n",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1426,7 +1452,10 @@
                             ],
                             "guid": "KC*VZ,y-t?",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1446,7 +1475,10 @@
                             ],
                             "guid": "l%/`<T$iiE",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1466,7 +1498,10 @@
                             ],
                             "guid": "bnLFYbAtN:",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1486,7 +1521,10 @@
                             ],
                             "guid": "D6tr]W8<$)",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1506,7 +1544,10 @@
                             ],
                             "guid": "eO~=z6B@*q",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1526,7 +1567,205 @@
                             ],
                             "guid": "^&AWk:EtB",
                             "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                            "tags": []
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pisum sativum: Von Mendel unterschiedenen reinerbigen Merkmale",
+                                "<img src=\"Screenshot 2021-04-18 154029.png\">"
+                            ],
+                            "guid": "Pq/`pG2WXC",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Monohybridkreuzung",
+                                "Kreuzung von Eltern mit <b>einem</b> unterschiedlichen Merkmal"
+                            ],
+                            "guid": "ogn?UJwjDS",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Reziproke Kreuzung",
+                                "Kreuzungen, bei denen das betreffende Erbgut des Vaters der Mutter, und Umgekehrt das Erbgut der Mutter dem Vater zugeordnet wird um eine geschlechtsgebundene Vererbung zu untersuchen. <br><br>Beispiel: Mendel's Austausch bei Pisum sativum des männlichen Erbguts (Pollen) beider Eltern, jeweils auf den anderen Partner (homozygote Parental Generation). <br>--&gt; Alle F1 zeigen selben Pänotyp unabhängig vom Geschlecht der Eltern"
+                            ],
+                            "guid": "s}x?U+9O)6",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erbfaktor",
+                                "Gen"
+                            ],
+                            "guid": "L*mq,xvflN",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Allel",
+                                "Zustandsform von Genen"
+                            ],
+                            "guid": "zt2s-3{|~y",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Reinerbig",
+                                "homozygot"
+                            ],
+                            "guid": "kYq^W|.Xi|",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mischerbig",
+                                "heterozygot"
+                            ],
+                            "guid": "pX>*xTtp^.",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mendel's 1. Regel",
+                                "Uniformitäts-/Reziprozitätsregel:<br><br>Individuen mit einem homozygoten jeweils unterschiedlichen Merkmal, die gekreuzt werden, sind uniform (sowohl im Geno- als auch im Phänotyp) und heterozygot.&nbsp;<br>Nur dominantes Merkmal sichtbar (gilt auch für reziproke Kreuzung).<br><br><font color=\"#ff0000\">!!! NICHT allgemein gültig !!!</font>"
+                            ],
+                            "guid": "t`#)9o_t[N",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mendel's 2. Regel",
+                                "Spaltungs-/Segregationsregel:<br>werden in einem Merkmal mischerbige Individuen gekreuzt, so sind deren Nachkommen nicht uniform, sondern Spalten sich im Phäno- als auch im Genotyp in einem bestimmten Verhältniss auf.<br><br>Bei monohybriden Kreuzungen:<br><br>phänotypisch: 3:1 (dominant : rezessiv)<br>genotypisch: 1:2:1 (homozygot dominant : heterozygot : homozygot rezessiv)<br><br><font color=\"#ff0000\">!!! NICHT allgemein gültig !!!</font>"
+                            ],
+                            "guid": "GGtqueze^W",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mendel's 3. Regel",
+                                "Unabhängigkeits-/Neukombinationsregel:<br><br>Werden zwei Individuen werden gekreuzt, die sich reinerbig in mehreren Merkmalen unterscheiden, werden die Merkmale jeweils unabhängig voneinander vererbt.<br><br><font color=\"#ff0000\">!!! NICHT allgemeingültig !!!</font>"
+                            ],
+                            "guid": "J`Xq|.-Dhf",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Punnett-Schema",
+                                "Zur Bestimmung der Häufigkeit von Genotypen<br><img src=\"Screenshot 2021-04-18 164040.png\"><br><img src=\"Screenshot 2021-04-18 164121.png\">"
+                            ],
+                            "guid": "ww37Lv*M1(",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann festgestellt werden ob Individuum homozygot der heterozygot?",
+                                "<img src=\"Screenshot 2021-04-18 164300.png\">"
+                            ],
+                            "guid": "JEX4;@wH=4",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dihybride Kreuzung",
+                                "Eltern unterscheiden sich in zwei Merkmalen reinerbig<br><br>--&gt; F1 uniform und genotypisch heterozygot"
+                            ],
+                            "guid": "w=TEzLe[S&",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beispiel Forked Line Prinzip an Dihybrid",
+                                "<img src=\"Screenshot 2021-04-18 164734.png\">"
+                            ],
+                            "guid": "BBJ0`G+I~r",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Daumenregel: Vererbung nach Mendel",
+                                "<img src=\"Screenshot 2021-04-18 164906.png\">"
+                            ],
+                            "guid": "xzeJZKUnus",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "GENVO1",
+                                "Luca"
+                            ]
                         }
                     ]
                 },
@@ -10252,6 +10491,226 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-1",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "N{Tq3dGj.U",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-2",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "LCIZB!ok(b",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-3",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "B]G/oq$h4#",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-4",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vd<bVkeI0]",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-5",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "HJz2IlKcG[",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-6",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "m>?J9>7,DK",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-7",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "BAEYHa=Ekg",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-8",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "puw.b2T|70",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-9",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "iuRJNX|E]#",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-10",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "GceNo2l8uE",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
                                         "Wie ist der Blutkreislauf von Lanzettfischchen aufgebaut?",
                                         "- kein Herz<div>- kontraktile ventrale Aorta pump lut nach anterior und über Kiemenarterien</div><div>- Leberpfortadersystem</div><div>- keine Erythrocyten, kein Hämoglobin</div><div><img src=\"paste-b53aa3f1d510f90bbf311881f00f8fb6f41d91b1.jpg\"><br></div>"
                                     ],
@@ -18578,226 +19037,6 @@
                                         "Evolution",
                                         "EvolutionsTheorie",
                                         "Synthetische"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-1",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "N{Tq3dGj.U",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-2",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "LCIZB!ok(b",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-3",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "B]G/oq$h4#",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-4",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "vd<bVkeI0]",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-5",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "HJz2IlKcG[",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-6",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "m>?J9>7,DK",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-7",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "BAEYHa=Ekg",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-8",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "puw.b2T|70",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-9",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "iuRJNX|E]#",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-10",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "GceNo2l8uE",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
                                     ]
                                 }
                             ]
@@ -29358,8 +29597,37 @@
                         "tmpvv85ujf3.png",
                         "tmpz3n_4qgy.png"
                     ],
+                    "mid": 1618423371330,
                     "name": "Biologie der Zelle",
                     "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
                         {
                             "__type__": "Note",
                             "fields": [
@@ -34816,34 +35084,6 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
                         }
                     ]
                 }
@@ -34932,63 +35172,6 @@
                     ],
                     "guid": "b#/ws/S:Sg",
                     "note_model_uuid": "5d800576-9ae8-11eb-b44e-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-1",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "FMSF#:7k?$",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-2",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "K:&1.>IUT#",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-3",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "w*JNYCzsFh",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
                     "tags": []
                 },
                 {
@@ -35094,6 +35277,63 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-1",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "FMSF#:7k?$",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-2",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "K:&1.>IUT#",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-3",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "w*JNYCzsFh",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Test Luca 2",
                         ""
                     ],
@@ -35167,6 +35407,7 @@
             "autoplay": true,
             "crowdanki_uuid": "898ffff0-9ae6-11eb-a2d6-309c2362050c",
             "dyn": false,
+            "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
                     10.0
@@ -35194,6 +35435,8 @@
                 "perDay": 1000,
                 "separate": true
             },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
             "replayq": true,
             "rev": {
                 "bury": false,
@@ -35205,6 +35448,7 @@
                 "minSpace": 1,
                 "perDay": 9999
             },
+            "reviewOrder": 0,
             "timer": 1
         },
         {
@@ -35477,7 +35721,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-70855",
             "req": [
                 [
                     0,
@@ -35526,7 +35770,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-2bbed",
             "req": [
                 [
                     0,
