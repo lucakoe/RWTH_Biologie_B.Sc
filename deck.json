@@ -1779,6 +1779,21 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-1-A.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-1-Q.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-2-A.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-2-Q.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-3-A.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-3-Q.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-4-A.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-4-Q.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-5-A.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-5-Q.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-6-A.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-6-Q.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-7-A.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-7-Q.svg",
+                        "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg",
                         "Bakterien Formen.PNG",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-1-A.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-1-Q.svg",
@@ -1809,10 +1824,17 @@
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-A.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-Q.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg",
+                        "paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg",
+                        "paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg",
+                        "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
+                        "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
                         "paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg",
-                        "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg"
+                        "paste-bcbc0a6c9f57590ffed2658b22d9f07d132ab715.jpg",
+                        "paste-ccd567c63520c1fc46288ca022f9fa993932063a.jpg",
+                        "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg",
+                        "tmplop7k095.png"
                     ],
-                    "mid": 1618228008798,
+                    "mid": 1618418953989,
                     "name": "Einführung in die Mikrobiologie",
                     "notes": [
                         {
@@ -2247,6 +2269,537 @@
                             "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
                             "tags": [
                                 "MBVO1",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Extremophilie</font></b>",
+                                "Als&nbsp;<b>extremophil</b>&nbsp;werden&nbsp;Organismen&nbsp;bezeichnet, die sich <font color=\"#ff0000\">extremen Umweltbedingungen</font> angepasst haben, die im Allgemeinen als lebensfeindlich betrachtet werden. Dabei handelt es sich meist um einzellige&nbsp;Mikroorganismen. <br><br>Beispiele dieser Lebensräume sind Black Smokers, Wüsten, Antarktis, Vulkanseen<br><br><br>Nicht-extremophile Organismen bezeichnet man als&nbsp;Mesophile."
+                            ],
+                            "guid": "kx/)_)hz:!",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie viele Mikroorganismen befinden sich im menschlichen Körper</b></font>",
+                                "Tatsächlich fast gleich viele Mikroben wie menschliche Zellen"
+                            ],
+                            "guid": "Qa+X*-04)^",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>In wie vielen Tagen würde sich die Masse der Erde aus E. coli bei unbegrenzter Teilung bilden?</b></font>",
+                                "Gewicht der Erde:\n6.000.000.000.000.000.000.000.000.000 g\nGewicht eines E. coli:\n<br>0,000 000 000 002 g<br>Escherichia coli teilt sich unter idealen Bedingungen alle 20 Minuten.<br>Es reichen <font color=\"#ff0000\">weniger als 2 Tage</font>"
+                            ],
+                            "guid": "H(b_%ZJsUQ",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Mikrobe des Jahres 2018</b></font>",
+                                "Lactobacillus"
+                            ],
+                            "guid": "r]B_kF}3?f",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie groß ist die Auflösung des menschlichen Auges?</b></font>",
+                                "ca. 150 µm"
+                            ],
+                            "guid": "mFjuU!/p%2",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Wann sind Objekte durch Elektromagnetische Strahlung sichtbar?</font></b>",
+                                "− Kontrast vorhanden\n<br>− Wellenlänge kleiner als Objekt\n<br>− Detektor hat Auflösung für die gegebene\nWellenlänge"
+                            ],
+                            "guid": "D]^|MPD_Uh",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne die 4 Wechselwirkungen zwischen Licht und Objekt</b></font>",
+                                "Absorption<br>Reflexion<br>Brechung<br>Streuung"
+                            ],
+                            "guid": "w4QSNV(Xft",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Definiere Lichtbrechung</b></font>",
+                                "Die Wellenfront wird in Glas verlangsamt, was eine Richtungsänderung verursacht."
+                            ],
+                            "guid": "wL83pLN~0I",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Erkläre den Unterschied zwischen konstruktiver und destruktiver Interferenz.<br>Wie beeinflusst dies die Auflösung der Lichtmikroskopie?</b></font>",
+                                "Konstruktiv: 2 Wellenfunktionen werden <font color=\"#ff0000\">addiert</font> (das gesehene wird heller)<br>Destruktiv: 2 Wellenfunktionen werden <font color=\"#ff0000\">subtrahiert</font> (das gesehene wird dunkler)<br><br>Je mehr vergrößert wird, umso mehr <font color=\"#ff0000\">überlagernde Interferenzen</font> existieren und umso schlechter wird das Bild (Konturen und Schattierung am Arsch)"
+                            ],
+                            "guid": "n))el/ORdN",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welcher Winkel (des Lichtkegels bei Lichtmikroskopie) würde in Theorie die höchste Auflösung erzeugen und warum?</b></font>",
+                                "90° (aber nur Theoretisch denn wenn präparat und linse sich berühren ists ungünstig)<br><br>Der Winkel wird durch Krümmung und Brechungsindex der Linse bestimmt.<br>Je breiter der Kegel, desto geringer die Randinterferenzeffekte."
+                            ],
+                            "guid": "BG>Acyb%y@",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wozu werden Immersionsöle verwendet?</b></font>",
+                                "Sie Unterbinden die Lichtbrechung an der Luft, indem sie den gleichen Brechungsindex wie das Linsenglas aufweisen.<br><br>(verharzte Objektive sind mist also abputzen bitte)<br><br>Sie enthalten Aromaten die sich in hoher Dichte stapeln können z.B. Benzylbenzoat"
+                            ],
+                            "guid": "g7N$.R/9R5",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-1",
+                                "",
+                                "<img src=\"tmplop7k095.png\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-1-A.svg\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg\" />"
+                            ],
+                            "guid": "b!%(E};5cY",
+                            "note_model_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-2",
+                                "",
+                                "<img src=\"tmplop7k095.png\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-2-A.svg\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg\" />"
+                            ],
+                            "guid": "J&G@!}/a]A",
+                            "note_model_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-3",
+                                "",
+                                "<img src=\"tmplop7k095.png\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-3-A.svg\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg\" />"
+                            ],
+                            "guid": "Dxm;^f%<@E",
+                            "note_model_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-4",
+                                "",
+                                "<img src=\"tmplop7k095.png\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-4-A.svg\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg\" />"
+                            ],
+                            "guid": "wAGb08{.b$",
+                            "note_model_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-5",
+                                "",
+                                "<img src=\"tmplop7k095.png\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-5-A.svg\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg\" />"
+                            ],
+                            "guid": "jXBl{)n(^$",
+                            "note_model_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-6",
+                                "",
+                                "<img src=\"tmplop7k095.png\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-6-A.svg\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg\" />"
+                            ],
+                            "guid": "k.au94;O@Z",
+                            "note_model_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5871ea6ab0f24bf0aaf710cd497e5c4a-ao-7",
+                                "",
+                                "<img src=\"tmplop7k095.png\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-7-A.svg\" />",
+                                "<img src=\"5871ea6ab0f24bf0aaf710cd497e5c4a-ao-O.svg\" />"
+                            ],
+                            "guid": "k{_xFxCA?a",
+                            "note_model_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Fehlerquellen bei der Lichtmikroskopie existieren am Objekt?</b></font>",
+                                "Objekt zu nah an Linse (verschwommen)<br>Objekt hinterm Brennpunkt (Bild erscheint leer)<br>Objekt erstrekt sich senkrecht zur Brennebene"
+                            ],
+                            "guid": "s0mwtut2xf",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne zwei Mikrobiologische Kontrastfärbemittel</b></font>",
+                                "Methylenblau und Kristallviolett"
+                            ],
+                            "guid": "sjmkHq4,Gi",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Wie läuft eine Einfachfärbung ab?</font></b>",
+                                "Suspension auf Objektträger<br>Lufttrocknen<br>Mit Methanol fixieren<br>Lufttrocknen<br>Färben<br>Abwaschen&nbsp;<br>Wasser abtupfen"
+                            ],
+                            "guid": "h$_1]PHycQ",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Durchführung einer Gramfärbung</font></b>",
+                                "<img src=\"paste-ccd567c63520c1fc46288ca022f9fa993932063a.jpg\">"
+                            ],
+                            "guid": "L~Z|lT|RKK",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne 3 Fluoreszenz Farbstoffe</b></font>",
+                                "Fluoresceinisothiocyanat (FITC)<br>Acridinorange (AO)<br>4,6-Diamin-2-phenylindol (DAPI)"
+                            ],
+                            "guid": "A:KouNe2f}",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Wie funktioniert Fluoreszenzmikroskopie?</font></b>",
+                                "<img src=\"paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg\">"
+                            ],
+                            "guid": "rt*];n8v,T",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Vorteile der Fluoreszenzmikroskopie</b></font>",
+                                "Keine Verwechslung mit Schmutz<br>Gezielte Färbung durch markierte Antikörper &amp; chemische Affinität möglich, z.B. Acridin färbt Nukleinsäuren<br>Es kann DNA Hybridisierung sichtbar gemacht werden.<br>"
+                            ],
+                            "guid": "zQu2-==Lnh",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert Elektronenmikroskopie?</b></font>",
+                                "<img src=\"paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg\">"
+                            ],
+                            "guid": "F@y>#CEB$J",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wodurch wird die elektronenmikroskopische Auflösung limitiert?</b></font>",
+                                "Qualität der Linsen"
+                            ],
+                            "guid": "A~GbfPZ1k4",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne den Lateinischen Namen der Bäckerhefe</font></b>",
+                                "<span style=\"font-weight: 600;\">Saccharomyces cerevisiae</span>"
+                            ],
+                            "guid": "pUa:]ObWix",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert Rasterkraftmikroskopie? (RKM)</b></font>",
+                                "<img src=\"paste-bcbc0a6c9f57590ffed2658b22d9f07d132ab715.jpg\">"
+                            ],
+                            "guid": "gqT6?~?>U]",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist ein Cantilever?</font></b>",
+                                "Die RKM Messspitze welche am Spiegel angebracht ist und die bewegte Probe abtastet."
+                            ],
+                            "guid": "H{`ypoD{LO",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe eine Zählkammer (wofür wird sie genutzt?)</b></font>",
+                                "<img src=\"paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg\">"
+                            ],
+                            "guid": "w3&T,~nltP",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist ein Coulter Counter?</b></font>",
+                                "Eine Maschine für automatisierte Zellzählung. <br>Sie besitzt zwei Elektrodenräume und einen Übergang.<br>Befindet sich eine Zelle im Übergang, so wird ein Widerstand gemessen. Anhand von dessen Größe lässt sich zusätzlich die Größe der Zelle bestimmen)<br><br>Bei Zellverbänden wie Streptokokken ungeeignet"
+                            ],
+                            "guid": "h,aiy:55dk",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wofür steht FACS?</b></font>",
+                                "<img src=\"paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg\">"
+                            ],
+                            "guid": "o(UZg06tm]",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie bestimmt man die Anzahl lebender Zellen?</b></font>",
+                                "Zellsuspension verdünnen<br>Ausplattieren<br><font color=\"#ff0000\">Colony forming Units (KFE)</font> zählen<br>→ mit Verdünnungsfaktor verrechnen und Zellkonzentration in z.B. Zellen/ml angeben<br><br><u>Wichtig hierbei:</u><br>Nicht alle wachsen<br>manche liegen zusammen beim wachsen&nbsp;<br>"
+                            ],
+                            "guid": "Hz2$Z*f0Rk",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wofür steht CDW?</b></font>",
+                                "Cell Dry Weight, Zelltrockengewicht. Eine Messung der Biomassekonzentration"
+                            ],
+                            "guid": "jCoxxWDzRe",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was muss bei Optischer Dichte beachtet werden?</b></font>",
+                                "Die richtige Wellenlänge wählen<br>Verdünnen ist wichtig<br>Immer das gleiche Spektrometer nehmen<br>Korrelation zu CDW u.o. Zellzahl bestimmen"
+                            ],
+                            "guid": "QKSlyBCc|<",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "MBVO2",
                                 "Ron"
                             ]
                         }
@@ -35605,8 +36158,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "OCVO2",
-                "TobiS2"
+                "MBVO2",
+                "Ron"
             ],
             "tmpls": [
                 {
@@ -36235,6 +36788,129 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3359847f-a2f0-11eb-a56b-485d60ce8c0d",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         },
         {
             "__type__": "NoteModel",
