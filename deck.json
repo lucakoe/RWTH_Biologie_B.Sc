@@ -1268,8 +1268,36 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [],
+                    "mid": 1615896418982,
                     "name": "Bau der Organismen II (Pflanzen)",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Funktionen machen die Pflanzen für uns (überlebens-)wichtig?",
+                                "- Pflanzen produzieren den größten Teil des Sauerstoffs<br><br>-Pflanzen produzieren den größten Teil an chemisch gebundener Energie<br>--&gt; Bsp. Treibstoff aus Pflanzen<br><br>- Ohne Pflanzen keine Tiere<br><br>-Pflanzen stellen große Mengen an hilfreichen und vielfältigen chemischen Substanzen her&nbsp;<br>--&gt; Gewürze, Baumwolle,....."
+                            ],
+                            "guid": "dBp6CGGD~k",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Organellen/Strukturen findet man in pflanzlichen aber nicht in tierischen Zellen?",
+                                "- Chloroplasten<br>- große Vakuole<br>- Zellwand"
+                            ],
+                            "guid": "s+itQb1|Sz",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
@@ -1834,7 +1862,7 @@
                         "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg",
                         "tmplop7k095.png"
                     ],
-                    "mid": 1618228008798,
+                    "mid": 1618473573674,
                     "name": "Einführung in die Mikrobiologie",
                     "notes": [
                         {
@@ -30156,34 +30184,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -31940,18 +31940,6 @@
                                 "Cytosol: Zellflüssigkeit (Wasser und gelöste Proteine, Salze, Zucker)<br><br>Cytoplasma: Cytosol+Organellen+Inklusionen (große unlösliche Partikel<br><br>Protoplasma: Cytoplasma+Nukleus<br><br>Nukleoplasma: Flüssigkeit im Nukleus<img src=\"paste-cfeb66aa5251e16cc250fbf1aae977e351b74078.jpg\">"
                             ],
                             "guid": "i;e|W+pI(}",
-                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
-                            "tags": [
-                                "BdZVO9"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Zwei Methoden zur Zellfraktionierung<br>",
-                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
-                            ],
-                            "guid": "v[nl_[.}(W",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": [
                                 "BdZVO9"
@@ -35637,6 +35625,46 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zwei Methoden zur Zellfraktionierung<br>",
+                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
+                            ],
+                            "guid": "v[nl_[.}(W",
+                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
+                            "tags": [
+                                "BdZVO9"
+                            ]
                         }
                     ]
                 }
@@ -36146,7 +36174,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-1be77",
             "req": [
                 [
                     0,
@@ -36353,6 +36381,61 @@
             ],
             "type": 1,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "BdOIIVO1",
+                "Vince"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
         },
         {
             "__type__": "NoteModel",
@@ -36886,7 +36969,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-5de96",
             "req": [
                 [
                     0,
