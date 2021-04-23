@@ -1268,6 +1268,34 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
+                        "2c1384acd517453aa17cde46a7432055-ao-1-A.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-1-Q.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-2-A.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-2-Q.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-3-A.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-3-Q.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-4-A.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-4-Q.svg",
+                        "2c1384acd517453aa17cde46a7432055-ao-O.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-1-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-1-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-2-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-2-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-3-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-3-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-4-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-4-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-5-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-5-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-6-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-6-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-7-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-7-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-8-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-8-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-9-A.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-9-Q.svg",
+                        "4b6a02830a65437287f6f982ce43d58b-ao-O.svg",
                         "838f61c317af47b1b48b5bf772f96aaf-ao-1-A.svg",
                         "838f61c317af47b1b48b5bf772f96aaf-ao-1-Q.svg",
                         "838f61c317af47b1b48b5bf772f96aaf-ao-2-A.svg",
@@ -1285,7 +1313,57 @@
                         "838f61c317af47b1b48b5bf772f96aaf-ao-8-A.svg",
                         "838f61c317af47b1b48b5bf772f96aaf-ao-8-Q.svg",
                         "838f61c317af47b1b48b5bf772f96aaf-ao-O.svg",
-                        "tmp2ko1q35y.png"
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-1-A.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-1-Q.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-2-A.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-2-Q.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-3-A.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-3-Q.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-4-A.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-4-Q.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-5-A.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-5-Q.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-6-A.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-6-Q.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-7-A.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-7-Q.svg",
+                        "9450f66b0d0c45bb82276a934510e7ee-ao-O.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-1-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-1-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-10-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-10-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-11-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-11-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-12-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-12-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-13-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-13-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-2-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-2-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-3-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-3-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-4-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-4-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-5-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-5-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-6-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-6-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-7-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-7-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-8-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-8-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-9-A.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-9-Q.svg",
+                        "d9d7e32da0764134a6857e8d8a10699f-ao-O.svg",
+                        "paste-08d6107aa90b8acaff39ad7f7a54f55982eb03e6.jpg",
+                        "paste-706bd658e805dd5d3a8e9ce69a25d0036f642627.jpg",
+                        "paste-c2a0ffada922e993220381cc4fecaea099489f66.jpg",
+                        "paste-efb21ba6bd46add8249eed2245bac348056edaa5.jpg",
+                        "tmp2ko1q35y.png",
+                        "tmp785rbfzs.png",
+                        "tmpbos8hwa5.png",
+                        "tmpdc2tpk9o.png",
+                        "tmplyxwvflx.png"
                     ],
                     "mid": 1615896418982,
                     "name": "Bau der Organismen II (Pflanzen)",
@@ -1541,6 +1619,992 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche zwei Arten von Vakuolen gibt es? Und kommen beide in einer Zelle vor?&nbsp;",
+                                "1)<br>- Lytische Vakuole<br>- Proteinspeichervakuole<br><br>2)&nbsp;<br>Nein. Entweder die eine oder andere Form. Sie können aber ineinander umgewandelt werden<br>"
+                            ],
+                            "guid": "i@>+Y|%ek$",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Funktionen besitzt die große Vakuole?",
+                                "- Reservoir für Wasser, Ionen, Pigmente und Metaboliten (Zwischenprodukte des Metabolismus)<br><br>- Erhalt des Turgordrucks<br><br>-Detoxifikation (Speicherung und Abbau von Herbiziden und Fungiziden)<br>"
+                            ],
+                            "guid": "EP>Vi)yz(]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie entsteht der Turgordruck ,auch turgidity genannt(= Geschwollenheit)?",
+                                "Durch Einstrom von Wasser in die Große Vakuole.<br><br>In der Vakuole herrscht eine höhere Konzentration an gelösten Stoffen im Vergleich zum Cytoplasma, was dazu führt, dass Wasser durch <font color=\"#ff0000\">Osmose </font>in die Vakuole einströmt.<br><br>Das Cytoplasma wiederum ist hypotonisch im Vergleich zur Zellwand, sodass Wasser aus der Zellwand in die Zelle einströmt.<br><br>Der Turgor drückt nun gegen die Zellwand und vermittelt so Stabilität/Steifigkeit<br><br><img src=\"paste-706bd658e805dd5d3a8e9ce69a25d0036f642627.jpg\"><br>"
+                            ],
+                            "guid": "MPIUy,&?K.",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Funktion besitzt zusätzlich die proteinspeichernde Vakuole?",
+                                "Während Samen sich entwickeln und reifen, sind sog. \"Seed storage proteins\" in die Vakuole eingelagert."
+                            ],
+                            "guid": "h+V9HeI63w",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wieso erscheinen Pflanzen in vielen unterschiedlichen und bunten Farben?",
+                                "Weil in die große Vakuole Pigmente eingelagert sein können.<br><br>Bsp. rote Zwiebel:<br><br>Hier ist Anthocyanin in die Vakuolen eingelagert"
+                            ],
+                            "guid": "nS)B>Cm^=l",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie können sich Pflanzen gegen Fraßfeinde wehren?",
+                                "Bsp. Senfölbombe<br><br>- In der großen Vakuole liegen sog. \"Defence compounds\" vor.&nbsp;<br><br>- Wird das Gewebe beschädigt und dabei die große Vakuole zerstört, tritt die Senfölbombe mit Enzymen in Kontakt, die eine chemische Reaktion einleiten.<br><br>- Am Ende dieser Reaktion entsteht ein hoch giftiger Stoff, das Isothiocyanat. Das Freiwerden dieses Stoffes hält Fraßfeinde ab.&nbsp;"
+                            ],
+                            "guid": "n*i/d*@pKT",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie beugen große Vakuolen der Vergiftung durch Schwermetalle vor?",
+                                "Schwermealle (z.B. Cadmium) sind im Cytosol einer Zelle giftig. Zum Schutz werden die Cadmiumionen durch ATP-Verbrauch in die große Vakuole transportiert, wo diese durch Einbindung in ungiftige Substrate unschädlich gemacht werden."
+                            ],
+                            "guid": "nB0L}0DG_F",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die die kontraktile Vakuole, wo ist sie zu finden und wozu ist sie gut?",
+                                "1) spezielle Vakuole<br><br>2) in einzelligen Algen und einigen Protisten ( Paramecium) und meist in Spezies, die in Süßwasser leben<br><br>3) Wichtig für die <font color=\"#aa0000\">Osmoregulation</font><br>--&gt; Pumpt Wasser aus der Zelle,&nbsp;<br>da Wasser durch die hohe Konz. an gelösten Stoffen in der Zelle einströmt ( siehe Süßwasser)<br><br>"
+                            ],
+                            "guid": "okE=*M~Itk",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der cytoplasmatische Strom, wozu ist dieser gut und wovon hängt er ab?",
+                                "1)&nbsp;<br>-Strom von Cytosol und Organellen in Pflanzen- und Pilzzellen um die große Vakuole herum<br>- durch Aktinfilamente und Myosinmotorproteine unter ATP-Verbrauch geleitet<br><br>2) Hilft bei Transport von Organellen, Nährstoffen, genetischer Information und weiteren Materialien<br><br>3) hängt startk vom intrazellulären pH-Wert und der Temperatur ab"
+                            ],
+                            "guid": "Ez*PDq8KX_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-1",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-1-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "iLEIj<)~@k",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-2",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-2-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "Ep^:di@Klk",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-3",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-3-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "OI*AL}%Vfx",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-4",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-4-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "iND6BPAf@,",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-5",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-5-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "Lx72/D1PSk",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-6",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-6-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "b/MD&ZLibg",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-7",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-7-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "cfg>7=X3T=",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-8",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-8-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-8-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "*j!]28ZV?",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-9",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-9-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-9-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "l6>ctmv2?[",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-10",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-10-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-10-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "EJRvOF=9p_",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-11",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-11-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-11-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "JUp#^qfjg;",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-12",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-12-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-12-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "I@#!n*vdp~",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d9d7e32da0764134a6857e8d8a10699f-ao-13",
+                                "",
+                                "<img src=\"tmplyxwvflx.png\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-13-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-13-A.svg\" />",
+                                "<img src=\"d9d7e32da0764134a6857e8d8a10699f-ao-O.svg\" />"
+                            ],
+                            "guid": "oA{E2$wunI",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die primäre Zellwand?",
+                                "- dünne, flexible und ausdehnbare Schicht, die während des Zellwachstuns gebildet wird<br>"
+                            ],
+                            "guid": "rD,;=2A_h=",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9450f66b0d0c45bb82276a934510e7ee-ao-1",
+                                "",
+                                "<img src=\"tmpdc2tpk9o.png\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-1-A.svg\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-O.svg\" />"
+                            ],
+                            "guid": "CUNH+`$Xqg",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9450f66b0d0c45bb82276a934510e7ee-ao-2",
+                                "",
+                                "<img src=\"tmpdc2tpk9o.png\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-2-A.svg\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-O.svg\" />"
+                            ],
+                            "guid": "BG{lVK!fS+",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9450f66b0d0c45bb82276a934510e7ee-ao-3",
+                                "",
+                                "<img src=\"tmpdc2tpk9o.png\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-3-A.svg\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-O.svg\" />"
+                            ],
+                            "guid": "D&}XC*U-FP",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9450f66b0d0c45bb82276a934510e7ee-ao-4",
+                                "",
+                                "<img src=\"tmpdc2tpk9o.png\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-4-A.svg\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-O.svg\" />"
+                            ],
+                            "guid": "I~HFq~_Jof",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9450f66b0d0c45bb82276a934510e7ee-ao-5",
+                                "",
+                                "<img src=\"tmpdc2tpk9o.png\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-5-A.svg\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-O.svg\" />"
+                            ],
+                            "guid": "MvXI-F4I`!",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9450f66b0d0c45bb82276a934510e7ee-ao-6",
+                                "",
+                                "<img src=\"tmpdc2tpk9o.png\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-6-A.svg\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-O.svg\" />"
+                            ],
+                            "guid": "xKK%KHx*d%",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9450f66b0d0c45bb82276a934510e7ee-ao-7",
+                                "",
+                                "<img src=\"tmpdc2tpk9o.png\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-7-A.svg\" />",
+                                "<img src=\"9450f66b0d0c45bb82276a934510e7ee-ao-O.svg\" />"
+                            ],
+                            "guid": "F<Dy-.f`)_",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die sekundäre Zellwand?",
+                                "- dicke Schicht, die in der Primärzellwand gebildet wird, nachdem das Zellwachstum abgeschlossen ist.<br><br>(die sek. Zellwand ist nicht in allen Zelltypen zu finden)"
+                            ],
+                            "guid": "pFeUm7DwJ+",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Plasmodesmata, was ist ihre Funktion und wie viele gibt es ca. in einer Zelle?",
+                                "1) Kanäle, die das Cytoplasma zweier Zellen direkt miteinander verbinden<br>--&gt; <font color=\"#aa0000\">\"lebende Brücken\"</font><br><br>2) ähnlich zu Gap junctions der Tierzellen:<br>- Plasmodesmata erlauben den Fluss von Molekülen von einer Zelle in die andere<br>--&gt; durch Regulation der Kanäle, kann der Transport von kleinen Molekülen ermöglicht werden (z.B. Zucker, Salze, Aminosäuren)<br>- Durch das verbundene Cytoplasma kann man Pflanzenzellen als Syncytium bezeichen (multinucleare Masse mit verbundenem Cytoplasma)<br><br>3) zwischen 10<sup>3</sup>&nbsp;und 10<sup>5</sup>&nbsp;Plasmodesmata pro Zelle<sup>&nbsp;</sup>"
+                            ],
+                            "guid": "dXCfgpOR.p",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Strukturen findet man&nbsp;<br>&nbsp;in den Plasmodesmata?",
+                                "Plasmodesmata sind von sog. Desmotubuli, welche dem ER beider Zellen enstpringen, durchzogen.<br><br>Desmotubuli füllen die Plasmodesmata nicht vollständig aus, sodass Plasmodesmata im Querschnitt als Ringe erscheinen&nbsp;"
+                            ],
+                            "guid": "LIy<)1G%6~",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2c1384acd517453aa17cde46a7432055-ao-1",
+                                "",
+                                "<img src=\"tmpbos8hwa5.png\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-1-A.svg\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-O.svg\" />"
+                            ],
+                            "guid": "uj-jDuRzG#",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2c1384acd517453aa17cde46a7432055-ao-2",
+                                "",
+                                "<img src=\"tmpbos8hwa5.png\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-2-A.svg\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-O.svg\" />"
+                            ],
+                            "guid": "el&g=!LLH7",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2c1384acd517453aa17cde46a7432055-ao-3",
+                                "",
+                                "<img src=\"tmpbos8hwa5.png\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-3-A.svg\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-O.svg\" />"
+                            ],
+                            "guid": "s!d_^Sg2R;",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2c1384acd517453aa17cde46a7432055-ao-4",
+                                "",
+                                "<img src=\"tmpbos8hwa5.png\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-4-A.svg\" />",
+                                "<img src=\"2c1384acd517453aa17cde46a7432055-ao-O.svg\" />"
+                            ],
+                            "guid": "ISOyg(`$~o",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aus welcher Struktur besteht die Zellwand und was vermitteln ihre einzelnen&nbsp;Bestandteile.&nbsp;",
+                                "Die Zellwand ist ein komplexes System aus extrazellulärer Matrix, welche jede Zelle umschließt.<br><br>Die ECM basiert wie auch bei den tierischen Zellen auf mehreren Komponenten.&nbsp;<br>1) die Faserkomponente vermittelt Zugfestigkeit und ist in die<br>2) Matrixkomponente, welche Druckfestigkeit vermittelt, eingebettet."
+                            ],
+                            "guid": "GFV8Xx^,l8",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Unterschiede der pflanzlichen Zellwand im Vergleich zu der ECM von tierischen Zellen?",
+                                "die Zellwand ist dicker, stärker und starrer als die ECM der tierischen Zellen"
+                            ],
+                            "guid": "JCqV>4/}tO",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-1",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-1-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "l-k;dPaaKQ",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-2",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-2-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "Pr-[tBy&iC",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-3",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-3-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "tnACVfB|Ox",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-4",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-4-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "iW!j6M?0wk",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-5",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-5-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "lQ~jT`wEJ3",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-6",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-6-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "hgiebJ|Z]T",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-7",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-7-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "mVp^W?PA[-",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-8",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-8-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-8-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "Kv8p+W6F~7",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4b6a02830a65437287f6f982ce43d58b-ao-9",
+                                "",
+                                "<img src=\"tmp785rbfzs.png\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-9-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-9-A.svg\" />",
+                                "<img src=\"4b6a02830a65437287f6f982ce43d58b-ao-O.svg\" />"
+                            ],
+                            "guid": "P9:>7Ya>C3",
+                            "note_model_uuid": "8542967e-a3fd-11eb-b1b4-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Hauptbestandteile der Zellwand und warum?",
+                                "1) Cellulose und Lignin<br>2) Sie enthalten keinen Stickstoff (anders als die Proteine der ECM in tierischen Zellen)<br><br>--&gt; Grund ist die Bioverfügbarkeit von Stickstoff&nbsp;<br><br>--&gt; Pflanzen haben Zugriff auf wenig Stickstoff ( limitierender Wachstumsfaktor), daher ist es vorteilhaft, Zellbausteine ohne Stickstoff zu verwenden<br><br>siehe auch: <br>Liebig´s barrel<br><img src=\"paste-efb21ba6bd46add8249eed2245bac348056edaa5.jpg\">"
+                            ],
+                            "guid": "}.K)tdI[E",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erkläre grob, wie Zellulose in der Zellwand verbaut ist und wie häufig es auf der Erde vorkommt.",
+                                "1) Zellulose ist ein Netzwerk von kreuzvernetzenden Glykanen eingebaut<br><br>2) Zellulose ist das häufigste Biopolymer auf der Erde"
+                            ],
+                            "guid": "PWz|t+k_V0",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie spielt der Turgordruck beim Pflanzenwachstum mit?",
+                                "-der Turgordruck erhöht sich, bis ein osmotisches Gleichgewicht entstanden ist<br><br>Pflanzenwachstum:<br><br>I) Zellwand lockert sich<br>II) Turgordruck steigt, Zelle dehnt sich aus<br>III) Zellwand erstarrt<br><br>--&gt; Nettowachstum<br>"
+                            ],
+                            "guid": "c)|wU@}O{t",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO1",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Konsequenzen von Wassermangel für Pflanzen?",
+                                "Der Turgordruck kann nicht aufrecht erhalten werden, die Stabilität geht verloren, die Pflanze welkt<img src=\"paste-c2a0ffada922e993220381cc4fecaea099489f66.jpg\"><img src=\"paste-08d6107aa90b8acaff39ad7f7a54f55982eb03e6.jpg\">"
+                            ],
+                            "guid": "P<zPjQ<db#",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erkläre, was bei der Plasmolyse passiert. Wie kann der Prozess rückgängig gemacht werden?<br>",
+                                "1) Auftragen von Wassertropfen mit hoher Ionenkonzentration auf pflanzliche Zellen<br><br>2) Osmose: Wasser strömt aus der Zelle heraus, um die Konzentration auszugleichen<br><br>3) Das Cytoplasma schrumpft, bleibt aber über \"Hechtie Stränge\" mit der Zellwand (welche ihre Struktur behalten hat) verbunden<br><br>4) Replasmolyse: Hinzugabe von (destilliertem) Wasser<br>--&gt; Cytoplasma schwillt an und verdrängt die Hechtien Stränge"
+                            ],
+                            "guid": "C1@=h?]pP@",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO",
                                 "Vince"
                             ]
                         }
@@ -36666,7 +37730,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "BdOIIVO1",
+                "BdOIIVO",
                 "Vince"
             ],
             "tmpls": [
