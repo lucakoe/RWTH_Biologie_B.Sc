@@ -86,7 +86,10 @@
                             "extendRev": 0,
                             "media_files": [
                                 "paste-493b0181ace9d748288afb42c77e8b60779b73ab.jpg",
-                                "paste-b9ea2f94ad15d72432df3c50824d22e08809f3cb.jpg"
+                                "paste-543abaaeefc02f0aac7dd3eb43081769ce50651e.jpg",
+                                "paste-97f54c71bbf371bc7b6a5658e1beea20d592acdc.jpg",
+                                "paste-b9ea2f94ad15d72432df3c50824d22e08809f3cb.jpg",
+                                "paste-d6950d2b434a015cec1225aaa475ea9605aa9e03.jpg"
                             ],
                             "name": "Übung Allgemeine Organische Chemie SS21",
                             "notes": [
@@ -120,7 +123,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Stellen Sie die Reaktionsgleichung für die Verbrennung von Propan und von Cyclopropan mit Luftsauerstoff auf",
-                                        "Lösung folgt"
+                                        "<img src=\"paste-d6950d2b434a015cec1225aaa475ea9605aa9e03.jpg\">"
                                     ],
                                     "guid": "B)q?ZXBqe6",
                                     "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
@@ -132,13 +135,39 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Formulieren Sie den Reaktionsmechanismus der Monobromierung von Ehtan mit molekularem Brom",
-                                        "Lösung folgt"
+                                        "Formulieren Sie den Reaktionsmechanismus der Monobromierung von Ethan mit molekularem Brom",
+                                        "<img src=\"paste-543abaaeefc02f0aac7dd3eb43081769ce50651e.jpg\">"
                                     ],
                                     "guid": "h791{Z/1cd",
                                     "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
                                     "tags": [
                                         "OCVO3",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Markieren Sie alle Stereozentren und bezeichnen Siee sie nach R und S<div><img src=\"paste-97f54c71bbf371bc7b6a5658e1beea20d592acdc.jpg\"><br></div>",
+                                        "<i>Lösung folgt</i>"
+                                    ],
+                                    "guid": "sQgPs)*H9{",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO4",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<span style=\"font-weight: bold;\">Geben\nSie alle </span><span style=\"font-weight: bold;\">Dimethylcyclopentane</span><span style=\"font-weight: bold;\"> an\nund benennen Sie sie&nbsp;</span>(Auch diesmal Enantiomere Verbindungen)",
+                                        "<i>Lösung folgt</i>"
+                                    ],
+                                    "guid": "D_!4Bc,&^v",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO4",
                                         "TobiS2"
                                     ]
                                 }
@@ -235,7 +264,9 @@
                         "paste-02c6060f9f63d15aa0cb5eeabad143b8a369ad9a.jpg",
                         "paste-042e55c6e903be250eb8762254ee3964bbcbfab5.jpg",
                         "paste-05f399910d7e862ef244a9863532ee0fc0e5a6ec.jpg",
+                        "paste-0612af670038840f1227fc5e90521398e2b16eba.jpg",
                         "paste-086e3a4b5ad61e62ac50ae0fa25f91c8e6bb21d2.jpg",
+                        "paste-0e95d2352a3e3f0900e33b53a602b63700be6eac.jpg",
                         "paste-0eb0242d46cfe0a0f205f43c9643f460bf9c78fa.jpg",
                         "paste-195a15703d22d33a74c30888fe8ca37ffb902289.jpg",
                         "paste-1a9828affa0170b2230c94feed29ca6d2e757b5d.jpg",
@@ -243,20 +274,24 @@
                         "paste-1b7ea1209909652cf81ce609f02bc46e7224b79c.jpg",
                         "paste-1da88c377e12ea0dbb8cc6f7e40b301be97c4eca.jpg",
                         "paste-219fc3fdddab48258735b6f8984d21dbd3b2ce27.jpg",
+                        "paste-237b42a37f17dc9eb9197b1cebc6bd41d4f34cb9.jpg",
                         "paste-25df5d054ed3e983050a384f2170f27cf5d7c494.jpg",
                         "paste-29512635f4ea1fc58cab62b51ff071ad901362e8.jpg",
                         "paste-2cfa779566623da3f8f48e4c56778976fb1c66a0.jpg",
                         "paste-2d5c640e751b4360c3429a7dff9f7c8c625fd453.jpg",
                         "paste-2fe36c0d91247ac003712c90f1fe94f71b16dbd3.jpg",
+                        "paste-302dee913dd8aa0cb02e5b16a7bbaa750efd5588.jpg",
                         "paste-321af9b02e572ed9bd6960fc9f239c7b343af75e.jpg",
                         "paste-3275933aa2ce7b7a27451eb6560d286d13c834fe.jpg",
                         "paste-358fa43ee388f66fcf635292168f2b3f289400ef.jpg",
                         "paste-379f2a097271e8fa236b42eb066b6cb8af022b5f.jpg",
                         "paste-3a06339391914d2e946de7957a2faa213222100b.jpg",
                         "paste-3b7fdac1d3c25abb79b2e8e4df82d09f6ce2a033.jpg",
+                        "paste-3bb42d32689874f0b0e95af606a2e07772d1c48c.jpg",
                         "paste-41951ca1936c0a900c16a71b8801ed4ffc07b650.jpg",
                         "paste-433bc657b62a7cf97a17ebc22c26ec19ea4fa3dc.jpg",
                         "paste-4653d64ddaf599e7938fef57f4a79db2482be5c1.jpg",
+                        "paste-4adce9becfea504a593e97c793d2f48b3950f7b9.jpg",
                         "paste-4b1eef483854370e0c97c848754194b8d7155c2c.jpg",
                         "paste-4c900beea638fd22443d209d8ff0e0d864158e6f.jpg",
                         "paste-517aa12974b5143a872037eb5b2b46d3e040d67c.jpg",
@@ -264,9 +299,11 @@
                         "paste-585b6d346bc1fc81d845cd4b286ca31d74f62f6c.jpg",
                         "paste-5916b36f1072bda33ac17c3f1f6ae42bc422d964.jpg",
                         "paste-59d037838344a564af70bcc0b67a84159b0538ef.jpg",
+                        "paste-5bc9b134937352a60341aec30c55de8b761d8602.jpg",
                         "paste-5d642eae87303aeb31ba7f06aab76d195373050b.jpg",
                         "paste-602b56713199a56d0473382524e6cf796afe7fd4.jpg",
                         "paste-621208542b143805940f422f9a246ad851ac13fb.jpg",
+                        "paste-6450e566fffd1f7f230c7043e8611fe20353fd24.jpg",
                         "paste-669b7e594540cbdb6613c6bb0f793031db61e62d.jpg",
                         "paste-6776983964d8130c6ce79456082b43f8da50ef79.jpg",
                         "paste-67efb42a6fd756d0cd1761e221584066146435ad.jpg",
@@ -283,6 +320,7 @@
                         "paste-86b5baa42492f6d5424bc5725f22783347e0b573.jpg",
                         "paste-88010317e2043371a9696f030cf42df61a05923e.jpg",
                         "paste-881e4ac4d0f165568661d8bdc930df73a17a5f81.jpg",
+                        "paste-8ac31b3661c756f07e1015ba7c431681a925284f.jpg",
                         "paste-8d284c4f985390820b87823911e3447459515ee5.jpg",
                         "paste-8dc6a02db064fb6d2f41793751fd8dc1bc03df27.jpg",
                         "paste-91d5a0dfc10ed1faad06f60e5bdbe646e41d9ccf.jpg",
@@ -303,21 +341,34 @@
                         "paste-a604f33334613b37e7c24de1cb21ebdbe6ec5d8b.jpg",
                         "paste-a89a02d0b17bcd6cc8c1a1135cb61f025b6e83a8.jpg",
                         "paste-a9102ddcdc826ed5367a63af7bf948fe6f6bbaf2.jpg",
+                        "paste-b405a016509260a1999bf8e5d1356e0bdb684420.jpg",
                         "paste-b6edfdc383e1c5af72e05ed37bda1e3355a2832b.jpg",
                         "paste-b8618f401a12b4fcb4444c7711432feb606cfc3d.jpg",
+                        "paste-b8973ddb02975ddf5a4bd52700785edfec26dd3c.jpg",
                         "paste-be9e8e61b51b8fab9762b8d787db1838e2c9c193.jpg",
+                        "paste-bf0517b2e8cdb575f6338b781ce71aa11c923e09.jpg",
                         "paste-c23d920f1c4cf49880b9612241e7e2ee8f5ff347.jpg",
                         "paste-c3932c28516dbf8821aed54b91a8ec1c44490eef.jpg",
                         "paste-c4fd2aed8dfd56454a37603e0897472ee4e76928.jpg",
+                        "paste-c65f76725be2403da6f4404b857fcdeb0097e0c2.jpg",
                         "paste-c75c6c67221ac2071ea48a7a92c885fdac9f1862.jpg",
+                        "paste-ceae10fc03b7bce3ec770afdd1dfffe70040d681.jpg",
                         "paste-d103a023e88f691d3c2c5041c65ed371b67983dd.jpg",
                         "paste-d18ee055483efb56c22cd2c8038d414ea7f9d2db.jpg",
                         "paste-d3c71f153764a7a066b9b5da62ebcf300410cb09.jpg",
+                        "paste-d6a429d6a09b5b968d2b61fde670df523e354576.jpg",
+                        "paste-db11d6a429507f9efe3bad06c1b521d9ffeb7c2c.jpg",
                         "paste-e0d8132aaf07c0000a3fa93085587d0463e1ad75.jpg",
+                        "paste-e8633b5f37c432b1f931c503efe21313602c30ed.jpg",
                         "paste-e8fe6e05e7d1f670ddfbc7ab5ab0c2bd6a5d45c9.jpg",
+                        "paste-f017913b368fb462f03b84759ab1450cd5694f8c.jpg",
                         "paste-f34a8062bcb85a10a65d6084af588cbfd66d1819.jpg",
                         "paste-f3b9b393d9e5152cafd81eb9920bfb7ed0b2e2f6.jpg",
+                        "paste-f47426b713265fdaf9547d815a0ef98ed6734b0e.jpg",
+                        "paste-f66f4e309efed885527c8ddfc872faad71c98ebf.jpg",
+                        "paste-f826cca59dba4f6ae22ced1c761caf49f76d35b8.jpg",
                         "paste-fa7cb91e1e3c7ae531862b51e5fe558aa89dc49b.jpg",
+                        "paste-fd04e3abb98c66c8dbd207863c715c4dd653c6ae.jpg",
                         "tmp9imnxltp.png",
                         "tmplhr3ptm9.png",
                         "tmpq1x9epfm.png",
@@ -1794,6 +1845,162 @@
                             "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
                             "tags": [
                                 "OCVO3",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Racemat? Welche Eigenschaften haben dessen Moleküle?",
+                                "<b><u>Chiralität</u></b><div>- sehen prizipiell gleich aus, verhalten sich jedoch wie Bild und Spiegelbild</div><div>-&gt; Meist Kohlenstoffe mit 4 verschiedene Substituenten</div><div>&nbsp; -&gt; <font color=\"#ff5500\">Asymetrische Kohlenstoffatome sind sog. Chiralitäts</font> oder Stereozentren</div><div><img src=\"paste-0e95d2352a3e3f0900e33b53a602b63700be6eac.jpg\"><br></div><div><b><u>Enantiomere</u></b></div><div>- Moleküle, welche als zwei spiegelbildliche Isomere vorliegen</div><div>-&gt; Mind 1 Chiralitätszentrum<br></div><div><br></div><div><b><u>Racemat</u></b>:</div><div>- Verhältnis von Enantiomeren im 1:1 Verhältnis</div><div>-&gt; Charakter der Chiralität nicht bemerkbar</div><div><font color=\"#ffff00\">~ Hände im Prinzip ein Racemat, da Spiegelbilder voneinander und im Verhältnis 1:1</font></div>"
+                            ],
+                            "guid": "D@kQFUp[yt",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Nenne ein Moleküle, bei dem die Enantiomere eine unterschiedliche Wirkung/ Funktion haben?",
+                                "<b><u>Asparagin</u></b>:<div>- AS, welche von den Geschmacksrezeptoren angenommen wird, und je nach Chiralität einen anderen Geschmack entfalten kann</div><div><img src=\"paste-f017913b368fb462f03b84759ab1450cd5694f8c.jpg\"><br></div><div><br></div><div><b><u>Carvon:</u></b></div><div>- Duftstoff, welche entweder nach Kümmel oder Pfefferminze riecht</div><div><img src=\"paste-fd04e3abb98c66c8dbd207863c715c4dd653c6ae.jpg\"><br></div><div><br></div><div><b><u>Thalidomid (Contergan):</u></b></div><div>- Beruhigungsmittel während der Schwangerschaft -&gt; Herstellung als <font color=\"#ff5500\">Racemat</font></div><div>a) beruhigende Wirkung</div><div>b) Erbgutschädigend</div><div>-&gt; Nur Herstellung als beruhigendes Enantiomer schwierig, da es sich leicht zum anderen, erbgutschädigenden Enantiomer umwandeln kann</div><div><img src=\"paste-f826cca59dba4f6ae22ced1c761caf49f76d35b8.jpg\"><br></div><div><br></div>"
+                            ],
+                            "guid": "AEbji<HT.{",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche innere Symmetrie besitzten Chirale Moleküle jedoch?",
+                                "<font color=\"#ff5500\">Keine</font>!<div>-&gt; Innerhalb des Moleküls keine Rotationsachse, Spiegelebene oder Inversionszentren</div><div><br></div><div>chiral: Besitzt Chiralitätszentrum</div><div>achiral: nicht Chiral</div>"
+                            ],
+                            "guid": "INM:YY$8Cx",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man Enantiomere unterscheiden?",
+                                "- Enantiomere haben <b><font color=\"#ff5500\">gleiche Chemische Eigenschafen </font></b>(Farbe, Schmelz- bzw. Siedepunkt)<div>-&gt; Unterscheiden sich bei <i><b>Wechselwirkung mit anderen chiralen Molekülen</b></i><br><div>1. Probieren (Asparagin bsplw. Geschmack)</div><div><font color=\"#ff5500\"><b><i>2. Optische Rotation:</i></b></font></div><div><b>-&gt; Linear polarisiertes Licht wird von chiralen, enantiomerenreinen Substanzen in seiner Polarisationsebene gedreht</b></div><div>- Enantiomere fungieren als eine Art Filter, welcher nur eine bestimmte Wellenlänge durchlässt&nbsp;</div><div>-&gt; Enantiomere drehen genau in die andere Richtung (<i><u>Plus = Rechts; Minus = Links</u></i>)<br></div></div><div>-&gt; <font color=\"#ff5500\">Substanzspizifische Größe&nbsp;</font></div><div><img src=\"paste-237b42a37f17dc9eb9197b1cebc6bd41d4f34cb9.jpg\"><br></div><div><img src=\"paste-b405a016509260a1999bf8e5d1356e0bdb684420.jpg\"><br></div><div><font color=\"#ffff00\">~ T= 20C oder 25C</font></div><div><font color=\"#ffff00\">~ Wellenlänge = Natrium-D-Linie</font></div><div><font color=\"#ffff00\">~ alpha = Winkel</font></div><div><font color=\"#ffff00\">-&gt; Winkel abhängig von Länge (l) und Konzentration der Probe (c in g/ml)</font></div>"
+                            ],
+                            "guid": "G2vA~@,`~%",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lassen sich die Zusammenmischungen von Racematen und Enantiomerengemischen abschätzen?",
+                                "<div><b><u>Enantiomeregemisch</u></b></div>~ Enantiomerengemische lassen sich aus der spezifischen Drehung linear polarisierten Lichts abschätzen<div><img src=\"paste-5bc9b134937352a60341aec30c55de8b761d8602.jpg\"><br></div><div>-&gt; z.B überwiegt dann Minus (Links-Drehung) oder Plus (Rechts-Drehung)</div><div><b><u><font color=\"#ff5500\">ee-Wert</font></u></b></div><div>- Überschuss eines Enantiomeres in einem Gemisch&nbsp;</div><div><img src=\"paste-f47426b713265fdaf9547d815a0ef98ed6734b0e.jpg\"><br></div><div>~ Zähler: Überschuss des Enantiomeres m1; Nenner: Gesamte Masse</div><div>-&gt; Normales La-Place&nbsp;</div><div><img src=\"paste-4adce9becfea504a593e97c793d2f48b3950f7b9.jpg\"><br></div><div><br></div><div><b><u>Racematen:</u></b></div><div>-&gt; Immer Verhältnis 1:1, also 0°</div><div><img src=\"paste-e8633b5f37c432b1f931c503efe21313602c30ed.jpg\"><br></div><div><img src=\"paste-db11d6a429507f9efe3bad06c1b521d9ffeb7c2c.jpg\"><br></div>"
+                            ],
+                            "guid": "O<W=kGL^=h",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen Stereoisomeren und Diastereomeren?",
+                                "<b><u>Enantiomere</u></b>:<div>- Bild und Spiegelbild</div><div>-&gt; <b><font color=\"#ff5500\"><u>Alle </u></font></b>Chiralitätszentren sind invertiert (gespiegelt)</div><div><br></div><div><b><u>Diastereomere</u></b>:<br></div><div>- <b><u><font color=\"#ff5500\">Nicht alle</font></u></b> Chiralitätszentren werden invertierer (gespiegelt)</div><div>-&gt; Dadurch chemische Unterschiede und nicht mehr nur physikalische&nbsp;</div><div><br></div><div>(~ Auch E/Z Isomerie von Alkenen eine Diastereomerie)</div><div><img src=\"paste-3bb42d32689874f0b0e95af606a2e07772d1c48c.jpg\"><br></div>"
+                            ],
+                            "guid": "ke/GY]<T84",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man nun Enantiomere in der Nomenklatur unterscheiden (bei Zuckern)?",
+                                "<b><u>Fischer Projektion:</u></b><div>- Eigentlich nur für Zucker, Aminsosäuren</div><div>- A &amp; B senkrecht, nach hinten; D&amp;B wagerecht, nach vorne</div><div><img src=\"paste-302dee913dd8aa0cb02e5b16a7bbaa750efd5588.jpg\"><br></div><div><br></div><div><u><b>Projektion</b></u>:</div><div>1. längste Kohlenstoffkette von oben nach unten gezeichnet</div><div>2. höchstoxidierte Ende oben an der Kette</div><div>3. Bindungen nach oben und unten weisen nach hinten<br></div><div>4. Bindungen nacgh links und rechts weisen nach vorne</div><div>5. Der Substituent am untersten chiralen Zentrum bestimmt Nomenklatur:</div><div>&nbsp; - D = Substituent (OH) nach rechts&nbsp;</div><div>&nbsp; - L = Substituent nach links</div><div><img src=\"paste-f66f4e309efed885527c8ddfc872faad71c98ebf.jpg\"><br></div><div><img src=\"paste-b8973ddb02975ddf5a4bd52700785edfec26dd3c.jpg\"><br></div>"
+                            ],
+                            "guid": "i0zS`rd*!w",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagen die CIP-Regeln?",
+                                "1. Vier unterschiedliche Substituenten am Chiralitätszentrum werdne nach Prioriät geordnet<div><img src=\"paste-ceae10fc03b7bce3ec770afdd1dfffe70040d681.jpg\"><br><div>2. Substituent mit niedrigster Priorität nach hinten gezeichnet</div><div>3. Die anderen Substituenten geben bei der Bennennung eine Drehrichtung vor&nbsp;</div><div>-&gt; R (rectus) = mit dem Uhrzeigersinn</div><div>-&gt; S (sinister) = gegen den Uhrzeigersinn</div><div><img src=\"paste-c65f76725be2403da6f4404b857fcdeb0097e0c2.jpg\"><br></div></div>"
+                            ],
+                            "guid": "uV_!8#{XE#",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie stellt man die Prioritäten bei den CIP-Regeln auf?",
+                                "<b><u>Sequent Regeln:</u></b><div>1. Atome direkt am Chiralitätszentrum (erste Sphäre) werden nach Ordnungs- bzw. Kernladungszahl geordnet</div><div><font color=\"#ff5500\">~ Wenn keine Prioritäten in der ersten Sphäre vergeben werden können, untersucht man die zweite Sphäre usw. (seihe 2)</font></div><div>-&gt; freie Elektronenpaare = 0 (niedrigste Priorität)</div><div>-&gt; Je höher die Ordnungszahl, desto höher die Priorität (je weiter im PSE, desto höher die Priorität)</div><div><font color=\"#ffff00\">-&gt; Bei Isotopen (Wasserstoff, Deuterium etc.) zählt die größere Masse</font></div><div><font color=\"#ffff00\"><br></font></div><div>2. Sind zwei oder mehrere Atome identisch, so geht man in die zweite Sphäre</div><div>-&gt; Wieder nach gleichen Regeln wie bei 1</div><div><br></div><div>3. Doppelbindungen werden wie Einfach Bindungen behandelt</div><div><br></div><div><font color=\"#ffff00\"><sub>(~ weitere Regeln in VO4. PPF 6, jedoch nicht wichtig für uns)</sub></font></div><div><img src=\"paste-8ac31b3661c756f07e1015ba7c431681a925284f.jpg\"><font color=\"#ffff00\"><sub><br></sub></font></div>"
+                            ],
+                            "guid": "Ju[n*9aiKj",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bennene diese beiden Enantiomere:<div><img src=\"paste-6450e566fffd1f7f230c7043e8611fe20353fd24.jpg\"><br></div>",
+                                "<img src=\"paste-0612af670038840f1227fc5e90521398e2b16eba.jpg\">"
+                            ],
+                            "guid": "COH_[7Hh-[",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Unterschied gibt es bei der Bennenung von AS bei der CIP-Nomenklatur im Vergleich zur FIscher Projektion?",
+                                "<div><b><u>Fischer</u></b>:</div><div>- D = Substituent rechts</div><div>- L = Substituent links</div>~ In der Natur größtenteil L AS<div><img src=\"paste-d6a429d6a09b5b968d2b61fde670df523e354576.jpg\"><br></div><div>-&gt; Größtenteil stimmten S (CIP) und L (Fischer) mit R (CIP) und D (Fischer) überein...</div><div><font color=\"#ff5500\">... außer bei schwefelhaltigen AS Cystein und Methionin</font></div>"
+                            ],
+                            "guid": "h4zZ%TO6d]",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Können Moleküle mit Chiralitätszentren symmetrisch sein?",
+                                "<div><b><u>Mehrere Chiralitätszentren</u></b></div>1. <i><u>Erythrose und Threose </u></i>sind unsymmetrische Moleküle wegen ihrer Funktionellen Gruppen<div><img src=\"paste-bf0517b2e8cdb575f6338b781ce71aa11c923e09.jpg\"><br><div>2. <i><u>Weinsäure&nbsp;</u></i></div><div>- symmetrisch wegen Carbonsäure Einheiten an beiden Enden</div><div>a) RR Enantionmer lässt sich spiegeln in SS Weinsäure<br></div><div>b) Diastereomere indem man SR und RS Moelküle herstellt</div><div>-&gt; Haben zwar Chiralitätszentren, sind jedoch archiral, da sie Symmetrisch wegen ihrer Endgruppen sind und in der Mitte gespiegelt werden können&nbsp;</div><div><font color=\"#ff5500\"><b><i><u>-&gt; sog. Meso-Form</u></i></b></font></div></div>"
+                            ],
+                            "guid": "PTXFLTFjcC",
+                            "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                            "tags": [
+                                "OCVO4",
                                 "TobiS2"
                             ]
                         }
@@ -38739,7 +38946,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "OCVO3",
+                "OCVO4",
                 "TobiS2"
             ],
             "tmpls": [
