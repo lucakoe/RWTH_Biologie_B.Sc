@@ -2147,6 +2147,7 @@
                         "paste-08d6107aa90b8acaff39ad7f7a54f55982eb03e6.jpg",
                         "paste-45e25cd2d1c30e9b525b4b1d2c96f84ae7b182c6.jpg",
                         "paste-4cdd2ec33273d66125a76c6b32e4bb34133a5040.jpg",
+                        "paste-55bceb26b57eb9057f13be52af78c2c6dfbb75ec.jpg",
                         "paste-58c7d2908700a76bf1fd320ff5186ac82f2cd518.jpg",
                         "paste-706bd658e805dd5d3a8e9ce69a25d0036f642627.jpg",
                         "paste-8dca33a40878746d7fb2f56d53860f5eb6bf45b6.jpg",
@@ -2410,7 +2411,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie entsteht die große Vakuole?",
-                                "Bei einer jungen Pflanzenzelle liegen mehrere, kleinere Vakuolen vor. Diese verschmelzen miteinander und bilden die große Vakuole. Die große Vakuole ist von Cytoplasmasträngen durchwachsen."
+                                "Bei einer jungen Pflanzenzelle liegen mehrere, kleinere Vakuolen vor. Diese verschmelzen miteinander und bilden die große Vakuole. Die große Vakuole ist von <font color=\"#ff5500\">Cytoplasmasträngen </font>durchwachsen."
                             ],
                             "guid": "MzyclPcC`:",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2423,7 +2424,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Welche zwei Arten von Vakuolen gibt es? Und kommen beide in einer Zelle vor?&nbsp;",
-                                "1)<br>- Lytische Vakuole<br>- Proteinspeichervakuole<br><br>2)&nbsp;<br>Nein. Entweder die eine oder andere Form. Sie können aber ineinander umgewandelt werden<br>"
+                                "1) Arten:<br>- Lytische Vakuole<br>- Proteinspeichervakuole<br><br>2)&nbsp;<br>Nein. Entweder die eine oder andere Form. Sie können aber ineinander umgewandelt werden<br>"
                             ],
                             "guid": "i@>+Y|%ek$",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2449,7 +2450,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie entsteht der Turgordruck ,auch turgidity genannt(= Geschwollenheit)?",
-                                "Durch Einstrom von Wasser in die Große Vakuole.<br><br>In der Vakuole herrscht eine höhere Konzentration an gelösten Stoffen im Vergleich zum Cytoplasma, was dazu führt, dass Wasser durch <font color=\"#ff0000\">Osmose </font>in die Vakuole einströmt.<br><br>Das Cytoplasma wiederum ist hypotonisch im Vergleich zur Zellwand, sodass Wasser aus der Zellwand in die Zelle einströmt.<br><br>Der Turgor drückt nun gegen die Zellwand und vermittelt so Stabilität/Steifigkeit<br><br><img src=\"paste-706bd658e805dd5d3a8e9ce69a25d0036f642627.jpg\"><br>"
+                                "Durch Einstrom von Wasser in die Große Vakuole.<br><br>In der Vakuole herrscht eine höhere Konzentration an gelösten Stoffen im Vergleich zum Cytoplasma, was dazu führt, dass Wasser durch <font color=\"#ff0000\">Osmose </font>in die Vakuole einströmt.<br><br>Das Cytoplasma wiederum ist <font color=\"#ff5500\">hypotonisch </font>im Vergleich zur Zellwand, sodass Wasser aus der Zellwand in die Zelle einströmt.<br><br>Der Turgor drückt nun gegen die Zellwand und vermittelt so Stabilität/Steifigkeit<br><br><img src=\"paste-706bd658e805dd5d3a8e9ce69a25d0036f642627.jpg\"><br>"
                             ],
                             "guid": "MPIUy,&?K.",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2462,7 +2463,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Welche Funktion besitzt zusätzlich die proteinspeichernde Vakuole?",
-                                "Während Samen sich entwickeln und reifen, sind sog. \"Seed storage proteins\" in die Vakuole eingelagert."
+                                "Während Samen sich entwickeln und reifen, sind sog.<font color=\"#ff5500\"> \"Seed storage proteins\"</font> in die Vakuole eingelagert."
                             ],
                             "guid": "h+V9HeI63w",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2488,7 +2489,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie können sich Pflanzen gegen Fraßfeinde wehren?",
-                                "Bsp. Senfölbombe<br><br>- In der großen Vakuole liegen sog. \"Defence compounds\" vor.&nbsp;<br><br>- Wird das Gewebe beschädigt und dabei die große Vakuole zerstört, tritt die Senfölbombe mit Enzymen in Kontakt, die eine chemische Reaktion einleiten.<br><br>- Am Ende dieser Reaktion entsteht ein hoch giftiger Stoff, das Isothiocyanat. Das Freiwerden dieses Stoffes hält Fraßfeinde ab.&nbsp;"
+                                "Bsp. <font color=\"#ff5500\"><b><u>Senfölbombe</u></b></font><br><br>- In der großen Vakuole liegen sog. \"Defence compounds\" vor.&nbsp;<br><br>- Wird das Gewebe beschädigt und dabei die große Vakuole zerstört, tritt die Senfölbombe mit Enzymen in Kontakt, die eine chemische Reaktion einleiten.<br><br>- Am Ende dieser Reaktion entsteht ein hoch giftiger Stoff, das Isothiocyanat. Das Freiwerden dieses Stoffes hält Fraßfeinde ab.&nbsp;"
                             ],
                             "guid": "n*i/d*@pKT",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2501,7 +2502,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie beugen große Vakuolen der Vergiftung durch Schwermetalle vor?",
-                                "Schwermealle (z.B. Cadmium) sind im Cytosol einer Zelle giftig. Zum Schutz werden die Cadmiumionen durch ATP-Verbrauch in die große Vakuole transportiert, wo diese durch Einbindung in ungiftige Substrate unschädlich gemacht werden."
+                                "Schwermealle (z.B. Cadmium) sind im Cytosol einer Zelle giftig. Zum Schutz werden die Cadmiumionen durch<font color=\"#ff5500\"> ATP-Verbrauch</font> in die große Vakuole transportiert, wo diese durch Einbindung in ungiftige Substrate unschädlich gemacht werden."
                             ],
                             "guid": "nB0L}0DG_F",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2514,7 +2515,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was ist die die kontraktile Vakuole, wo ist sie zu finden und wozu ist sie gut?",
-                                "1) spezielle Vakuole<br><br>2) in einzelligen Algen und einigen Protisten ( Paramecium) und meist in Spezies, die in Süßwasser leben<br><br>3) Wichtig für die <font color=\"#aa0000\">Osmoregulation</font><br>--&gt; Pumpt Wasser aus der Zelle,&nbsp;<br>da Wasser durch die hohe Konz. an gelösten Stoffen in der Zelle einströmt ( siehe Süßwasser)<br><br>"
+                                "1) spezielle Vakuole<br><br>2) in einzelligen Algen und einigen Protisten ( Paramecium) und meist in Spezies, die in Süßwasser leben<br><br>3) Wichtig für die <font color=\"#aa0000\">Osmoregulation</font><br>--&gt; Pumpt Wasser aus der Zelle, damit diese nicht platzt<br>da Wasser durch die hohe Konz. an gelösten Stoffen in der Zelle einströmt ( siehe Süßwasser)<br><br>"
                             ],
                             "guid": "okE=*M~Itk",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2527,7 +2528,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was ist der cytoplasmatische Strom, wozu ist dieser gut und wovon hängt er ab?",
-                                "1)&nbsp;<br>-Strom von Cytosol und Organellen in Pflanzen- und Pilzzellen um die große Vakuole herum<br>- durch Aktinfilamente und Myosinmotorproteine unter ATP-Verbrauch geleitet<br><br>2) Hilft bei Transport von Organellen, Nährstoffen, genetischer Information und weiteren Materialien<br><br>3) hängt startk vom intrazellulären pH-Wert und der Temperatur ab"
+                                "1)&nbsp;<br>-&nbsp;<font color=\"#ff5500\">Strom von Cytosol und Organellen</font> in Pflanzen- und Pilzzellen um die große Vakuole herum<br>- durch Aktinfilamente und <font color=\"#ff5500\">Myosinmotorproteine unter ATP-Verbrauch</font> geleitet<br><br>2) Hilft bei Transport von Organellen, Nährstoffen, genetischer Information und weiteren Materialien (1-70 mikrometer/s)<br><br>3) hängt startk vom intrazellulären pH-Wert und der Temperatur ab"
                             ],
                             "guid": "Ez*PDq8KX_",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -2993,7 +2994,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was ist die sekundäre Zellwand?",
-                                "- dicke Schicht, die in der Primärzellwand gebildet wird, nachdem das Zellwachstum abgeschlossen ist.<br><br>(die sek. Zellwand ist nicht in allen Zelltypen zu finden)"
+                                "- dicke Schicht, die in der Primärzellwand gebildet wird, nachdem das Zellwachstum abgeschlossen ist.<br><br><i>(die sek. Zellwand ist nicht in allen Zelltypen zu finden)</i>"
                             ],
                             "guid": "pFeUm7DwJ+",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3006,7 +3007,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was sind Plasmodesmata, was ist ihre Funktion und wie viele gibt es ca. in einer Zelle?",
-                                "1) Kanäle, die das Cytoplasma zweier Zellen direkt miteinander verbinden<br>--&gt; <font color=\"#aa0000\">\"lebende Brücken\"</font><br><br>2) ähnlich zu Gap junctions der Tierzellen:<br>- Plasmodesmata erlauben den Fluss von Molekülen von einer Zelle in die andere<br>--&gt; durch Regulation der Kanäle, kann der Transport von kleinen Molekülen ermöglicht werden (z.B. Zucker, Salze, Aminosäuren)<br>- Durch das verbundene Cytoplasma kann man Pflanzenzellen als Syncytium bezeichen (multinucleare Masse mit verbundenem Cytoplasma)<br><br>3) zwischen 10<sup>3</sup>&nbsp;und 10<sup>5</sup>&nbsp;Plasmodesmata pro Zelle<sup>&nbsp;</sup>"
+                                "1) Kanäle, die das Cytoplasma zweier Zellen direkt miteinander verbinden<br>--&gt; <font color=\"#aa0000\">\"lebende Brücken\"</font><br><br>2) ähnlich zu<i> Gap junctions</i> der Tierzellen:<div>- erlauben Zell Kommunikation<br><div>- Plasmodesmata erlauben den Fluss von Molekülen von einer Zelle in die andere<br>--&gt; durch Regulation der Kanäle, kann der Transport von kleinen Molekülen ermöglicht werden (z.B. Zucker, Salze, Aminosäuren)<br>- Durch das verbundene Cytoplasma kann man Pflanzenzellen als Syncytium bezeichen (<b>multinucleare Masse</b> mit verbundenem Cytoplasma)<br><br>3) zwischen 10<sup>3</sup>&nbsp;und 10<sup>5</sup>&nbsp;Plasmodesmata pro Zelle<sup>&nbsp;</sup></div></div>"
                             ],
                             "guid": "dXCfgpOR.p",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3018,8 +3019,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Strukturen findet man&nbsp;<br>&nbsp;in den Plasmodesmata?",
-                                "Plasmodesmata sind von sog. Desmotubuli, welche dem ER beider Zellen enstpringen, durchzogen.<br><br>Desmotubuli füllen die Plasmodesmata nicht vollständig aus, sodass Plasmodesmata im Querschnitt als Ringe erscheinen&nbsp;"
+                                "Welche Strukturen findet man&nbsp;in<div>&nbsp;den Plasmodesmata?</div>",
+                                "Plasmodesmata sind von sog. <font color=\"#ff5500\"><b>Desmotubuli</b></font>, welche dem glatten ER beider Zellen entpringen, durchzogen.<br><br>Desmotubuli füllen die Plasmodesmata nicht vollständig aus, sodass Plasmodesmata im Querschnitt als Ringe erscheinen&nbsp;"
                             ],
                             "guid": "LIy<)1G%6~",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3120,7 +3121,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Aus welcher Struktur besteht die Zellwand und was vermitteln ihre einzelnen&nbsp;Bestandteile.&nbsp;",
-                                "Die Zellwand ist ein komplexes System aus extrazellulärer Matrix, welche jede Zelle umschließt.<br><br>Die ECM basiert wie auch bei den tierischen Zellen auf mehreren Komponenten.&nbsp;<br>1) die Faserkomponente vermittelt Zugfestigkeit und ist in die<br>2) Matrixkomponente, welche Druckfestigkeit vermittelt, eingebettet."
+                                "Die Zellwand ist ein komplexes System aus <b><font color=\"#ff5500\">extrazellulärer Matrix</font></b>, welche jede Zelle umschließt.<br><br>Die ECM basiert wie auch bei den tierischen Zellen auf mehreren Komponenten.&nbsp;<br>1) die <font color=\"#ff5500\">Faserkomponente (Cellulose)&nbsp;</font>vermittelt <b>Zugfestigkeit </b>und ist in die<br>2) <font color=\"#ff5500\">Matrixkomponente (Pectin)</font>, welche <b>Druckfestigkeit </b>vermittelt, eingebettet."
                             ],
                             "guid": "GFV8Xx^,l8",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3344,7 +3345,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was sind die Hauptbestandteile der Zellwand und warum?",
-                                "1) Cellulose und Lignin<br>2) Sie enthalten keinen Stickstoff (anders als die Proteine der ECM in tierischen Zellen)<br><br>--&gt; Grund ist die Bioverfügbarkeit von Stickstoff&nbsp;<br><br>--&gt; Pflanzen haben Zugriff auf wenig Stickstoff ( limitierender Wachstumsfaktor), daher ist es vorteilhaft, Zellbausteine ohne Stickstoff zu verwenden<br><br>siehe auch: <br>Liebig´s barrel<br><img src=\"paste-efb21ba6bd46add8249eed2245bac348056edaa5.jpg\">"
+                                "1) <b><font color=\"#ff5500\">Cellulose </font></b>und <b><font color=\"#ff5500\">Lignin</font></b><br>2) Cellulose und Ligin enthalten <font color=\"#ff5500\">keinen </font>Stickstoff (anders als die Proteine der ECM in tierischen Zellen)<br><br>--&gt; Grund ist die Bioverfügbarkeit von Stickstoff&nbsp;<br><br>--&gt; Pflanzen haben Zugriff auf wenig Stickstoff ( limitierender Wachstumsfaktor), daher ist es vorteilhaft, Zellbausteine ohne Stickstoff zu verwenden<br><br>siehe auch: <br>Liebig´s barrel<br><img src=\"paste-efb21ba6bd46add8249eed2245bac348056edaa5.jpg\">"
                             ],
                             "guid": "}.K)tdI[E",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3370,7 +3371,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie spielt der Turgordruck beim Pflanzenwachstum mit?",
-                                "-der Turgordruck erhöht sich, bis ein osmotisches Gleichgewicht entstanden ist<br><br>Pflanzenwachstum:<br><br>I) Zellwand lockert sich<br>II) Turgordruck steigt, Zelle dehnt sich aus<br>III) Zellwand erstarrt<br><br>--&gt; Nettowachstum<br>"
+                                "- der Turgordruck erhöht sich, bis ein osmotisches Gleichgewicht entstanden ist<br><br>Pflanzenwachstum:<br><br>I) Zellwand lockert sich<br>II) Turgordruck steigt, Zelle dehnt sich aus<br>III) Zellwand erstarrt<br><br>--&gt; Nettowachstum<br>"
                             ],
                             "guid": "c)|wU@}O{t",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3383,7 +3384,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was sind die Konsequenzen von Wassermangel für Pflanzen?",
-                                "Der Turgordruck kann nicht aufrecht erhalten werden, die Stabilität geht verloren, die Pflanze welkt<img src=\"paste-c2a0ffada922e993220381cc4fecaea099489f66.jpg\"><img src=\"paste-08d6107aa90b8acaff39ad7f7a54f55982eb03e6.jpg\">"
+                                "Der Turgordruck kann nicht aufrecht erhalten werden, die Stabilität geht verloren, die Pflanze welkt<div><img src=\"paste-c2a0ffada922e993220381cc4fecaea099489f66.jpg\"><img src=\"paste-08d6107aa90b8acaff39ad7f7a54f55982eb03e6.jpg\"></div>"
                             ],
                             "guid": "P<zPjQ<db#",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3396,7 +3397,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Erkläre, was bei der Plasmolyse passiert. Wie kann der Prozess rückgängig gemacht werden?<br>",
-                                "1) Auftragen von Wassertropfen mit hoher Ionenkonzentration auf pflanzliche Zellen<br><br>2) Osmose: Wasser strömt aus der Zelle heraus, um die Konzentration auszugleichen<br><br>3) Das Cytoplasma schrumpft, bleibt aber über \"Hechtie Stränge\" mit der Zellwand (welche ihre Struktur behalten hat) verbunden<br><br>4) Replasmolyse: Hinzugabe von (destilliertem) Wasser<br>--&gt; Cytoplasma schwillt an und verdrängt die Hechtien Stränge"
+                                "1) Auftragen von Wassertropfen mit hoher Ionenkonzentration auf pflanzliche Zellen<br><br>2) Osmose: Wasser strömt aus der Zelle heraus, um die Konzentration auszugleichen<br><br>3) Das Cytoplasma schrumpft, bleibt aber über \"<b><font color=\"#ff5500\">Hechtie Stränge</font></b>\" mit der Zellwand (welche ihre Struktur behalten hat) verbunden<br><br>4) Replasmolyse: Hinzugabe von (destilliertem) Wasser<br>--&gt; Cytoplasma schwillt an und verdrängt die Hechtien Stränge"
                             ],
                             "guid": "C1@=h?]pP@",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3422,7 +3423,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Woraus besteht Zellulose und welche Aufgabe vermittelt sie in der Zellwand?",
-                                "1) aus linearen, beta-1-4 glykosidisch verbundenen Glucosemolekülen<br>--&gt; ca. 15.000 Moleküle in einer Kette<br><br>2) vermittelt Zugfestigkeit"
+                                "1) aus <b><font color=\"#ff5500\">linearen</font></b>, <font color=\"#ff5500\"><b>beta-1-4 glykosidisch</b></font> verbundenen Glucosemolekülen<br>--&gt; ca. 15.000 Moleküle in einer Kette<br><br>2) vermittelt Zugfestigkeit"
                             ],
                             "guid": "Me<dH`m2}>",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3435,7 +3436,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was ist Hemizellulose, woraus besteht sie und welche Aufgabe vermittelt sie in der Zellwand?",
-                                "1) Hemizellulose ist ein kollektiver Begriff für Kohlenhydrat-heteropolymere<br><br>2) z.B. aus Xyloglucan (aber auch anderen Kohlenhydrat-heteropolymeren), die sehr unterschiedlich verbunden sind<br><br>--&gt; ca. 500-300 Zuckereinheiten<br>--&gt; manchmal Verästelungen<br><br>2) Hemizellulose ist für die Quervernetzung der Zellulosefibrillen zu einem robustem Netzwerk zuständig"
+                                "1) Hemizellulose ist ein kollektiver Begriff für Kohlenhydrat-heteropolymere<br><br>2) z.B. aus Xyloglucan (aber auch anderen Kohlenhydrat-heteropolymeren), die sehr unterschiedlich verbunden sind<br><br>--&gt; ca. 500-300 Zuckereinheiten<br>--&gt; manchmal Verästelungen<br><br>2) Hemizellulose ist für die <b><font color=\"#ff5500\">Quervernetzung </font></b>der Zellulosefibrillen zu einem robustem Netzwerk zuständig"
                             ],
                             "guid": "qd@hP8RO0K",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3448,7 +3449,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Woraus besteht Pectin und welche Aufgabe vermittelt es in der Zellwand?",
-                                "1) aus Homogalacturonan und Rhamnogalacturonan I und II<br>--&gt;reich an Galacturonsäure<br><br>Die Menge, Struktur und Aufbau unterscheidet sich:<br>-von Spezies zu Spezies<br>-über Zeit<br>-in den unterschiedlichen Teilen der Pflanze<br><br>2) bildet ein negative geladenes, hydrophiles Netzwerk in der Mittellamelle und den Primären Zellwänden von terrestrischen Pflanzen<br>--&gt; Druckfestigkeit<br>--&gt; vermittelt auch Zell-Zell Adhäsion<br>"
+                                "1) aus Homogalacturonan und Rhamnogalacturonan I und II (Heteropolysaccharid)<br>--&gt;reich an <font color=\"#ff5500\">Galacturonsäure</font><br><br>Die Menge, Struktur und Aufbau unterscheidet sich:<br>-von Spezies zu Spezies<br>-über Zeit<br>-in den unterschiedlichen Teilen der Pflanze<br><br>2) bildet ein <font color=\"#ff5500\">negative </font>geladenes, <font color=\"#ff5500\">hydrophiles </font>Netzwerk in der Mittellamelle und den Primären Zellwänden von terrestrischen Pflanzen<br>--&gt; Druckfestigkeit<br>--&gt; vermittelt auch Zell-Zell Adhäsion (Mittellamelle)<br>"
                             ],
                             "guid": "hGurh=x6>m",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3931,7 +3932,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Erkläre, wie sich Zellulose zu Cellulosefibrillen zusammenlagert.",
-                                "Grundlegenes Prinzip:<br>Kleine Einheiten lagern sich zu immer größeren Einheiten zusammen<br><br>Glucosekette--&gt;<br>Cellulose-Microfibrille--&gt;<br>Cellulosefibrille<br><br>Eine Glucosekette kann intramolekulare aber auch interzellulamolekulare Wasserstoffbrückenbindungen ausbilden und sich so zu Microfibrillen zusammenlagern<br><br>Mehrere Microfibrillen lagern sich zu Zellulosefibrillen zusammen"
+                                "<u>Grundlegenes Prinzip:<br></u>Kleine Einheiten lagern sich zu immer größeren Einheiten zusammen<br><br>Glucosekette--&gt;<br>Cellulose-Microfibrille--&gt;<br>Cellulosefibrille<br><br>Eine Glucosekette kann intramolekulare aber auch interzellulamolekulare Wasserstoffbrückenbindungen ausbilden und sich so zu Microfibrillen zusammenlagern<br><br>Mehrere Microfibrillen lagern sich zu Zellulosefibrillen zusammen"
                             ],
                             "guid": "v^Q0[Hn7yh",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3944,7 +3945,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie funktioniert der Aufbau der Zellulosefibrillen und die Einbettung in die Zellwand?",
-                                "1) Der Aufbau von Zellulose wird maßgeblich von der Zellulosesynthase katalysiert.<br><img src=\"paste-8dca33a40878746d7fb2f56d53860f5eb6bf45b6.jpg\"><br><br>Die Baueinheiten stellen dabei UDP Glucose dar (Glucose mit dem Nukleotid UDP aktiviert)<br><br>Die Zellulosesynthase lagert sich zu hexmaren Komplexen zusammen, zur sog. Rosette<br><img src=\"paste-dda1159d18a54d379a7b6af071b79983c3c2b607.jpg\"><br><br>sieben Rosetten lagern sich schließlich zur \"Rossettes array\" zusammen<br><img src=\"paste-45e25cd2d1c30e9b525b4b1d2c96f84ae7b182c6.jpg\"><br><br>Dieser Komplex ist in der Plasmamembran eingebettet und bewegt sich während der Synthese mithilfe von Motorproteinen entlang der Microtubuli.<br><br>Als Folge werden die Cellulosefibrillen parallel zu den Mikrotubuli in die Zellwand eingebettet"
+                                "1) Der Aufbau von Zellulose wird maßgeblich von der <b><font color=\"#ff5500\">Zellulosesynthase </font></b>katalysiert.<br><img src=\"paste-8dca33a40878746d7fb2f56d53860f5eb6bf45b6.jpg\"><br><br>Die Baueinheiten stellen dabei <font color=\"#ff5500\">UDP Glucose</font> dar (Glucose mit dem Nukleotid UDP aktiviert)<br><br>Die Zellulosesynthase lagert sich zu <font color=\"#ff5500\"><i>hexmaren </i>Komplexen</font> zusammen, zur sog. <font color=\"#ff5500\">Rosette</font><br><img src=\"paste-dda1159d18a54d379a7b6af071b79983c3c2b607.jpg\"><br><br>sieben Rosetten lagern sich schließlich zur \"<b><font color=\"#ff5500\">Rossettes array</font></b>\" zusammen<br><img src=\"paste-45e25cd2d1c30e9b525b4b1d2c96f84ae7b182c6.jpg\"><br><br>Dieser Komplex ist in der Plasmamembran eingebettet und bewegt sich <b><i>während</i></b> der Synthese mithilfe von Motorproteinen entlang der Microtubuli.<br><br>Als Folge werden die Cellulosefibrillen parallel zu den Mikrotubuli in die Zellwand eingebettet<div><img src=\"paste-55bceb26b57eb9057f13be52af78c2c6dfbb75ec.jpg\"><br></div>"
                             ],
                             "guid": "AQKQ,2t=GY",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3982,8 +3983,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist Callose, wie ist sie Aufgebaut und welche Funktion hat Callose in der Zelle?",
-                                "1) Polysaccharid aus Glucoseeinheiten<br><br>2) beta-1,4 Verknüpfungen und manchmal 1-6-Verästelungen<br><br>3) Callose dient als ein reversibel einsetzbarer, <br>universeller Stopfen, der z.B.:<br>- Wunden auffüllt<br>- bei Angriffen durch Pilze die Zellwand verstärkt und so den Pilz abwehrt<br><img src=\"paste-58c7d2908700a76bf1fd320ff5186ac82f2cd518.jpg\"><br>- bei Infektionen durch einen Virus die Plasmodesmata verschließen und so die Ausbreitung verhindern kann<br><img src=\"paste-4cdd2ec33273d66125a76c6b32e4bb34133a5040.jpg\"><br><br>Häufig tritt Callose<br>-an der Zellplatte<br>-bei Plasmodesmata (siehe Virusangriff)<br>-in Pollenröhren<br>-an Phloem-Siebplatten<br>und an Zellwandappositionen (siehe Pilzangriff)<br><br>in Aktion"
+                                "Was ist Callose, wie ist sie aufgebaut und welche Funktion hat Callose in der Zelle?",
+                                "1) Polysaccharid aus Glucoseeinheiten<br><br>2) <b><font color=\"#ff5500\">beta-1,4 Verknüpfungen und manchmal 1-6-Verästelungen</font></b><br><br>3) Callose dient als ein reversibel einsetzbarer, <br>universeller Stopfen, der z.B.:<br>- Wunden auffüllt<br>- bei Angriffen durch Pilze die Zellwand verstärkt (Papillen) und so den Pilz abwehrt<br><img src=\"paste-58c7d2908700a76bf1fd320ff5186ac82f2cd518.jpg\"><br>- bei Infektionen durch einen Virus die Plasmodesmata verschließen und so die Ausbreitung verhindern kann<br><img src=\"paste-4cdd2ec33273d66125a76c6b32e4bb34133a5040.jpg\"><br><br>Häufig tritt Callose<br>-an der Zellplatte<br>-bei Plasmodesmata (siehe Virusangriff)<br>-in Pollenröhren<br>-an Phloem-Siebplatten<br>und an Zellwandappositionen (siehe Pilzangriff)<br><br>in Aktion"
                             ],
                             "guid": "mq]3FKeScb",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -3996,7 +3997,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "In welchen Teilen der Zelle oder welchen Organellen der Zelle findet die Biosynthese welcher Zellwandbestandteilen statt?",
-                                "1) Plasmamembran:<br>-Zellulose<br>-Callose<br><br>2) Golgi:<br>-Pectine<br>-Hemizellulosen<br>-Modifizierungen der Proteine<br><br>3) raues ER:<br>- Zellwandproteine<br>-initiale Proteinglycolysierung<br><br>--&gt; Transport der Bausteine entlang des Cytoskeletts"
+                                "1) <u><b>Plasmamembran</b></u>:<br>-Zellulose<br>-Callose<br><br>2) <b><u>Golgi</u></b>:<br>-Pectine<br>-Hemizellulosen<br>-Modifizierungen der Proteine<br><br>3) <b><u>raues ER:</u></b><br>- Zellwandproteine<br>- initiale Proteinglycolysierung<br><br>--&gt; Transport der Bausteine entlang des Cytoskeletts über Vesikel"
                             ],
                             "guid": "HD2g=&,:7Q",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -4009,7 +4010,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie ist die Sekundäre Zellwand aufgebaut, wo findet man sie, wann wird sie gebildet und was ist ihre Aufgabe?",
-                                "1/2) die sek. Zellwand ist eine weitere Schicht zwischen der prim. Zellwand und der Plasmamembran, die man in fast allen Pflanzenzellen finden kann<br><br>Die Sek. Zellwand besteht aus mehreren Schichten von Cellulose und Lignin<br><br>3) die Sek. Zellwand wird gebildet, wenn die prim. Zellwand fertiggestellt ist und die Zelle sich nicht weiter ausbreitet<br><br>4) die Sek. Zellwand bietet weiteren Schutz, Starre und Stärke&nbsp;"
+                                "1/2) die sek. Zellwand ist eine weitere Schicht zwischen der prim. Zellwand und der Plasmamembran, die man in fast allen Pflanzenzellen finden kann<br><br>Die Sek. Zellwand besteht aus mehreren Schichten von Cellulose und Lignin<br><br>3) die Sek. Zellwand wird gebildet, wenn die prim. Zellwand fertiggestellt ist und die Zelle sich nicht weiter ausbreitet<br><br>4) die Sek. Zellwand bietet weiteren Schutz, Starre und Stärke<div>-&gt; Kann doppelt bis dreifach so dick wie die primäre Zellwand werden&nbsp;</div>"
                             ],
                             "guid": "rZ-3#)a=ul",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
