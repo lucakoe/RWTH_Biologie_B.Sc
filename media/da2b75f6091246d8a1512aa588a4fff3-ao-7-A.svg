@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="551">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="da2b75f6091246d8a1512aa588a4fff3-ao-1" height="24.65753" width="65.75342" y="22.51596" x="147.35159" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="da2b75f6091246d8a1512aa588a4fff3-ao-2" height="32.87671" width="89.04109" y="74.57076" x="132.28309" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="da2b75f6091246d8a1512aa588a4fff3-ao-3" height="24.65753" width="102.73972" y="140.32418" x="128.17351" fill="#FFEBA2"/>
+  <rect id="da2b75f6091246d8a1512aa588a4fff3-ao-4" height="27.39726" width="94.52055" y="196.48856" x="130.91323" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="da2b75f6091246d8a1512aa588a4fff3-ao-5" height="30.13699" width="84.93151" y="252.65295" x="139.13241" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="da2b75f6091246d8a1512aa588a4fff3-ao-6" height="20.54794" width="80.82192" y="318.40637" x="137.76255" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <rect id="da2b75f6091246d8a1512aa588a4fff3-ao-8" height="27.39726" width="69.86301" y="430.73513" x="141.87214" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="da2b75f6091246d8a1512aa588a4fff3-ao-9" height="20.54794" width="93.15068" y="495.1187" x="136.39268" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
