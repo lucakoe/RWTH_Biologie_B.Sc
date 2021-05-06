@@ -3137,6 +3137,36 @@
                                         "BdOIIVO4",
                                         "Vince"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Apoplast?",
+                                        "Der Apoplast ist die Gesamtheit aller Zellwände und dem Interzellularraum. Der Apoplast bietet einen Diffusionsraum."
+                                    ],
+                                    "guid": "d>UGVzIo}h",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Symplast",
+                                        "Als Symplast beschreibt man das zusammenhängende Cytoplasma aller pflanzlichen Zellen"
+                                    ],
+                                    "guid": "m>0@mo5Z@A",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Plasmodesmata?",
+                                        "Plasmodesmata sind cytoplasmatische Zell-Zell-Kontakte"
+                                    ],
+                                    "guid": "Ka#w4v):(i",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -3149,9 +3179,448 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-1-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-1-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-2-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-2-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-3-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-3-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-4-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-4-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-5-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-5-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-6-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-6-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-7-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-7-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-8-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-8-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-9-A.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-9-Q.svg",
+                                "30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-1-A.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-1-Q.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-2-A.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-2-Q.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-3-A.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-3-Q.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-4-A.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-4-Q.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-5-A.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-5-Q.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-6-A.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-6-Q.svg",
+                                "3769c0a54cb945d6b2970685d7e4c85c-ao-O.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-1-A.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-1-Q.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-2-A.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-2-Q.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-3-A.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-3-Q.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-4-A.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-4-Q.svg",
+                                "c76e9efb7ca748b080700f858a3a19f1-ao-O.svg",
+                                "paste-8ddf937e890cfe5e9311166d3c24aa61b4df77ba.jpg",
+                                "tmp1b6a0h6l.png",
+                                "tmpth9qaea1.png",
+                                "tmpyzub150v.png"
+                            ],
+                            "mid": 1615896418982,
                             "name": "Praktikum Bau der Organismen II",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Beschreibe, wie du beim \"Köhlern\" vorzugehen hast",
+                                        "<img src=\"paste-8ddf937e890cfe5e9311166d3c24aa61b4df77ba.jpg\">"
+                                    ],
+                                    "guid": "j$q|MO=[9]",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie berechnet man die Gesamtvergrößerung?",
+                                        "Okularvergrößerung multipliziert der Vergrößerung des Objektives"
+                                    ],
+                                    "guid": "dnI>c4m;[z",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welchen Teil des Mikroskops kann man auch als einfach Lupe verwenden?",
+                                        "Das Okular"
+                                    ],
+                                    "guid": "N+JV{QWG@?",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "3769c0a54cb945d6b2970685d7e4c85c-ao-1",
+                                        "",
+                                        "<img src=\"tmpth9qaea1.png\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-1-A.svg\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "fy:Ml6uj,&",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "3769c0a54cb945d6b2970685d7e4c85c-ao-2",
+                                        "",
+                                        "<img src=\"tmpth9qaea1.png\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-2-A.svg\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "f2gev*Q#(F",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "3769c0a54cb945d6b2970685d7e4c85c-ao-3",
+                                        "",
+                                        "<img src=\"tmpth9qaea1.png\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-3-A.svg\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Q20-Ht7B@-",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "3769c0a54cb945d6b2970685d7e4c85c-ao-4",
+                                        "",
+                                        "<img src=\"tmpth9qaea1.png\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-4-A.svg\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "tE0]XP{c+s",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "3769c0a54cb945d6b2970685d7e4c85c-ao-5",
+                                        "",
+                                        "<img src=\"tmpth9qaea1.png\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-5-A.svg\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "gasAsiE(J>",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "3769c0a54cb945d6b2970685d7e4c85c-ao-6",
+                                        "",
+                                        "<img src=\"tmpth9qaea1.png\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-6-A.svg\" />",
+                                        "<img src=\"3769c0a54cb945d6b2970685d7e4c85c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "C3/~$z?7{V",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-1",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-1-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Dp:/Nvr>P`",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-2",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-2-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Gl{^gUG`{I",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-3",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-3-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "z?ZZwec`05",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-4",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-4-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "sY//0zeECf",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-5",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-5-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "E@g^@!(Y9,",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-6",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-6-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Ir{hvOFQw|",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-7",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-7-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "NDZPHB+Z)u",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-8",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-8-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "sYRSEqP>uo",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "30ef587c51dc458bb5f2d93f19a95a7d-ao-9",
+                                        "",
+                                        "<img src=\"tmpyzub150v.png\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-9-A.svg\" />",
+                                        "<img src=\"30ef587c51dc458bb5f2d93f19a95a7d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "QAZnRMe7K>",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c76e9efb7ca748b080700f858a3a19f1-ao-1",
+                                        "",
+                                        "<img src=\"tmp1b6a0h6l.png\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-1-A.svg\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-O.svg\" />"
+                                    ],
+                                    "guid": "tODPAp5pi2",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c76e9efb7ca748b080700f858a3a19f1-ao-2",
+                                        "",
+                                        "<img src=\"tmp1b6a0h6l.png\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-2-A.svg\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-O.svg\" />"
+                                    ],
+                                    "guid": "C9mH:PDz=_",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c76e9efb7ca748b080700f858a3a19f1-ao-3",
+                                        "",
+                                        "<img src=\"tmp1b6a0h6l.png\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-3-A.svg\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-O.svg\" />"
+                                    ],
+                                    "guid": "JWc1kK?5=&",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c76e9efb7ca748b080700f858a3a19f1-ao-4",
+                                        "",
+                                        "<img src=\"tmp1b6a0h6l.png\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-4-A.svg\" />",
+                                        "<img src=\"c76e9efb7ca748b080700f858a3a19f1-ao-O.svg\" />"
+                                    ],
+                                    "guid": "g?ekC6yiT.",
+                                    "note_model_uuid": "7d194d17-ae81-11eb-9354-7085c25f6828",
+                                    "tags": []
+                                }
+                            ]
                         }
                     ],
                     "crowdanki_uuid": "59a728c2-9b5b-11eb-b70d-001a7dda7113",
@@ -46686,10 +47155,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "BdOIIVO4",
-                "Vince"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
