@@ -12274,13 +12274,20 @@
                         "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg",
                         "paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg",
                         "paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg",
+                        "paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg",
+                        "paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg",
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
+                        "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
+                        "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
+                        "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
                         "paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg",
                         "paste-bcbc0a6c9f57590ffed2658b22d9f07d132ab715.jpg",
+                        "paste-c9db96f1415b2706ece1ef4347c2f5c49a2c9d47.jpg",
                         "paste-ccd567c63520c1fc46288ca022f9fa993932063a.jpg",
                         "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg",
+                        "paste-e6173e1cab15cf6d988fbf985280d6643828492b.jpg",
                         "paste-f0797874d67ad2f80c92cbef635b34e5e7b60507.jpg",
                         "tmplop7k095.png"
                     ],
@@ -13393,6 +13400,435 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist das?</b></font><img src=\"paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg\">",
+                                "Ein Polysom (zahlreiche Ribosomen die eine oder mehrere mRNA translatieren)"
+                            ],
+                            "guid": "jw`u:_,>70",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert eine Röntgenkristallographie?</b></font>",
+                                "Röntgenlicht wird von den im vorraus kristallisierten Makromolekülen gebeugt.<br>➢ Bestimmung der Position jedes einzelnen Atoms im Molekül\n<br>➢ Erzeugung eines computergenerierten Modells mittels der Daten"
+                            ],
+                            "guid": "Mvu>7~%AK:",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie geht man die Bestimmung der Funktion eines Gens/des von ihm transkribierten Proteins an?</b></font>",
+                                "Genetische Analyse von&nbsp;Mutanten liefert Informationen über funktionale Zusammenhänge"
+                            ],
+                            "guid": "h;<qkS5?-w",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Beschreibe eine PAGE und den Unterschied zwischen PAGE und SDS-PAGE</font></b>",
+                                "<img src=\"paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg\">"
+                            ],
+                            "guid": "sT%-1E|r>h",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Eine 2-D-PAGE Proteom Analyse besteht aus welchen 2 Analyseverfahren?<br></b></font>",
+                                "1. Auftrennung nach dem Isoelektrischen Punkt → Isoelektrische Fokussierung (IEF)\n2. Auftrennung nach dem Molekulargewicht → SDS-PAGE"
+                            ],
+                            "guid": "zV*oz3H98m",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne die drei -bolismen</font></b>",
+                                "<b>Katabolismus</b> – Abbau von Stoffen\nz. B. zur Energiegewinnung\n<br><br><b>Anabolismus</b> – Aufbau von (Makro)Molekülen\nzum Wachstum\n<br><br><b>Metabolismus</b> = Summe aller chemischen Reaktionen in der Zelle = Katabolismus + Anabolismus"
+                            ],
+                            "guid": "Gxr]?!o;LQ",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was gehört zum Nucleoid der Bakterien?</b></font>",
+                                "Genom (DNA Strang und Plasmide) + NAPs (nucleoid-associated proteins)"
+                            ],
+                            "guid": "PuZ`AGrnZ3",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne die 4 Hauptschichten der&nbsp;Hülle einer E. coli Zelle</font></b>",
+                                "<img src=\"paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg\">"
+                            ],
+                            "guid": "xwi>EN<`DS",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne das wichtigste&nbsp;</b></font><b><font color=\"#ffaa00\">bakterielle Phospholipid</font></b>",
+                                "Phosphatidylethanolamin"
+                            ],
+                            "guid": "Q7T0w9Nyb",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist die Transitionstemperatur?</b></font>",
+                                "➢ oberhalb der Transitionstemperatur\nist die Membran fluid\n<br>➢ Phospholipide mit langen Fettsäureketten erhöhen i.d.R. die\nTransitionstemperatur\n<br>➢ Phospholipide mit ungesättigte\nFettsäureketten erniedrigen i.d.R.\ndie Transitionstemperatur"
+                            ],
+                            "guid": "x7T_>.T^KD",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was machen&nbsp;Hopanoide</font></b>",
+                                "Sie sind <font color=\"#ff0000\">das Cholesterin in Prokaryoten<br></font><br>➢ mittlere Temperatur ➔ laterale Bewegung der Phospholipide wird abgebremst ➔ Fluidität der Membran\nwird herabgesetzt\n<br><br>➢ niedrige Temperatur ➔ Ausbildung einer regelmäßigen Packung der Phospholipide wird gestört ➔\nVerfestigung der Membran wird verhindert<br>"
+                            ],
+                            "guid": "v,t?H&b=}~",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne Anpassungen in den Membranen von Archaeen</b></font>",
+                                "➢ stabilere Etherbindung statt Esterbindung zwischen Glycerin und Fettsäure<br>→ erlaubt Black Smoker als Lebensraum<br><br>➢ Kohlenwasserstoffketten der Phosholipide sind verzweigte Terpenoide\n<br><br>➢ teilweise Lipidmonoschicht aus Diglycerintetraether&nbsp;<br>→bilden&nbsp;Cyclopentanringe die zur Versteifung der\nMembran bei Stress führen"
+                            ],
+                            "guid": "dRmM41P$[]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne einige einige Aufgaben von Membranproteinen</b></font>",
+                                "Transport, Struktur, Energiespeicherung, Kommunikation, Sekretion, Detektion usw."
+                            ],
+                            "guid": "ljMiS&;%@Q",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus besteht die bakterielle Zellwand?</b></font>",
+                                "➢ bakterielle Zellwände bestehen aus dem Polymer Peptidoglykan<br><br>Glykankette – Polymer aus Disacchariden (N-Acetylglucosamin + N-Acetylmuraminsäure)\nparallele Anordnung der Glykanketten, durch Tetrapeptide quervernetzt"
+                            ],
+                            "guid": "Rgi!P?c:X$",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus besteht Peptidoglycan?</b></font>",
+                                "<img src=\"paste-c9db96f1415b2706ece1ef4347c2f5c49a2c9d47.jpg\">"
+                            ],
+                            "guid": "M@toF,N[A`",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie werden Tetramere in Peptidoglycan verknüpft?</b></font>",
+                                "<img src=\"paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg\">"
+                            ],
+                            "guid": "xmRyE;6kxN",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wirkt Ampizillin auf Prokaryonten?</b></font>",
+                                "<img src=\"paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg\">"
+                            ],
+                            "guid": "nE3Qn1uAS=",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist die Murein-Schicht?</b></font>",
+                                "Ein Synonym für die Zellwand der Prokaryoten.<br><br>Murein ist wiederum ein Synonym für Peptidoglycan."
+                            ],
+                            "guid": "P^4k@j33vp",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe die Zellwandeigensachaften grampositiver Bakterien</b></font>",
+                                "bis zu<font color=\"#ff0000\"> 40 Peptidoglycanschichten</font> (oft mit <font color=\"#ff0000\">Lysin</font> statt mDiaminopimmelinsäure)<br><br><font color=\"#ff0000\">&nbsp;Teichonsäuren</font>&nbsp;(8-50 Glycerin oder Ribitolmoleküle, über PO4- Brücken verestert)<br>→negativ geladen<br>→angeheftete Zucker oder Aminosäuren<br><br><font color=\"#ff0000\">Lipoteichonsäuren</font> sind mit Membranlipiden der Zellmembran verknüpft"
+                            ],
+                            "guid": "DOLLW1l)NV",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe die Zellwand-Eigenschaften gramnegativer Zellen</b></font>",
+                                "<font color=\"#ff0000\">Periplasma</font> mit Zellwand aus 1-2 Schichten Peptidoglycanohne Teichonsäuren.<br><br>Äußere Membran mit toxischen &amp; patogenen Eigenschaften, sowie Proteinen wie z.B. Porinen<br>→<font color=\"#ff0000\">Lipopolysaccharide</font> außen Schützen vor Phagocytose<br>→<font color=\"#ff0000\">Lipoproteine</font> verbinden Peptidoglycan und die äußere Membran<br><br>"
+                            ],
+                            "guid": "Jjcft#Qy_~",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welches ist das bedeutendste Lipoproteinin gramnegativen Bakterien?</b></font>",
+                                "Das bedeutendste ist das Murein-Lipoprotein\n<br>➢ N-terminal Cystein mit drei Fettsäureketten in der oberen Zellwand<br>➢ C-terminal Lysin\n<br>➢ Lysin über Amidbindung mit m-DAP (m-A2pm) an Tetrapeptiden verbunden"
+                            ],
+                            "guid": "w?mw[*y~2X",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus bestehen Lipopolysaccharide ud wo findet man sie?</b></font>",
+                                "Lipopolysachcharide befinden sich an/in der äußeren Membran von gramnegativen Bakterien und verhindern Phagocytose<br><br><u><b>Aufbau:<br></b></u><font color=\"#ff0000\">Lipid A</font>:&nbsp;2 kurze, teils\nverzweigte\nFettsäureketten\nmit Glucosamin\n(GlcN) verestert<br><font color=\"#ff0000\">Kernpolysaccharid</font>:&nbsp;Kernpolysaccharid aus\nca. 5 Zucker mit\nSeitenketten z.B. Heptose oder Ketodesoxyoctonat<br><font color=\"#ff0000\">O-spezifisches Polysaccharid</font>:&nbsp;O-spezifisches Polysaccharid\naus bis zu 200 Zuckern, 40\nWiederholung einer Einheit aus\nzumeist Galactose, Glucose,\nRhamnose und Mannose und\neiner Didesoxyhexosen<u><b><br></b></u>"
+                            ],
+                            "guid": "kX0P5+^CyJ",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wirken&nbsp;Endotoxine? Nenne ein Beipiel.</b></font>",
+                                "Endotoxine sind als Bestandteil einer unversehrten Zelle unschädlich.<br>Freisetzung geschieht durch Lyse der Zelle.<br>➢ Freisetzung führt zur Überstimulation der Wirtsabwehr und\nlöst endotoxischen Schock aus<br><br>Ein Beispiel sind Lipopolysaccharide. Deren&nbsp;Toxizität ist vor allem im Lipid A begründet"
+                            ],
+                            "guid": "LMV.Xg0LP]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist die S-Layer?</b></font>",
+                                "S-Layer (Surface) findet man bei vielen freilebenden Bakterien und Archaeen. Sie sind eine Schicht aus Proteinen oder Glycoproteinen die in hochgradigen Mustern angeordnet sind.<br><br>➢ bei grampositiven an die Peptidoglykanschicht gebunden\n<br>➢ bei gramnegativen an die Lipopolysaccharide der äußeren Membran gebunden\n<br>➢ mögliche Funktionen: Schutz, selektives Sieb, Anheftung von Proteinen, ..."
+                            ],
+                            "guid": "Gdy$E%m&v)",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist das Periplasma?</font></b>",
+                                "Der Zwischenmembranraum der gramnegativen Bakterien. Dort befinden sich spezifische Enzyme &amp; Nährstofftransporter, sowie die Zellwand.<br><br>Im Periplasma herschen oxidierende Bedingungen, während im cytoplasma reduzierende Bedingungen herrschen"
+                            ],
+                            "guid": "q?b^z7ZLct",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was bedeutet „kompaktes Genom“?</b></font>",
+                                "Im Genom sind wenig nicht-codierte-Sequenzen vorhanden<br>- Sequenzen codieren für Proteine, RNAs oder besitzen wichtige regulatorische Aufgaben.<br><br>E.coli: ca. 4 Mio bp, 0,7% nicht codierend<br>H.sapiens: ca. 3 Millrd bp, 98% nicht codierend"
+                            ],
+                            "guid": "JH`0lricw{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Welches Enzym führt die Vernetzung der Zellwand durch?</font></b>",
+                                "Die Transpeptidase"
+                            ],
+                            "guid": "pW):JU&s%G",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie speichern Viren,&nbsp;</b></font><b><font color=\"#ffaa00\">Pro- und Eukaryoten</font></b><font color=\"#ffaa00\"><b>&nbsp;ihre Erbinformationen?</b></font>",
+                                "Pro- und Eukaryoten speichern DNA (im Zellkern oder an der Zellwand als Nucleoid assoziiert)<br>Viren verwenden RNA"
+                            ],
+                            "guid": "LifY*WTSR|",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie viele Chromosomensätze und Replikationsursprnge weisen Pro- und Eukaryoten auf?</b></font>",
+                                "Prokaryoten sind meist haploid und weisen einen Replikationsursprung auf.<br>Eukaryoten sind meist diploid und haben mehrere Repikationsursprünge."
+                            ],
+                            "guid": "Q;*D8hQ{/F",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne Beispiele für extrachromosomale DNA</b></font>",
+                                "Mitichondriale DNA, DNA von Plastiden oder Plasmide"
+                            ],
+                            "guid": "y@W=!/%6%?",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist ein Operon?</font></b>",
+                                "Die Organisationsform bakterieller Gene.<br><br><u>Aufbau:</u><br>Promotor - Gene<br>→ entweder transkribiert das Operon Monocistronische oder polycistronische RNA (also 1 oder mehr Proteine)<br>→ es gibt keine Unterteilung in Introns und Exons"
+                            ],
+                            "guid": "en+HO[1Eu#",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was besagt die Unterteilung in Monocistronische und Polycistronische RNA?</b></font>",
+                                "<img src=\"paste-e6173e1cab15cf6d988fbf985280d6643828492b.jpg\">"
+                            ],
+                            "guid": "H*un.hBF#o",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist ein Regulon?</font></b>",
+                                "Eine funktionelle Einheit aus Genen\noder Operons, die sich an\nunterschiedlichen Stellen des\nChromosoms befinden und\ndemselben Regulator unterliegen"
+                            ],
+                            "guid": "t&l1hg0NOu",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
                                 "Ron"
                             ]
                         }
@@ -40749,6 +41185,34 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -42505,6 +42969,18 @@
                                 "Cytosol: Zellflüssigkeit (Wasser und gelöste Proteine, Salze, Zucker)<br><br>Cytoplasma: Cytosol+Organellen+Inklusionen (große unlösliche Partikel<br><br>Protoplasma: Cytoplasma+Nukleus<br><br>Nukleoplasma: Flüssigkeit im Nukleus<img src=\"paste-cfeb66aa5251e16cc250fbf1aae977e351b74078.jpg\">"
                             ],
                             "guid": "i;e|W+pI(}",
+                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
+                            "tags": [
+                                "BdZVO9"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zwei Methoden zur Zellfraktionierung<br>",
+                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
+                            ],
+                            "guid": "v[nl_[.}(W",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": [
                                 "BdZVO9"
@@ -46190,46 +46666,6 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Zwei Methoden zur Zellfraktionierung<br>",
-                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
-                            ],
-                            "guid": "v[nl_[.}(W",
-                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
-                            "tags": [
-                                "BdZVO9"
-                            ]
                         }
                     ]
                 }
@@ -47391,7 +47827,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-e8f4e",
             "req": [
                 [
                     0,
