@@ -6394,20 +6394,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was versteht man unter Taxonomie und Phylogenie?",
-                                "- Die Lehre von evolutionären Verwandschaften zwischen Gruppen von Organismen<br><br><br>--&gt; zuerst durch morphologische Merkmale, jetzt durch DNA-Analysen"
-                            ],
-                            "guid": "x$_x*=_p+F",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "da2b75f6091246d8a1512aa588a4fff3-ao-1",
                                 "",
                                 "<img src=\"tmpt46q2ibi.png\" />",
@@ -8567,7 +8553,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Beschreibe die kolonienbildende&nbsp;<i>Kugelalge&nbsp;&nbsp;</i><i>Volvox&nbsp;</i>&nbsp; etwas genauer<br>",
-                                "-<i>Volvox </i>ist die am weitesten entwickelte Familie der Algen, die spherische Kolonien bildet<br><br>-<i>Volvox </i>besteht aus mehreren tausend (den <i>Chlamydomonas</i>&nbsp;ähnlichen) flagellären Zellen<br><br>-<i>&nbsp;</i>die einzelnen Zellen von&nbsp;<i>Volvox</i>&nbsp;sind durch cytoplasmatische Brücken verbunden und bilden ein <font color=\"#aa0000\">Syncitium</font>&nbsp;<br><br><i>-</i>&nbsp;die Hülle von&nbsp;<i>Volvox</i>&nbsp;ist von einem gelatineartigen Glycoprotein gefüllt<br><br>- Die Zellen schwimmen sehr koordiniert (anteriore und posteriore Pole)<br><br>-&nbsp;<i>Volvox </i>lebt in Frischwasser"
+                                "-<i>Volvox </i>ist die am weitesten entwickelte Familie der Algen, die spherische Kolonien bildet<br><br>-<i>Volvox </i>besteht aus mehreren tausend (den <i>Chlamydomonas</i>&nbsp;ähnlichen) flagellären Zellen<br><br>-<i>&nbsp;</i>die einzelnen Zellen von&nbsp;<i>Volvox</i>&nbsp;sind durch cytoplasmatische Brücken verbunden und bilden ein <font color=\"#aa0000\">Syncitium</font>&nbsp;<br><br><i>-</i>&nbsp;die Hülle von&nbsp;<i>Volvox</i>&nbsp;ist von einer gelatineartigen Glycoprotein umschlossen<br><br>- Die Zellen schwimmen sehr koordiniert (anteriore und posteriore Pole)<br><br>-&nbsp;<i>Volvox </i>lebt in Frischwasser"
                             ],
                             "guid": "q6I)E9_q,7",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -12468,7 +12454,6 @@
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
                         "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
-                        "paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg",
                         "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
                         "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
@@ -14016,123 +14001,6 @@
                                 "Eine funktionelle Einheit aus Genen\noder Operons, die sich an\nunterschiedlichen Stellen des\nChromosoms befinden und\ndemselben Regulator unterliegen"
                             ],
                             "guid": "t&l1hg0NOu",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<font color=\"#ffaa00\"><b>An welcher Stelle der DNA Doppelhelix setzen Enzyme an?</b></font>",
-                                "An der großen Furche"
-                            ],
-                            "guid": "j$vUMaD9Nn",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b><font color=\"#ffaa00\">Nenne die Pyrimidin Basen</font></b>",
-                                "Cytosin Thymin Uracil"
-                            ],
-                            "guid": "rL{*n!u!@9",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b><font color=\"#ffaa00\">Nenne die Purin Basen</font></b>",
-                                "Adenin Guanin"
-                            ],
-                            "guid": "A_<@GqA)Hd",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<font color=\"#ffaa00\"><b>Welches Basenpaar (GC oder AT) weist eine höhere Schmelztemperatur auf, und warum?</b></font>",
-                                "Schmelztemperatur eines DNA-Strang mit GCPaaren ist höher als eines mit AT-Paaren<br>➢ 3 Wasserstoffbrücken zwischen Guanin und Cytosin\n<br>➢ 2 Wasserstoffbrücken zwischen Adenin und Thymin"
-                            ],
-                            "guid": "uhF2F,sLO%",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b><font color=\"#ffaa00\">Womit werden Nukleotide erweitert / was wird angebaut</font></b>",
-                                "Vorläufer jedes Nucleotids ist ein Desoxynucleosid-5´-triphosphat (dATP, dTTP, dCTP, dGTP)<br><br>Angebaut wird am 3´Ende"
-                            ],
-                            "guid": "j_>DAXzEvn",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<font color=\"#ffaa00\"><b>Wie liegt DNA in Escherichia Coli vor?</b></font>",
-                                "<img src=\"paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg\">"
-                            ],
-                            "guid": "zhzA78.79B",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<font color=\"#ffaa00\"><b>Inwelche Richtung ist das Genom von E.Coli spiralisiert und in welche seine DNA?</b></font>",
-                                "Genom E. coli negativ überspiralisiert – entgegengesetzt der rechtsgängigen Doppelhelix"
-                            ],
-                            "guid": "cVit49qY0",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b><font color=\"#ffaa00\">Was machen die Topoisomerasen Typ 1 &amp; 2</font></b>",
-                                "<u>Die&nbsp;Typ-I-Topoisomerase:</u>&nbsp;verursacht Einzelstrangbrüche, nicht gebrochener Strang wird durch den\nBruch geführt<br><br>→<font color=\"#ff0000\">entfernt</font> dadurch <font color=\"#ff0000\">Superspiralisierung</font> <font color=\"#ff0000\">ohne</font> <font color=\"#ff0000\">ATP</font> Hydrolyse (1 Untereinheit)<br><br><u>Die&nbsp;Typ-II-Topoisomerase:</u>&nbsp;verursacht Doppelstrangbrüche,&nbsp;nicht gebrochene Region der dsDNA wird\ndurch den Bruch geführt<br><br>→<font color=\"#ff0000\">führt</font> damit <font color=\"#ff0000\">Superspiralisierung ein</font> <font color=\"#ff0000\">mit</font> <font color=\"#ff0000\">ATP</font> Hydrolyse (mehrere Untereinheiten)"
-                            ],
-                            "guid": "P,m@Vxzcc^",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "MBVO4",
-                                "Ron"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<font color=\"#ffaa00\"><b>Welcher Zucker wird in DNA verbaut, und welcher in RNA?</b></font>",
-                                "Desoxyribose in DNA und Ribose in RNA"
-                            ],
-                            "guid": "xW{aE60VT%",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO4",
@@ -41492,34 +41360,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -43276,18 +43116,6 @@
                                 "Cytosol: Zellflüssigkeit (Wasser und gelöste Proteine, Salze, Zucker)<br><br>Cytoplasma: Cytosol+Organellen+Inklusionen (große unlösliche Partikel<br><br>Protoplasma: Cytoplasma+Nukleus<br><br>Nukleoplasma: Flüssigkeit im Nukleus<img src=\"paste-cfeb66aa5251e16cc250fbf1aae977e351b74078.jpg\">"
                             ],
                             "guid": "i;e|W+pI(}",
-                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
-                            "tags": [
-                                "BdZVO9"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Zwei Methoden zur Zellfraktionierung<br>",
-                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
-                            ],
-                            "guid": "v[nl_[.}(W",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": [
                                 "BdZVO9"
@@ -46973,6 +46801,46 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zwei Methoden zur Zellfraktionierung<br>",
+                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
+                            ],
+                            "guid": "v[nl_[.}(W",
+                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
+                            "tags": [
+                                "BdZVO9"
+                            ]
                         }
                     ]
                 }
@@ -47898,10 +47766,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "MBVO4",
-                "Ron"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
