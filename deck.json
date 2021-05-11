@@ -10698,6 +10698,19 @@
                             "guid": "w29y95#(FD",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Stelle die Evolution der Algen von der Einzelligkeit zur Mehrzelligkeit knapp dar.",
+                                "1) Monadale Algen<br>--&gt; einzellig, beweglich, Phototaxis<br><br>2) Kokkale Organisation<br>--&gt; einige wenige einzellige Algen bilden Aggregate (Algen sind nach Zellteilung von einander getrennt, finden später zusammen)<br><br>3) Kolonie<br>--&gt; viele hunderte bis tausende einzellige Algen sind miteinander verbunden (Algen bleiben nach der Zellteilung beieinander)<br>--&gt; Gallerte, Cytoplasma-Brücken<br><br>4) trichale Organisation<br>--&gt; NEUERUNG in der Evolution:<br>- Zellen teilen nun eine Zellwand und bilden lange Fäden (einschneide Scheitelzelle)<br><br>5) trichal-plectenchymatische Organisation<br>--&gt; Fäden verkleben, verfilzen und bilden \"Pseudoorgane\"<br><br>6) Parenchymatische Organisation<br>--&gt; zweischneidige Scheitelzelle (Neuausrichtung der Zellplatte) erlaubt zweidimensionale Strukturen<br>--&gt; dreischneidige Scheitelzelle erlaubt DREIdimensionale Strukturen<br>--&gt; Rhizoide, Cauloide, Phylloide"
+                            ],
+                            "guid": "pDr8c{>C9A",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO3",
+                                "Vince"
+                            ]
                         }
                     ]
                 },
@@ -47776,7 +47789,10 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "BdOIIVO3",
+                "Vince"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
