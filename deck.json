@@ -10688,6 +10688,16 @@
                                 "BdOIIVO4",
                                 "Vince"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Findet man Thalli nur bei den Braunalgen?",
+                                "Nein, es gibt auch einige Grünalgen mit Thalli"
+                            ],
+                            "guid": "w29y95#(FD",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
                         }
                     ]
                 },
