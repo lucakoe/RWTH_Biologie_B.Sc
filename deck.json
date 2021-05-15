@@ -2082,12 +2082,202 @@
                                 "ff1491b3a4e64173b96df8079437ac0f-ao-8-A.svg",
                                 "ff1491b3a4e64173b96df8079437ac0f-ao-8-Q.svg",
                                 "ff1491b3a4e64173b96df8079437ac0f-ao-O.svg",
+                                "paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg",
+                                "paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg",
+                                "paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg",
+                                "paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg",
                                 "tmp0fr1usxs.png",
                                 "tmp_c5mjhfq.png",
                                 "tmp_jaw8iho.png"
                             ],
+                            "mid": 1615896418982,
                             "name": "Glossar Bau der Organismen II",
                             "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist die primäre Zellwand?",
+                                        "- dünne, flexible und ausdehnbare Schicht, die während des Zellwachstuns gebildet wird<br>"
+                                    ],
+                                    "guid": "rD,;=2A_h=",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO1",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist die sekundäre Zellwand?",
+                                        "- dicke Schicht, die in der Primärzellwand gebildet wird, nachdem das Zellwachstum abgeschlossen ist.<br><br><i>(die sek. Zellwand ist nicht in allen Zelltypen zu finden)</i>"
+                                    ],
+                                    "guid": "pFeUm7DwJ+",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO1",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Taxonomie?",
+                                        "Unter Taxonomie versteht man die Klassifizierung, Identifizierung und Bennung von Organismen (erst nach morphologischen Merkmalen)"
+                                    ],
+                                    "guid": "jJ@Y}qBV_n",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Kladistik?",
+                                        "Kladistik ist das Verfahren, Organismen nach gleichen erworbenen Merkmalen zu kategorisieren"
+                                    ],
+                                    "guid": "Hj!>zo9i_D",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO2",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Phylogenie?",
+                                        "auch Stammesentwicklung genannt<br><br>Phylogenie ist eine Hypothese über die evolutionäre Geschichte der taxonomischen Gruppen"
+                                    ],
+                                    "guid": "KM>F-|gbs`",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO2",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Definition von Pflanzen ist die gängigste, welche Eigenschaften macht sie aus und wie viele Spezies umfasst sie?",
+                                        "1) die <font color=\"#aa0000\">Viridiplantae</font> (Grünpflanzen)<br><br>2)Organismen, welche:<br><br>- <font color=\"#aa0000\">Chlorophyll a und b </font>besitzen<br>- Plastiden mit <font color=\"#aa0000\">nur zwei Membranen</font> haben<br>- in der Lage sind, <font color=\"#aa0000\">Stärke zu speichern</font><br>- typischerweise <font color=\"#aa0000\">Cellulose in der Zellwand</font> besitzen (mit Ausnahmen)<br><br>- ca. 350.000 Spezies"
+                                    ],
+                                    "guid": "Ea%RBFZB]a",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Pyrenoid und was ist seine Bedeutung?",
+                                        "-der Pyrenoid ist eine spherischer, suborganelle Struktur in den Plastiden von Algen und manchen Hornmoosen<br><br>- der Pyrenoid ist ein Bereich im Stroma, frei von Thylokoiden<br><br>- dort sammeln sich parakristalline Aggregate von RuBisCo<br><br>- Pyrenoide sind oft von Fetttröpfchen umgeben (entsteht bei der Photosynthese)"
+                                    ],
+                                    "guid": "O|6wL[!G1!",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Unterschied zwischen einer&nbsp;<i>&nbsp;Kolonie&nbsp;</i>&nbsp;und einem <i>Aggregat</i>?",
+                                        "Kolonie:<br>- besteht aus undifferenzierten Zellen, die <font color=\"#aa0000\">direkt</font>&nbsp;<font color=\"#aa0000\">nach </font>Zellteilung beieinander bleiben&nbsp;<img src=\"paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg\"><br><br>Aggregat:<br>-besteht aus Zellen, die nicht direkt Nach der Zellteilung zusammenbleiben, sondern <font color=\"#aa0000\">später fusionieren können</font><br><img src=\"paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg\"><br>"
+                                    ],
+                                    "guid": "yu.OZ.CV3-",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Gewebe",
+                                        "Gewebe liegt auf einem Organisationsniveau zwischen Zellen und vollständigen Organen.&nbsp;<br><br>Gewebe sind eine Ansammlung ähnlicher Zellen des gleichen Ursprungs mit gleicher Funktion"
+                                    ],
+                                    "guid": "ErI]<f)>AO",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Organ",
+                                        "Ein Organ ist eine Gruppe von Geweben, die zusammen dieselbe Funktion ausüben"
+                                    ],
+                                    "guid": "P=5*Op1XaG",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Parenchym",
+                                        "Das Parenchym ist ein characteristisches Gewebe eines Organs (und macht damit den Großteil dessen Gewichts aus)"
+                                    ],
+                                    "guid": "Oey-BM`2~u",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Pseudo-Parenchym",
+                                        "Eine Pseudoparenchym ist eine eng verknüpfte Ansammlung von Hyphen, Haaren oder Filamenten, die zusammen eine durchgehende Schicht von Gewebe bilden.<br><br>Dieses Gewebe spiegelt ein Parenchym wieder, ist aber nicht wirklich ein Parenchym."
+                                    ],
+                                    "guid": "JA4x6E&cye",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Erkläre das Konzept der \"Scheitelzelle\"",
+                                        "1) eine Scheitelzelle ist eine Zelle, die sich immer wieder teilt<br><br>2) diese Zelle hat eine Frontseite und bis zu drei \"Schneiden\"&nbsp;<img src=\"paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg\"><br>3) Entlang der Schneiden findet die Zellteilung statt, die Tochterzellen sind nicht symmetrisch<img src=\"paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg\"><br>"
+                                    ],
+                                    "guid": "p*n9P$GDA?",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere \"Thallus\"",
+                                        "1) Thallus ist Gewebe von Algen, Pilzen und Flechten, welches nicht in echte Blätte, Stängel und Wurzeln differenziert ist<br><br>2) als Thallus kann man gesamte Organismen nennen, welche keine Differenzierung aufweisen<br><br>3) Thalli können analoge Strukturen (ähnlich in Funktion und makroskopischer Struktur) zu den Organen der Gefäßpflanzen bilden"
+                                    ],
+                                    "guid": "fTrAEvf#Lf",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -3167,6 +3357,196 @@
                                     "guid": "Ka#w4v):(i",
                                     "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Desmotubulus?",
+                                        "Der Desmotubulus ist eine schmale Struktur, die durch die Plasmodesmata verläuft. Der Tubus verbindet das ER zweier Zellen miteinander"
+                                    ],
+                                    "guid": "bAr;.bBY0}",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind die Phycophyta?",
+                                        "Die Algen:<br><br>-alle eukaryotischen, pflanzenartigen Organismen, die Photosynthese betreiben"
+                                    ],
+                                    "guid": "b|foJ!im+{",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist Chlamodomonas?",
+                                        "eine Grünalge auf der <font color=\"#aa0000\">monadalen&nbsp;</font>Organisationsstufe&nbsp;"
+                                    ],
+                                    "guid": "t-lkBR@k}2",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist ein <i>Stigma</i>?",
+                                        "Das Stigma ist der Augenapparat in flagellären Zellen der Grünalgen"
+                                    ],
+                                    "guid": "e+0X?+W4l",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist <i>Euglena</i>?",
+                                        "Euglena ist eine Grünalge auf der<font color=\"#aa0000\">&nbsp;monadalen </font>Organisationsstufe"
+                                    ],
+                                    "guid": "iTn:;5v+l9",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind <i>Diatome?</i>",
+                                        "<i>Diatome </i>sind eine Gruppe von Algen (der \"Goldalgen\") auf der <font color=\"#aa0000\">kokkalen </font>Organisationsstufe"
+                                    ],
+                                    "guid": "Oy&R=)~EA#",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist <i>Scenedesmus?</i>",
+                                        "<i>Scenedesmus </i>ist eine Grünalge auf der <font color=\"#aa0000\">kokkalen </font>Organisationsstufe. <i>Scenedesmus </i>bildet <font color=\"#aa0000\">Aggregate&nbsp;</font>"
+                                    ],
+                                    "guid": "xp#e]{?Q-|",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist <i>Volvox?</i><!--EndFragment--><!--EndFragment-->",
+                                        "Volvox ist eine <font color=\"#aa0000\">Kolonie </font>aus Algen, die der Grünalge <i>Chlamydomonas </i>sehr ähnlich sind."
+                                    ],
+                                    "guid": "r(J6?mMC/=",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was macht die trichale Organisationsstufe aus?",
+                                        "trichale (filamentöse) Algen bestehen aus Algenzellen, die lange Ketten bilden.&nbsp;<br><br>Die Tochterzellen blieben nach der Zellteilung miteinander assoziiert (<font color=\"#aa0000\">evolutionäre Innovation)&nbsp;</font>"
+                                    ],
+                                    "guid": "t!#&pAYXmM",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist <i>Spirogyra?</i>",
+                                        "Spirogyra ist eine Alge auf der <font color=\"#aa0000\">trichalen </font>Organisationsstufe"
+                                    ],
+                                    "guid": "u;F=wf%kjs",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Rhodophyta?",
+                                        "Rotalgen"
+                                    ],
+                                    "guid": "L+-?4)g+Xt",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Rhizoid",
+                                        "\"wurzelartige\" Struktur"
+                                    ],
+                                    "guid": "zslG[rwq89",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Cauloid",
+                                        "\"sprossachsenartige\" Struktur"
+                                    ],
+                                    "guid": "Q9jqv~t#`8",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Phylloid",
+                                        "\"blattartige\" Struktur"
+                                    ],
+                                    "guid": "QdBlBkN@F2",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Phaeophyceae",
+                                        "Braunalgen"
+                                    ],
+                                    "guid": "uuXos:#QC%",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Blau-grün-Algen?",
+                                        "Diese sind prokaryotische Organismen (Cyanobakterien) und keine Algen!&nbsp;<br>--&gt; Begriff ist irreführend"
+                                    ],
+                                    "guid": "db%!C0O_?@",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist eine Flechte?",
+                                        "eine Symbiose aus Pilz und Alge"
+                                    ],
+                                    "guid": "y>Vy<SQcX|",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie bezeichnet man den Pilz in einer Flechte?",
+                                        "Als Mycobiont"
+                                    ],
+                                    "guid": "i3rppBd|PY",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie bezeichnet man die Alge in einer Flechte auch?",
+                                        "Als Photobiont"
+                                    ],
+                                    "guid": "vCze/EI<%)",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": []
                                 }
                             ]
                         },
@@ -4087,18 +4467,14 @@
                         "paste-19e59b4bf24e4501750b4cdf5e9f2df718265821.jpg",
                         "paste-23e8266872636112d4f0b77a400fa735762fabba.jpg",
                         "paste-260aef8daad928a22ad077ed6d419232e5fce357.jpg",
-                        "paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg",
                         "paste-3a0de11544d2ce47f8fd9481148f6d2ab3a35796.jpg",
-                        "paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg",
                         "paste-45e25cd2d1c30e9b525b4b1d2c96f84ae7b182c6.jpg",
                         "paste-4a9dd20ae93e1dd3cfeaf226c7b2d66f96f68d3c.jpg",
                         "paste-4be65eadb29645c206c9dbed3d3f8ce04b967984.jpg",
                         "paste-4cdd2ec33273d66125a76c6b32e4bb34133a5040.jpg",
                         "paste-55bceb26b57eb9057f13be52af78c2c6dfbb75ec.jpg",
                         "paste-57cc88574873706b07c1e5d81c490de0534d2950.jpg",
-                        "paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg",
                         "paste-58c7d2908700a76bf1fd320ff5186ac82f2cd518.jpg",
-                        "paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg",
                         "paste-6533b4ce5ad10d0b0a87eafea64ab5eb07efa6a6.jpg",
                         "paste-6942b243fe87314a90fdc7edf9b9e0ee12060cd4.jpg",
                         "paste-69710f58141cac7ca2423d9df56434b768e9a10d.jpg",
@@ -4809,19 +5185,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die primäre Zellwand?",
-                                "- dünne, flexible und ausdehnbare Schicht, die während des Zellwachstuns gebildet wird<br>"
-                            ],
-                            "guid": "rD,;=2A_h=",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO1",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "9450f66b0d0c45bb82276a934510e7ee-ao-1",
                                 "",
                                 "<img src=\"tmpdc2tpk9o.png\" />",
@@ -4976,19 +5339,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die sekundäre Zellwand?",
-                                "- dicke Schicht, die in der Primärzellwand gebildet wird, nachdem das Zellwachstum abgeschlossen ist.<br><br><i>(die sek. Zellwand ist nicht in allen Zelltypen zu finden)</i>"
-                            ],
-                            "guid": "pFeUm7DwJ+",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO1",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Was sind Plasmodesmata, was ist ihre Funktion und wie viele gibt es ca. in einer Zelle?",
                                 "1) Kanäle, die das Cytoplasma zweier Zellen direkt miteinander verbinden<br>--&gt; <font color=\"#aa0000\">\"lebende Brücken\"</font><br><br>2) ähnlich zu<i> Gap junctions</i> der Tierzellen:<div>- erlauben Zell Kommunikation<br><div>- Plasmodesmata erlauben den Fluss von Molekülen von einer Zelle in die andere<br>--&gt; durch Regulation der Kanäle, kann der Transport von kleinen Molekülen ermöglicht werden (z.B. Zucker, Salze, Aminosäuren)<br>- Durch das verbundene Cytoplasma kann man Pflanzenzellen als Syncytium bezeichen (<b>multinucleare Masse</b> mit verbundenem Cytoplasma)<br><br>3) zwischen 10<sup>3</sup>&nbsp;und 10<sup>5</sup>&nbsp;Plasmodesmata pro Zelle<sup>&nbsp;</sup></div></div>"
                             ],
@@ -5103,7 +5453,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Aus welcher Struktur besteht die Zellwand und was vermitteln ihre einzelnen&nbsp;Bestandteile.&nbsp;",
+                                "Aus welcher Struktur besteht die Zellwand und was vermitteln ihre einzelnen&nbsp;Bestandteile?",
                                 "Die Zellwand ist ein komplexes System aus <b><font color=\"#ff5500\">extrazellulärer Matrix</font></b>, welche jede Zelle umschließt.<br><br>Die ECM basiert wie auch bei den tierischen Zellen auf mehreren Komponenten.&nbsp;<br>1) die <font color=\"#ff5500\">Faserkomponente (Cellulose)&nbsp;</font>vermittelt <b>Zugfestigkeit </b>und ist in die<br>2) <font color=\"#ff5500\">Matrixkomponente (Pectin)</font>, welche <b>Druckfestigkeit </b>vermittelt, eingebettet."
                             ],
                             "guid": "GFV8Xx^,l8",
@@ -6044,62 +6394,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was versteht man unter Taxonomie und Phylogenie?",
-                                "- Die Lehre von evolutionären Verwandschaften zwischen Gruppen von Organismen<br><br><br>--&gt; zuerst durch morphologische Merkmale, jetzt durch DNA-Analysen"
-                            ],
-                            "guid": "x$_x*=_p+F",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was versteht man unter Taxonomie?",
-                                "Unter Taxonomie versteht man die Klassifizierung, Identifizierung und Bennung von Organismen (erst nach morphologischen Merkmalen)"
-                            ],
-                            "guid": "jJ@Y}qBV_n",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was versteht man unter Kladistik?",
-                                "Kladistik ist das Verfahren, Organismen nach gleichen erworbenen Merkmalen zu kategorisieren"
-                            ],
-                            "guid": "Hj!>zo9i_D",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was versteht man unter Phylogenie?",
-                                "auch Stammesentwicklung genannt<br><br>Phylogenie ist eine Hypothese über die evolutionäre Geschichte der taxonomischen Gruppen"
-                            ],
-                            "guid": "KM>F-|gbs`",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "da2b75f6091246d8a1512aa588a4fff3-ao-1",
                                 "",
                                 "<img src=\"tmpt46q2ibi.png\" />",
@@ -6519,20 +6813,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Definition von Pflanzen ist die gängigste, welche Eigenschaften macht sie aus und wie viele Spezies umfasst sie?",
-                                "1) die <font color=\"#aa0000\">Viridiplantae</font> (Grünpflanzen)<br><br>2)Organismen, welche:<br><br>- <font color=\"#aa0000\">Chlorophyll a und b </font>besitzen<br>- Plastiden mit <font color=\"#aa0000\">nur zwei Membranen</font> haben<br>- in der Lage sind, <font color=\"#aa0000\">Stärke zu speichern</font><br>- typischerweise <font color=\"#aa0000\">Cellulose in der Zellwand</font> besitzen (mit Ausnahmen)<br><br>- ca. 350.000 Spezies"
-                            ],
-                            "guid": "Ea%RBFZB]a",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "6d78e174037e4e9b8d0c21bfabc8f958-ao-1",
                                 "",
                                 "<img src=\"tmpniruztry.png\" />",
@@ -6802,20 +7082,6 @@
                                 "1) Spirogyra spec: spiralischer Megaplast<br><img src=\"paste-3a0de11544d2ce47f8fd9481148f6d2ab3a35796.jpg\"><br>2) Haematococcus: Becherförmiger Chloroplast<img src=\"paste-a1812e0854a85bdbd215bc49b013f5c0a6d41f71.jpg\"><br>"
                             ],
                             "guid": "Hk,gc89u2a",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was ist der Pyrenoid und was ist seine Bedeutung?",
-                                "-der Pyrenoid ist eine spherischer, suborganelle Struktur in den Plastiden von Algen und manchen Hornmoosen<br><br>- der Pyrenoid ist ein Bereich im Stroma, frei von Thylokoiden<br><br>- dort sammeln sich parakristalline Aggregate von RuBisCo<br><br>- Pyrenoide sind oft von Fetttröpfchen umgeben (entsteht bei der Photosynthese)"
-                            ],
-                            "guid": "O|6wL[!G1!",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "2",
@@ -7650,7 +7916,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist<i>&nbsp;Chlamydomononas</i>?<br><br>Was sind die Eigenschaften von&nbsp;<i>Chlamydomononas</i>?",
+                                "Was ist<i>&nbsp;Chlamydomononas</i>?<br><br>Was sind die Eigenschaften von&nbsp;<i>Chlamydomononas</i>?<br><br>Zeichne die Alge <i>Chlamydomonas</i>&nbsp;mit ihren wichtigsten Strukturen auf",
                                 "1)&nbsp;<i>Chlamydomononas:<br>- </i>gehört zu den <font color=\"#aa0000\">monadalen</font> Organismen<br>- ist eine unizelluläre Grünalge<br>- lebt im Wasser und in feuchter Erde<br>- hat zwei Flagellen<br>- besitzt einen \"Auge\" (<i>Stigma</i>)<br>- ist ein Modellorganismus (besonders im Hinblick auf Flagelläre Bewegung und Chloroplasten)<br><br>"
                             ],
                             "guid": "fC(S[[G,:>",
@@ -8260,19 +8526,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist der Unterschied zwischen einer&nbsp;<i>&nbsp;Kolonie&nbsp;</i>&nbsp;und einem <i>Aggregat</i>?",
-                                "Kolonie:<br>- besteht aus undifferenzierten Zellen, die <font color=\"#aa0000\">direkt</font>&nbsp;<font color=\"#aa0000\">nach </font>Zellteilung beieinander bleiben&nbsp;<img src=\"paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg\"><br><br>Aggregat:<br>-besteht aus Zellen, die nicht direkt Nach der Zellteilung zusammenbleiben, sondern <font color=\"#aa0000\">später fusionieren können</font><br><img src=\"paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg\"><br>"
-                            ],
-                            "guid": "yu.OZ.CV3-",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO3",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Beschreibe die Aggregate bildende Alge <i>Pediastrum&nbsp;</i>&nbsp;etwas genauer.",
                                 "-<i>Pediastrum </i>ist eine nonmotile und coenobiale Alge<br><font color=\"#aa0000\">(coenobial: bildet Aggregate mit einer festen Anzahl an Zellen und wenig bis keiner Spezialisierung)&nbsp;</font><br><br>-<i>Pediastrum </i>lebt in Frischwasser<br><br>-<i>Pediastrum </i>bildet flache, runde <i>Coenobia </i>von 4-128 Zellen<br>(hängt von der Spezies ab)"
                             ],
@@ -8300,7 +8553,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Beschreibe die kolonienbildende&nbsp;<i>Kugelalge&nbsp;&nbsp;</i><i>Volvox&nbsp;</i>&nbsp; etwas genauer<br>",
-                                "-<i>Volvox </i>ist die am weitesten entwickelte Familie der Algen, die spherische Kolonien bildet<br><br>-<i>Volvox </i>besteht aus mehreren tausend (den <i>Chlamydomonas</i>&nbsp;ähnlichen) flagellären Zellen<br><br>-<i>&nbsp;</i>die einzelnen Zellen von&nbsp;<i>Volvox</i>&nbsp;sind durch cytoplasmatische Brücken verbunden und bilden ein <font color=\"#aa0000\">Syncitium</font>&nbsp;<br><br><i>-</i>&nbsp;die Hülle von&nbsp;<i>Volvox</i>&nbsp;ist von einem gelatineartigen Glycoprotein gefüllt<br><br>- Die Zellen schwimmen sehr koordiniert (anteriore und posteriore Pole)<br><br>-&nbsp;<i>Volvox </i>lebt in Frischwasser"
+                                "-<i>Volvox </i>ist die am weitesten entwickelte Familie der Algen, die spherische Kolonien bildet<br><br>-<i>Volvox </i>besteht aus mehreren tausend (den <i>Chlamydomonas</i>&nbsp;ähnlichen) flagellären Zellen<br><br>-<i>&nbsp;</i>die einzelnen Zellen von&nbsp;<i>Volvox</i>&nbsp;sind durch cytoplasmatische Brücken verbunden und bilden ein <font color=\"#aa0000\">Syncitium</font>&nbsp;<br><br><i>-</i>&nbsp;die Hülle von&nbsp;<i>Volvox</i>&nbsp;ist von einer gelatineartigen Glycoprotein umschlossen<br><br>- Die Zellen schwimmen sehr koordiniert (anteriore und posteriore Pole)<br><br>-&nbsp;<i>Volvox </i>lebt in Frischwasser"
                             ],
                             "guid": "q6I)E9_q,7",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -8351,60 +8604,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Definiere Gewebe",
-                                "Gewebe liegt auf einem Organisationsniveau zwischen Zellen und vollständigen Organen.&nbsp;<br><br>Gewebe sind eine Ansammlung ähnlicher Zellen des gleichen Ursprungs mit gleicher Funktion"
-                            ],
-                            "guid": "ErI]<f)>AO",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO3",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Definiere Organ",
-                                "Ein Organ ist eine Gruppe von Geweben, die zusammen dieselbe Funktion ausüben"
-                            ],
-                            "guid": "P=5*Op1XaG",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO3",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Definiere Parenchym",
-                                "Das Parenchym ist ein characteristisches Gewebe eines Organs (und macht damit den Großteil dessen Gewichts aus)"
-                            ],
-                            "guid": "Oey-BM`2~u",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO3",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Definiere Pseudo-Parenchym",
-                                "Eine Pseudoparenchym ist eine eng verknüpfte Ansammlung von Hyphen, Haaren oder Filamenten, die zusammen eine durchgehende Schicht von Gewebe bilden.<br><br>Dieses Gewebe spiegelt ein Parenchym wieder, ist aber nicht wirklich ein Parenchym."
-                            ],
-                            "guid": "JA4x6E&cye",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO3",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Bei welchen Organismen findet man eine filamentöse Organisation?",
-                                "1) Bei Rotalgen (Rhodophyta) und Fruchtkörpern von Pilzen findet man ein <font color=\"#aa0000\">sog.&nbsp;</font><span style=\"color: rgb(170, 0, 0);\">Pseudoparenchym&nbsp;</span><font color=\"#aa0000\">&nbsp;(auch als&nbsp;</font><span style=\"color: rgb(170, 0, 0);\">Plectenchym&nbsp;</span><font color=\"#aa0000\">bekannt)&nbsp;</font><br>--&gt; Filamente, die sich zusammenlagern<br><br>2) die Art von Organisation ist eine evolutionäre Sackgasse<br><br>3) Plectenchyme können z.B. bei Rotalgen blätterartige Strukturen bilden<br><img src=\"paste-23e8266872636112d4f0b77a400fa735762fabba.jpg\"><br>"
+                                "1) Bei Rotalgen (Rhodophyta) und Fruchtkörpern von Pilzen findet man ein <font color=\"#aa0000\">sog.&nbsp;</font><span style=\"color: rgb(170, 0, 0);\">Pseudoparenchym&nbsp;</span><font color=\"#aa0000\">&nbsp;(auch als&nbsp;</font><span style=\"color: rgb(170, 0, 0);\">Plectenchym&nbsp;</span><font color=\"#aa0000\">bekannt)&nbsp;</font><br>--&gt; Filamente, die sich zusammenlagern<br><br>2) die Art von Organisation ist eine evolutionäre Sackgasse<br><br>3) Plectenchyme können z.B. bei Rotalgen blätterartige Strukturen bilden (und bei den Pilzen den Fruchtkörper)&nbsp;<br><img src=\"paste-23e8266872636112d4f0b77a400fa735762fabba.jpg\"><br>"
                             ],
                             "guid": "B&W263pgM/",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -8420,19 +8621,6 @@
                                 "1) die Rhodophyta sind eine der ältesten und größten (5000-6000 Arten) Gruppen der eukaryotischen Algen<br><br>2) Rhodophyta sind multizellulär und marin<br><br>3) durch Phycobiliproteine erscheinen sie rot<br><br>4) viele Korallenalgen (sekretieren Calciumcarbonat; bauen Korallenriffe) gehören zu den Rhodophyta"
                             ],
                             "guid": "vk&AMrGa:Z",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO3",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Erkläre das Konzept der \"Scheitelzelle\"",
-                                "1) eine Scheitelzelle ist eine Zelle, die sich immer wieder teilt<br><br>2) diese Zelle hat eine Frontseite und bis zu drei \"Schneiden\"&nbsp;<img src=\"paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg\"><br>3) Entlang der Schneiden findet die Zellteilung statt, die Tochterzellen sind nicht symmetrisch<img src=\"paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg\"><br>"
-                            ],
-                            "guid": "p*n9P$GDA?",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "BdOIIVO3",
@@ -8521,19 +8709,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Definiere \"Thallus\"",
-                                "1) Thallus ist Gewebe von Algen, Pilzen und Flechten, welches nicht in echte Blätte, Stängel und Wurzeln differenziert ist<br><br>2) als Thallus kann man gesamte Organismen nennen, welche keine Differenzierung aufweisen<br><br>3) Thalli können analoge Strukturen (ähnlich in Funktion und makroskopischer Struktur) zu den Organen der Gefäßpflanzen bilden"
-                            ],
-                            "guid": "fTrAEvf#Lf",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "BdOIIVO3",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Was ist <i>Ulva Lactuca </i>und was macht sie besonders?",
                                 "1)&nbsp;<i>Ulva Lactuca </i>(Meersalat)&nbsp;weist einfache parenchymale Thalli auf:<br><br><i>Ulva Lactuca </i>besitzt Blätter, die zwei Zellen dick sind (distromatisch)<br>--&gt; diese Zellen sind zwar untereinander verbunden, weisen aber keine Differenzierung auf<br><br>-&nbsp;<i>Ulva Lactuca&nbsp;</i>&nbsp;ist folios:<br>- hat Schichten aus Zellen, keine Stängel"
                             ],
@@ -8548,7 +8723,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was macht sind Braunalgen (Phaeophyceae) und was macht sie aus?",
-                                "1) Braunalgen sind eine Große Gruppe (1500-2000 Spezies) von marinen, multizellulären Algen<br><br>2) Auch Seetang gehört zu den Braunalgen<br><br>3) Braunalgen spielen eine große Rolle als Nahrung und Habitate<br><br>4) Braunalgen haben Chloroplasten mit vier Membranen (Merkmal der Stramenopila)<br><br>5) simple Braunalgen sind filamentös, aber die meisten sind<br>pseudoparenchymatisch (plectenchymatisch) mit Pseudoorganen wie:<br>- Rhizoide (\"wie eine Wurzel\")<br>- Cauloide (\"wie eine Sprossachse\")<br>- Phylloide (\"wie ein Blatt\")&nbsp;<br><br>6) Bsp. : Fucus (Blasentang)<br><img src=\"paste-19e59b4bf24e4501750b4cdf5e9f2df718265821.jpg\"><br>"
+                                "1) Braunalgen sind eine Große Gruppe (1500-2000 Spezies) von marinen, multizellulären Algen<br><br>2) Auch Seetang gehört zu den Braunalgen<br><br>3) Braunalgen spielen eine große Rolle als Nahrung und Habitate<br><br>4) Braunalgen haben Chloroplasten mit vier Membranen (Merkmal der Stramenopila)<br><br>5) simple Braunalgen sind filamentös, aber die meisten sind<br>pseudoparenchymatisch (plectenchymatisch) und parenchymatisch mit Pseudoorganen wie:<br>- Rhizoide (\"wie eine Wurzel\")<br>- Cauloide (\"wie eine Sprossachse\")<br>- Phylloide (\"wie ein Blatt\")&nbsp;<br><br>6) Bsp. : Fucus (Blasentang)<br><img src=\"paste-19e59b4bf24e4501750b4cdf5e9f2df718265821.jpg\"><br>"
                             ],
                             "guid": "yJ&WgvWx$*",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -10513,6 +10688,29 @@
                                 "BdOIIVO4",
                                 "Vince"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Findet man Thalli nur bei den Braunalgen?",
+                                "Nein, es gibt auch einige Grünalgen mit Thalli"
+                            ],
+                            "guid": "w29y95#(FD",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Stelle die Evolution der Algen von der Einzelligkeit zur Mehrzelligkeit knapp dar.",
+                                "1) Monadale Algen<br>--&gt; einzellig, beweglich, Phototaxis<br><br>2) Kokkale Organisation<br>--&gt; einige wenige einzellige Algen bilden Aggregate (Algen sind nach Zellteilung von einander getrennt, finden später zusammen)<br><br>3) Kolonie<br>--&gt; viele hunderte bis tausende einzellige Algen sind miteinander verbunden (Algen bleiben nach der Zellteilung beieinander)<br>--&gt; Gallerte, Cytoplasma-Brücken<br><br>4) trichale Organisation<br>--&gt; NEUERUNG in der Evolution:<br>- Zellen teilen nun eine Zellwand und bilden lange Fäden (einschneide Scheitelzelle)<br><br>5) trichal-plectenchymatische Organisation<br>--&gt; Fäden verkleben, verfilzen und bilden \"Pseudoorgane\"<br><br>6) Parenchymatische Organisation<br>--&gt; zweischneidige Scheitelzelle (Neuausrichtung der Zellplatte) erlaubt zweidimensionale Strukturen<br>--&gt; dreischneidige Scheitelzelle erlaubt DREIdimensionale Strukturen<br>--&gt; Rhizoide, Cauloide, Phylloide"
+                            ],
+                            "guid": "pDr8c{>C9A",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdOIIVO3",
+                                "Vince"
+                            ]
                         }
                     ]
                 },
@@ -12274,13 +12472,20 @@
                         "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg",
                         "paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg",
                         "paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg",
+                        "paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg",
+                        "paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg",
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
+                        "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
+                        "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
+                        "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
                         "paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg",
                         "paste-bcbc0a6c9f57590ffed2658b22d9f07d132ab715.jpg",
+                        "paste-c9db96f1415b2706ece1ef4347c2f5c49a2c9d47.jpg",
                         "paste-ccd567c63520c1fc46288ca022f9fa993932063a.jpg",
                         "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg",
+                        "paste-e6173e1cab15cf6d988fbf985280d6643828492b.jpg",
                         "paste-f0797874d67ad2f80c92cbef635b34e5e7b60507.jpg",
                         "tmplop7k095.png"
                     ],
@@ -13393,6 +13598,435 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist das?</b></font><img src=\"paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg\">",
+                                "Ein Polysom (zahlreiche Ribosomen die eine oder mehrere mRNA translatieren)"
+                            ],
+                            "guid": "jw`u:_,>70",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert eine Röntgenkristallographie?</b></font>",
+                                "Röntgenlicht wird von den im vorraus kristallisierten Makromolekülen gebeugt.<br>➢ Bestimmung der Position jedes einzelnen Atoms im Molekül\n<br>➢ Erzeugung eines computergenerierten Modells mittels der Daten"
+                            ],
+                            "guid": "Mvu>7~%AK:",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie geht man die Bestimmung der Funktion eines Gens/des von ihm transkribierten Proteins an?</b></font>",
+                                "Genetische Analyse von&nbsp;Mutanten liefert Informationen über funktionale Zusammenhänge"
+                            ],
+                            "guid": "h;<qkS5?-w",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Beschreibe eine PAGE und den Unterschied zwischen PAGE und SDS-PAGE</font></b>",
+                                "<img src=\"paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg\">"
+                            ],
+                            "guid": "sT%-1E|r>h",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Eine 2-D-PAGE Proteom Analyse besteht aus welchen 2 Analyseverfahren?<br></b></font>",
+                                "1. Auftrennung nach dem Isoelektrischen Punkt → Isoelektrische Fokussierung (IEF)\n2. Auftrennung nach dem Molekulargewicht → SDS-PAGE"
+                            ],
+                            "guid": "zV*oz3H98m",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne die drei -bolismen</font></b>",
+                                "<b>Katabolismus</b> – Abbau von Stoffen\nz. B. zur Energiegewinnung\n<br><br><b>Anabolismus</b> – Aufbau von (Makro)Molekülen\nzum Wachstum\n<br><br><b>Metabolismus</b> = Summe aller chemischen Reaktionen in der Zelle = Katabolismus + Anabolismus"
+                            ],
+                            "guid": "Gxr]?!o;LQ",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was gehört zum Nucleoid der Bakterien?</b></font>",
+                                "Genom (DNA Strang und Plasmide) + NAPs (nucleoid-associated proteins)"
+                            ],
+                            "guid": "PuZ`AGrnZ3",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne die 4 Hauptschichten der&nbsp;Hülle einer E. coli Zelle</font></b>",
+                                "<img src=\"paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg\">"
+                            ],
+                            "guid": "xwi>EN<`DS",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne das wichtigste&nbsp;</b></font><b><font color=\"#ffaa00\">bakterielle Phospholipid</font></b>",
+                                "Phosphatidylethanolamin"
+                            ],
+                            "guid": "Q7T0w9Nyb",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist die Transitionstemperatur?</b></font>",
+                                "➢ oberhalb der Transitionstemperatur\nist die Membran fluid\n<br>➢ Phospholipide mit langen Fettsäureketten erhöhen i.d.R. die\nTransitionstemperatur\n<br>➢ Phospholipide mit ungesättigte\nFettsäureketten erniedrigen i.d.R.\ndie Transitionstemperatur"
+                            ],
+                            "guid": "x7T_>.T^KD",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was machen&nbsp;Hopanoide</font></b>",
+                                "Sie sind <font color=\"#ff0000\">das Cholesterin in Prokaryoten<br></font><br>➢ mittlere Temperatur ➔ laterale Bewegung der Phospholipide wird abgebremst ➔ Fluidität der Membran\nwird herabgesetzt\n<br><br>➢ niedrige Temperatur ➔ Ausbildung einer regelmäßigen Packung der Phospholipide wird gestört ➔\nVerfestigung der Membran wird verhindert<br>"
+                            ],
+                            "guid": "v,t?H&b=}~",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne Anpassungen in den Membranen von Archaeen</b></font>",
+                                "➢ stabilere Etherbindung statt Esterbindung zwischen Glycerin und Fettsäure<br>→ erlaubt Black Smoker als Lebensraum<br><br>➢ Kohlenwasserstoffketten der Phosholipide sind verzweigte Terpenoide\n<br><br>➢ teilweise Lipidmonoschicht aus Diglycerintetraether&nbsp;<br>→bilden&nbsp;Cyclopentanringe die zur Versteifung der\nMembran bei Stress führen"
+                            ],
+                            "guid": "dRmM41P$[]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne einige einige Aufgaben von Membranproteinen</b></font>",
+                                "Transport, Struktur, Energiespeicherung, Kommunikation, Sekretion, Detektion usw."
+                            ],
+                            "guid": "ljMiS&;%@Q",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus besteht die bakterielle Zellwand?</b></font>",
+                                "➢ bakterielle Zellwände bestehen aus dem Polymer Peptidoglykan<br><br>Glykankette – Polymer aus Disacchariden (N-Acetylglucosamin + N-Acetylmuraminsäure)\nparallele Anordnung der Glykanketten, durch Tetrapeptide quervernetzt"
+                            ],
+                            "guid": "Rgi!P?c:X$",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus besteht Peptidoglycan?</b></font>",
+                                "<img src=\"paste-c9db96f1415b2706ece1ef4347c2f5c49a2c9d47.jpg\">"
+                            ],
+                            "guid": "M@toF,N[A`",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie werden Tetramere in Peptidoglycan verknüpft?</b></font>",
+                                "<img src=\"paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg\">"
+                            ],
+                            "guid": "xmRyE;6kxN",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wirkt Ampizillin auf Prokaryonten?</b></font>",
+                                "<img src=\"paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg\">"
+                            ],
+                            "guid": "nE3Qn1uAS=",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist die Murein-Schicht?</b></font>",
+                                "Ein Synonym für die Zellwand der Prokaryoten.<br><br>Murein ist wiederum ein Synonym für Peptidoglycan."
+                            ],
+                            "guid": "P^4k@j33vp",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe die Zellwandeigensachaften grampositiver Bakterien</b></font>",
+                                "bis zu<font color=\"#ff0000\"> 40 Peptidoglycanschichten</font> (oft mit <font color=\"#ff0000\">Lysin</font> statt mDiaminopimmelinsäure)<br><br><font color=\"#ff0000\">&nbsp;Teichonsäuren</font>&nbsp;(8-50 Glycerin oder Ribitolmoleküle, über PO4- Brücken verestert)<br>→negativ geladen<br>→angeheftete Zucker oder Aminosäuren<br><br><font color=\"#ff0000\">Lipoteichonsäuren</font> sind mit Membranlipiden der Zellmembran verknüpft"
+                            ],
+                            "guid": "DOLLW1l)NV",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe die Zellwand-Eigenschaften gramnegativer Zellen</b></font>",
+                                "<font color=\"#ff0000\">Periplasma</font> mit Zellwand aus 1-2 Schichten Peptidoglycanohne Teichonsäuren.<br><br>Äußere Membran mit toxischen &amp; patogenen Eigenschaften, sowie Proteinen wie z.B. Porinen<br>→<font color=\"#ff0000\">Lipopolysaccharide</font> außen Schützen vor Phagocytose<br>→<font color=\"#ff0000\">Lipoproteine</font> verbinden Peptidoglycan und die äußere Membran<br><br>"
+                            ],
+                            "guid": "Jjcft#Qy_~",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welches ist das bedeutendste Lipoproteinin gramnegativen Bakterien?</b></font>",
+                                "Das bedeutendste ist das Murein-Lipoprotein\n<br>➢ N-terminal Cystein mit drei Fettsäureketten in der oberen Zellwand<br>➢ C-terminal Lysin\n<br>➢ Lysin über Amidbindung mit m-DAP (m-A2pm) an Tetrapeptiden verbunden"
+                            ],
+                            "guid": "w?mw[*y~2X",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus bestehen Lipopolysaccharide ud wo findet man sie?</b></font>",
+                                "Lipopolysachcharide befinden sich an/in der äußeren Membran von gramnegativen Bakterien und verhindern Phagocytose<br><br><u><b>Aufbau:<br></b></u><font color=\"#ff0000\">Lipid A</font>:&nbsp;2 kurze, teils\nverzweigte\nFettsäureketten\nmit Glucosamin\n(GlcN) verestert<br><font color=\"#ff0000\">Kernpolysaccharid</font>:&nbsp;Kernpolysaccharid aus\nca. 5 Zucker mit\nSeitenketten z.B. Heptose oder Ketodesoxyoctonat<br><font color=\"#ff0000\">O-spezifisches Polysaccharid</font>:&nbsp;O-spezifisches Polysaccharid\naus bis zu 200 Zuckern, 40\nWiederholung einer Einheit aus\nzumeist Galactose, Glucose,\nRhamnose und Mannose und\neiner Didesoxyhexosen<u><b><br></b></u>"
+                            ],
+                            "guid": "kX0P5+^CyJ",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wirken&nbsp;Endotoxine? Nenne ein Beipiel.</b></font>",
+                                "Endotoxine sind als Bestandteil einer unversehrten Zelle unschädlich.<br>Freisetzung geschieht durch Lyse der Zelle.<br>➢ Freisetzung führt zur Überstimulation der Wirtsabwehr und\nlöst endotoxischen Schock aus<br><br>Ein Beispiel sind Lipopolysaccharide. Deren&nbsp;Toxizität ist vor allem im Lipid A begründet"
+                            ],
+                            "guid": "LMV.Xg0LP]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist die S-Layer?</b></font>",
+                                "S-Layer (Surface) findet man bei vielen freilebenden Bakterien und Archaeen. Sie sind eine Schicht aus Proteinen oder Glycoproteinen die in hochgradigen Mustern angeordnet sind.<br><br>➢ bei grampositiven an die Peptidoglykanschicht gebunden\n<br>➢ bei gramnegativen an die Lipopolysaccharide der äußeren Membran gebunden\n<br>➢ mögliche Funktionen: Schutz, selektives Sieb, Anheftung von Proteinen, ..."
+                            ],
+                            "guid": "Gdy$E%m&v)",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist das Periplasma?</font></b>",
+                                "Der Zwischenmembranraum der gramnegativen Bakterien. Dort befinden sich spezifische Enzyme &amp; Nährstofftransporter, sowie die Zellwand.<br><br>Im Periplasma herschen oxidierende Bedingungen, während im cytoplasma reduzierende Bedingungen herrschen"
+                            ],
+                            "guid": "q?b^z7ZLct",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was bedeutet „kompaktes Genom“?</b></font>",
+                                "Im Genom sind wenig nicht-codierte-Sequenzen vorhanden<br>- Sequenzen codieren für Proteine, RNAs oder besitzen wichtige regulatorische Aufgaben.<br><br>E.coli: ca. 4 Mio bp, 0,7% nicht codierend<br>H.sapiens: ca. 3 Millrd bp, 98% nicht codierend"
+                            ],
+                            "guid": "JH`0lricw{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Welches Enzym führt die Vernetzung der Zellwand durch?</font></b>",
+                                "Die Transpeptidase"
+                            ],
+                            "guid": "pW):JU&s%G",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO3",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie speichern Viren,&nbsp;</b></font><b><font color=\"#ffaa00\">Pro- und Eukaryoten</font></b><font color=\"#ffaa00\"><b>&nbsp;ihre Erbinformationen?</b></font>",
+                                "Pro- und Eukaryoten speichern DNA (im Zellkern oder an der Zellwand als Nucleoid assoziiert)<br>Viren verwenden RNA"
+                            ],
+                            "guid": "LifY*WTSR|",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie viele Chromosomensätze und Replikationsursprnge weisen Pro- und Eukaryoten auf?</b></font>",
+                                "Prokaryoten sind meist haploid und weisen einen Replikationsursprung auf.<br>Eukaryoten sind meist diploid und haben mehrere Repikationsursprünge."
+                            ],
+                            "guid": "Q;*D8hQ{/F",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne Beispiele für extrachromosomale DNA</b></font>",
+                                "Mitichondriale DNA, DNA von Plastiden oder Plasmide"
+                            ],
+                            "guid": "y@W=!/%6%?",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist ein Operon?</font></b>",
+                                "Die Organisationsform bakterieller Gene.<br><br><u>Aufbau:</u><br>Promotor - Gene<br>→ entweder transkribiert das Operon Monocistronische oder polycistronische RNA (also 1 oder mehr Proteine)<br>→ es gibt keine Unterteilung in Introns und Exons"
+                            ],
+                            "guid": "en+HO[1Eu#",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was besagt die Unterteilung in Monocistronische und Polycistronische RNA?</b></font>",
+                                "<img src=\"paste-e6173e1cab15cf6d988fbf985280d6643828492b.jpg\">"
+                            ],
+                            "guid": "H*un.hBF#o",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist ein Regulon?</font></b>",
+                                "Eine funktionelle Einheit aus Genen\noder Operons, die sich an\nunterschiedlichen Stellen des\nChromosoms befinden und\ndemselben Regulator unterliegen"
+                            ],
+                            "guid": "t&l1hg0NOu",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
                                 "Ron"
                             ]
                         }
@@ -47155,7 +47789,10 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "BdOIIVO3",
+                "Vince"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -47391,7 +48028,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-e8f4e",
             "req": [
                 [
                     0,
