@@ -9226,6 +9226,20 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Was versteht man unter Taxonomie und Phylogenie?",
+                                "- Die Lehre von evolutionären Verwandschaften zwischen Gruppen von Organismen<br><br><br>--&gt; zuerst durch morphologische Merkmale, jetzt durch DNA-Analysen"
+                            ],
+                            "guid": "x$_x*=_p+F",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "2",
+                                "BdOIIVO",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "da2b75f6091246d8a1512aa588a4fff3-ao-1",
                                 "",
                                 "<img src=\"tmpt46q2ibi.png\" />",
@@ -15400,6 +15414,7 @@
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
                         "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
+                        "paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg",
                         "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
                         "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
@@ -15409,7 +15424,9 @@
                         "paste-ccd567c63520c1fc46288ca022f9fa993932063a.jpg",
                         "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg",
                         "paste-e6173e1cab15cf6d988fbf985280d6643828492b.jpg",
+                        "paste-eb33a09942888baf0a7e7add2e95d985ea86dcb8.jpg",
                         "paste-f0797874d67ad2f80c92cbef635b34e5e7b60507.jpg",
+                        "paste-fc2ddc285b276944cb3f82dad3bf6d9aed8b85ab.jpg",
                         "tmplop7k095.png"
                     ],
                     "mid": 1619373994423,
@@ -16947,6 +16964,448 @@
                                 "Eine funktionelle Einheit aus Genen\noder Operons, die sich an\nunterschiedlichen Stellen des\nChromosoms befinden und\ndemselben Regulator unterliegen"
                             ],
                             "guid": "t&l1hg0NOu",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>An welcher Stelle der DNA Doppelhelix setzen Enzyme an?</b></font>",
+                                "An der großen Furche"
+                            ],
+                            "guid": "j$vUMaD9Nn",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne die Pyrimidin Basen</font></b>",
+                                "Cytosin Thymin Uracil"
+                            ],
+                            "guid": "rL{*n!u!@9",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne die Purin Basen</font></b>",
+                                "Adenin Guanin"
+                            ],
+                            "guid": "A_<@GqA)Hd",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welches Basenpaar (GC oder AT) weist eine höhere Schmelztemperatur auf, und warum?</b></font>",
+                                "Schmelztemperatur eines DNA-Strang mit GCPaaren ist höher als eines mit AT-Paaren<br>➢ 3 Wasserstoffbrücken zwischen Guanin und Cytosin\n<br>➢ 2 Wasserstoffbrücken zwischen Adenin und Thymin"
+                            ],
+                            "guid": "uhF2F,sLO%",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Womit werden Nukleotide erweitert / was wird angebaut</font></b>",
+                                "Vorläufer jedes Nucleotids ist ein Desoxynucleosid-5´-triphosphat (dATP, dTTP, dCTP, dGTP)<br><br>Angebaut wird am 3´Ende"
+                            ],
+                            "guid": "j_>DAXzEvn",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie liegt DNA in Escherichia Coli vor?</b></font>",
+                                "<img src=\"paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg\">"
+                            ],
+                            "guid": "zhzA78.79B",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Inwelche Richtung ist das Genom von E.Coli spiralisiert und in welche seine DNA?</b></font>",
+                                "Genom E. coli negativ überspiralisiert – entgegengesetzt der rechtsgängigen Doppelhelix"
+                            ],
+                            "guid": "cVit49qY0",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was machen die Topoisomerasen Typ 1 &amp; 2</font></b>",
+                                "<u>Die&nbsp;Typ-I-Topoisomerase:</u>&nbsp;verursacht Einzelstrangbrüche, nicht gebrochener Strang wird durch den\nBruch geführt<br><br>→<font color=\"#ff0000\">entfernt</font> dadurch <font color=\"#ff0000\">Superspiralisierung</font> <font color=\"#ff0000\">ohne</font> <font color=\"#ff0000\">ATP</font> Hydrolyse (1 Untereinheit)<br><br><u>Die&nbsp;Typ-II-Topoisomerase:</u>&nbsp;verursacht Doppelstrangbrüche,&nbsp;nicht gebrochene Region der dsDNA wird\ndurch den Bruch geführt<br><br>→<font color=\"#ff0000\">führt</font> damit <font color=\"#ff0000\">Superspiralisierung ein</font> <font color=\"#ff0000\">mit</font> <font color=\"#ff0000\">ATP</font> Hydrolyse (mehrere Untereinheiten)"
+                            ],
+                            "guid": "P,m@Vxzcc^",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welcher Zucker wird in DNA verbaut, und welcher in RNA?</b></font>",
+                                "Desoxyribose in DNA und Ribose in RNA"
+                            ],
+                            "guid": "xW{aE60VT%",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist Semikonservative Replikation?</font></b>",
+                                "Der Mechanismus zur DNA Replikation in allen bekannten Zellen. Helikasen entwinden die Doppelhelix und beide Einzelstränge dienen als Matrizen für jeweils eine neue Doppelhelix. Replikation verläuft antiparallel. (Leit- und Folgestrang)"
+                            ],
+                            "guid": "rAG$&0j2R_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wieviele Replikationsstartpunkte besitzen die meisten Prokaryoten?</b></font>",
+                                "1 Origin (OriC)"
+                            ],
+                            "guid": "r.5iK*9/Z!",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie schnell ist eine bakterielle DNA Polymerase?</b></font>",
+                                "Ca. 2000 Nukleotide/s (flott - Mensch: ca. 50 Nukleotide/s je Replikationsgabel)"
+                            ],
+                            "guid": "N=<K|34bBy",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>In welche Richtung verläuft die Replikation des Bakteriellen Genoms?</b></font>",
+                                "Es entstehen 2 Replikationsgabeln die in entgegengesetzte Richtungen verlaufen \"<font color=\"#ff0000\">bidirektionale Replikation</font>\"&nbsp;<br><br>Die Replikation endet an der Terminationssequenz"
+                            ],
+                            "guid": "uNuF&%%kl$",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist die DnaA?</font></b>",
+                                "Ein<font color=\"#ff0000\"> Initiatorprotein</font> welches die DNA Replikation der Prokaryoten aktiviert.<br><br>Ist DnaA abwesend, dann inhibiert<font color=\"#ff0000\"> SeqA </font>die&nbsp;Initiation<br><br>Für die Initiation müssen beide Stränge in der oriC Region vollständig von der&nbsp;DNA-Adenin-Methylase <font color=\"#ff0000\">(DAM) methyliert</font> sein.&nbsp;"
+                            ],
+                            "guid": "AC>MFt72hh",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie ist die oriC Region aufgebaut?</b></font>",
+                                "Bsp. E. coli :&nbsp; ca.250 Basenpaare<br><br>AT-reiche 13bp Repeats&nbsp;<br>DnaA box 9bp Repeats"
+                            ],
+                            "guid": "C4Gaue^6<b",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie bindet die DnaA an die oriC Region und woher stammt die Energie für die initiation der DNA-Schmelze?</b></font>",
+                                "<font color=\"#ff0000\">20 – 40 aktive DnaA Monomere</font> (DnaA-ATP) binden an die 9 bp repeats im oriC (DnaA-box)<br><br>Energie für die Initiation stammt\naus der <font color=\"#ff0000\">ATP-Spaltung</font><br><br>viele AT-Paare in der oriC Region\n→ erleichtert die Schmelzung<br>"
+                            ],
+                            "guid": "e{VA+?Hz5<",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist die Replikationsblase? Wie unterscheidet sie sich von den Replikationsgabeln?</font></b>",
+                                "Die Öffnung, die während des Beginns der Replikation im DNA-Strang vorhanden ist.<br>Prokarioten haben (oh wunder) nur eine, da sie nur einen OriC besitzen .<br><br>Replikationsgabeln sind Strukturen in der Replikationsblase, die das tatsächliche Auftreten der Replikation angeben."
+                            ],
+                            "guid": "Kirm|7CHu{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was machen DnaB und DnaC?</b></font>",
+                                "DnaB ist die DNA-Helikase in Prokaryoten (entwindet DNA)<br>DnaC ist das Helikaseladeprotein"
+                            ],
+                            "guid": "N.|zm/SgP+",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was sind SSB Proteine?</b></font>",
+                                "einzelstrangbindende Proteine\nSSB <i>(single-stranded DNA-binding\nproteins)</i> schützen die DNA vor\nNukleaseaktivität"
+                            ],
+                            "guid": "mR1vUYjo{w",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe den Job der DnaG</b></font>",
+                                "DNA-Primase DnaG synthetisiert 10 – 12 Nucleotide langen RNA-Primer"
+                            ],
+                            "guid": "H=}$!nB/qb",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was benötigt die DNA Polymerase III von Prokaryoten unbedingt?</b></font>",
+                                "2 gleitende Klammern (beta-Untereinheiten)<br>eine an jeden Strang<br>"
+                            ],
+                            "guid": "P(2Fp&~FFo",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Zu welchem Typ Topoisomerase gehört die DNA-Gyrase?</b></font>",
+                                "II → sie führt negative Spiralisierung ein"
+                            ],
+                            "guid": "v|$hp=]).V",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Benenne die 3 Hauptphasen der DNA Replikation</b></font>",
+                                "Initiation<br>Elongation<br>Termination<br><br>(→Reparatur ist immer spezifisch)"
+                            ],
+                            "guid": "LTV_c@A~Cm",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe kurz bidirektionale Replikation</b></font>",
+                                "Replikation beginnt am Ursprung, dem <font color=\"#ff0000\">oriC</font> (origin)<br><font color=\"#ff0000\">zwei Replikationsgabeln</font> entstehen und laufen in entgegengesetzte Richtungen<br>an jeder Gabel wird ein Strang <font color=\"#ff0000\">kontinuierlich</font>\nin <font color=\"#ff0000\">5´→ 3´</font>-Richtung synthetisiert<br>zweiter Strang wird diskontinuierlich\nin 5´→ 3´-Richtung synthetisiert.(<font color=\"#ff0000\">Okazaki Fragmente</font>)<br>"
+                            ],
+                            "guid": "P|SC(IEp[{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Benenne die&nbsp;wichtigste replikative DNA-Polymerase der Prokaryoten</font></b>",
+                                "DNA-Polymerase III<br><br>(1000nt/s, hohe Prozessivität &amp; gute Korrekturlesefunktion)"
+                            ],
+                            "guid": "j5A@5a&u+3",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie weit sind RNA Primer bei Prokaryoten typischerweise voneinander entfernt?</b></font>",
+                                "1000bp"
+                            ],
+                            "guid": "Dq:B.KH,%@",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie werden die RNA Primer entfernt?</b></font>",
+                                "<font color=\"#ff0000\">RNase H</font> entfernt den Primer<br><font color=\"#ff0000\">DNA Polymerase 1</font> setzt an und <font color=\"#ff0000\">DNA Ligase </font>klebt die enden zusammen"
+                            ],
+                            "guid": "OZ!Z*b:Q2x",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Ist die folgende Aussage korrekt?<br>\"Prokaryoten besitzen einen OriC und eine Terminationssequenz\"</b></font>",
+                                "Nein, die&nbsp;Terminationsregion beinhaltet mehrere Terminationssequenzen (ter)"
+                            ],
+                            "guid": "rD,DC;UJbD",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wird die Struktur der 2 DNA Tochtermoleküle nach der Replikation genannt?</b></font>",
+                                "<img src=\"paste-eb33a09942888baf0a7e7add2e95d985ea86dcb8.jpg\">"
+                            ],
+                            "guid": "ty0QANYI/=",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie kann eine Prokaryotische Zelle ein Cartenan Auflösen?</b></font>",
+                                "<img src=\"paste-fc2ddc285b276944cb3f82dad3bf6d9aed8b85ab.jpg\">"
+                            ],
+                            "guid": "FRuw2og%HF",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie schnell repliziert sich ein E. coli unter optimalen Bedingungen und warum benötigt es dafür genaue Regulierung?</b></font>",
+                                "Die Generationszeit unter optimalen Bedingungen beträgt 20 min.<br><br>Eine vollständige Replikation des E. coli Chromosoms benötigt aber 40 Minuten!<br>Die neue Replikationsrunde beginnt also bevor die alte beendet ist\n<br><br>➢ Initiationszeitpunkt muss reguliert und koordiniert sein"
+                            ],
+                            "guid": "gT/DHDwXnJ",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne 3 Fakten zur Plasmidreplikation</font></b>",
+                                "Es gilt:<br>→ Replizieren Autonom (eigener Ori)<br>→ Benötigen&nbsp;chromosomal codierte Enzyme für die Replikation<br>→ Plasmide differieren in ihrer Anzahl pro Zelle\n➔ high-copy/low-copy Plasmide<br>→&nbsp;Replikation bidirektional – Theta<br>→&nbsp;rolling circle Replikation"
+                            ],
+                            "guid": "EM&L&:K|s)",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"color: rgb(255, 170, 0);\">Wie funktioniert die<i> rolling circle </i>Replikation von Plasmiden?</b>",
+                                "(vorallem bei Grampositiven Bakterien)<br><br>ein <font color=\"#ff0000\">RepA-Dimer</font> verursacht einen Einzelstrangbruch im oriC und bindet an das <font color=\"#ff0000\">5´</font>-Ende<br>das freie 3´-OH-Ende dient als Primer, der intakte Strang als Matrize. SSBs stabilisieren den Einzelstrang<br><br>Nach vollständiger kontinuierlicher Synthese verbindet RepA beide Enden des gespaltenen Strangs und dier wird diskontinuierlich mit DNA Polymerase 3 &amp; 1, DNA-Ligase und RNA Polymerase repliziert."
+                            ],
+                            "guid": "Cp9B2]ny4_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie stabil sind - und wie viele von tRNA mRNA und rRNA gibt es je Bakterienzelle?</b></font>",
+                                "<b>mRNA: </b>kurzlebig (15sec-1min in Eukaryoten bis zu Stunden) ~4000 verschiedene<br><br><b>tRNA:</b> relativ stabil, da gefaltet. 5S, 16S, 23S rRNA Moleküle\nbei Prokaryoten<br><br><b>rRNA: </b>relativ stabil, da gefaltet. ~30 verschiedene ~80basen lang"
+                            ],
+                            "guid": "wH&NVkat;{",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO4",
@@ -44306,6 +44765,34 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -46062,6 +46549,18 @@
                                 "Cytosol: Zellflüssigkeit (Wasser und gelöste Proteine, Salze, Zucker)<br><br>Cytoplasma: Cytosol+Organellen+Inklusionen (große unlösliche Partikel<br><br>Protoplasma: Cytoplasma+Nukleus<br><br>Nukleoplasma: Flüssigkeit im Nukleus<img src=\"paste-cfeb66aa5251e16cc250fbf1aae977e351b74078.jpg\">"
                             ],
                             "guid": "i;e|W+pI(}",
+                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
+                            "tags": [
+                                "BdZVO9"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zwei Methoden zur Zellfraktionierung<br>",
+                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
+                            ],
+                            "guid": "v[nl_[.}(W",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": [
                                 "BdZVO9"
@@ -49747,46 +50246,6 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Zwei Methoden zur Zellfraktionierung<br>",
-                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
-                            ],
-                            "guid": "v[nl_[.}(W",
-                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
-                            "tags": [
-                                "BdZVO9"
-                            ]
                         }
                     ]
                 }
@@ -50713,8 +51172,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "BdoIIVO5",
-                "Vince"
+                "MBVO4",
+                "Ron"
             ],
             "tmpls": [
                 {
@@ -51074,7 +51533,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-6a70e",
             "req": [
                 [
                     0,
