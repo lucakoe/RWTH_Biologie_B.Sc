@@ -15425,6 +15425,7 @@
                         "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg",
                         "paste-e6173e1cab15cf6d988fbf985280d6643828492b.jpg",
                         "paste-eb33a09942888baf0a7e7add2e95d985ea86dcb8.jpg",
+                        "paste-ee62a59fed98588d67340b6ca5e1160f53fb6289.jpg",
                         "paste-f0797874d67ad2f80c92cbef635b34e5e7b60507.jpg",
                         "paste-fc2ddc285b276944cb3f82dad3bf6d9aed8b85ab.jpg",
                         "tmplop7k095.png"
@@ -17406,6 +17407,266 @@
                                 "<b>mRNA: </b>kurzlebig (15sec-1min in Eukaryoten bis zu Stunden) ~4000 verschiedene<br><br><b>tRNA:</b> relativ stabil, da gefaltet. 5S, 16S, 23S rRNA Moleküle\nbei Prokaryoten<br><br><b>rRNA: </b>relativ stabil, da gefaltet. ~30 verschiedene ~80basen lang"
                             ],
                             "guid": "wH&NVkat;{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist nach den Promotorregionen auf der DNA codiert?</b></font>",
+                                "Direkt nach dem Promotor beginnt die Transkription. Nach einer Leitsequenz folgen Translationsstart und Translationsstopp. Auf eine weitere Leitsequenz folgt die Transkriptionstermination."
+                            ],
+                            "guid": "Mpc03Pn2,M",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus besteht das&nbsp;RNA-Polymerase-Holoenzym?</b></font>",
+                                "die RNA-Polymerase besteht aus dem Core-Enzym (aabb‘w) und dem Sigma-Faktor (s)<br><br>Sigma für Initiation<br>Core-Enzym für Elongation"
+                            ],
+                            "guid": "s$[ZXNT-vU",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woran erkennt der sigma70 Faktor den Transkriptionsstart am Promotor?</b></font>",
+                                "An der&nbsp;-35 Region und der -10 Region, Pribnow-Box<br><br>äquivalent dazu die TATA-Box in Eukaryoten"
+                            ],
+                            "guid": "K%`bF3o0FI",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Bleibt der Sigma Faktor für die gesamte Transkription an der RNA-Polymerase?</b></font>",
+                                "Nein, nach&nbsp;Bildung von ca. 9 bp verlässt der Sigma-Faktor\nden Komplex."
+                            ],
+                            "guid": "KmUjs%kA:7",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche 2 Terminationen für Transkription bei Prokaryoten existieren?</b></font>",
+                                "Rho abhängig und Rho unabhängig"
+                            ],
+                            "guid": "jrnBan5$S{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist Rho? Was macht es?</b></font>",
+                                "Ein Terminationsprotein für die Transkription.<br><br>Bindet als Hexamer an GC reiche RNA Regionen.<br>→ RNA Polymerasestopp (durch&nbsp;Transkriptionspause-Struktur)<br><br>Wickelt sich in RNA ein, bis es bei der Polymerase ankommt.<br>→ bei Kontakt wird der RNA-DNA Hybrid in der Polymerase entwunden<br><br>⇒ Transkript wird freigesetzt"
+                            ],
+                            "guid": "i[K<SsFq%N",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie verläuft die Rho unabhängige DNA Transkription?</b></font>",
+                                "Eine GC-Reiche Region in der mRNA mit umgekehrter Wiederholungssequenz wird transkribiert und bildet eine Haarnadelstruktur mit sich selbst.<br><br>→Die <font color=\"#ff0000\">Haarnadelstruktur</font> stoppt die Polymerase<br><br>⇒Transkript wird freigesetzt"
+                            ],
+                            "guid": "f.Z?-9^rF@",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welches ist das Translations Start-Codon? Welche Aminosäure codiert es?</b></font>",
+                                "AUG - codiert als Startcodon für Formylmethionin<br><br>⇒ als Codon innerhalb der Transkription codiert es für gewöhnliches Methionin"
+                            ],
+                            "guid": "B*[;$h=U+_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welchen Zweck erfüllen weitere Startcodons wie UUG, GUG und CUG neben dem bekannten AUG?</b></font>",
+                                "Sie regulieren die Umsetzungshäufigkeit eines Gens. Ihre Verwendungshäufigkeit korreliert mit der vorhandenen Menge ihrer zugehörigen tRNAs.<br>90% - AUG<br>8,9% - UUG<br>1% - GUG<br>0,1% - CUG<br><br>⇒ AUG kommt am häufigsten vor - wird auch schneller/häufiger abgelesen."
+                            ],
+                            "guid": "ycwK0CgfQw",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wofür kann die Wobbleposition an tRNAs genutzt werden?</b></font>",
+                                "Genregulation<br>→ manche Codons müssen mit Wobble abgelesen werden (dadurch langsamere und seltenere Umsetzung)<br>&nbsp;→ manche Gene besitzen spezielle Codons für die nicht viele tRNAs gebildet werden"
+                            ],
+                            "guid": "Nm>b|6go>/",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Schleifen besitzt eine tRNA und an welchem Ende hängt die jeweilige Aminosäure?</b></font>",
+                                "<img src=\"paste-ee62a59fed98588d67340b6ca5e1160f53fb6289.jpg\"><br>Die speziellen Aminosäuren sind Pseudouridin und Dihydrouridin"
+                            ],
+                            "guid": "x^w!JkQ6ri",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne die verantwortlichen Enzyme für tRNA Beladung</b></font>",
+                                "<b>Aminoacyl-tRNA-Synthetasen&nbsp;</b><br><br>I. aktivierung der AS unter ATP-Hydrolyse<br>II. anheften der AS an die tRNA<br><br>➔ Aminoacyl-tRNA-Synthetasen bestimmen den\ngenetischen Code!"
+                            ],
+                            "guid": "N;nWf!u}ks",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie ist das 70S Ribosom der Prokaryoten aufgebaut?</b></font>",
+                                "<b style=\"text-decoration-line: underline;\">30S Untereinheit:</b><br>16S rRNA + 21 Proteine<br><br><u style=\"font-weight: bold;\">50S Untereinheit:</u><br>5S &amp; 23S rRNA + 31 Proteine"
+                            ],
+                            "guid": "k^4?2Rs+vK",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie sind die rRNAs im Prokaryotengenom codiert?</b></font>",
+                                "→zahlreiche Kopien im Genom<br>→ALLE an einem Promotor (Spacer wie tRNAs dazwischen)<br>⇒ RNase nötig um prärRNA zu trennen<br>&nbsp;"
+                            ],
+                            "guid": "ci=LhUJi=Q",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wo startet die Initiation der Translation (bei Prokaryoten)</b></font>",
+                                "An der Shine-Dalgarno-Sequenz (diese ist&nbsp;komplementär zu einer Sequenz am 3´-Ende der 16S rRNA)"
+                            ],
+                            "guid": "o!=,/@FM2r",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was und wie Initiieren die Initiationsfaktoren IF1 IF2 &amp; IF3 zusammen mit GTP?</b></font>",
+                                "<b><u style=\"\">Die Translation</u></b><br><br><font color=\"#ff0000\">IF3</font> führt mRNA und <font color=\"#ff0000\">30S-UE</font> zusammen<br><font color=\"#ff0000\">IF1</font> blockiert die <font color=\"#ff0000\">A-Site</font> am Ribosom<br><font color=\"#ff0000\">IF2</font> bindet GTP und dirigiert <font color=\"#ff0000\">Formylmethionyl-tRNA</font> zum <font color=\"#ff0000\">AUG</font> an die P-Site<br><br>➢ N-Formylmethionyl-tRNA kann als einzige direkt an die P-Stelle binden<br><br>⇒ IF3 ab, <font color=\"#ff0000\">50SUE</font> dazu, <font color=\"#ff0000\">GDP</font> weg, IF1&amp;2 ab"
+                            ],
+                            "guid": "xjU|@?NfqX",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was machen die Elongationsfaktoren EF-Tu und EF-G?</b></font>",
+                                "<b>EF-Tu-GTP</b> bringt beladene <font color=\"#ff0000\">tRNAs zum Ribosom</font> und verbindet unter GTP Hydrolyse Die Aminosäure mit der <font color=\"#ff0000\">Peptidyltrandferase</font><br><br><b>EF-G-GTP</b>&nbsp;sorgt für die&nbsp;<font color=\"#ff0000\">Verschiebung des Ribosomkomplexes</font> und damit die Entlassung alter tRNA an der E-Site"
+                            ],
+                            "guid": "x~B.W-b#~9",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was passiert, wenn das Ribosom ein Stoppcodon an der mRNA erreicht?</b></font>",
+                                "Freisetzungsfaktor (release factor) <font color=\"#ff0000\">RF1 oder RF2</font> binden dort<br>⇒ Ohne neue Aminosäure am Freisetzungsfaktor baut die Peptidyltransferase quasi \"Luft\" an die Peptidkette an und ist nichtmehr an das werdende Protein gebunden<br><font color=\"#ff0000\">→Protein geht ab</font><br><br><font color=\"#ff0000\">RF3</font> <font color=\"#ff0000\">löst RF1/RF2 ab</font><br><br>Ribosomenrecyclingfaktor <font color=\"#ff0000\">RRF</font> bindet mit EF-G an die A-Stelle<br>→Hydrolyse von GTP<font color=\"#ff0000\"> trennt</font> die beiden <font color=\"#ff0000\">ribosomalen Untereinheiten<br><br>IF3 löst RNAs von 30S UE</font>"
+                            ],
+                            "guid": "v#AU*u1(n{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe den Job einer tmRNA</b></font>",
+                                "Ähnelt mRNA und tRNA<br>→bringt Alanin und eine Taq-Sequenz + Stoppcodon zur mRNA am Ribosom<br><font color=\"#ff0000\">⇒sorgt für Freisetzung blockierter Ribosome und abbau des defekten Proteins</font>"
+                            ],
+                            "guid": "CYe=0CnZ]+",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Ist die Transkription der Eukaryoten mit der Translation gekoppelt?</b></font>",
+                                "Nein<br>darum ist die Regulation schwerer als bei Prokaryoten"
+                            ],
+                            "guid": "NcW#!Izg4?",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO4",
