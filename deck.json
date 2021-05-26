@@ -15410,12 +15410,14 @@
                         "paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg",
                         "paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg",
                         "paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg",
+                        "paste-501e580c59c063952c02380bd21c0a11cad0f9cd.jpg",
                         "paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg",
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
                         "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
                         "paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg",
                         "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
+                        "paste-8ac7ba8661a1b1b84636b230b84456723818320b.jpg",
                         "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
                         "paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg",
@@ -17670,6 +17672,331 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO4",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie nennt man regulatorische DNA Sequenzen?</b></font>",
+                                "Operator"
+                            ],
+                            "guid": "9BlZH@&{^",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was sind Induktoren?</font></b>",
+                                "Liganden die Genexpression Induzieren. Entweder durch aktivierung eines Aktivatorproteins oder durch Induktion/loslösen eines Repressordimers (Repressoren sindmeist Dimere)"
+                            ],
+                            "guid": "I9P0/)2?Hr",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Beschreibe kostitutive Expression</b></font>",
+                                "Das Gegenteil zu Regulierter/induzierter Expression.<br>konstitutive Expression ist unreguliert und dauerhaft aktiv"
+                            ],
+                            "guid": "h>8&:H~PH]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was bescheibt Basalexpression</b></font>",
+                                "Ein geringes Level an Expression das trotz fehlender Induktion immer stattfindet"
+                            ],
+                            "guid": "HXZ,.OqMMy",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Warum beschreibt ein On/Off Schalter die Regulation der Genexpression nur unzureichend?</b></font>",
+                                "Feinregulation in der Menge umgesetzter mRNA und des Proteins ist möglich.<br>Ein Drehschalter mit Zwischenstufen (Dimmfunktion) beschreibt die Regulation daher besser"
+                            ],
+                            "guid": "wdNx24%JH.",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne Möglichkeiten wie der Informationsweg DNA→Protein reguliert werden kann</b></font>",
+                                "-Änderung der DNA Nukleotidsequenz<br>-Transkriptionseinschränkungen<br>-Posttranskriptional (RNA Lebensdauer oder Modifikation)<br>-Translationseinschränkungen<br>-Posttranslational (Protein Lebensdauer &amp; Aktivität)"
+                            ],
+                            "guid": "t7k`#?|`27",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Gene gehören zum Lac-Operon und wofür codieren sie?</b></font>",
+                                "(<b>Lac I </b>→ tetramerer Repressor am LacO)<br>weiter Stromabwärts folgen dann:<br><br><b>LacO →</b> Operator-Region<br><b>LacZ →&nbsp;</b>b-Galactosidase <sup>(spaltet Lactose in Glucose und Galactose oder baut bei geringer Konzentration zu Allolactose um)</sup><br><b>LacY</b>&nbsp;→&nbsp;Lactose-Permease<sup> (H+ &amp; Lactose Symporter)<br></sup><span style=\"font-size: 16.6667px;\"><b>L</b></span><b>acA</b>&nbsp;→&nbsp;ThiogalactosidTransacetylase <sup>(detox von Nebenprodukten)</sup>"
+                            ],
+                            "guid": "B=VYr2&I%)",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert die Substratinduktion beim Lac Operon?</b></font>",
+                                "Von der Basalexprimierten Lactosepermease wird Lactose importiert.<br>b-Galactosidase wandelt Lactose zu Allolactose um.<br>⇒ Allolactose wirkt als Induktor am LacO, löst das Repressorprotein LacI und löst damit die gebildete DNA Schleife<br>⇒Expression des Lac Operons steigt um Faktor 100 und Laktose wird importiert + abgebaut"
+                            ],
+                            "guid": "i&`,Fm{g]-",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist cAMP?</font></b>",
+                                "cAMP (zyklisches denosinMonoPhosphat) ist ein Hungersignal, es reichert sich in der Zelle an, wenn der Energiegehalt der Zelle sinkt<br><img src=\"paste-8ac7ba8661a1b1b84636b230b84456723818320b.jpg\">"
+                            ],
+                            "guid": "pg8cO`K7`N",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie Reguliert CRP/cAMP das Lac Operon?</b></font>",
+                                "cAMP-CRP-Komplex bindet spezifisch in der Nähe vieler bakterieller Gene, wirkt als Aktivator und erhöht\ndie Expression z. B. des lac Operons um ein Vielfaches<br><br>cRP-cAMP-Komplex biegt DNA zur cTerminalen Domäne der RNA Polymerase und erleichtert damit die Expression.<br><br>Wirkt natürlich nur, wenn Allolactose vorher den Repressor vom LacO löst"
+                            ],
+                            "guid": "iez0RlLYtO",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welcher Katalyt reprimiert das Lac Operon?</b></font>",
+                                "Glucose"
+                            ],
+                            "guid": "zlT+b+Gh|K",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist diauxisches Wachstum?</b></font>",
+                                "Zweiphasiges Wachstum von chemotrophen Mikroorganismen in Gegenwart von zwei verschiedenen Energiequellen wird Diauxie genannt<br><img src=\"paste-501e580c59c063952c02380bd21c0a11cad0f9cd.jpg\">"
+                            ],
+                            "guid": "F``+rBe,cn",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert die Katabolitrepression am Lac Operon?</b></font>",
+                                "Glucose ist ein bevorzugter Katabolit des Phosphotransferasesystems (PTS)<br>beim Transport der Glucose werden Carrier Alternativer Substrate (z.B. Lactosepermease) gehemmt. Deren Induktor wird ausgeschlossen (Induktorausschluss)"
+                            ],
+                            "guid": "smA1FL$No%",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne die drei Faktoren, welche die Genexpression des Lac Operons Regulieren</b></font>",
+                                "Substratinduktion - Induktor setzt den Repressor frei [Induktor hier das (umgebaute-)Substrat]<br>cAMP/CRP - Steigerung der Expressionsrate<br>Katabolitrepression - durch Induktorausschluss (meist Glucose als Katabolit)"
+                            ],
+                            "guid": "FrjtN&]r?3",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Gene liegen auf dem trp Operon und wofür codieren sie?</b></font>",
+                                "<b>trpR </b>→ <sup>Repressorprotein</sup><br><br><b>Promtor+Operator</b><br>(<b>Leadersequez</b> → <sup>Attenuatorregion</sup>)<br><br><b>trpE &amp; trpD</b> → <sup>Anthranilat-Synthase</sup><br><b>trpC</b> →&nbsp;<sup>N-5´-PhosphoribosylAnthranilat-Isomerase\nIndol-3-glycerinphosphat-Synthase (töte mich °-°)</sup><br><b>trpB &amp; trpA </b>→ <sup>Tryptophan-Synthase</sup>"
+                            ],
+                            "guid": "lxht8Q:N=H",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woraus setzt sich der Holorepressor des trp-Operons zusammen?</b></font>",
+                                "Tryptophan wirkt als Corepressor für den inaktiven Aporepressor TrpR<br>(<i>Endproduktrepression</i>)"
+                            ],
+                            "guid": "Lj_;`++$=4",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert die Attenuation des trp Operons?</b></font>",
+                                "In der Leader/leitsequenz befinden sich <font color=\"#ff0000\">4 komplementäre Sequenzabschnitte</font> und zuvor eine Sequenz mit <font color=\"#ff0000\">2</font> aufeinanderfolgenden <font color=\"#ff0000\">trp-Codons</font>. (ermitteln das tRNA<sup>trp</sup>&nbsp;level sozusagen)<br><br><b><u>hohe trp-konz.:</u><br></b>Ribosom läuft flott über die ersten beiden komplementären Sequenzabschnitte<br>→ <font color=\"#ff0000\">3&amp;4</font> bilden <font color=\"#ff0000\">Attenuator / Terminationsschleife</font> (löst RNA Polymerase)<br><br><b><u>niedrige trp-konz.:</u></b><br>Ribosom stockt bei Abschnitt 1 →<font color=\"#ff0000\">2&amp;3</font> bilden die <font color=\"#ff0000\">Antiattenuatorschleife</font> (RNA Polymerase läuft weiter)<br><br>⇒ Funktioniert nur wegen Transkriptions und Translationskopplung"
+                            ],
+                            "guid": "pX!m8)Wi>f",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Durch welche 2 Prozesse wird das Trp Operon Reguliert?</b></font>",
+                                "<b>-Endproduktrepression </b>(Holorepressor bei hoher Trp Konzentration)<br><b>-Attenuation </b>[Translation des Leaderpeptids bewirkt bei hohen intrazellulären Tryptophan-Konzentration\ndas vorzeitige Ende der Transkription der trp-Strukturgene (Feinregulation)]"
+                            ],
+                            "guid": "n8eS5P9NFi",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Vorteile bietet eine Genregulation durch alternative Sigma-Faktoren?</b></font>",
+                                "-Spezifische Gene können durch spezifische sigma-Faktoren reguliert werden<br>-Translation der Sigma Faktoren ist kontrollierbar<br>-Stabilität/Abbaurate ist steuerbar<br>-Regulation ihrer Aktivität durch anti-sigma-Faktoren ist möglich"
+                            ],
+                            "guid": "O.ntB%LmT8",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Erkläre kurz und bündig die&nbsp;Hitzeschockantwort bei E. coli&nbsp;</b></font>",
+                                "Der Hitzeschock-spezifische Sigma-Faktor <font color=\"#ff0000\">s<sup>H</sup></font> aus E. coli wird temperaturabhängig in Translation und Abbaurate reguliert.<br><br><b style=\"text-decoration-line: underline;\">&lt;42°C</b><br>mRNA von s<sup>H</sup>&nbsp;bildet eine <font color=\"#ff0000\">Sekundärstruktur </font>am 5´ Ende aus→ Translation ist blockiert<br>Das <font color=\"#ff0000\">Chaperonesystem</font>(Dnak-DnaJ-GrpE-) sorgt für Abbau des Basalexprimierten s<sup>H</sup><br><br><u style=\"font-weight: bold;\">&gt;42°C</u><br>Sekundärstruktur schmilzt →exponierte Ribosomenbindungsstelle erleichtert die\nTranslation<br>Chaperone interagieren mit denaturierten Proteinen&nbsp;<br>⇒ verstärkte Synthese und kaum Proteolyse von Sigma H<br><br>⇒Hitzeschockproteine wirken der Denaturierung von Proteinen und der Verschlechterung der\nMembranintegrität entgegen (z.B. durch Neufaltung)"
+                            ],
+                            "guid": "F-D/o^AC_X",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was bedeutet Quorum sensing?</b></font>",
+                                "die Zelldichte hat Auswirkung auf die Genexpression"
+                            ],
+                            "guid": "gXQB(.`J<Z",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne ein Beispiel für Quorum sensing</b></font>",
+                                "A. fischeri leuchtet, wenn die Zelldichte einen Schwellenwert überschreitet → das wird vom Zwergtintenfisch in dessen Leuchtorgan genutzt<br>"
+                            ],
+                            "guid": "m+h+2Bf.^_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Erkläre Quorum sensing gerne mit&nbsp;Aliivibrio fischeri</b></font>",
+                                "LuxR →Transkriptionsaktivator des LuxOperons<br>LuxI → Autoinduktorsynthase (Acylhomoserinlacton)<br>LuxA&amp;B → machen u.a.Licht<br><br>Wird der Schwellenwert des Autoinduktors außerhalb der Zelle erreicht (viele Zellen mit Basalexpression=schnell), dann tritt er als Induktor wieder ein und bindet an LuxR<br>⇒ steigerung der Expression ums 100.000fache&nbsp;<br>→ es werde Licht"
+                            ],
+                            "guid": "PyYFT+-FQt",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Erkläre Signaltransduktion mittels Zweikomponentensystems im Schnelldurchlauf</b></font>",
+                                "An die Transmembran Sensorkinase dockt ein Signal an.<br>→Autophosphorylierung der Sensorkinase<br>⇒übertragen der Phosphatgruppe auf Antwortregulator<br>→ aktivierung/repression von Genen"
+                            ],
+                            "guid": "B}|ScW0sO4",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert Chemotaxis? <br><br>(Beispiel für&nbsp;</b></font><b><font color=\"#ffaa00\">Signaltransduktion&nbsp;mittels des Zweikomponentensystems)</font></b>",
+                                "Flagellenmotoren können sich gegen den Uhrzeigersinn drehen(→ Schwimmen)<br>oder im Uhrzeigersinn (→Taumeln)<br><br>-ohne Lockstoffwird der Antwortregulator Phosphoryliert und die Zelle taumelt<br>-bindet Lockstoff an die Sensorkinase, dann wird nicht Phosphoryliert, der Antwortregulator wird so schnell wie möglich dephosphoryliert und die Zelle schwimmt geradeaus weiter<br>⇒ der Phosphorylierte Antwortregulator sorgt demnach für eine Flagellenrotation im Uhrzeigersinn"
+                            ],
+                            "guid": "J)f<Oo*oNO",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO5",
                                 "Ron"
                             ]
                         }
@@ -51433,7 +51760,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "MBVO4",
+                "MBVO5",
                 "Ron"
             ],
             "tmpls": [
