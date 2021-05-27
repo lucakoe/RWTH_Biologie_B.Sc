@@ -9457,6 +9457,20 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Was versteht man unter Taxonomie und Phylogenie?",
+                                "- Die Lehre von evolutionären Verwandschaften zwischen Gruppen von Organismen<br><br><br>--&gt; zuerst durch morphologische Merkmale, jetzt durch DNA-Analysen"
+                            ],
+                            "guid": "x$_x*=_p+F",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "2",
+                                "BdOIIVO",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "da2b75f6091246d8a1512aa588a4fff3-ao-1",
                                 "",
                                 "<img src=\"tmpt46q2ibi.png\" />",
@@ -13869,20 +13883,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was versteht man unter Taxonomie und Phylogenie?",
-                                "- Die Lehre von evolutionären Verwandschaften zwischen Gruppen von Organismen<br><br><br>--&gt; zuerst durch morphologische Merkmale, jetzt durch DNA-Analysen"
-                            ],
-                            "guid": "x$_x*=_p+F",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Welche Strukuren mussten Pflanzen allgemein entwickeln, um größer zu werden?",
                                 "Unterstützungsgewebe für Stabilität und Transport<br>--&gt; Stützgewebe, Transportgewebe"
                             ],
@@ -16170,8 +16170,10 @@
                         "paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg",
                         "paste-501e580c59c063952c02380bd21c0a11cad0f9cd.jpg",
                         "paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg",
+                        "paste-53495ddb97a78b2bed7147ce0027f46578009e35.jpg",
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
                         "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
+                        "paste-6a74a28afac81a06bc3d977931c95d7db76104ca.jpg",
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
                         "paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg",
                         "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
@@ -18755,6 +18757,136 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO5",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was kann mit den Kopien aus Genduplikationen alles passieren?</b></font>",
+                                "<b>Multigenfamilien</b> → 2 beide bleiben intakt (z.B. rRNA)<br><b>Subfunktionalisierung </b>→ jede Kopie verliert einen Teil ihrer Funktion<br><b>Pseudogenisierung</b> → eine Kopie verschwindet teils oder komplett (ausschaltung)<br><b>Neofunktionalisierung</b> → neue Funktion für eine Kopie"
+                            ],
+                            "guid": "GB`r0ccLqD",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne 3 Ursachen für Genduplikation</b></font>",
+                                "1-ungleiches Crossing over zwischen homologen Chromosomen<br>→ ein Chromosom hat nun beide (beim anderen deletion)<br>[2-ungleicher Schwesterchromatidenaustausch (eher Eukaryoten nehme ich an)]<br>3-doppeltes ablesen während DNA Replikation<br>4-mobile Genetische Elemente als Ursprung der Sequenzwiederholung"
+                            ],
+                            "guid": "ckssYm~Kn=",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was hat Barbara McClintock an Mais entdeckt?</b></font>",
+                                "Transposons (mobile genetische Elemente)<br><br>Die von ihr beobachtete&nbsp;Mutation bewirkt veränderte\nPigmentierung in den\nAleuronzellen im Nährgewebe\ndes Maiskorns (schwarze Körner)<br><br>Weitere Forschung stellte herraus, dass mobile Elemente ubiquitär (in allen Lebewesen) vorkommen und&nbsp;mittels unterschiedlicher molekularer\nMechanismen ihre Position im Genom verändern können"
+                            ],
+                            "guid": "iz,5QOd;J`",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"color: rgb(255, 170, 0);\">Was bedeutet Pig1::Tn3?</b>",
+                                "In das Gen Pig1 wurde ein Tn3 Element insertiert"
+                            ],
+                            "guid": "u$Bj)FdVKt",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne 2 der 3 im Kurs genannten Eukaryotischen mobilen genetischen Elemente</b></font>",
+                                "➢ DNA-Transposons\n<br>➢ LTR-Retrotransposons\n<br>➢ Non-LTR-Retrotransposons (poly A)"
+                            ],
+                            "guid": "ov>-}S)mwT",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Kommen Insertionselemente in Pro- und Eukaryoten vor?</b></font>",
+                                "Nein"
+                            ],
+                            "guid": "H27-@,<orQ",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie sind Insertions (IS)-Elemente aufgebaut?</b></font>",
+                                "Sie codieren nur für die Transposase und haben Terminale Inverted repeats (IR). Diese nutzt die Transposase um sie aus der DNA auszuschneiden und sie woanders einzufügen.<br>→ Dementsprechend sind sie kurz&nbsp;(768 bp – 2,2 kb)"
+                            ],
+                            "guid": "ud!y&7(_lz",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie arbeitet die Transposase?</b></font>",
+                                "Transposase wirkt i. d. R. auf die\näußeren IR Sequenzen von IS-Elementen und Transposons.<br><br><br>Sie&nbsp;hydrolysiert die\nPhosphodiesterbindungen des\nTransposon → Strangbruch an den\nEnden (IR) des Transposons<br>Danach katalysiert sie einen nukleophilen Angriff der\n3´OH-Enden auf die Ziel-DNA (teils sehr sequenzspezifisch)<br>Die aufgefüllten Lücken am Schnitt sind \"direct repeats\"<br><img src=\"paste-6a74a28afac81a06bc3d977931c95d7db76104ca.jpg\"><br>Es kann konservative, nicht replikative (cut-and-paste) Transposition<br>Oder replikative (copy-and-paste) Transposition stattfinden.<br>→In diesem Fall kommt es zur Duplikation der Sequenz"
+                            ],
+                            "guid": "mIj2W=pJZH",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Unterscheide zusammengesetzte und nicht-zusammengesetzte Transposons</font></b>",
+                                "<u><b>Zusammengesetzte Transposons</b></u><br><font color=\"#ff0000\">2 flankierende IS Elemente</font> um ein Gen (mindestens eines der Elemente codiert noch aktiv die <font color=\"#ff0000\">Transposase</font>)<br>innere IR-Sequenzen häufig degeneriert<br>konversativer Transpositionsmechanismus (<font color=\"#ff0000\">cut &amp; paste</font>)<br>→tragen häufig eine oder mehrere Antibiotikaresistenzen<br><br><b style=\"text-decoration-line: underline;\">Nicht-zusammengesetzte Transposons</b><br>replikativer Transpositionsmechanismus (<font color=\"#ff0000\">copy &amp; paste</font>)<br><font color=\"#ff0000\">terminale IR-Sequenzen</font> (keine IS-Elemente)<br>Codieren für <font color=\"#ff0000\">eigene Transposase<br></font>Haben <font color=\"#ff0000\">res-site</font> zur Auflösung des bei Transposition entstehenden Cointegrats<br>→ tragen häufig Antibiotikaresistenz-Gene sowie einen Repressor für die hauseigene Transposase und Resolvase"
+                            ],
+                            "guid": "x[0pRk:9Or",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Was ist ein Cointegrat?</font></b>",
+                                "Eine Überkreuzstruktur aus dem Donor-DNA Teil und dem Ziel-DNA Teil bei der&nbsp;Replikativen Transposition (copy and paste)<br>Sie entsteht bei der Replikation der beiden Transposonkopien die durch die Schnitte überkreuzt liegen.<br>Auflösbar ist diese Struktur durch Rekombination an der res-site.<br><img src=\"paste-53495ddb97a78b2bed7147ce0027f46578009e35.jpg\">"
+                            ],
+                            "guid": "pKLA&%9HPH",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
                                 "Ron"
                             ]
                         }
@@ -46111,6 +46243,34 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -47867,6 +48027,18 @@
                                 "Cytosol: Zellflüssigkeit (Wasser und gelöste Proteine, Salze, Zucker)<br><br>Cytoplasma: Cytosol+Organellen+Inklusionen (große unlösliche Partikel<br><br>Protoplasma: Cytoplasma+Nukleus<br><br>Nukleoplasma: Flüssigkeit im Nukleus<img src=\"paste-cfeb66aa5251e16cc250fbf1aae977e351b74078.jpg\">"
                             ],
                             "guid": "i;e|W+pI(}",
+                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
+                            "tags": [
+                                "BdZVO9"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zwei Methoden zur Zellfraktionierung<br>",
+                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
+                            ],
+                            "guid": "v[nl_[.}(W",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": [
                                 "BdZVO9"
@@ -51552,46 +51724,6 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Zwei Methoden zur Zellfraktionierung<br>",
-                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
-                            ],
-                            "guid": "v[nl_[.}(W",
-                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
-                            "tags": [
-                                "BdZVO9"
-                            ]
                         }
                     ]
                 }
@@ -52518,8 +52650,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "BdoIIVO6",
-                "Vince"
+                "MBVO6",
+                "Ron"
             ],
             "tmpls": [
                 {
@@ -52879,7 +53011,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-77864",
             "req": [
                 [
                     0,
