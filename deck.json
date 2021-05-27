@@ -2178,11 +2178,22 @@
                                 "ff1491b3a4e64173b96df8079437ac0f-ao-8-Q.svg",
                                 "ff1491b3a4e64173b96df8079437ac0f-ao-O.svg",
                                 "paste-15ff3623a96761428622ab6819236da7a07aaec6.jpg",
+                                "paste-1dceab975bfe3569367aa17e9e7a13ad42dda361.jpg",
+                                "paste-3115c3b44842f0a095427579404958f2a923b7f0.jpg",
                                 "paste-327b18d24dddf938c5b73419239a1c2d00c9820d.jpg",
                                 "paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg",
                                 "paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg",
+                                "paste-4a0ddbf7dd734bae94fcbc471ed210c5ec0f64d6.jpg",
                                 "paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg",
+                                "paste-59113fa94a8dfea092fc2f84ac6777b5606c912b.jpg",
                                 "paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg",
+                                "paste-71ae6edfb6a98c0e36da99366797b6b89988d341.jpg",
+                                "paste-805a308f14f2d787fde8a68efc0563849bf4d403.jpg",
+                                "paste-8bac92057f307482e0fc43d6cf27d2940c1e31fc.jpg",
+                                "paste-9abf165e8854be8ad610b5fa95f589de204f762c.jpg",
+                                "paste-d9df51aa1868a386f4e8983247ff335d2ae51c9d.jpg",
+                                "paste-dd41b9215fec7c307653f5b5650941398c1f62dd.jpg",
+                                "paste-e23ac071c44ea4543b763f5415d66483fa804ca5.jpg",
                                 "tmp0fr1usxs.png",
                                 "tmp1s3vka8f.png",
                                 "tmp5quqmghr.png",
@@ -4916,6 +4927,175 @@
                                         "BdOIIVO5",
                                         "Vince"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "1)Was macht das Collenchym aus und <br>2) welche Arten von Collenchymen gibt es?",
+                                        "1)&nbsp;<br>- das Collenchym ist das typische Stützgewebe des primären Pflanzenkörpers und wachsenden Pflanzen<br><br>-besteht aus lebenden Zellen, dessen Zellwände ungleich dick und nicht lignifiziert sind<br><br>-das Collenchym findet man meist direkt unter der Epidermis<br><br>2)&nbsp;<br><br>-Plattencollenchym (lamellar, tangential-)<br>--&gt; die tangentialen Zellwände sind dicker<br><br>-Eckencollenchym<br>--&gt; Ecken der Zellen sind dicker&nbsp;<br><br>-Lückenkollenchym<br>--&gt; Zellwände sind gleich dick, zwischen den Zellen liegen große interzelluläre Räume"
+                                    ],
+                                    "guid": "MIB!bGUBrE",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "1)Was macht das Sclerenchym aus und<br>2) welche Arten gibt es?",
+                                        "1)&nbsp;<br>- das Sclerenchym (skleros = hart) ist neben dem Collenchym das zweite Stützgewebe<br><br>-Zellwände mit Cellulose und/oder Lignin<br><br>- die Zellen des Sclerenchyms haben mit Verlängerung aufgehört<br><br>- Zellwände extrem dick und meist lignifiziert&nbsp;<br><br>2)<br>-Fasern: <br>lange, dünne, prosenchymatische Zellen, die in Bündeln vorliegen<br>--&gt; haben meist einen großen wirtschaftlichen Nutzen (Flax, Jute, Hanf)<br><br>-Sklereide: <br>unterschiedliche Formen, können isodiametrisch, prosenchymatisch, vergabelt oder start verzweigt sein<br>--&gt; Bsp.:&nbsp; Steinzellen in Birnen ( Abwehrmechanismus gegen Herbivoren)<br>--&gt; Bsp.:&nbsp; Sklereide bilden auch Samenschalen und Nussschalen"
+                                    ],
+                                    "guid": "rJB}IB+8.@",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist das Xylem und wie ist es aufgebaut?",
+                                        "1) <br>-das Xylem ist neben dem Phloem eins der Transportgewebe<br><br>- Xylem bietet mechanische Unterstützung und bildet das Holz von Bäumen<br><br>- Primärfunktion: Transport von Wasser und einigen Nährstoffen<br><br>-entsteht aus meristematischem Gewebe (Procambium oder Vaskularcambium)<br><br>2)<br>das Xylem besteht aus mehreren Zelltypen:<br><br>-Tracheiden und Gefäße, Wassertransport<br><br>-Parenchym für Speicherung von Nährstoffen für den <br>Winter<br><br>-Fasern für Stabilität"
+                                    ],
+                                    "guid": "Fc;Q.%#?a0",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Tüpfel, was sind ihr Aufgaben und welche Arten von Tüpfel gibt es?",
+                                        "1) Tüpfel sind Regionen der Zellwand, bei welcher die sekundäre Zellwand fehlt, die primäre jedoch noch da ist<br><br>-Tüpfel bestehen aus einem Tüpfelhohlraum (Stelle, an welcher die sekundäre Zellwand fehlt) und<br><br>&nbsp;einer Tüpfel\"membran\" (keine echte Membran: Mittellamelle und die beiden primären Zellwände)<br><br>2) Tüpfel ermöglichen den Austausch (Wasser, Mineralien) von Substanzen zwischen Zellen<br><br>3) - Fenstertüpfel: zwischen Parenchymzellen<br><br>- Hoftüpfel: ein Tüpfel, bei welchem die sekundäre Zellwand über den Tüpfel ragt<br><br>- \"Half-bordered\"- Tüpfel: zwischen Parenchymzellen und Tracheiden oder Gefäßelementen&nbsp;"
+                                    ],
+                                    "guid": "v/o._~&jn?",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist das primäre Tüpfelfeld?",
+                                        "- das primäre Tüpfelfeld ist eine Region in der Zellwand, welche stark in der Dicke reduziert ist<br><br>- diese Region ist oft von mehreren Plasmodesmata durchbrochen<br><br>-primäre Tüpfelfelder erlauben Transport von Materialien zwischen Zellen<br><br>- Zellen ohne sekundäre Zellwand können nur primäre Tüpfelfelder haben<br>(bei Zellen mit sekundärer Zellwand liegen Tüpfel meist direkt über dem primären Tüpfelfeld)<br><img src=\"paste-8bac92057f307482e0fc43d6cf27d2940c1e31fc.jpg\">"
+                                    ],
+                                    "guid": "Bd+})46mv/",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind die Unterschiede zwischen Tracheiden und Gefäßelementen (Tracheaen) des Xylems? Nenne Eigenschaften beider Bestandteile.",
+                                        "<img src=\"paste-4a0ddbf7dd734bae94fcbc471ed210c5ec0f64d6.jpg\"><br>beide dieser Strukturen werden durch unterschiedliche Arten von lignifizierten Verdickungen<br>mechanisch unterstützt"
+                                    ],
+                                    "guid": "AvHQ2*3he_",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist das primäre und das sekundäre Xylem/Phloem?&nbsp;",
+                                        "das primäre Xylem/Phloem ist das \"Ursprungs\"-Gefäßsystem<br><br><img src=\"paste-d9df51aa1868a386f4e8983247ff335d2ae51c9d.jpg\"><br><br>tritt das sekundäre Dickenwachstum ein, dedifferenziert das interfaszikuläre Parenchym zurück in einen meristematischen Zustand und das Vaskulärcambium wird gebildet<br><br>nun wird das sekundäre Xylem und Phloem ausgehend vom Vaskularkambium gebildet und das primäre Xylem und Phloem verdrängt<img src=\"paste-e23ac071c44ea4543b763f5415d66483fa804ca5.jpg\">"
+                                    ],
+                                    "guid": "zw2Kz?cWs!",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Protoxylem und Metaxylem?",
+                                        "<img src=\"paste-9abf165e8854be8ad610b5fa95f589de204f762c.jpg\">"
+                                    ],
+                                    "guid": "p*|C`,+d?x",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist das Vaskularkambium und was sind die Aufgaben?",
+                                        "1) -das Vaskularkambium ist ein sekundäres (laterales) Meristem im Gefäßgewebe von Pflanzen<br><br>-kommt nur in dikotylen Pflanzen vor<br><br>2) ist für das Dickenwachstum verantwortlich, bildet Zellen, aus welchen das sekundäre Transportgewebe entspringt<br>--&gt; kein sekundäres Wachstum in Monokotylen Pflanzen<img src=\"paste-59113fa94a8dfea092fc2f84ac6777b5606c912b.jpg\">"
+                                    ],
+                                    "guid": "cH<j5FiI`_",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist Transpiration?",
+                                        "-Transpiration ist der Wassertransport durch eine Pflanze und die Evaporation durch die Stomata<br><br>- Transpiration ist ein notwendiger Prozess, der den Eintritt von CO<sub>2 </sub>durch die Stomata ermöglicht<br><br>-Transpiration kühlt die Pflanze und erlaubt den Fluss von Nährstoffen<br><img src=\"paste-71ae6edfb6a98c0e36da99366797b6b89988d341.jpg\">"
+                                    ],
+                                    "guid": "P~gNL.y%#3",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist das Phloem? Nenne Aufgaben des Phloems und wie es aufgebaut ist.",
+                                        "1)<br>- das Phloem transportiert Nährstoffe (besonders Sucrose) in alle Regionen der Pflanze<br><br>-In Bäumen bildet das Phloem die innerste Schicht der Rinde<br><br>-die Hauptröhren des Phloems sind im Vergleich zum Xylem am Leben<br><br>2)<br>Das Phloem besteht aus mehreren Zelltypen:<br>-Siebelemente<br><br>-Parenchymzellen (spezialisierte Begleiterzellen&nbsp; und unspezialisierte)<br><br>-Stützzellen: Fasern und Sklereiden<br>"
+                                    ],
+                                    "guid": "uuW(ooYOSF",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was macht die Siebelemente des Phloems aus?",
+                                        "-Siebelemente sind spezialisierte, verlängerte Zellen im Phloem<br><br>-Siebelemente sind am Ende miteinander verbunden und bilden Siebröhren<br><br>-Siebelementen fehlt der Nukleus, die Vakuole und Ribosomen (mehr Platz für Transport), daher brauchen sie Begleiterzellen fürs Überleben<br><br>-an der Verknüpfung zweier Siebelementen in Angiospermen(!) befindet sich die Siebplatte<br>--&gt; dort befinden sich Poren, die den Transport erleichtern<br>--&gt; Siebplatten können reversibel mit Callose verschlossen werden (z.B. bei Verletzung)<br><br>-Hauptaufgabe: Transport von Kohlenhydraten (größtenteils Sucrose)<br><img src=\"paste-dd41b9215fec7c307653f5b5650941398c1f62dd.jpg\"><img src=\"paste-1dceab975bfe3569367aa17e9e7a13ad42dda361.jpg\">"
+                                    ],
+                                    "guid": "NqyEO9x7Id",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Begleiterzellen und was ist ihre Aufgabe?",
+                                        "-Siebröhren können ihre Aufgabe nur mit Hilfe von Begleiterzellen (spezialisierte Parenchymzellen) erfüllen<br>--&gt; alle Zellulären Funktionen der Siebplatte werden von Begleiterzellen ausgeführt<br><br>-Begleiterzellen haben eine größere Anzahl an Ribosomen und Mitochondrien und sind über Plasmodesmata mit den Siebröhren verbunden<br><img src=\"paste-3115c3b44842f0a095427579404958f2a923b7f0.jpg\"><img src=\"paste-805a308f14f2d787fde8a68efc0563849bf4d403.jpg\">"
+                                    ],
+                                    "guid": "Hh$Zo?X#wR",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdoIIVO6",
+                                        "Vince"
+                                    ]
                                 }
                             ]
                         },
@@ -6841,6 +7021,17 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
+                        "18adfd81c29a44f988658715b6894697-ao-1-A.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-1-Q.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-2-A.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-2-Q.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-3-A.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-3-Q.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-4-A.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-4-Q.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-5-A.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-5-Q.svg",
+                        "18adfd81c29a44f988658715b6894697-ao-O.svg",
                         "196aece4d5bf4f7a90ede704500d718a-ao-1-A.svg",
                         "196aece4d5bf4f7a90ede704500d718a-ao-1-Q.svg",
                         "196aece4d5bf4f7a90ede704500d718a-ao-2-A.svg",
@@ -7015,6 +7206,21 @@
                         "71fdc57aa5a642daab613291f90c0817-ao-2-A.svg",
                         "71fdc57aa5a642daab613291f90c0817-ao-2-Q.svg",
                         "71fdc57aa5a642daab613291f90c0817-ao-O.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-1-A.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-1-Q.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-2-A.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-2-Q.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-3-A.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-3-Q.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-4-A.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-4-Q.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-5-A.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-5-Q.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-6-A.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-6-Q.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-7-A.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-7-Q.svg",
+                        "75ab6183edf84a98afa7e17139a31df6-ao-O.svg",
                         "77055a85cb3f4b21b53e57dd96f20d93-ao-1-A.svg",
                         "77055a85cb3f4b21b53e57dd96f20d93-ao-1-Q.svg",
                         "77055a85cb3f4b21b53e57dd96f20d93-ao-2-A.svg",
@@ -7026,6 +7232,15 @@
                         "77055a85cb3f4b21b53e57dd96f20d93-ao-5-A.svg",
                         "77055a85cb3f4b21b53e57dd96f20d93-ao-5-Q.svg",
                         "77055a85cb3f4b21b53e57dd96f20d93-ao-O.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-1-A.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-1-Q.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-2-A.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-2-Q.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-3-A.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-3-Q.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-4-A.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-4-Q.svg",
+                        "77df70b96f394156922e9ea9ec4367fa-ao-O.svg",
                         "7e77d074f25b4b7587bfb2e2c08887ee-ao-1-A.svg",
                         "7e77d074f25b4b7587bfb2e2c08887ee-ao-1-Q.svg",
                         "7e77d074f25b4b7587bfb2e2c08887ee-ao-10-A.svg",
@@ -7112,6 +7327,17 @@
                         "a49152b7f0c4455ba63d2c1a08efaf08-ao-3-A.svg",
                         "a49152b7f0c4455ba63d2c1a08efaf08-ao-3-Q.svg",
                         "a49152b7f0c4455ba63d2c1a08efaf08-ao-O.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-1-A.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-1-Q.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-2-A.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-2-Q.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-3-A.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-3-Q.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-4-A.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-4-Q.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-5-A.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-5-Q.svg",
+                        "a6451b2de7c345cc8668f3fb66e62e59-ao-O.svg",
                         "b632f7c9000844dbb94867642d1b5621-ao-1-A.svg",
                         "b632f7c9000844dbb94867642d1b5621-ao-1-Q.svg",
                         "b632f7c9000844dbb94867642d1b5621-ao-10-A.svg",
@@ -7307,6 +7533,7 @@
                         "paste-57cc88574873706b07c1e5d81c490de0534d2950.jpg",
                         "paste-58c7d2908700a76bf1fd320ff5186ac82f2cd518.jpg",
                         "paste-6533b4ce5ad10d0b0a87eafea64ab5eb07efa6a6.jpg",
+                        "paste-689993e9bd557194441c3742687933e28851807a.jpg",
                         "paste-6942b243fe87314a90fdc7edf9b9e0ee12060cd4.jpg",
                         "paste-69710f58141cac7ca2423d9df56434b768e9a10d.jpg",
                         "paste-6dc32e41d53e5722f4901c43d5bf3960e5ae4a85.jpg",
@@ -7331,9 +7558,12 @@
                         "tmp5dlkzev7.png",
                         "tmp6sn02yh4.png",
                         "tmp785rbfzs.png",
+                        "tmp7dmvrhhj.png",
                         "tmp8zg_tfmk.png",
+                        "tmp9j309stu.png",
                         "tmp_ajkty6o.png",
                         "tmp_oc_iyz8.png",
+                        "tmpbe5xs9qe.png",
                         "tmpbos8hwa5.png",
                         "tmpdc2tpk9o.png",
                         "tmpe3j9f00a.png",
@@ -7346,6 +7576,7 @@
                         "tmplyxwvflx.png",
                         "tmpn7vbdrjr.png",
                         "tmpniruztry.png",
+                        "tmpq0jb7blk.png",
                         "tmpr67hm209.png",
                         "tmps7o2wibv.png",
                         "tmpsge_nl9o.png",
@@ -9220,20 +9451,6 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "BdOIIVO1",
-                                "Vince"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was versteht man unter Taxonomie und Phylogenie?",
-                                "- Die Lehre von evolutionären Verwandschaften zwischen Gruppen von Organismen<br><br><br>--&gt; zuerst durch morphologische Merkmale, jetzt durch DNA-Analysen"
-                            ],
-                            "guid": "x$_x*=_p+F",
-                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                            "tags": [
-                                "2",
-                                "BdOIIVO",
                                 "Vince"
                             ]
                         },
@@ -13646,6 +13863,547 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "BdOIIVO5",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was versteht man unter Taxonomie und Phylogenie?",
+                                "- Die Lehre von evolutionären Verwandschaften zwischen Gruppen von Organismen<br><br><br>--&gt; zuerst durch morphologische Merkmale, jetzt durch DNA-Analysen"
+                            ],
+                            "guid": "x$_x*=_p+F",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "2",
+                                "BdOIIVO",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Strukuren mussten Pflanzen allgemein entwickeln, um größer zu werden?",
+                                "Unterstützungsgewebe für Stabilität und Transport<br>--&gt; Stützgewebe, Transportgewebe"
+                            ],
+                            "guid": "f7>}<tRxLP",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche drei Arten von Unterstützungsgewebe gibt es in Gefäßpflanzen?",
+                                "1) Collenchym, lebende Zellen&nbsp; --&gt; wird weiterhin Stüzgewebe genannt<br><br>2) Sclerenchym, fast immer tote Zellen&nbsp;&nbsp;&nbsp;--&gt; wird weiterhin Stüzgewebe genannt<br><br>3) Transportgewebe, sowohl aus toten als auch lebendigen Zellen<br>--&gt; Wasser-, Nährstoff- und Assimilattransport"
+                            ],
+                            "guid": "ko6oJ4K(qj",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was macht die Zellen des Unterstützungsgewebes in Gefäßpflanzen aus?",
+                                "- je größer eine Gefäßpflanze, desto mehr tote Zellen besitzt sie ( Bryophyten haben gar keine toten Zellen, Blütenpflanzen hingegen viele)<br><br>-die toten Zellen sind meist verlängerte Zellen (prosenchymatische Zellen) und liegen paralell zueinander<br><br>- diese Zellen sind meist zu Bündeln zusammengefasst, sog. Fasern<br><br>- die Zellen des Stützgewebes sind meist in der Nähe der Pflanzenorgane<br><br>"
+                            ],
+                            "guid": "py.A*dmjWM",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Beschreibe das Polymer Lignin und die Biosynthese",
+                                "1) - komplexer Stoff<br>- eins der häufigsten organischen Polymere auf der Erde<br>- diente wohl zuerst als ein antimikrobieller Stoff<br>- besteht aus quervernetzten aromatischen Alkoholen (Monolignolen), welche aus Phenylalanin entspringen<br><br>2)<br>&nbsp;&nbsp;<br>-Synthese beginnt im Cytosol mit der Synthese von glykosylierten Monolignolen aus Phenylalanin<br>--&gt; macht sie wasserlöslicher und weniger toxisch<br><br>- im Apoplast wird Glucose entfernt, Biosynthese beginnt:<br><br>1) durch oxidative Enzyme werden Monolignolradikale geschaffen<br><br>2) Radikale verknüpfen sich miteinander<br><br>"
+                            ],
+                            "guid": "Ck^_q_4#m+",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "75ab6183edf84a98afa7e17139a31df6-ao-1",
+                                "",
+                                "<img src=\"tmpq0jb7blk.png\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-1-A.svg\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-O.svg\" />"
+                            ],
+                            "guid": "F<)UPRxm|@",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "75ab6183edf84a98afa7e17139a31df6-ao-2",
+                                "",
+                                "<img src=\"tmpq0jb7blk.png\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-2-A.svg\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-O.svg\" />"
+                            ],
+                            "guid": "s~v0xDrA@m",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "75ab6183edf84a98afa7e17139a31df6-ao-3",
+                                "",
+                                "<img src=\"tmpq0jb7blk.png\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-3-A.svg\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-O.svg\" />"
+                            ],
+                            "guid": "mGhHn1:y{H",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "75ab6183edf84a98afa7e17139a31df6-ao-4",
+                                "",
+                                "<img src=\"tmpq0jb7blk.png\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-4-A.svg\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-O.svg\" />"
+                            ],
+                            "guid": "CKos~KAFL,",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "75ab6183edf84a98afa7e17139a31df6-ao-5",
+                                "",
+                                "<img src=\"tmpq0jb7blk.png\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-5-A.svg\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-O.svg\" />"
+                            ],
+                            "guid": "tIy$g=8U[c",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "75ab6183edf84a98afa7e17139a31df6-ao-6",
+                                "",
+                                "<img src=\"tmpq0jb7blk.png\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-6-A.svg\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-O.svg\" />"
+                            ],
+                            "guid": "qXe1vI_wq4",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "75ab6183edf84a98afa7e17139a31df6-ao-7",
+                                "",
+                                "<img src=\"tmpq0jb7blk.png\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-7-A.svg\" />",
+                                "<img src=\"75ab6183edf84a98afa7e17139a31df6-ao-O.svg\" />"
+                            ],
+                            "guid": "KKBQ3N/<8k",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das besondere an Hoftüpfeln?",
+                                "Hoftüpfel können geschlossen werden.<br><br>der Torus im Hoftüpfel ist beweglich und kann wie ein Ventil den Tüpfel verschließen.<br><br>Wenn Gase oder Flüssigkeiten in den Gefäßen drohen, die Gefäße zu verstopfen (Embolie) kann der Hoftüpfel die Ausbreitung unterbinden<br><br><img src=\"paste-689993e9bd557194441c3742687933e28851807a.jpg\">"
+                            ],
+                            "guid": "Q,V/tKIr%m",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a6451b2de7c345cc8668f3fb66e62e59-ao-1",
+                                "",
+                                "<img src=\"tmp9j309stu.png\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-1-A.svg\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-O.svg\" />"
+                            ],
+                            "guid": "AL[puINE(,",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a6451b2de7c345cc8668f3fb66e62e59-ao-2",
+                                "",
+                                "<img src=\"tmp9j309stu.png\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-2-A.svg\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-O.svg\" />"
+                            ],
+                            "guid": "E7v_fa06]y",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a6451b2de7c345cc8668f3fb66e62e59-ao-3",
+                                "",
+                                "<img src=\"tmp9j309stu.png\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-3-A.svg\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-O.svg\" />"
+                            ],
+                            "guid": "lTZE]5x+0Q",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a6451b2de7c345cc8668f3fb66e62e59-ao-4",
+                                "",
+                                "<img src=\"tmp9j309stu.png\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-4-A.svg\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-O.svg\" />"
+                            ],
+                            "guid": "wozTv2]UX|",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a6451b2de7c345cc8668f3fb66e62e59-ao-5",
+                                "",
+                                "<img src=\"tmp9j309stu.png\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-5-A.svg\" />",
+                                "<img src=\"a6451b2de7c345cc8668f3fb66e62e59-ao-O.svg\" />"
+                            ],
+                            "guid": "hrCj^[)w6Y",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "18adfd81c29a44f988658715b6894697-ao-1",
+                                "",
+                                "<img src=\"tmpbe5xs9qe.png\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-1-A.svg\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-O.svg\" />"
+                            ],
+                            "guid": "QU//~D}n0S",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "18adfd81c29a44f988658715b6894697-ao-2",
+                                "",
+                                "<img src=\"tmpbe5xs9qe.png\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-2-A.svg\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-O.svg\" />"
+                            ],
+                            "guid": "e5Uc=Kq7J>",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "18adfd81c29a44f988658715b6894697-ao-3",
+                                "",
+                                "<img src=\"tmpbe5xs9qe.png\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-3-A.svg\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-O.svg\" />"
+                            ],
+                            "guid": "p0)HsA>ak[",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "18adfd81c29a44f988658715b6894697-ao-4",
+                                "",
+                                "<img src=\"tmpbe5xs9qe.png\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-4-A.svg\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-O.svg\" />"
+                            ],
+                            "guid": "v;,_B(gjO@",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "18adfd81c29a44f988658715b6894697-ao-5",
+                                "",
+                                "<img src=\"tmpbe5xs9qe.png\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-5-A.svg\" />",
+                                "<img src=\"18adfd81c29a44f988658715b6894697-ao-O.svg\" />"
+                            ],
+                            "guid": "i%Z`j3ya}t",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "77df70b96f394156922e9ea9ec4367fa-ao-1",
+                                "",
+                                "<img src=\"tmp7dmvrhhj.png\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-1-A.svg\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-O.svg\" />"
+                            ],
+                            "guid": "t~?!2k}DJA",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "77df70b96f394156922e9ea9ec4367fa-ao-2",
+                                "",
+                                "<img src=\"tmp7dmvrhhj.png\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-2-A.svg\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-O.svg\" />"
+                            ],
+                            "guid": "DD!+i!wv#<",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "77df70b96f394156922e9ea9ec4367fa-ao-3",
+                                "",
+                                "<img src=\"tmp7dmvrhhj.png\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-3-A.svg\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-O.svg\" />"
+                            ],
+                            "guid": "k=|7=^e8%4",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
+                                "Vince"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "77df70b96f394156922e9ea9ec4367fa-ao-4",
+                                "",
+                                "<img src=\"tmp7dmvrhhj.png\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-4-A.svg\" />",
+                                "<img src=\"77df70b96f394156922e9ea9ec4367fa-ao-O.svg\" />"
+                            ],
+                            "guid": "kaIi:zNc$j",
+                            "note_model_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+                            "tags": [
+                                "BdoIIVO6",
                                 "Vince"
                             ]
                         }
@@ -45353,34 +46111,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -47137,18 +47867,6 @@
                                 "Cytosol: Zellflüssigkeit (Wasser und gelöste Proteine, Salze, Zucker)<br><br>Cytoplasma: Cytosol+Organellen+Inklusionen (große unlösliche Partikel<br><br>Protoplasma: Cytoplasma+Nukleus<br><br>Nukleoplasma: Flüssigkeit im Nukleus<img src=\"paste-cfeb66aa5251e16cc250fbf1aae977e351b74078.jpg\">"
                             ],
                             "guid": "i;e|W+pI(}",
-                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
-                            "tags": [
-                                "BdZVO9"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Zwei Methoden zur Zellfraktionierung<br>",
-                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
-                            ],
-                            "guid": "v[nl_[.}(W",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": [
                                 "BdZVO9"
@@ -50834,6 +51552,46 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zwei Methoden zur Zellfraktionierung<br>",
+                                "1) differenzierende Zentrifugation<br>2) Gradienten-Zentrifugation<div>-&gt; Anhäufung von Zellorganellen</div>"
+                            ],
+                            "guid": "v[nl_[.}(W",
+                            "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
+                            "tags": [
+                                "BdZVO9"
+                            ]
                         }
                     ]
                 }
@@ -51760,8 +52518,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "MBVO5",
-                "Ron"
+                "BdoIIVO6",
+                "Vince"
             ],
             "tmpls": [
                 {
@@ -51999,6 +52757,129 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "Image Occlusion Enhanced-e8f4e",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "aa7200b3-bedf-11eb-906f-7085c25f6828",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
             "req": [
                 [
                     0,
