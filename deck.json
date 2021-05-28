@@ -16165,9 +16165,12 @@
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-A.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-Q.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg",
+                        "paste-06e2dfd85ce040e0fa134f6c7ac31877a4905b2a.jpg",
                         "paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg",
                         "paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg",
+                        "paste-3c713019afe1d2234deb93a1bb09191717c8d05b.jpg",
                         "paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg",
+                        "paste-45051c6a6c2245a3ffc7c3f010c3c8f381dbc90e.jpg",
                         "paste-501e580c59c063952c02380bd21c0a11cad0f9cd.jpg",
                         "paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg",
                         "paste-53495ddb97a78b2bed7147ce0027f46578009e35.jpg",
@@ -16177,6 +16180,7 @@
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
                         "paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg",
                         "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
+                        "paste-78bd8b8a9d3fe17dcb5e7a302e2875484ce72dc9.jpg",
                         "paste-8ac7ba8661a1b1b84636b230b84456723818320b.jpg",
                         "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
@@ -18884,6 +18888,253 @@
                                 "Eine Überkreuzstruktur aus dem Donor-DNA Teil und dem Ziel-DNA Teil bei der&nbsp;Replikativen Transposition (copy and paste)<br>Sie entsteht bei der Replikation der beiden Transposonkopien die durch die Schnitte überkreuzt liegen.<br>Auflösbar ist diese Struktur durch Rekombination an der res-site.<br><img src=\"paste-53495ddb97a78b2bed7147ce0027f46578009e35.jpg\">"
                             ],
                             "guid": "pKLA&%9HPH",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie unterscheiden sich vertikaler und horizontaler Gentransfer?</b></font>",
+                                "Vertikaler Gentransfer geschiet in einer Stammeslinie (parental zu filial Generation durch Reproduktion)<br>Horizontaler Gentransfer geschieht zwischen verschiedenen Stammlinien und Arten"
+                            ],
+                            "guid": "pq]/~s#S@0",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne die 3 im Kurs besprochenen Wege des horizontalen Gentransfers</b></font>",
+                                "Konjugation (F<sup>+</sup> →F<sup>-&nbsp; </sup>Plasmidübertragung)<br>Transformation (freie DNA + kompetente Zelle)<br>Transduktion (transduzierende Bakteriophagen)"
+                            ],
+                            "guid": "zkpSAnu?0a",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist das F-Plasmid?</b></font>",
+                                "Ein gut untersuchtes konjugatives Plasmid von E. coli. (Low copy)<br>Es besitzt einen oriT (Ursprung zur\nkonjugativen Replikation),<br>einen oriV (Ursprung zur autonomen Replikation), ein IS3 Element (ermöglicht Integration ins E.coli Genom) und tra-Gene (codierung für Pilus und Übertagungskomplex)<br><br>F<sup>+</sup>&nbsp;Zellen besitzen ein F-Plasmid<br>F<sup>-</sup>&nbsp;Zellen nicht"
+                            ],
+                            "guid": "d|hg#^F9Md",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie läuft Konjugation als horizontaler Gentransfer ab?</b></font>",
+                                "Die Donorzelle bildet einen Sexpilus, sowie einen Relaxosomkomplex.<br>Der Pilus dockt an der Rezipientenzelle an und zieht die Zellen zusammen.&nbsp;<br>Der Relaxosomkomplex verbindet die Zellen über eine Plasmabrücke und die eigentliche Übertragung beginnt.<br><br>Am oriT des Plasmids wird ein Einzelstrangbruch eingefügt und die Relaxase TraI bringt das freie 5' Ende zum Relaxosom.<br>Per Rolling circle Replikation wird das Plasmid in F<sup>+</sup>&nbsp;kontinuierlich und über das Relaxosom in F<sup>-</sup>&nbsp;diskontinuierlich zum Doppelstrang ausgebaut"
+                            ],
+                            "guid": "Gw?G$0<M03",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was sind mobilisierbare Plasmide</b></font>",
+                                "Plasmide mit einem oriT der zu dem von konjugativen Plasmiden wie dem F-Plasmid passt.<br>Die Konjugationsmaschinerie dieses Plasmids kann dann beide (oder mehr) Plasmide in die Rezipientenzelle übertragen und tut dies in 90% der Fälle."
+                            ],
+                            "guid": "naLIjoMPWk",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was sind Hfr Stämme? Wie entstehen sie?</b></font>",
+                                "E. coli Stämme mit ins Genom integriertem F-Plasmid&nbsp;<br><img src=\"paste-78bd8b8a9d3fe17dcb5e7a302e2875484ce72dc9.jpg\">"
+                            ],
+                            "guid": "pHo_<W_*Hb",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie kann man Konjugation (Gentransfer) mit Hfr Stämmen zur Genkartierung nutzen?</b></font>",
+                                "Mit der Zeitabhängigkeit der Übertragung der DNA eines hfr-Stammes kann man ermitteln, in welcher Reihenfolge sich die Gene auf dem Chromosom befinden. <br><br>Dazu werden hfr-Stämme und Rezipienten mit bekannten Eigenschaften benutzt. Die Übertragung der DNA auf den Rezipienten wird in verschiedenen Zeitabständen durch mechanische Kräfte gestoppt. Durch Minimalmedien, d.&nbsp;h. Nährböden auf denen sich nur Organismen mit bestimmten Eigenschaften vermehren können, kann dann festgestellt werden, welche Gene übertragen wurden. <br>Die Zeitabstände ermöglichen die Einordnung, wo auf dem Chromosom sich das Gen befindet, deswegen sind ältere Genkarten oft in Minuten unterteilt. <br><br>⇒Die Genkarte von&nbsp;<i>Escherichia coli</i>&nbsp;wurde lange vor der&nbsp;Sequenzierung&nbsp;durch diese Methode ermittelt."
+                            ],
+                            "guid": "Rgc1LHT8BC",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Worin unterscheidet sich Konjugation mit Hfr Stämmen von der mit unintegrierten konjugativen Plasmiden?</b></font>",
+                                "Auch hier entstehen Pilus und Relaxosomkomplex.<br><br>Integrierte F-Plasmide können hier aber die Wirts-DNA mobilisieren.&nbsp;<br><br>Weil&nbsp;die Übertragung des gesamten Genoms 100 min dauern würde und der oriT mittig im Plasmit liegt (beide IS3 Stellen gegenüber), ist die rezipienten Zelle nach einer solchen Konjugation weiterhin F<sup>-</sup>.<br><br>→ Der transferierte lineare DNA Strang rekombiniert mit dem Rezipientengenom und liegt nicht als Plasmid zirkulär vor"
+                            ],
+                            "guid": "m!8K8q,TUs",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was sind F'-Plasmide?</b></font>",
+                                "Das integrierte F-Plasmid kann durch homologe Rekombination wieder ausgeschnitten werden.<br>Durch seltene anormale Rekombination kann WirtsDNA mit ausgeschnitten werden.<br>➢ Die Übertragung eines F´-Plasmids kann partielle Diploidie hervorrufen"
+                            ],
+                            "guid": "lVn,@9e@wx",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Woher kennst du das&nbsp;Agrobacterium tumefaciens?</b></font>",
+                                "Das&nbsp;Agrobacterium tumefaciens überträgt ein DNA-Fragment, die T-DNA,\nin Pflanzenzellen.<br>Die T-DNA integriert ins Pflanzengenom und codiert für Enzyme der Biosynthese von Auxinen, Cytokinen\nund Opinen&nbsp;<br>→ Biosynthese führt zu Tumoren an der Pflanze und Nährstoffen für A. tumefaciens"
+                            ],
+                            "guid": "DTTRr[s9x_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wer hat die Transformation von Bakterien als erster entedeckt, aber wurde durch eine Fliegerbombe am weiterforschen \"gehindert\"?</b></font>",
+                                "Frederick Griffith\n1877 - 1941 experimentierte mit nicht virulenten R-Stämmen und virulenten S-Stämmen an Mäusen.<br>Als er durch Hitze abgetötete S-Stamm-Zellen und lebendige R-Stamm-Zellen in eine Maus gab starb die Maus und er fand lebendige S-Zellen in ihr"
+                            ],
+                            "guid": "L-cjm^_CgR",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was bedeutet Kompetenz im Kontext von Bakterien und horizontalem Gentransfer?</b></font>",
+                                "natürliche Kompetenz = genetisch determinierte&nbsp;Fähigkeit zur Aufnahme nackter DNA&nbsp;<br>(z.B.&nbsp;Bacillus subtilis, Streptococcus pneumoniae oder die gramnegativen&nbsp;Hämophilus influenza, Neisseria gonorrhoeae)<br>→ die Kompetenz wird z.B. durch Nährstoffarme Medien oder quorum sensing induziert, damit die Proteine nicht dauerhaft synthetisiert werden.<br><br>künstliche Kompetenz = im Labor erzeugte und nicht genetisch determinierte Kompetenz z.B. durch eine Schwächung der Zellwand per Calciumchlorid und Hitzeschock<br>(z.B. E. coli)"
+                            ],
+                            "guid": "OQZ?!HRJe(",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist ein Capsid?</b></font>",
+                                "Der \"Kopf\" eines Virus.<br>Er besteht aus Capsomeren und ist im inneren randvoll (headfull packaging) mit Virus DNA/RNA Einzelsträngen (Nukleocapsid).<br><br>In der extrazellulären Form des Virus ist der Capsid von einer Membranhülle umgeben."
+                            ],
+                            "guid": "MeH$/AkA/_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Worin unterscheiden sich virulente und temperente Bakteriophagen?</b></font>",
+                                "Sie&nbsp;können virulent oder temperent sein.<br>Virulente Phagen haben nur einen lytischen Zyklus (Andocken-Injektion-Expression-Replikation-Assemblierung-Zelllyse)<br>Temperente Phagen weisen sowohl einen lytischen, als auch einen lysogenen Zyklus auf. Im lysogenen Zyklus integriert sich das Phagen-Genom in das Erbgut der Wirtszelle und wird mit Repliziert. Es wird nun Prophage genannt. Bei Umweltbedingtem Stress oder durch zufall veranlasst die Prohage ihr eigenes Ausschneiden und geht in den lytischen Zyklus über."
+                            ],
+                            "guid": "bPNVYL{x~>",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist eine Prohage?</b></font>",
+                                "Eine Phage die in das Wirtsgenom integriert wurde (im lysogenen Zyklus)<br>→ können weiterhin toxine o.ä. exprimieren<br>→bei Stress oder durch zufall kann sie in lytischen Zyklus übergehn und sich selbst ausschneiden lassen"
+                            ],
+                            "guid": "g`cwfGTmfO",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert Allgemeine Transduktion?</b></font>",
+                                "Im lytischen Zyklus einer Phage können Verpackungsfehler auftreten.<br>Dabei werden einige wenige Capside nur mit WirtsDNA beladen.<br>Die so entstehenden transduzierenden Phagen injizieren die WirtsDNA in eine neue Zelle die damit Rekombinieren kann.<br><br>→ das geht, weil die WirtsDNA homologe DNA-Sequenzen zu den pac Sites in der PhagenDNA besitzt.<br><img src=\"paste-45051c6a6c2245a3ffc7c3f010c3c8f381dbc90e.jpg\"><br>→komplexe pac-sites hindern demnach die allgemeine Transduktion"
+                            ],
+                            "guid": "ty5@A^wnsA",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert spezielle Transduktion?</b></font>",
+                                "Eine temperente Phage im lysogenen Zyklus (Prophage) wird fehlerhaft ausgeschnitten.<br>Der entstehende transduzierende Phage enthält teils PhagenDNA und WirtsDNA.<br>→ im nächsten Wirt führt dieser Phage zu einer partiellen Diploidie<br>→ über homologe Rekombinaton kann der Wirt die neue DNA integrieren (die Phagen-DNA muss glücklicherweise kaputt sein, sonst gibts wieder einen Prophagen)<br><br>Ein Beispiel hierfür ist der&nbsp;temperente Phage Lambda.<br>Dieser integriert sich über att-Sequenzen ins Bakterien Genom<br><img src=\"paste-06e2dfd85ce040e0fa134f6c7ac31877a4905b2a.jpg\">&nbsp;"
+                            ],
+                            "guid": "rC8d?dDf+7",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche der Klassen von Restriktionsenzymen gibt es und welche ist am nützlichsten für die Mikrobiologie?</b></font>",
+                                "<ul><li><b>Typ I</b>&nbsp;schneidet die DNA an einer zufälligen Stelle weit von der Erkennungssequenz entfernt. Benötigt&nbsp;ATP. Hat Methyltransferaseaktivität.</li><li><b><font color=\"#ff0000\">Typ II</font></b>&nbsp;schneidet die DNA innerhalb oder in unmittelbarer Nähe der Erkennungssequenz. Benötigt kein ATP und hat keine Methyltransferase-Aktivität.</li><li><b>Typ III</b>&nbsp;schneidet die DNA etwa 20 bis 25 Basenpaare von der Erkennungssequenz entfernt. Benötigt ATP und transferiert eine Methylgruppe.</li><li><b>Typ IV</b>&nbsp;schneidet nur methylierte DNA<sup></sup></li><li><b><font color=\"#ff0000\">Typ V</font></b>&nbsp;(z. B. der&nbsp;cas9-gRNA-Komplex von CRISPRs) Sie können DNA variabler Länge schneiden</li></ul>(nur wichtig, 5 Typen [in der VO hieß es nur 3] &amp; 2 soll am nützlichsten sein)"
+                            ],
+                            "guid": "~S@Zz$($p",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie können Restriktionsenzyme Fremd-DNA von eigener DNA unterscheiden?</b></font>",
+                                "Bsp.: EcoR1<img src=\"paste-3c713019afe1d2234deb93a1bb09191717c8d05b.jpg\"><br>das Modifikationsenzym EcoM1 erkennt dieselbe Sequenz wie das Restriktionsenzym EcoRI\n<br>➢ EcoM1 methyliert Adeninreste in der Sequenz, hierdurch ist keine Restriktion durch EcoRI möglich (Hemimethylierung reicht schon)"
+                            ],
+                            "guid": "AWS2d&qg26",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO6",
