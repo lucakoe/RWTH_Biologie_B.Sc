@@ -16165,30 +16165,38 @@
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-A.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-Q.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg",
+                        "paste-02639c67398f5b5818afe22d080899ca86235b62.jpg",
                         "paste-06e2dfd85ce040e0fa134f6c7ac31877a4905b2a.jpg",
                         "paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg",
                         "paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg",
                         "paste-3c713019afe1d2234deb93a1bb09191717c8d05b.jpg",
                         "paste-3dcb41d68bac31c8c89ed2eaadca7ac32f2e49cd.jpg",
+                        "paste-3f64d26c38a121af9f453bfcba1824b3faf24f58.jpg",
                         "paste-45051c6a6c2245a3ffc7c3f010c3c8f381dbc90e.jpg",
                         "paste-501e580c59c063952c02380bd21c0a11cad0f9cd.jpg",
                         "paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg",
                         "paste-53495ddb97a78b2bed7147ce0027f46578009e35.jpg",
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
                         "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
+                        "paste-5f71dc3f189aae82774578ece35d62793a94ea7c.jpg",
                         "paste-6a74a28afac81a06bc3d977931c95d7db76104ca.jpg",
                         "paste-6cf688a22b33c12b33e532e16b5aa0e1b8098f71.jpg",
                         "paste-70b26df40cd6ef3d5ed14c4f2c50829cb62a8ebc.jpg",
+                        "paste-71edbf1cff9ed23f00630b3a6691df1ba1389afc.jpg",
                         "paste-732480e81829daa8a8be1ede505fd66a7afc97b4.jpg",
                         "paste-78bd8b8a9d3fe17dcb5e7a302e2875484ce72dc9.jpg",
                         "paste-8ac7ba8661a1b1b84636b230b84456723818320b.jpg",
                         "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
+                        "paste-9c6789e9ba0a3f105caf442da4148b80c615e0eb.jpg",
+                        "paste-b0256b5d6a1d3cc0ab97dea0e9ae35d70356df0e.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
+                        "paste-b64306ea513c6cb2f6bebf70ae9290d8242c96aa.jpg",
                         "paste-b96951296f2527e41e8c04624c7e7c7a5ff29589.jpg",
                         "paste-bcbc0a6c9f57590ffed2658b22d9f07d132ab715.jpg",
                         "paste-c9db96f1415b2706ece1ef4347c2f5c49a2c9d47.jpg",
                         "paste-ccd567c63520c1fc46288ca022f9fa993932063a.jpg",
                         "paste-cf233ed5789e971a888890f54e770d41dae0aec0.jpg",
+                        "paste-d10f2f50963b45144ad88f6e214d82d2b1885885.jpg",
                         "paste-e6173e1cab15cf6d988fbf985280d6643828492b.jpg",
                         "paste-eb33a09942888baf0a7e7add2e95d985ea86dcb8.jpg",
                         "paste-ee62a59fed98588d67340b6ca5e1160f53fb6289.jpg",
@@ -19138,6 +19146,409 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie werden der Leit und Folgestrang in Bakterien noch genannt?</b></font>",
+                                "Leadingstrand = Watson Strang<br>Laggingstrand = Crick Strang"
+                            ],
+                            "guid": "C,DUqz!2oe",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist eine Mutation?</b></font>",
+                                "Als Mutation wird in der Biologie eine spontan auftretende, dauerhafte Veränderung des Erbgutes bezeichnet. Die Veränderung betrifft zunächst das Erbgut nur einer Zelle, wird aber an deren Tochterzellen weitergegeben."
+                            ],
+                            "guid": "rc+WSxW0Ck",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist eine Mutante?</b></font>",
+                                "Individuum oder Stamm, der mindestens 1 mutiertes Gen&nbsp;trägt und dadurch phänotypisch vom&nbsp;Wildtyp&nbsp;abweicht."
+                            ],
+                            "guid": "Ewpj[Fa(Zx",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist ein Klon?</b></font>",
+                                "Eine Gruppe identischer Zellen die von derselben Zelle abstammen (Zellen mit demselben Erbgut oder Lebewesen mit demselben Erbgut bsp. Dolly)"
+                            ],
+                            "guid": "E%R|?Rd5Sj",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was ist konkaktemere DNA?</b></font>",
+                                "Der rechte Teil hiervon mit den ganzen Wiederholungen&nbsp;<img src=\"paste-5f71dc3f189aae82774578ece35d62793a94ea7c.jpg\">"
+                            ],
+                            "guid": "zGFN^KwLde",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO6",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was sind Punktmutationen anhand ihres outcomes bezeichnet?</b></font>",
+                                "Missense-Mutation → andere codierte Aminosäure, durch ausgetausche Base<br>Nonsense-Mutation → Stoppcodon<br>Stille Mutation → selbe codierte Aminosäure"
+                            ],
+                            "guid": "p7Z+$_G%+0",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>In welche 2 Klassen lassen sich Punktmutationen Unterteilen?</b></font>",
+                                "<img src=\"paste-d10f2f50963b45144ad88f6e214d82d2b1885885.jpg\">"
+                            ],
+                            "guid": "qp5U]ux*c-",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Ist eine Inversion eine Frameshift-Mutation?</b></font>",
+                                "Nein, sie dreht die Aminosäuresequenz, aber verschiebt dabei nicht das folgende Leseraster"
+                            ],
+                            "guid": "iC5Ulak=$h",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Ist eine Insertion eine Frameshift-Mutation?</b></font>",
+                                "Ja, es werden Basen insertiert (meist keine Potenzen von 3 / keine ganzen Codons) und das verschiebt das Leseraster"
+                            ],
+                            "guid": "EWAkTAq/X6",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Ist eine Deletion eine Frameshift-Mutation?</b></font>",
+                                "Ja, es werden Basen entfernt (meist keine Potenzen von 3 / keine ganzen Codons) und dementsprechend verschiebt dich das folgende Leseraster"
+                            ],
+                            "guid": "Atk_WX:b6#",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Nenne alle Mutagen Gruppen die dir einfallen und ihre Auswirkungen <br><br>(Spoiler: es sollten 6 sein)</b></font>",
+                                "<b>Basenanaloga</b> → ersetzt während der Replikation die normale Stickstoffbase → Punktmutation<br><br><b>Alkylierende Verbindungen</b> → Alkylieren Basen (z.B + CH<sub>3</sub>) → Apurinische/Apyrimidinische Stelle → Punktmutation/Chromosomenaberration (chromosomenstrucktur kaputt)<br><br><b>Desaminierende Verbindungen </b>→&nbsp;Entfernung der Aminogruppe (-NH2\n) der Base → Punktmutation<br><br><b>Interkalierende Substanzen</b> →&nbsp;Interkalieren zwischen Basen und ZuckerPhosphat-Rückgrat → Dehnen Dna-Helix und sorgen für frameshift mutationen<br><br><b>Röntgen &amp; Gammastrahlung</b> → freie Radikale entstehen in Zellen, welche Doppelstrangbrüche induzieren<br><br><b>Uv-Strahlung</b> → induziert Pyrimitindimere (meist TT aber selten CC/CT)"
+                            ],
+                            "guid": "h9wwL,X8Nu",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was sind Basenanaloga? Nenne ein Beispiel</b></font>",
+                                "Basenanaloga sind Mutagene.<br><img src=\"paste-b64306ea513c6cb2f6bebf70ae9290d8242c96aa.jpg\">"
+                            ],
+                            "guid": "lKVog|HB,x",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie können Alkylierende Verbindungen im kontext des Erbguts auf Zellen wirken? Nenne ein Beispiel für eine Verbindung</b></font>",
+                                "Als Mutagene<br><img src=\"paste-3f64d26c38a121af9f453bfcba1824b3faf24f58.jpg\">"
+                            ],
+                            "guid": "c@}[U^3na_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie können sich desaminierende Verbindungen auf das Genom von Prokaryoten auswirken? Nenne 2</b></font>",
+                                "Sie sind Mutagene<br><img src=\"paste-71edbf1cff9ed23f00630b3a6691df1ba1389afc.jpg\">"
+                            ],
+                            "guid": "g6(lf?,&k9",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was sind Interkalierende Substanzen? Nenne ein Beispiel</b></font>",
+                                "<img src=\"paste-02639c67398f5b5818afe22d080899ca86235b62.jpg\">"
+                            ],
+                            "guid": "r2LSGOz;?e",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Strahlung spaltet/ionisiert Moleküle in Zellen, sodass die entstehenden freien Radikale Doppelstrangbrüche in der DNA hervorrufen können?</b></font>",
+                                "Röntgen- und γ-Strahlung<br>→ bei ausbleibender Reparatur sind die Schäden lethal"
+                            ],
+                            "guid": "DF|h-DVVvS",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Strahlung induziert Pyrimidindimere in der DNA?</b></font>",
+                                "UV-Strahlung<br>➔ Bildung eines TT-Dimers (seltener CT- &amp; CC-Dimere)\n<br>➔ Beeinträchtigung der Replikation möglich\n➔ bei ausbleibender Reparatur letal"
+                            ],
+                            "guid": "sRi]8Hn*1u",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"color: rgb(255, 170, 0);\">Nenne spontane Möglichkeiten der DNA Schäden zu akkumulieren</b>",
+                                "Tautomere Basenpaarung&nbsp;<br>→Enolform TG/GT<br>→Iminolform AC/CA<br>Spontane Desaminierung von Cytosin zu Uracil<br>Depurinierung (Guanin/Adenin disssoziiert)<br>Schäden durch ROS (reactive oxygen species)<br>Spontane Pyrimidindimere ohne Uv-Licht"
+                            ],
+                            "guid": "kI>3f^B@Z+",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Basen sind tautomer in der Enolform gepaart?</b></font>",
+                                "Thymin und Guanin"
+                            ],
+                            "guid": "IoQvxXPOnN",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Basen sind tautomer in der Iminoform gepaart?</b></font>",
+                                "Cytosin und Adenin"
+                            ],
+                            "guid": "Qfu}cmtU#)",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert der Ames-Test auf Mutagenität?</b></font>",
+                                "Nutzung histidin-auxotropher Salmonella enterica Stämme (können His nicht selbst synthetisieren)<br>Haben Defekt im Reparatursystem und eine Mutation im hisG-Gen, welche sie von his autotroph zu auxotroph gemacht hat.<br><br>Die Salmonellen werden in Agar mit einem Mutagen ausplattiert und ohne Histidin inkubiert.<br>→Die Zahl entstandener Kolonien mit Mutation die ihnen das Wachstum ermöglicht gibt Mutagenität an<br><br>Mischt man zu Beginn ein Rattenleberhomogenat hinzu, dann ist das Ergebnis genauer auf den Menschen zugeschnitten"
+                            ],
+                            "guid": "HwxC.!x*~Z",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was repariert die Photoreaktivierung?</b></font>",
+                                "Sie repariert UV induzierte Pyrimidindimere<br>→ die Photolyase besitzt eine reduzierte FADH<sup>-</sup>&nbsp;Gruppe die von UV-A Licht aktiviert wird"
+                            ],
+                            "guid": "Ai#_nW,`NF",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie repariert die Nukleotidexcision NER&nbsp;helikale Destabilisierung,\nz. B. Pyrimidindimere und warum wird zur Dimerreparatur in höheren Säugetieren nicht Photoreaktivierung verwendet?</b></font>",
+                                "Photolyase aus Photoreaktivierung fehlt in vielen höheren Säugern.<br><br>uvrABCD schneiden einen Bereich von Nukleotiden aus. <br>Reparatur erfolgt durch DNA-Polymerase1 und Ligase<br><br>Zuerst dockt uvrAB an DNA an. uvrA biegt DNA an schadhaften Basen und wird entlassen. uvrC von uvrB geholt spaltet den Zucker-Phosphat-Backbone und uvrD entfernt das beschädigte Element"
+                            ],
+                            "guid": "cHi%qB0XQ2",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was repariert die Basenexcision? (und wie bitte angeben)</b></font>",
+                                "unterschiedliche modifizierte Basen<br><br>Glykosylasen entfernen die Base aus dem\nZucker-Phosphat-Rückgrat; apurinische/apyrimidinische Stellen entstehen<br><br>Reparatur wieder durch DNA-Polymerase1 und Ligase"
+                            ],
+                            "guid": "pcjpiZ#.:}",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was (und wie) wird durch&nbsp;Methylabhängige\nFehlpaarungsreparatur repariert?</b></font>",
+                                "Transitionen/\nTransversionen<br><br>Zuerst kommt das Einführen eines Einzelstrangbruchs in den\nnicht-methylierten Strang (der neureplizierte); Danach werden die fehlerhaften Nukleotide von mutHSL ausgeschnitten<br><br>Reparatur wieder durch DNA-Polymerase1 und Ligase<br><br>MutS bindet die Fehlpaarung und holt MutHL. MutL bindet an die benachbarte Sequenz und der HLS komplex windet die DNA zur Schleife. MutH spaltet nun den unmethylierten Strang und Exonukleasen bauen das ausgeschnittene ab."
+                            ],
+                            "guid": "d<)av)D^%f",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Was repariert die Rekombinationsreparatur?</b></font>",
+                                "Einzelstrangbrüche<br><br>trifft die Rekombinationsgabel auf einen Bruch, dann entfernt die Polymerase diese Region.<br>→RecA Proteine binden an die Lücke und diese wird mit homologer unbeschädigter DNA vom anderen an der Gabel entstandenen Doppelstrang aufgefüllt.<br><br>Nachdem nun eine Vorlage existiert können NER (Nukleotidexcisionsreparatur) oder andere Mechanismen den fehlerhaften Doppelstrang reparieren."
+                            ],
+                            "guid": "nFrPhwHp;Z",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie versucht&nbsp;<em>E. coli</em>&nbsp;bei der SOS-Antwort beschädigte DNA zu replizieren?</b></font>",
+                                "Nucleotide werden zufällig von DNA Polymerase5 an den beschädigten Stellen eingebaut, nachdem sich RecA um den bei Replikation entstandenen Einzelstrang wickelt."
+                            ],
+                            "guid": "Jf#0:C4O.X",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wird RecA's Expression reguliert?</b></font>",
+                                "RecA wird immer Basalexprimiert. Wenn die Menge an RecA-ssDNA-Filament (RecA an einem Einzelstrang) erhöht ist, dann wird die RecA expression induziert.<br><br>Gleichzeitig wird LexA gespalten, sodass die Repression der SOS Gene aufgehoben wird und unter anderem die PolymeraseV exprimiert wird"
+                            ],
+                            "guid": "l[?G^t2$!t",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Warum hält Deinococcus radiodurans 3000x mehr Strahlung aus als Menschen?</b></font>",
+                                "Es kann über RecA homologe Bruchstücke wieder rekombinieren.<br>Dafür hat es mehr als 1 Kopie des eigenen Genoms um die W'keit homologer Paare zu erhöhen.<br>Außerdem besitzt es Strahlungsgeschützte Proteine die dauerhaft exprimiert sind, um die DNA reparieren zu können, ohne neusynthetisiert werden zu müssen.<br>Die homologen Paare müssen nur 20-40bp lang sein um aneinandergesetzt zu werden.<br>"
+                            ],
+                            "guid": "v$ilZS8<^q",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie kann RecA DNA Filamente mit homologen Teilen verbauen?</b></font>",
+                                "RecA bindet an Einzelstrang-DNA und bildet ein proteinumhülltes DNA Fragment. Dieses kann eine DNA-Duplex invasieren. Sobald sich irgendwo eine Sequenzhomologie ergibt bildet sich ein D-Loop und die Stränge werden ausgetauscht.<br><br>Das nutzt z.B. Deinococcus radiodurans, um die durch Strahlung zerstörte DNA mittels homologer Teile und RecA zusammenzupuzzlen"
+                            ],
+                            "guid": "f,4)q*ALJx",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie funktioniert homologe Rekompination?</b></font>",
+                                "Spender DNA wird in ein zirkuläres Empfängergenom integriert.<br><br><font color=\"#ff0000\">RecBCD</font>&nbsp;bindet an Spender-DNA,\nentwindet sie bis zur <font color=\"#ff0000\">Chi-Stelle</font>,\nführt Einzelstrangbruch ein &amp;\nentwindet weiter.<br><font color=\"#ff0000\">RecA-Proteinnucleofilament</font>\nentsteht, RecA findet homologen\nBereich und vermittelt eine&nbsp;<font color=\"#ff0000\">Stranginvasion</font><br><font color=\"#ff0000\">RuvAB</font> bindet an das Crossing over (Stranginvasion/DNA-Überlappung) &amp; katalysiert\n<font color=\"#ff0000\">branch migration.</font>\nEndonuclease spaltet am Ende der D-Schleife und das Zuckerphosphat-Rückgrat wird in beiden\nSträngen geschlossen<br>Rotation der rechten Molekülhälfte → <font color=\"#ff0000\">Holliday-Struktur</font> für Trennung<br><font color=\"#ff0000\">RuvC spaltet</font> diagonal,\nEnden werden ligiert<br><br>⇒ Spender DNA und Empfänger Genom sind teils ausgetauscht, aber liegen jetzt als 1 lineares Chromosom vor<br><br>⇒ ein zweiter Crossover innerhalb des Strangs (an den Enden) ist nun nötig um ein Zirkuläres Genom und eine lineare DNA daraus zu machen. Darum läuft <font color=\"#ff0000\">alles 2x</font> ab<br><br><br>Hier die Folien weil das ganze verwirrend ist:<br><img src=\"paste-9c6789e9ba0a3f105caf442da4148b80c615e0eb.jpg\"><img src=\"paste-b0256b5d6a1d3cc0ab97dea0e9ae35d70356df0e.jpg\"><br>"
+                            ],
+                            "guid": "AE}cH.Cw$,",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
                                 "Ron"
                             ]
                         }
