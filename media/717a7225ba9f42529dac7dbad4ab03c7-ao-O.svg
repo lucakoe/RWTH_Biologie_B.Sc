@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="340">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="717a7225ba9f42529dac7dbad4ab03c7-ao-1">
+   <rect height="31.42857" width="53.71429" y="48" x="153.85714" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="32" width="57.71429" y="111.42857" x="183" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" height="44" width="106.28572" y="26.28571" x="234.99999" fill="#FFEBA2"/>
+   <rect height="16.57143" width="57.14286" y="142.28571" x="395.57143" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="17.71429" width="74.85714" y="178.85714" x="290.42857" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="15.42857" width="42.85714" y="209.14286" x="391.57143" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="30.85714" width="50.28571" y="234.85714" x="300.14286" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="24" width="93.14286" y="316" x="202.42857" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="16.57143" width="55.42857" y="191.42857" x="123.57143" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="18.28571" width="48" y="118.85714" x="47.57143" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="22.28571" x="234.42857" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Haplodiplontische Lebenszyklen</text>
+  </g>
+ </g>
+</svg>

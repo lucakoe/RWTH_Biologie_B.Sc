@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="340">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="c25238c7ed8d4ab4b673dec596537659-ao-1" class="qshape">
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="35.87302" x="244.07936" stroke-width="0" fill="#000000">Diplontische Lebenszyklen:</text>
+   <rect height="26.4127" width="71.11111" y="110.03175" x="27.69841" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="23.36508" width="53.84127" y="183.1746" x="127.25397" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="26.4127" width="78.22222" y="166.92063" x="282.68254" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="17.26984" width="50.79365" y="218.73016" x="372.07937" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="31.49206" width="49.77778" y="232.95238" x="294.87302" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="19.30159" width="78.22222" y="296.95238" x="215.63492" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  </g>
+ </g>
+</svg>

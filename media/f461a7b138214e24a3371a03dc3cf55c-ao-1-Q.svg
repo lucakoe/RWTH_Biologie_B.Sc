@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465.00000000000006" height="340">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="f461a7b138214e24a3371a03dc3cf55c-ao-1" class="qshape">
+   <rect height="37.06856" width="54.46809" y="39.76359" x="157.60047" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="28.74704" width="59.76359" y="115.41371" x="184.83452" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="17.39953" width="58.25059" y="124.49173" x="345.96927" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="26.47754" width="77.16312" y="172.9078" x="287.71868" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="18.91253" width="42.36407" y="206.19385" x="387.57683" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="18.15603" width="55.22459" y="188.79433" x="125.82742" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="305.29551" x="238.5461" stroke-width="0" fill="#000000">Haplontische Lebenszyklen</text>
+  </g>
+ </g>
+</svg>
