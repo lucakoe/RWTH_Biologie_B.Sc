@@ -16166,7 +16166,9 @@
                         "ec858ed15d5b47d9b468d6133407ca66-ao-9-Q.svg",
                         "ec858ed15d5b47d9b468d6133407ca66-ao-O.svg",
                         "paste-02639c67398f5b5818afe22d080899ca86235b62.jpg",
+                        "paste-067b04e9fdc930f798910af8db4aef9b72892c97.jpg",
                         "paste-06e2dfd85ce040e0fa134f6c7ac31877a4905b2a.jpg",
+                        "paste-0931e294579655b90ac7fd02c88eea4b9e6e0d80.jpg",
                         "paste-0a6ed94f2ee2a73af40d5ba2a9396867e873bf67.jpg",
                         "paste-35da8c64a1fe45c30b47ef08aada82599691bb9d.jpg",
                         "paste-3c713019afe1d2234deb93a1bb09191717c8d05b.jpg",
@@ -16175,6 +16177,7 @@
                         "paste-45051c6a6c2245a3ffc7c3f010c3c8f381dbc90e.jpg",
                         "paste-501e580c59c063952c02380bd21c0a11cad0f9cd.jpg",
                         "paste-520d5f3cf4967bd4c6bc69de6434ee7223df7fbf.jpg",
+                        "paste-52a1e2de35949679502a3df86825dbb550985e46.jpg",
                         "paste-53495ddb97a78b2bed7147ce0027f46578009e35.jpg",
                         "paste-556e7be09d083304b3a420a3f7416c3164f622f8.jpg",
                         "paste-5cc2fe85db08c60baa992b9ca01481561478c123.jpg",
@@ -16187,6 +16190,8 @@
                         "paste-78bd8b8a9d3fe17dcb5e7a302e2875484ce72dc9.jpg",
                         "paste-8ac7ba8661a1b1b84636b230b84456723818320b.jpg",
                         "paste-8f0e34567ef046fa06f690359b125a4fc5ab398b.jpg",
+                        "paste-90eb2e6de159e010a8687c54e96edfb83e8f4720.jpg",
+                        "paste-998d165d68791bc7614a7e65246ff781dda8e25d.jpg",
                         "paste-9c6789e9ba0a3f105caf442da4148b80c615e0eb.jpg",
                         "paste-b0256b5d6a1d3cc0ab97dea0e9ae35d70356df0e.jpg",
                         "paste-b56df2ad3e37c186392a7be309da343f63f3460a.jpg",
@@ -19549,6 +19554,279 @@
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Anaplerotische Reaktionen</font></b>",
+                                "Sogenannte Auffüllreaktionen, da in diesen metabolischen Reaktion kleine Mengen CO<sub>2</sub>&nbsp;fixiert werden um Zwischenprodukte des Citratzyklus zu regenerieren.<br><br>Im Gegensatz dazu stehen&nbsp;cataplerotische&nbsp;Reaktionen."
+                            ],
+                            "guid": "f^Sip;<$K@",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Cataplerotische Reaktionen</font></b>",
+                                "Reaktionen, die vornehmlich zu anabolen Stoffwechselwegen gehören und für diese dem Citratzyklus&nbsp;Intermediate entnehmen. Im Gegensatz dazu stehen&nbsp;anaplerotische&nbsp;Reaktionen."
+                            ],
+                            "guid": "H@@F~zf*k&",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">DNA-Heteroduplex</font></b>",
+                                "Ein doppelsträngiges DNA-Molekül, bei dem die beiden Stränge in ihrer komplementären Basensequenz nicht vollständig übereinstimmen.<br><br>Heteroduplices treten bei Prozessen auf, die im Zusammenhang mit der Rekombination stehen und sind häufig an der Entstehung von Mutationen beteiligt&nbsp;(wenn unrepariert).<br><br>H. können auch künstlich induziert werden, um z.B. Introns&nbsp;nachzuweisen."
+                            ],
+                            "guid": "Ph3,od5h4^",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO7",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Wellenlängen des Lichts sind für uns sichtbar?&nbsp;</b></font>",
+                                "ca. 310-1100nm<br>Langwellig wirkt Rot, kurzwellig Violett"
+                            ],
+                            "guid": "0Q/pwmZV_",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welche Wellenlängen von Licht wirken sich wie auf Moleküle aus?</b></font>",
+                                "kurzwellige Strahlung 200nm und kleiner (Röntgenstrahlen und weiter) hat viel Energie aber Spaltet unkontroliert chemische Bindungen.<br>langwellige Strahlung 1000nm und mehr (Mikrowellen und weiter) hat wenig Energie und ist nicht für chemische Reaktionen nutzbar"
+                            ],
+                            "guid": "I,YABF.ka(",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wirkt sich Diffusion auf Membranen aus?</b></font>",
+                                "Da die Entropie immer ein Maximum anstrebt, existiert ein Konzentrationsgradient an Membranen die ein Konzentrationsungleichgewicht auf ihren 2 Seiten aufweisen.<br>Entlang des Gradienten diffundieren mehr Teilchen, bis die Konzentrationen sich ausgeglichen haben."
+                            ],
+                            "guid": "bK74Z?m]*0",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">\"Zeichne\" (notfalls vor dem inneren Auge) ein ATP</font></b>",
+                                "<img src=\"paste-0931e294579655b90ac7fd02c88eea4b9e6e0d80.jpg\">"
+                            ],
+                            "guid": "g82hy#/bA;",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Welcher Teil des NAD<sup>+</sup>/NADP<sup>+</sup>&nbsp;überträgt Protonen?</b></font>",
+                                "Der heteroaromatische Nikotinamidring"
+                            ],
+                            "guid": "LWdY%N]yV&",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wofür werden NADPH und NADH genutzt?</b></font>",
+                                "Die meisten Enzyme nutzen NADH\noder NADPH als Energielieferant.<br><br>Für Biosynthesen/Anabolismus → oft NADPH<br>Für Energiegewinn/Abbau/Katabolismus → oft NADH"
+                            ],
+                            "guid": "K&Ed#y!k.+",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Zeichne ein NADH und markiere die Position an der NADPH phosphoryliert ist</b></font>",
+                                "<img src=\"paste-067b04e9fdc930f798910af8db4aef9b72892c97.jpg\">"
+                            ],
+                            "guid": "pcv0rv/gXs",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Zeichne ein FADH<sub>2</sub></font></b>",
+                                "<img src=\"paste-90eb2e6de159e010a8687c54e96edfb83e8f4720.jpg\">"
+                            ],
+                            "guid": "x7Zygrc!H$",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie katalysiert ein Enzym eine Reaktion?</b></font>",
+                                "Es senkt die benötigte Gibbssche freie Aktivierungsenthalpie"
+                            ],
+                            "guid": "CMNd4.{XB#",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie nehmen Zellen Polymere als Nahrung auf?</b></font>",
+                                "Sie werden zuerst extrazellulär zu Oligo- oder Monomeren zerlegt und dann assimiliert"
+                            ],
+                            "guid": "gE65{1sP7{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie viele Bakterien sind an der Herstellung von Emmentaler Käse beteiligt?</b></font>",
+                                "<i>Lactobacillus helveticus</i> gärt Lactat aus Glucose.<br><i>Propionibacterium freudenreichii </i>reift den Käse indem es je 3 Lactat zu 2 Propionat (und Actetat) sowie Co<sub>2</sub> und ATP umsetzt<br><br>→ Das Propionat sorgt für den Geshmack und das CO<sub>2</sub> für die Löcher im Käse"
+                            ],
+                            "guid": "mAb4OPl[fg",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">Nenne 5 wichtige Gärprodukte</font></b>",
+                                "Formiat, Acetat, Ethanol, Lactat, Succinat<br><img src=\"paste-52a1e2de35949679502a3df86825dbb550985e46.jpg\">"
+                            ],
+                            "guid": "Eifk*%!ASq",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><font color=\"#ffaa00\">3 Abbauwege für Glukose und ihre Endprodukte</font></b>",
+                                "<u>Glycolyse (Embden-Meyerhof-Parnas Weg)</u><br>→2Pyruvat, 2ATP, 2NADH<br><u>KDPG-Weg (Entner-Doudoroff-Weg)</u><br>→2Pyruvat, 1ATP, 1NADH, 1NADPH<br><u>Pentosephosphatweg</u><br>→Biosynthese von Zuckern, 1ATP, 2NADPH"
+                            ],
+                            "guid": "mBOb|=0~CW",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie viel ATP wird in der Glycolyse verarbeitet?</b></font>",
+                                "2 werden im Umbau Glukose →&nbsp;Fructose-1,6-bisphosphat verbraucht.<br><br>Nach spaltung in 2&nbsp;Glycerinaldehyd-3-phosphat werden 4ATP bei der prozessierung zu 2 Pyruvat gewonnen.<br><br>Insgesamt werden 2 ATP und 2NADH gewonnen:<br><img src=\"paste-998d165d68791bc7614a7e65246ff781dda8e25d.jpg\">"
+                            ],
+                            "guid": "iFs!5uk:A~",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie wird im ersten Schritt der Glykolyse Glucose zu 2&nbsp;Glycerinaldehyd-3-phosphat umgesetzt?</b></font>",
+                                "1. Hexokinase phosphoryliert (ATP verbrauch) zu Glucose-6-Phosphat<br>2. Glucose-6-Phosphat-isomerase baut zu Fructose-6-Phosphat um<br>3. Phosphofructokinase phosphoryliert (ATP verbrauch) zu Fructose 1,6 bisphosphat<br>4. Aldolase spaltet in 2 C3. ein Glycerinaldehyd-3-phosphat direkt und ein Dihydroxyacetonphosphat das noch Isomerisiert wird von der Triosephosphatisomerase"
+                            ],
+                            "guid": "M3o3KI%j`W",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie werden im zweiten Schritt der Glykolyse die 2 Glycerinaldehyd-3-phosphat zu 2 Pyruvat prozessiert?</b></font>",
+                                "1. G3P wird von G3P-Dehydrogenase phosphoryliert zu 1,3 Bisphosphoglycerat<br>2. Phosphoglyceratkinase dephosphoryliert zu&nbsp;3-Phosphoglycerat (ATP Gewinn)<br>3. Phosphoglyceratmutase isomerisiert zu 2-Phosphoglycerat<br>4. Enolase Dehydriert zu Phosphoenolpyruvat<br>5. Pyruvatkinase dephosphoryliert zu Pyruvat (ATP Gewinn)"
+                            ],
+                            "guid": "s%|7Pa,|E3",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Wie verläuft der KDPG-Weg?</b></font>",
+                                "1. Glucose wird unter ATP verbrauch zu Glucose-6-Phosphat<br>2. Umsetzung zu&nbsp;6-Phosphoglucono-d-Lacton NADPH Gewinn<br>3. + H<sub>2</sub>O zu 6-Phosphogluconat<br>4. - H<sub>2</sub>O zu&nbsp;2-Keto-3-desoxy-6-Phosphogluconat<br>5. ein Pyruvat und ein G3P entstehen. Das G3P wird in die Glykolyse eingeschleust (2Schritt: 1 ATP und 1 NADH Gewinn)"
+                            ],
+                            "guid": "x@Fodi9n9,",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
+                                "Ron"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#ffaa00\"><b>Durch die Umsetzung von Ribulose-5-Phosphat entstehen im Pentosephosphat Zuckerphosphate mit 3-7 C-Atomen. Wofür werden diese genutzt?</b></font>",
+                                "z.B. Ribosen für DNA und RNA oder deren Purine, Cyklische Ringe für Aromatische Aminosäuren, oder einfach umsetzung der Fructose-6-Phosphat in Glykolyse"
+                            ],
+                            "guid": "j%MEENkYMl",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "MBVO9",
                                 "Ron"
                             ]
                         }
@@ -53312,7 +53590,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "MBVO6",
+                "MBVO9",
                 "Ron"
             ],
             "tmpls": [
