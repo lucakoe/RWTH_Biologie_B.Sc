@@ -78,19 +78,6 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4a9c5daf-cce1-11eb-8651-309c2362050c",
-                            "deck_config_uuid": "898ffff0-9ae6-11eb-a2d6-309c2362050c",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "BumsBums",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
                             "crowdanki_uuid": "8cb1d9f9-9eae-11eb-8ded-309c2362050c",
                             "deck_config_uuid": "898ffff0-9ae6-11eb-a2d6-309c2362050c",
                             "desc": "",
@@ -98,15 +85,27 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "paste-05eb27c7d94d67463b26f4f6087135e9f3f5f8f7.jpg",
                                 "paste-2e562447b1f2879fd2c18720eb67ecdb97426af8.jpg",
+                                "paste-34d80d36ebfd3a65ee1ff811aff3c4612ec4fbb4.jpg",
+                                "paste-351a1bfefa43fd2fcb29898566425422f3db8ea7.jpg",
                                 "paste-493b0181ace9d748288afb42c77e8b60779b73ab.jpg",
+                                "paste-4ab039ab8ddee9e0c097ef71903ab954ff77c091.jpg",
                                 "paste-543abaaeefc02f0aac7dd3eb43081769ce50651e.jpg",
+                                "paste-5e95d58e009844e75d7d788563360ea7cce4fa93.jpg",
+                                "paste-88f0d2449ff61c731821822aeb1100ae3dcec086.jpg",
                                 "paste-97f54c71bbf371bc7b6a5658e1beea20d592acdc.jpg",
+                                "paste-b384cf7a4ca225434d5ef2322f7523ba70092604.jpg",
                                 "paste-b9ea2f94ad15d72432df3c50824d22e08809f3cb.jpg",
+                                "paste-bb338496c2e53cdcc1cb3b1f9470b487b520cd20.jpg",
                                 "paste-c3dea06911bec3c583aa074b136e1df454bcdaa2.jpg",
                                 "paste-c6fb830082f15f829892e3f93b11da54effc9514.jpg",
+                                "paste-d279f614b0b455801e8441b15447a7b33b8b99da.jpg",
+                                "paste-d4c346ff8ec8db28a216e910f44da6b483c68f59.jpg",
                                 "paste-d6950d2b434a015cec1225aaa475ea9605aa9e03.jpg",
-                                "paste-e0f7b7043d400876e1587e6651c390e98803681a.jpg"
+                                "paste-e0f7b7043d400876e1587e6651c390e98803681a.jpg",
+                                "paste-ec035e2d6778300cdc3b468795d3406a68472a60.jpg",
+                                "paste-ff3104d3481bd1245bf5fed644d7f4559581aa7d.jpg"
                             ],
                             "mid": 1619206366862,
                             "name": "Übung Allgemeine Organische Chemie SS21",
@@ -212,6 +211,97 @@
                                     "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                                     "tags": [
                                         "OCVO5",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Nebenreaktion tritt bei der nukleophilen Substitotion auf?",
+                                        "<b><u>Eliminierung</u></b>:<div><img src=\"paste-4ab039ab8ddee9e0c097ef71903ab954ff77c091.jpg\"><br></div><div>- Natriummethanolat (OCH<sub>3</sub>) gutes Nukleophil</div><div>-&gt; Ether entsteht meistens (Propyl- und Methyl- Gruppe an einem Sauerstoff gebunden)</div><div><br></div><div>- Natriummethanolat zudem gute Base, welche die Säure abspaltet (HBr)</div><div>-&gt; Teilweise entsteht Propen durch Eliminierung von HBr</div><div><br></div><div><b><u>ß-Eliminierung:</u></b></div><div>~ Die\nam häufigsten vorkommende Eliminierung betrifft zwei im Ausgangsmolekül\n<font color=\"#ff5500\">benachbarte, aneinander gebundene Atome</font>, wobei danach eine<font color=\"#ff5500\"> Doppel- (oder\nDreifachbindung) z</font>wischen diesen entsteht</div>"
+                                    ],
+                                    "guid": "nSFj9FIzqz",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Nach welchem Mechanismus verläuft die ß-Eliminierung?",
+                                        "- Zwei Mechanismen möglich mit gleichem Resultat<br><br><div><b><u>E1 Reaktion:</u></b></div><div>- Reaktion 1.Ordnung</div><div>-&gt; Kinetik: Nur Abhängig vom Alkylhalogenid (Base spielt keine Rolle)</div><div><br></div><div><b><u>~ Ablauf (analog zu S<sub>N</sub>1 Reaktion):</u></b></div><div>&nbsp; - X wird abgespalten&nbsp;</div><div>&nbsp; - Cabeniumion entsteht mit positiver Ladung (erfüllt nicht die Oktettregel)</div><div>&nbsp; ~ Base könnte nun als Nukleophil ODER <b><font color=\"#ff5500\">als Base angreifen </font></b>(Übertragen des Protons, freiwerden&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;des f.Elektronenpaars für Doppelbindung der Kohlenstoffe)</div><div><font color=\"#ff5500\">-&gt; Erst langsame Spaltung und dann schnelle Deprotonierung</font></div><div><br></div><div><b><u>E2 Reaktion:<br></u></b>- Reaktion 2 Ordnung</div><div>-&gt; Kinetik: Sowohl vom Alkylhalogenid als auch von der Base abhängig</div><div><br></div><div><b><u>~ Ablauf:</u></b></div><div>&nbsp; - Base greift direkt am Proton an und spaltet es ab&nbsp;</div><div>&nbsp; - gleichzeitig spalten sich daraufhin X (<font color=\"#ff5500\" style=\"\">Abgangsgruppe</font>) und die Base mit dem Proton ab</div><div><img src=\"paste-ff3104d3481bd1245bf5fed644d7f4559581aa7d.jpg\"><br></div>"
+                                    ],
+                                    "guid": "r<5Y6w[K8H",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Beschreibe den Mechanisms der E2-Reaktion genau. Wie stehen die Orbitale zueinander und welches Problem kann auftreten?",
+                                        "<div><b><u>Ablauf</u></b>:</div><div>- Base bindet mit Proton</div><div>-&gt; frei(gewordenes) Elektronenpaar klappt um und bildet eine Doppelbindung mit dem benachbarten C-Atom</div><div>&nbsp; -&gt; Abgangsgruppe (z.B Br<sup>-</sup>) wird \"gezwungen\" das Molekül zu verlassen</div><img src=\"paste-d4c346ff8ec8db28a216e910f44da6b483c68f59.jpg\"><div><b><u>Orbitale</u></b>:</div><div>- Bindung vom sp<sup>3</sup>&nbsp;- Orbital mit dem Wasserstoff und Bindung eines sp<sup>3</sup>- Orbitals mit der Abgangsgruppe müssen parallel zueinander stehen</div><div>&nbsp; ~ Wasserstoff und Abgangsgruppe (Br<sup>-</sup>) stehen auf entgegengesetzten Seiten und werden abgespalten</div><div>-&gt; <b><u><font color=\"#ff5500\">Antiperiplanar</font></u></b></div><div><font color=\"#ff5500\" style=\"\"><br></font></div><div>- Beide Kohlenstoffe planarisieren, sodass alle Substituenten in einer Ebene stehen (2x sp<sup>2</sup>-Orbitale)</div><div>-&gt; Bildung einer <font color=\"#ff5500\">Doppelbindung wegen den parallel stehenden p-Orbitalen nun möglich</font></div><div><font color=\"#ff5500\"><u><i>-&nbsp;Antiperiplanar ist jedoch anfangs nicht immer gegeben</i></u></font></div><div><br></div><div><u><i>Beispiel</i></u>:</div><div><i><sub>1)</sub></i></div><div><i><sub>- Cyclohexylring ist mit Tertiärbutylgruppe stabilisiert und die Tert.-Butylgruppe in der Äquatorialgruppe zwing das Brom in die axiale Position (Trans zur Tert.-Butylgruppe)</sub></i></div><div><i><sub>-&gt; Beim Hinzufügen einer Base stehen Brom (Abgangsgruppe) und Wasserstoff gegenüber voneinander, sodass diese abgespalten werden und Cyclohexen entsteht</sub></i></div><div><br></div><div>2)</div><div>Wenn <font color=\"#ff5500\">Brom Cis zu Tert.-Butylgruppe steht ist <b><u><i>kein </i></u></b>antiperiplanares Wasserstoffatom vorhanden</font> und die Reaktion läuft nicht ab</div><div>-&gt; Erst wenn der Cyclohexanring invertiert und Tertiärbutylgruppe in die axiale Position gezwungen wird genauso wie Brom <font color=\"#ff5500\"><b>(<u>Benötigt extrem lange und viel Energie)</u></b></font></div><div>&nbsp; -&gt; Nun ist ein antiperiplanares Wasserstoffatom vorhanden und die Reaktion kann weiter ablaufen</div><div><img src=\"paste-88f0d2449ff61c731821822aeb1100ae3dcec086.jpg\"><br></div>"
+                                    ],
+                                    "guid": "PD78f*sFU0",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie wird die Konkurrenz zwischen nukleophiler Substitution und ß-Eliminierung gesteuert bzw. welche ist die Hauptreaktion?",
+                                        "<div><font color=\"#ff5500\"><b>- Schwach\nbasische Nukleophile reagieren unter Substitution.</b></font></div><div>&nbsp; -&gt; schwache Basen können nicht gut deprotonieren</div><div>&nbsp; ~ Substitution überwiegt der Eliminierung</div><div><img src=\"paste-ec035e2d6778300cdc3b468795d3406a68472a60.jpg\"><br></div>\n<div><font color=\"#ff5500\"><b>- Der sterische Anspruch am Elektrophil hat einen entscheidenden Einfluss.</b></font></div><div>&nbsp; -&gt; Natriumethanolat kann schwieriger am Kohlenstoff angreifen als Nukleophil, da es nun von zwei Methylgruppen abgeschirmt wird</div><div>&nbsp; ~ Eliminierung überwiegt der Substitution</div><div><img src=\"paste-b384cf7a4ca225434d5ef2322f7523ba70092604.jpg\"><br></div><div><div><font color=\"#ff5500\">- Sterisch gehinderte basische Nukleophile reagieren bevorzugt unter\nEliminierung.</font></div></div><div>&nbsp; -&gt; Die zentren mit der negativen Ladung im basischen Nukleophil sind so stark abgeschrimt, dass sie nicht als Nukleophil am Zielmolekül wirken können&nbsp;</div><div>&nbsp; ~ Damit lässt sich&nbsp;<i><u><font color=\"#ff5500\">manuell eine Eliminierung erzwingen</font></u></i></div><div><img src=\"paste-5e95d58e009844e75d7d788563360ea7cce4fa93.jpg\"><br></div>"
+                                    ],
+                                    "guid": "iznV3VwW^J",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was sind Alkohole?",
+                                        "<b><font color=\"#ff5500\">Alkohole sind Verbindungen, welche, an einem Alkylrest/ organischem Rest, OH-Gruppen tragen</font></b><div><br></div><div><b><u>Nomenklatur</u></b>:</div><div>- Vom Alkan abgeleitet mit Endung -ol</div><div><br></div><div><i><u>Bsp</u></i>:</div><div>Methanol: Beim Methan ein Wasserstoff durch eine OH Gruppe ersetzt</div><div>Ethanol: Beim Ethan ein Wasserstoff durch eine OH-Gruppe ersetzt</div><div><img src=\"paste-d279f614b0b455801e8441b15447a7b33b8b99da.jpg\"><br></div><div><br></div><div><img src=\"paste-351a1bfefa43fd2fcb29898566425422f3db8ea7.jpg\"><br></div><div>-&gt; <b>Primär, Sekundär, Tertiär abhängig davon, wie viele Substituenten sitzen am Kohlenstoff benachbart zur OH-Gruppe&nbsp;</b></div><div><br></div><div>Trivialnamen:</div><div><img src=\"paste-34d80d36ebfd3a65ee1ff811aff3c4612ec4fbb4.jpg\"><br></div>"
+                                    ],
+                                    "guid": "k)ajME]!%#",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche weiteren Kriterien benötigt ein Molekül, abgesehen von der OH Gruppe, um als Alkohol zu gelten?",
+                                        "1) Das Kohlenstoffatom mit der OH-Gruppe muss sp<sup>3</sup>&nbsp;hybritisiert sein<div><img src=\"paste-05eb27c7d94d67463b26f4f6087135e9f3f5f8f7.jpg\">falsch, denn sp<sup>2</sup>&nbsp;Hybritisierung</div><div><br><div>2) Nur andere Wasserstoffatome oder Kohlenstoffatome dürfen an dem Kohlenstoffatom mit der OH-Gruppe gebunden sein</div></div><div><img src=\"paste-bb338496c2e53cdcc1cb3b1f9470b487b520cd20.jpg\">falsch, denn Sauerstoff am Kohlenstoffatom mit der OH-Gruppe gebunden<br></div>"
+                                    ],
+                                    "guid": "jJw9x.z||j",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<font color=\"#ffff00\">Wofür sind Alkohole wichtig und wo kommen sie in der Natur vor?</font>",
+                                        "- In Kohlenhydraten vorhanden<div>- Menthol als Bestandteil in Kaugummis, Zigaretten... als abkühlung der Schleimhäute</div><div>- Taxol als Medikament gegen Krebs</div><div>- Maitotoxin starkes Gift von Algen</div><div><font color=\"#ff5500\">-&gt; Moleküle mit funktionellen Alkoholen oftmals unter den umsatzstärksten Medikamenten (z.B Remdesivir)</font></div><div><font color=\"#ff5500\">-&gt; Alkohole bestehen zu ca. 75-80% aus Alkoholverbindungen</font></div>"
+                                    ],
+                                    "guid": "of.!sw|?q}",
+                                    "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
+                                    "tags": [
+                                        "OCVO6",
                                         "TobiS2"
                                     ]
                                 }
@@ -2135,7 +2225,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie kann man die Nukleophilie eines Teilchens abschätzen? (Tendenz ein Elektrophilie anzugreifen)",
-                                "<div>a) <b><u>Basizität</u></b></div>Nukleophilie korreliert mit der Basizität&nbsp;<div>-&gt; Base hat freies Elektronenpaar und möglicherweise neg. Ladung</div><div><br></div><div>- In den Trends nur ähnlich in <b><font color=\"#ff5500\">aprotischen</font></b> Lösungsmitteln&nbsp;</div><div><i>~ In protischen Lösungsmitteln würden sich Wasserstoffbrücken bilden, welche den nukleophilen Charakter abschwächt</i></div><div><br></div><div>b) <b><u>Sterik</u></b>:</div><div><b><font color=\"#ff5500\">Kleine </font></b>Nukleophile können besser mit Elektrophilen reagieren</div><div><br></div><div>c) <b><u>Lösungsmittel</u></b></div><div>- <font color=\"#ff5500\">polare </font>Lösungsmittel lösen Nukleophile gut</div><div>- mit <font color=\"#ff5500\">Wasserstoffbrücken </font>in dem Lösungsmittel löst man es weiter, <font color=\"#ff5500\">blockiert es jedoch zu sehr</font></div>"
+                                "<div>a) <b><u>Basizität</u></b></div><font color=\"#ff5500\">Nukleophilie korreliert mit der Basizität&nbsp;</font><div>-&gt; Base hat freies Elektronenpaar und möglicherweise neg. Ladung</div><div><br></div><div>- In den Trends nur ähnlich in <b><font color=\"#ff5500\">aprotischen</font></b> Lösungsmitteln&nbsp;</div><div><i>~ In protischen Lösungsmitteln würden sich Wasserstoffbrücken bilden, welche den nukleophilen Charakter abschwächt</i></div><div><br></div><div>b) <b><u>Sterik</u></b>:</div><div><b><font color=\"#ff5500\">Kleine </font></b>Nukleophile können besser mit Elektrophilen reagieren</div><div><br></div><div>c) <b><u>Lösungsmittel</u></b></div><div>- <font color=\"#ff5500\">polare </font>Lösungsmittel lösen Nukleophile gut</div><div>- mit <font color=\"#ff5500\">Wasserstoffbrücken </font>in dem Lösungsmittel löst man es weiter, <font color=\"#ff5500\">blockiert es jedoch zu sehr</font></div>"
                             ],
                             "guid": "fj;#Nf@wa7",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
@@ -54692,7 +54782,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "OCVO4",
+                "OCVO6",
                 "TobiS2"
             ],
             "tmpls": [
