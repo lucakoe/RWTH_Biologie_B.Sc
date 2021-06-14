@@ -78,6 +78,19 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "4a9c5daf-cce1-11eb-8651-309c2362050c",
+                            "deck_config_uuid": "898ffff0-9ae6-11eb-a2d6-309c2362050c",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "BumsBums",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "8cb1d9f9-9eae-11eb-8ded-309c2362050c",
                             "deck_config_uuid": "898ffff0-9ae6-11eb-a2d6-309c2362050c",
                             "desc": "",
@@ -85,12 +98,17 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [
+                                "paste-2e562447b1f2879fd2c18720eb67ecdb97426af8.jpg",
                                 "paste-493b0181ace9d748288afb42c77e8b60779b73ab.jpg",
                                 "paste-543abaaeefc02f0aac7dd3eb43081769ce50651e.jpg",
                                 "paste-97f54c71bbf371bc7b6a5658e1beea20d592acdc.jpg",
                                 "paste-b9ea2f94ad15d72432df3c50824d22e08809f3cb.jpg",
-                                "paste-d6950d2b434a015cec1225aaa475ea9605aa9e03.jpg"
+                                "paste-c3dea06911bec3c583aa074b136e1df454bcdaa2.jpg",
+                                "paste-c6fb830082f15f829892e3f93b11da54effc9514.jpg",
+                                "paste-d6950d2b434a015cec1225aaa475ea9605aa9e03.jpg",
+                                "paste-e0f7b7043d400876e1587e6651c390e98803681a.jpg"
                             ],
+                            "mid": 1619206366862,
                             "name": "Übung Allgemeine Organische Chemie SS21",
                             "notes": [
                                 {
@@ -170,6 +188,32 @@
                                         "OCVO4",
                                         "TobiS2"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"font-weight: bold;\">Vervollständigen Sie folgende\nGleichungen inklusive Angabe von relevanten Übergangszuständen und\nZwischenstufen. Geben Sie an, ob die Reaktion nach S</span><span style=\"font-weight: bold;\">N</span><span style=\"font-weight: bold;\">1 oder S</span><span style=\"font-weight: bold;\">N</span><span style=\"font-weight: bold;\">2 verläuft.</span></div><div><img src=\"paste-e0f7b7043d400876e1587e6651c390e98803681a.jpg\"><span style=\"font-weight: bold;\"><br></span></div>",
+                                        "<img src=\"paste-2e562447b1f2879fd2c18720eb67ecdb97426af8.jpg\">"
+                                    ],
+                                    "guid": "CXTJeKM^zu",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "OCVO5",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"font-weight: bold;\">Welche Produkte entstehen\nüberwiegend bei der gezeigten Reaktion. Erklären Sie den Mechanismus. </span></div>\n<span style=\"font-weight: bold;\">Während\nder Reaktion entsteht zunächst auch das abgebildete Nebenprodukt. Wie wird das\ngebildet?</span><div><img src=\"paste-c3dea06911bec3c583aa074b136e1df454bcdaa2.jpg\"><span style=\"font-weight: bold;\"><br></span></div>",
+                                        "<img src=\"paste-c6fb830082f15f829892e3f93b11da54effc9514.jpg\">"
+                                    ],
+                                    "guid": "zq(6djg3U3",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "OCVO5",
+                                        "TobiS2"
+                                    ]
                                 }
                             ]
                         }
@@ -181,6 +225,27 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-1-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-1-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-10-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-10-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-2-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-2-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-3-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-3-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-4-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-4-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-5-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-5-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-6-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-6-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-7-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-7-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-8-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-8-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-9-A.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-9-Q.svg",
+                        "24fb39bca62e4dceb18a4ba4177af924-ao-O.svg",
                         "27e8a55a47e245189c5c1dc6b39c8c7b-ao-1-A.svg",
                         "27e8a55a47e245189c5c1dc6b39c8c7b-ao-1-Q.svg",
                         "27e8a55a47e245189c5c1dc6b39c8c7b-ao-2-A.svg",
@@ -268,12 +333,17 @@
                         "paste-086e3a4b5ad61e62ac50ae0fa25f91c8e6bb21d2.jpg",
                         "paste-0e95d2352a3e3f0900e33b53a602b63700be6eac.jpg",
                         "paste-0eb0242d46cfe0a0f205f43c9643f460bf9c78fa.jpg",
+                        "paste-0f0cb0a3c20f2fda50bfff56f9f51b76e102cb16.jpg",
+                        "paste-110875184c6e4ce7393e8a2677529c33e4e8c857.jpg",
+                        "paste-16cbe2f2121836cf14d1a218fb5ea4c13ec2ef9d.jpg",
                         "paste-195a15703d22d33a74c30888fe8ca37ffb902289.jpg",
                         "paste-1a9828affa0170b2230c94feed29ca6d2e757b5d.jpg",
                         "paste-1aab4be4ed643e5d248e18532ef47a61609eb0b8.jpg",
                         "paste-1b7ea1209909652cf81ce609f02bc46e7224b79c.jpg",
+                        "paste-1d0aeedad269f714f627a9f4731ad7afbbbd313e.jpg",
                         "paste-1da88c377e12ea0dbb8cc6f7e40b301be97c4eca.jpg",
                         "paste-219fc3fdddab48258735b6f8984d21dbd3b2ce27.jpg",
+                        "paste-21cff771fdb51c968514e3540fc5a51d1b0d9f35.jpg",
                         "paste-237b42a37f17dc9eb9197b1cebc6bd41d4f34cb9.jpg",
                         "paste-25df5d054ed3e983050a384f2170f27cf5d7c494.jpg",
                         "paste-29512635f4ea1fc58cab62b51ff071ad901362e8.jpg",
@@ -295,6 +365,7 @@
                         "paste-4b1eef483854370e0c97c848754194b8d7155c2c.jpg",
                         "paste-4c900beea638fd22443d209d8ff0e0d864158e6f.jpg",
                         "paste-517aa12974b5143a872037eb5b2b46d3e040d67c.jpg",
+                        "paste-52bf40a8fe70b037f0674966bb21b59dc83683f8.jpg",
                         "paste-5621d3aacb9ee82f9dfa97da3feead2af76667ea.jpg",
                         "paste-585b6d346bc1fc81d845cd4b286ca31d74f62f6c.jpg",
                         "paste-5916b36f1072bda33ac17c3f1f6ae42bc422d964.jpg",
@@ -311,11 +382,17 @@
                         "paste-6d4398e5ed95f789c43a8af37b44c1c780717adf.jpg",
                         "paste-6e5b199a0040ba823c53fad68efa876dc958ec6a.jpg",
                         "paste-7021747f9f97e4e95c8591a669ae4691a8e82c70.jpg",
+                        "paste-7169d25fd0cf41a042da986f5c2b324f25be4c62.jpg",
                         "paste-72f68c1b1339b8ebf759b717381dd3ef8bfe7860.jpg",
                         "paste-73a3e97d0cd5b2a77491351ca23b1078c8317994.jpg",
+                        "paste-75ba5c5dc0de4996df6fd7577019741f024bd7f1.jpg",
                         "paste-76f20981048957b118e9195b0d05bd477580f8f5.jpg",
                         "paste-77b85f9507bcc3629a3f1438e64ff38276aa42da.jpg",
                         "paste-787af5a0f301d8a8784e17716dbcb0c550b72b64.jpg",
+                        "paste-7bb7ed52782ed7bad93efa8c6b68fbb30347e465.jpg",
+                        "paste-7f679ddbf1046b82804a0c19d500efb8e40d1214.jpg",
+                        "paste-82fa0633b8b84a33eb0843861aa48a959466f56e.jpg",
+                        "paste-85d943c49bc360b7d1b05c7f9ad909c316036412.jpg",
                         "paste-865a9d77acb4576c451ad865b607c78f51e433f8.jpg",
                         "paste-86b5baa42492f6d5424bc5725f22783347e0b573.jpg",
                         "paste-88010317e2043371a9696f030cf42df61a05923e.jpg",
@@ -326,8 +403,10 @@
                         "paste-91d5a0dfc10ed1faad06f60e5bdbe646e41d9ccf.jpg",
                         "paste-92e0db05a4b75d4c52e97bb14d89f022214a0cf7.jpg",
                         "paste-9300cf981326f2978d4f00e98013fd5831a78f06.jpg",
+                        "paste-93e1538c66c359ba8fada5ac01aa9e130147cade.jpg",
                         "paste-94876e9797e920ab79e7b3daa99a20874c86208f.jpg",
                         "paste-94cce5317d5d74a111fd1b25a918dce12162000d.jpg",
+                        "paste-969857e7fa7bff801852649b2e14b94ae3f70a6d.jpg",
                         "paste-96c48a450bba233103e85047975c0cd76c3a4e61.jpg",
                         "paste-98a1c8874261c3d3a89798fe12cbaa1dfd1433d2.jpg",
                         "paste-99a8439b471724f0225a365a8bc30204581e1b6b.jpg",
@@ -341,13 +420,16 @@
                         "paste-a604f33334613b37e7c24de1cb21ebdbe6ec5d8b.jpg",
                         "paste-a89a02d0b17bcd6cc8c1a1135cb61f025b6e83a8.jpg",
                         "paste-a9102ddcdc826ed5367a63af7bf948fe6f6bbaf2.jpg",
+                        "paste-ad8d532933d754cd8ebad884903f5041d36537da.jpg",
                         "paste-b405a016509260a1999bf8e5d1356e0bdb684420.jpg",
                         "paste-b6edfdc383e1c5af72e05ed37bda1e3355a2832b.jpg",
                         "paste-b8618f401a12b4fcb4444c7711432feb606cfc3d.jpg",
                         "paste-b8973ddb02975ddf5a4bd52700785edfec26dd3c.jpg",
+                        "paste-bbe2a8f7a3d42f0fcf3807694833eceba2377c3b.jpg",
                         "paste-be9e8e61b51b8fab9762b8d787db1838e2c9c193.jpg",
                         "paste-bf0517b2e8cdb575f6338b781ce71aa11c923e09.jpg",
                         "paste-c23d920f1c4cf49880b9612241e7e2ee8f5ff347.jpg",
+                        "paste-c2c9bf85cd459541e949567da2bbb9e419858e14.jpg",
                         "paste-c3932c28516dbf8821aed54b91a8ec1c44490eef.jpg",
                         "paste-c4fd2aed8dfd56454a37603e0897472ee4e76928.jpg",
                         "paste-c65f76725be2403da6f4404b857fcdeb0097e0c2.jpg",
@@ -358,18 +440,24 @@
                         "paste-d3c71f153764a7a066b9b5da62ebcf300410cb09.jpg",
                         "paste-d6a429d6a09b5b968d2b61fde670df523e354576.jpg",
                         "paste-db11d6a429507f9efe3bad06c1b521d9ffeb7c2c.jpg",
+                        "paste-dd7c3c9f2a2ed2b68bcbe0f0a76a90558e193eaf.jpg",
                         "paste-e0d8132aaf07c0000a3fa93085587d0463e1ad75.jpg",
+                        "paste-e4a856d5d4e79c230d5c71b2cea54928f4447c53.jpg",
+                        "paste-e4fe9753fb0ee1ffd86033fe2bb15f76b9ccceaa.jpg",
                         "paste-e8633b5f37c432b1f931c503efe21313602c30ed.jpg",
                         "paste-e8fe6e05e7d1f670ddfbc7ab5ab0c2bd6a5d45c9.jpg",
                         "paste-f017913b368fb462f03b84759ab1450cd5694f8c.jpg",
                         "paste-f34a8062bcb85a10a65d6084af588cbfd66d1819.jpg",
                         "paste-f3b9b393d9e5152cafd81eb9920bfb7ed0b2e2f6.jpg",
                         "paste-f47426b713265fdaf9547d815a0ef98ed6734b0e.jpg",
+                        "paste-f4b2313d27c9b3b112a4f434b48ab711178c7adc.jpg",
+                        "paste-f50f7345e2010a9d7101f0ed26d996de255498a7.jpg",
                         "paste-f66f4e309efed885527c8ddfc872faad71c98ebf.jpg",
                         "paste-f826cca59dba4f6ae22ced1c761caf49f76d35b8.jpg",
                         "paste-fa7cb91e1e3c7ae531862b51e5fe558aa89dc49b.jpg",
                         "paste-fd04e3abb98c66c8dbd207863c715c4dd653c6ae.jpg",
                         "tmp9imnxltp.png",
+                        "tmpbuma6odk.png",
                         "tmplhr3ptm9.png",
                         "tmpq1x9epfm.png",
                         "tmpz4a_3uk9.png"
@@ -2003,6 +2091,447 @@
                                 "OCVO4",
                                 "TobiS2"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Halogenalkane, ihre physikalischen Eigenschaften und wie funktioniert die Nomenklatur?",
+                                "<div>Verbindung von Alkanen und Halogeniden</div><div><br></div><b><u>Nomenklatur</u></b>:<div><img src=\"paste-969857e7fa7bff801852649b2e14b94ae3f70a6d.jpg\"><br></div><div>-&gt; Wasserstoff wird mit einem oder mehreren Halogeniden ausgetauscht&nbsp;</div><div><br></div><div><b><u>Physikalische Eigenschaften:</u></b></div><div><img src=\"paste-f4b2313d27c9b3b112a4f434b48ab711178c7adc.jpg\"><br></div><div>- Bindungsstärke nimmt mit der Elektronegativität ab</div><div>- Umso größer das Molekül umso größer auch die Polarisierbarkeit&nbsp;</div><div>(Wechselwirkung ähnlich wie bei Wasserstoffbb. nur mit Halogenid als delta- und Kohlenstoff als delta+)</div><div>-&gt;<font color=\"#ff5500\"> Mit einer großen Polarisierbarkeit auch ein hoher Siedepunkt</font></div>"
+                            ],
+                            "guid": "JoY,oBx~/q",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür werden Halogenalkane benötigt? Nenne 2",
+                                "<div>Löschmittel: Halogenalkane brennen nicht und ersticken die Flamme</div><div>Kältemittel</div><div>Lösungsmittel: Sind sehr lipophil (Fett lösend)</div><div>Pestizide</div><div>Schmelzebehandlungsmittel</div><div>Treibgaskomponente in Sprühdosen: Bauen Druck für das Sprühen auf&nbsp;</div><div><br></div><div>-&gt; Jedoch stark verminderte Nutzung, da von UV-Strahlen die Verbindungen gespalten werden können und Radikale entstehen, welche die Ozonschicht abbauen</div>"
+                            ],
+                            "guid": "j7!4&`6.i9",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die nukleophile Substitution?",
+                                "<div>Ein Halogenalkan reagiert mit Natriumhydroxid, indem das <font color=\"#ff5500\">Halogen des Halogenalkans</font> <font color=\"#ff5500\">durch</font> die <font color=\"#ff5500\">Hydroxidgruppe (OH) des Natriumhydroxids substituiert (augetauscht) wird</font><br></div><div>-&gt; So entsteht ein Alkohol und ein Natriumhalogenid (Salz)</div><div><br></div><div><b><u>Elektrophile</u></b>: Atome sind positiv geladen/ polarisiert und werden von neg. Ladungen angezogen (<i>hier: </i>OH<sup>-</sup>)</div><div><br></div><div><b><u>Nukleophilie</u></b>: Atome mit freiem Elektronenpaar und werden von pos. Ladungen angezogen (<i>hier: </i>C)</div><div><br></div><div>-&gt; Es reagiert also ein Nukleophil und ein Elektrophil miteinander, sodass die Abgangsgruppe (Halogenid) abgespalten wird</div><div>&nbsp;<img src=\"paste-ad8d532933d754cd8ebad884903f5041d36537da.jpg\"></div>"
+                            ],
+                            "guid": "C,Ssk,Y}xc",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man die Nukleophilie eines Teilchens abschätzen? (Tendenz ein Elektrophilie anzugreifen)",
+                                "<div>a) <b><u>Basizität</u></b></div>Nukleophilie korreliert mit der Basizität&nbsp;<div>-&gt; Base hat freies Elektronenpaar und möglicherweise neg. Ladung</div><div><br></div><div>- In den Trends nur ähnlich in <b><font color=\"#ff5500\">aprotischen</font></b> Lösungsmitteln&nbsp;</div><div><i>~ In protischen Lösungsmitteln würden sich Wasserstoffbrücken bilden, welche den nukleophilen Charakter abschwächt</i></div><div><br></div><div>b) <b><u>Sterik</u></b>:</div><div><b><font color=\"#ff5500\">Kleine </font></b>Nukleophile können besser mit Elektrophilen reagieren</div><div><br></div><div>c) <b><u>Lösungsmittel</u></b></div><div>- <font color=\"#ff5500\">polare </font>Lösungsmittel lösen Nukleophile gut</div><div>- mit <font color=\"#ff5500\">Wasserstoffbrücken </font>in dem Lösungsmittel löst man es weiter, <font color=\"#ff5500\">blockiert es jedoch zu sehr</font></div>"
+                            ],
+                            "guid": "fj;#Nf@wa7",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche nukleophilen Substitutionen gibt es (alle)? <font color=\"#ffff7f\">(Relativ unwichtig, jedoch werden einige Reaktionen später nochmal aufgegriffen)</font>",
+                                "<img src=\"paste-21cff771fdb51c968514e3540fc5a51d1b0d9f35.jpg\"><div>1. ALkohol entsteht sehr reaktiv</div><div>2. Williamsche Ethersynthese</div><div>3. Alkohol entsteht durch Abspaltung von einem Proton (weniger reaktiv als 1)</div><div>4. Ähnlichkeiten zu 2</div><div>5.&nbsp;</div><div>6. stabile Ammoniumverbindungen entstehen, aus denen sich erst nach Hinzufügen einer Base und&nbsp; einer folgenden Abspaltung eines Protons das jeweilige Amin bildet</div><div>7. Bei einem tertiären Amin entsteht ein Ammoniumsalz, sodass kein Proton mehr abgespalten wird</div><div>8. Hydrogensulfid ähnlich zu Reaktion 1. (nur als Produkt Thiol)</div><div>9. Durch Iodid enthält man letzendlich wieder ein Halogenalkan, jedoch ist das Halogen ausgetauscht (Die Reaktion funktioniert nicht, wenn vorher schon Iodalkan vorhanden war)</div><div>10.&nbsp;</div><div>11.</div><div><font color=\"#ff5500\">-&gt; Etliche weiter möglich</font></div>"
+                            ],
+                            "guid": "Js^c3!qbpK",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind <font color=\"#ff5500\">aliphatische </font>nukleophile Substanzen?",
+                                "Findet an einem Alkylkohlenstoff statt und nicht an einem Kohlenstoff mit einer Doppelbindung<div><br></div><div><img src=\"paste-dd7c3c9f2a2ed2b68bcbe0f0a76a90558e193eaf.jpg\"><br></div><div>-&gt; Halogen wird immer ersetzt durch OH<sup>-&nbsp;</sup>jedoch finden zwei verschiedene Reaktionen statt</div>"
+                            ],
+                            "guid": "n&Qlt_DLy,",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die S<sub>n</sub>2-Reaktion?",
+                                "<div><b>1. Iodmethan (Halogenalkan) + Natriumhydroxid -&gt; Natriumiodid + Methanol (Alkohol)</b></div><div>~ gehört zu den aliphatischen nukleophilen Substitutionen</div><div><font color=\"#ffff00\">- S<sub>n</sub>2 Reaktion (Substitution nukleophil 2.Ordnung)<br></font></div><div><font color=\"#ffff00\">-&gt; Reaktion 2.Ordnung v= k*[Nukleophils/ Natriumhydroxid] * [Elektrophil/ Halogenalkan]</font></div><div><font color=\"#ffff00\">~ Im Prinzip die Hochzahlen der Konzentrationen zusammenrechen (<i>hier 1+1 = 2)&nbsp;</i>für die Ordnung der Reaktion</font></div><div><img src=\"paste-0f0cb0a3c20f2fda50bfff56f9f51b76e102cb16.jpg\"><br></div><div>- Das Nukeophil setzt an entgegengesetzter Position von der Abgabegruppe an, sodass das Kohlenstoffmolekül kurzzeitig&nbsp;<font color=\"#ff5500\">5-Bindig</font>&nbsp;und energetisch ungünstig wird (Am<font color=\"#ff5500\">&nbsp;p-Orbital vom sp<sup>2</sup>&nbsp;Orbital binden beide Moleküle)</font></div><div>- Wird die Abgabegruppe dann abgespalten,&nbsp;<font color=\"#ff5500\">inversiert&nbsp;</font>(gespiegelt / Enantiomer) das Molekül im Vergleich zu seinem Ausgangspunkt, wenn es&nbsp;<font color=\"#ff5500\">chiral&nbsp;</font>ist</div><div><img src=\"paste-85d943c49bc360b7d1b05c7f9ad909c316036412.jpg\"></div><div>siehe mehr bei <b><i><font color=\"#ff5500\">Walden Umkehr</font></i></b>&nbsp;</div>"
+                            ],
+                            "guid": "F=`a+EsEE]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Walden Umkehr?",
+                                "<b><u>Beispiel bei S<sub>N</sub>2-Reaktion:</u></b><div>~ Kohlenstoff wird 5-Bindig, da Nukleophil, als auch die Fluchtgruppe gleichzeitig binden</div><div>-&gt; Die anderen Substituenten klappen um (<font color=\"#ff5500\"><b>Inversion</b></font>)</div><div>-&gt; Waldenumkehr wird dazu genutzt aus einem Enantionmer das andere herzustellen über mehrere Schritte <font color=\"#00ff00\">(1&amp;3; 2&amp;4)</font></div><div><img src=\"paste-7169d25fd0cf41a042da986f5c2b324f25be4c62.jpg\"><br></div><div><br></div><div><u><b>Von 1 -&gt; 4:</b></u></div><div>- OH<sup>-</sup>&nbsp;invertiert das Stereozentrum am Kohlenstoff und es wird von + nach - übergangen</div><div>~ PCl<sub>5 </sub>hat den Gegenteiligen Effekt</div><div><br></div><div><u><b>Von 1 -&gt; 2:&nbsp;</b></u></div><div>- Chloridverbindung (Verbindung 1) wird mithilfe von Silberoxid (Base) in Wasser umgesetzt zum Alkohol, welcher der Enantiomer von Verbindung 4 ist</div><div><br></div><div><font color=\"#ffff00\">1) Base deprotoniert Carbonsäure zur Verbindung A</font></div><div><font color=\"#ffff00\">2) Intramolekular O<sup>-</sup>&nbsp;substituiert Chlorid mithilfe Inversion (B)</font></div><div><font color=\"#ffff00\">-&gt; Reaktion unter Nachbargruppeneffekt, da das Carboxylat miteingreift</font></div><div><font color=\"#ffff00\">3) Extramolekulares OH<sup>-</sup>&nbsp;greift unter Inversion wieder an (C)</font></div><div><font color=\"#ffff00\">4) Molekül wird wieder Protoniert</font></div><div><i><b>-&gt; Plus-Enantiomer entsteht von Alkohol (4) entsteht</b></i></div><div><i><b>-&gt; Doppelte Inversion führt zu einer Retention, sodass das OH auf gleicher Seite</b></i><b> wie vorher Cl steht</b></div><div><br></div><div><b style=\"color: rgb(255, 85, 0);\">Beide Enantiomere von der Chlorverbindung oder des Alkohols können mithilfe der Walden Umkehr entstehen, indem man die Stereochemie mittels Inversion oder einer Retention verändert</b><br></div><div><img src=\"paste-1d0aeedad269f714f627a9f4731ad7afbbbd313e.jpg\"><br></div>"
+                            ],
+                            "guid": "JxX[ZEAn]d",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Finkelstein Reaktion?",
+                                "<div>Finkelstein Reaktion:</div><div><br></div><div>- Halogenalkane + Natriumiodid -&gt; Iodalkane + Salz des Halogenids</div><div>~ (Halogen kein Iod, NUR Brom und Chlor)</div><div><img src=\"paste-52bf40a8fe70b037f0674966bb21b59dc83683f8.jpg\"><br></div><div>-&gt; Reaktion wird in <font color=\"#ff5500\">Aceton </font>durchgeführt (Natriumiodid als einziges Natriumhalogenid löslich in Aceton)<br></div><div><br></div><div>-&gt; Herstellung von Iodalkanen aus anderen Halogenalkanen herzustellen</div><div>-&gt; Wichtig für Analytik:</div><div><font color=\"#ff5500\">a) primäres Halogenid: schnelle Reaktion</font>, da Iodid als Nukleophil schnell angreifen kann</div><div><font color=\"#ff5500\">b) sekundäre Halogenid: langsame Reaktion</font>, da das Halogen vom Kohlenstoff sterisch abgeschrimt ist</div><div><font color=\"#ff5500\">c) tertiäres Halogenid: keine Reaktion</font>, da an dem Kohlenstoff, welcher das Halogenid bindet, sich 3 weitere Kohlenstoffe befinden und das Iodid somit nicht mehr angreifen kann</div>"
+                            ],
+                            "guid": "TgPg/|LMV",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Faktoren beeinflussen die S<sub>N</sub>2-Reaktion?",
+                                "<b><u>Lösungsmittel</u></b>:<div>-&gt; Sollte wenig Protonen haben (<font color=\"#ff5500\">aprotisch</font>) und/oder polar sein um keine Wasserstoffbrücken aufzubauen<br></div><div><br></div><div><b><u>Güte der Austrittsgruppe</u></b> (Wie gut spaltet sich die Fluchtgruppe ab):</div><div>- Reaktion läuft schneller wenn die Abgangsgruppe die negative Ladung gut kompensieren kann</div><div>a)&nbsp;</div><div><img src=\"paste-16cbe2f2121836cf14d1a218fb5ea4c13ec2ef9d.jpg\"><br></div><div>~ Bei großen Atomen kann sich die neg. Ladung auf dem Molekül verteilen sodass es \"<font color=\"#ff5500\">weicher</font>\" ist und eine bessere Austrittsgruppe darstellt</div><div><img src=\"paste-93e1538c66c359ba8fada5ac01aa9e130147cade.jpg\"></div><div>~ Auch Carboxylat und Sulfonat verteilen die neg. Ladung auf dem Molekül (Mesomerie), sind somit weich und dienen gut als Austrittsgruppe</div><div><br></div><div><b><u>Sterische Einflüsse:<br></u></b></div><div>(Siehe Ähnlichkeit zu Finkelstein Reaktion)</div>"
+                            ],
+                            "guid": "l?>x,T_=T~",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man aus einem Alkohol ein Halogenalkan herstellen mithilfe der nukleophilen Substitution? (Vom Gedanken her theoretisch die Reaktionen mit Hydroxil als Nukleophil umgekehrt)",
+                                "<b><u>Problem:</u></b><div>Die Nukleophile Substitution mithilfe von Brom als Nukleophil an einem Alkohol funktioniert nicht, da die Hydroxilgruppe extrem schlecht als Fluchtgruppe fungiert<div><img src=\"paste-110875184c6e4ce7393e8a2677529c33e4e8c857.jpg\"><br></div><div><br></div><div><b><u>Lösung:</u></b></div><div><font color=\"#ff5500\">Umwandeln der Hydroxilgruppe in Wasser mithilfe von HBr</font>, sodass ein Oxoniumkation entsteht, welche das Wasser trägt (gute Fluchtgruppe)</div><div>-&gt; Bromid greift als Nuklephil dieses Oxoniumkation an, sodass Wasser abgespalten wird und wieder ein Halogenalkan entsteht</div></div><div><img src=\"paste-7bb7ed52782ed7bad93efa8c6b68fbb30347e465.jpg\"><br></div>"
+                            ],
+                            "guid": "yURr4?Q0MB",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Woran erkennt man, ob das Nukleophil einen großen oder kleinen Einfluss hat?",
+                                "<div>- Eine\nnegative Ladung erhöht die Nukleophilie</div>\n<div>- Die\nNukleophilie nimmt im Periodensystem nach\nrechts ab: NH3 &gt; H2O</div>\n<div>- Hohe\nPolarisierbarkeit (entstehung von Teilladungen) führt zu hoher Nukleophilie:H2S &gt; H2O; I<sup>-&nbsp;</sup>&gt; Br<sup>-&nbsp; &nbsp;</sup>Nukleophilie nimmt im Periodensystem von oben\nnach unten zu)</div>"
+                            ],
+                            "guid": "wt;Z>Yi_Dm",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die S<sub>N</sub>1 Reaktion?",
+                                "<div><b>Tertiärbutyl-Bromid (Elektrophil) + Natiumhydroxid (Nukleophil) -&gt; Natriumbromid + Tertiärbutyl-Alkohol</b></div><div>- S<sub>N</sub>1 (Substitution nukleophil 1.Ordnung)</div><div>- Reaktion erster Ordnung</div><div>-&gt; <font color=\"#ff5500\"><b>Geschwindigkeit nur abhängig vom Elektrophil (tert. Butyl-Bromid)</b></font></div><div><br></div><div><b><u>Stufenweise Reaktion:</u></b></div><div>- Zuerst Abspaltung von Fluchtgruppe, sodass s<font color=\"#ff5500\">p<sup>2</sup>&nbsp;Hybritisiertes Kation</font> entsteht&nbsp;(<i><u>Extrem hohe Aktivierungsenergie nötig</u></i></div><div>-&gt; Carbeniumion mit freiem Elektronenpaar am Kohlenstoff, sodass Nukleophil sowohl von oben als auch von unten angreifen kann entweder unter Retention oder unter Inversion&nbsp;</div><div>-&gt; Racemat entsteht</div><div><img src=\"paste-c2c9bf85cd459541e949567da2bbb9e419858e14.jpg\"><img src=\"paste-f50f7345e2010a9d7101f0ed26d996de255498a7.jpg\"><br></div>"
+                            ],
+                            "guid": "pC^l80Jiux",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Einflüsse wirken auf die S<sub>N</sub>1 Reaktion?",
+                                "<b style=\"\"><u>Polarität des Lösungsmittels:</u></b><div>- protische Lösungsmittel lösen die Fluchtgruppe aus dem Molekül und befünstigen die S<sub>N</sub>1 Reaktion</div><div><font color=\"#ff5500\">~ Gegenteilig zu S<sub>N</sub>2</font></div><div><br></div><div><b><u>Güte der Austrittsgruppe:</u></b></div><div>- schneller bei Abgangsgruppen, welche neg. Ladung gut kompensieren</div><div>-&gt; Umso leichter Polarisierbar die Austrittsgruppe desto besser die Reaktion</div><div><font color=\"#ff5500\">~ Gleich zu S<sub>N</sub>2</font></div><div><br></div><div><b><u>Stabilität des Carbeniumions:</u></b></div><div>sp<sup>3 </sup>im Ausgangszustand und nach Abspaltung von X sp<sup>2</sup></div><div>-&gt; Gruppen am Kohlenstoff sind im sp<sup>2</sup>&nbsp;Orbital so voneinander am weitesten weg und somit stabiler (Sterischer Druck)</div><div><font color=\"#ff5500\">~ spezifisch für S<sub>N</sub>1</font></div><div><img src=\"paste-7f679ddbf1046b82804a0c19d500efb8e40d1214.jpg\"><font color=\"#ff5500\"><br></font></div>"
+                            ],
+                            "guid": "Dy84y:ri/4",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie unterscheiden sich die Carbokationen bei der S<sub>N</sub>1 Reaktion?",
+                                "<div>~ Je niedriger die Bildungsenergien desto stabilder das Kation</div><div>-&gt; Tert. Butyl-Kation das stabilste und Energie sparenste</div><div><br></div><div><br></div><font color=\"#ff5500\"><b>Umso höher substituiert die Kationen sind desto besser verläuft die S<sub>N</sub>1 Reaktion, da diese Kationen gebildet werden</b></font><div>-&gt; Tert Butyl fast immer S<sub>N</sub>1 Reaktion bevorzugt</div><div>-&gt; Sekund. Kationen sowohl S<sub>N</sub>2 Reaktionen möglich als auch das Kation gebildet werden</div><div>-&gt; Methyl Kation kommst fast nie vor</div><div><img src=\"paste-bbe2a8f7a3d42f0fcf3807694833eceba2377c3b.jpg\"><br></div><div><br></div><div><b><u>Hyperkonjugation:<br></u></b>- benachbarte CH Bindungen können Elektronendichte and das leere p-Orbital des sp<sup>2</sup>&nbsp;hybritisierten Kations abgeben</div><div>-&gt; 3 Bindungen bei Tert. Butyl möglich; bei Sekund. Kation nur noch 2 etc.</div><div><font color=\"#aaff00\">~ Allyl- und Benzylreste stabilisieren das Kation über mesomere Effekte</font></div>"
+                            ],
+                            "guid": "c5@n_z5e_P",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Kann Wasser auch als Nukeophil reagieren?",
+                                "-&gt; Ja, Wasser kann über die freien Elektronenpaare am Sauerstoff an positiv geladenen Kohlenstoffzentren anlagern<div><br></div><div>- Bei S<sub>N</sub>1-Reaktion gut reagierbar, bei S<sub>N</sub>2 schlecht reagierbar</div><div><br></div><div><b><u>S<sub>N</sub>1 Reaktion mit nachgelagerter Deprotonierung:</u></b></div><div><img src=\"paste-82fa0633b8b84a33eb0843861aa48a959466f56e.jpg\"><br></div><div>-&gt; Reaktion <font color=\"#ff5500\">reversibel</font></div><div>-&gt; Reaktion <font color=\"#ff5500\">steuerbar </font>indem man Überschuss an HBr (mehr Tertiär Butyl-Bromid entsteht) oder Wasser (mehr Alkohol entsteht)</div><div><br></div><div>~ Die langsamen Schritte treten bei der Entstehung des Kations auf, welches dann so reaktiv ist, dass es selbst mit Wasser gut reagiert</div>"
+                            ],
+                            "guid": "g/.}2ot|kO",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man bei der S<sub>N</sub>1 Reaktion die Alkohole unterscheiden?",
+                                "Versuch (Lucas Probe):<br><div><img src=\"paste-e4fe9753fb0ee1ffd86033fe2bb15f76b9ccceaa.jpg\"><br></div><div>- Substitution von Wasser durch Chlor am Alkylrest</div><div>~ Zinkchlorid dient als Katalysator</div><div>-&gt; Reaktion in Wasser, da Halogenalkane nicht löslich sind und eine zweite Phase bilden</div><div><img src=\"paste-e4a856d5d4e79c230d5c71b2cea54928f4447c53.jpg\"><br></div><div><br></div><div>Unterscheidung:<br>- S<sub>N</sub>1 Reaktion erfolgen schneller, bei einer höherer Substitution am Kohlenstoff</div><div><img src=\"paste-75ba5c5dc0de4996df6fd7577019741f024bd7f1.jpg\"><br></div>"
+                            ],
+                            "guid": "KH!a+u?`<%",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-1",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-1-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "C=S0UwjXJ6",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-2",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-2-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "=*3G@ODh:",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-3",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-3-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "q@3;3emeh6",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-4",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-4-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "xaZx##prpK",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-5",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-5-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "HUeM2e1!4l",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-6",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-6-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "J,i,;tN1M7",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-7",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-7-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "x[47P,!)x{",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-8",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-8-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-8-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "p4bvN9}+=P",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-9",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-9-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-9-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "eb?=sRw@n[",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24fb39bca62e4dceb18a4ba4177af924-ao-10",
+                                "S<sub>N</sub>1 oder S<sub>N</sub>2",
+                                "<img src=\"tmpbuma6odk.png\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-10-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-10-A.svg\" />",
+                                "<img src=\"24fb39bca62e4dceb18a4ba4177af924-ao-O.svg\" />"
+                            ],
+                            "guid": "ec7btIz*qh",
+                            "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+                            "tags": [
+                                "OCVO5",
+                                "TobiS2"
+                            ]
                         }
                     ]
                 },
@@ -2231,165 +2760,6 @@
                                     "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                                     "tags": [
                                         "BdOIIVO1",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was versteht man unter Taxonomie?",
-                                        "Unter Taxonomie versteht man die Klassifizierung, Identifizierung und Bennung von Organismen (erst nach morphologischen Merkmalen)"
-                                    ],
-                                    "guid": "jJ@Y}qBV_n",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "2",
-                                        "BdOIIVO",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was versteht man unter Kladistik?",
-                                        "Kladistik ist das Verfahren, Organismen nach gleichen erworbenen Merkmalen zu kategorisieren"
-                                    ],
-                                    "guid": "Hj!>zo9i_D",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO2",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was versteht man unter Phylogenie?",
-                                        "auch Stammesentwicklung genannt<br><br>Phylogenie ist eine Hypothese über die evolutionäre Geschichte der taxonomischen Gruppen"
-                                    ],
-                                    "guid": "KM>F-|gbs`",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO2",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Definition von Pflanzen ist die gängigste, welche Eigenschaften macht sie aus und wie viele Spezies umfasst sie?",
-                                        "1) die <font color=\"#aa0000\">Viridiplantae</font> (Grünpflanzen)<br><br>2)Organismen, welche:<br><br>- <font color=\"#aa0000\">Chlorophyll a und b </font>besitzen<br>- Plastiden mit <font color=\"#aa0000\">nur zwei Membranen</font> haben<br>- in der Lage sind, <font color=\"#aa0000\">Stärke zu speichern</font><br>- typischerweise <font color=\"#aa0000\">Cellulose in der Zellwand</font> besitzen (mit Ausnahmen)<br><br>- ca. 350.000 Spezies"
-                                    ],
-                                    "guid": "Ea%RBFZB]a",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "2",
-                                        "BdOIIVO",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was ist der Pyrenoid und was ist seine Bedeutung?",
-                                        "-der Pyrenoid ist eine spherischer, suborganelle Struktur in den Plastiden von Algen und manchen Hornmoosen<br><br>- der Pyrenoid ist ein Bereich im Stroma, frei von Thylokoiden<br><br>- dort sammeln sich parakristalline Aggregate von RuBisCo<br><br>- Pyrenoide sind oft von Fetttröpfchen umgeben (entsteht bei der Photosynthese)"
-                                    ],
-                                    "guid": "O|6wL[!G1!",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "2",
-                                        "BdOIIVO",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was ist der Unterschied zwischen einer&nbsp;<i>&nbsp;Kolonie&nbsp;</i>&nbsp;und einem <i>Aggregat</i>?",
-                                        "Kolonie:<br>- besteht aus undifferenzierten Zellen, die <font color=\"#aa0000\">direkt</font>&nbsp;<font color=\"#aa0000\">nach </font>Zellteilung beieinander bleiben&nbsp;<img src=\"paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg\"><br><br>Aggregat:<br>-besteht aus Zellen, die nicht direkt Nach der Zellteilung zusammenbleiben, sondern <font color=\"#aa0000\">später fusionieren können</font><br><img src=\"paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg\"><br>"
-                                    ],
-                                    "guid": "yu.OZ.CV3-",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Gewebe",
-                                        "Gewebe liegt auf einem Organisationsniveau zwischen Zellen und vollständigen Organen.&nbsp;<br><br>Gewebe sind eine Ansammlung ähnlicher Zellen des gleichen Ursprungs mit gleicher Funktion"
-                                    ],
-                                    "guid": "ErI]<f)>AO",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Organ",
-                                        "Ein Organ ist eine Gruppe von Geweben, die zusammen dieselbe Funktion ausüben"
-                                    ],
-                                    "guid": "P=5*Op1XaG",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Parenchym",
-                                        "Das Parenchym ist ein characteristisches Gewebe eines Organs (und macht damit den Großteil dessen Gewichts aus)"
-                                    ],
-                                    "guid": "Oey-BM`2~u",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Pseudo-Parenchym",
-                                        "Eine Pseudoparenchym ist eine eng verknüpfte Ansammlung von Hyphen, Haaren oder Filamenten, die zusammen eine durchgehende Schicht von Gewebe bilden.<br><br>Dieses Gewebe spiegelt ein Parenchym wieder, ist aber nicht wirklich ein Parenchym."
-                                    ],
-                                    "guid": "JA4x6E&cye",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Erkläre das Konzept der \"Scheitelzelle\"",
-                                        "1) eine Scheitelzelle ist eine Zelle, die sich immer wieder teilt<br><br>2) diese Zelle hat eine Frontseite und bis zu drei \"Schneiden\"&nbsp;<img src=\"paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg\"><br>3) Entlang der Schneiden findet die Zellteilung statt, die Tochterzellen sind nicht symmetrisch<img src=\"paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg\"><br>"
-                                    ],
-                                    "guid": "p*n9P$GDA?",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere \"Thallus\"",
-                                        "1) Thallus ist Gewebe von Algen, Pilzen und Flechten, welches nicht in echte Blätte, Stängel und Wurzeln differenziert ist<br><br>2) als Thallus kann man gesamte Organismen nennen, welche keine Differenzierung aufweisen<br><br>3) Thalli können analoge Strukturen (ähnlich in Funktion und makroskopischer Struktur) zu den Organen der Gefäßpflanzen bilden"
-                                    ],
-                                    "guid": "fTrAEvf#Lf",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
                                         "Vince"
                                     ]
                                 },
@@ -3472,6 +3842,165 @@
                                     "guid": "Ka#w4v):(i",
                                     "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Taxonomie?",
+                                        "Unter Taxonomie versteht man die Klassifizierung, Identifizierung und Bennung von Organismen (erst nach morphologischen Merkmalen)"
+                                    ],
+                                    "guid": "jJ@Y}qBV_n",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Kladistik?",
+                                        "Kladistik ist das Verfahren, Organismen nach gleichen erworbenen Merkmalen zu kategorisieren"
+                                    ],
+                                    "guid": "Hj!>zo9i_D",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO2",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Phylogenie?",
+                                        "auch Stammesentwicklung genannt<br><br>Phylogenie ist eine Hypothese über die evolutionäre Geschichte der taxonomischen Gruppen"
+                                    ],
+                                    "guid": "KM>F-|gbs`",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO2",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Definition von Pflanzen ist die gängigste, welche Eigenschaften macht sie aus und wie viele Spezies umfasst sie?",
+                                        "1) die <font color=\"#aa0000\">Viridiplantae</font> (Grünpflanzen)<br><br>2)Organismen, welche:<br><br>- <font color=\"#aa0000\">Chlorophyll a und b </font>besitzen<br>- Plastiden mit <font color=\"#aa0000\">nur zwei Membranen</font> haben<br>- in der Lage sind, <font color=\"#aa0000\">Stärke zu speichern</font><br>- typischerweise <font color=\"#aa0000\">Cellulose in der Zellwand</font> besitzen (mit Ausnahmen)<br><br>- ca. 350.000 Spezies"
+                                    ],
+                                    "guid": "Ea%RBFZB]a",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Pyrenoid und was ist seine Bedeutung?",
+                                        "-der Pyrenoid ist eine spherischer, suborganelle Struktur in den Plastiden von Algen und manchen Hornmoosen<br><br>- der Pyrenoid ist ein Bereich im Stroma, frei von Thylokoiden<br><br>- dort sammeln sich parakristalline Aggregate von RuBisCo<br><br>- Pyrenoide sind oft von Fetttröpfchen umgeben (entsteht bei der Photosynthese)"
+                                    ],
+                                    "guid": "O|6wL[!G1!",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Unterschied zwischen einer&nbsp;<i>&nbsp;Kolonie&nbsp;</i>&nbsp;und einem <i>Aggregat</i>?",
+                                        "Kolonie:<br>- besteht aus undifferenzierten Zellen, die <font color=\"#aa0000\">direkt</font>&nbsp;<font color=\"#aa0000\">nach </font>Zellteilung beieinander bleiben&nbsp;<img src=\"paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg\"><br><br>Aggregat:<br>-besteht aus Zellen, die nicht direkt Nach der Zellteilung zusammenbleiben, sondern <font color=\"#aa0000\">später fusionieren können</font><br><img src=\"paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg\"><br>"
+                                    ],
+                                    "guid": "yu.OZ.CV3-",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Gewebe",
+                                        "Gewebe liegt auf einem Organisationsniveau zwischen Zellen und vollständigen Organen.&nbsp;<br><br>Gewebe sind eine Ansammlung ähnlicher Zellen des gleichen Ursprungs mit gleicher Funktion"
+                                    ],
+                                    "guid": "ErI]<f)>AO",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Organ",
+                                        "Ein Organ ist eine Gruppe von Geweben, die zusammen dieselbe Funktion ausüben"
+                                    ],
+                                    "guid": "P=5*Op1XaG",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Parenchym",
+                                        "Das Parenchym ist ein characteristisches Gewebe eines Organs (und macht damit den Großteil dessen Gewichts aus)"
+                                    ],
+                                    "guid": "Oey-BM`2~u",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Pseudo-Parenchym",
+                                        "Eine Pseudoparenchym ist eine eng verknüpfte Ansammlung von Hyphen, Haaren oder Filamenten, die zusammen eine durchgehende Schicht von Gewebe bilden.<br><br>Dieses Gewebe spiegelt ein Parenchym wieder, ist aber nicht wirklich ein Parenchym."
+                                    ],
+                                    "guid": "JA4x6E&cye",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Erkläre das Konzept der \"Scheitelzelle\"",
+                                        "1) eine Scheitelzelle ist eine Zelle, die sich immer wieder teilt<br><br>2) diese Zelle hat eine Frontseite und bis zu drei \"Schneiden\"&nbsp;<img src=\"paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg\"><br>3) Entlang der Schneiden findet die Zellteilung statt, die Tochterzellen sind nicht symmetrisch<img src=\"paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg\"><br>"
+                                    ],
+                                    "guid": "p*n9P$GDA?",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere \"Thallus\"",
+                                        "1) Thallus ist Gewebe von Algen, Pilzen und Flechten, welches nicht in echte Blätte, Stängel und Wurzeln differenziert ist<br><br>2) als Thallus kann man gesamte Organismen nennen, welche keine Differenzierung aufweisen<br><br>3) Thalli können analoge Strukturen (ähnlich in Funktion und makroskopischer Struktur) zu den Organen der Gefäßpflanzen bilden"
+                                    ],
+                                    "guid": "fTrAEvf#Lf",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -29000,226 +29529,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-1",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "N{Tq3dGj.U",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-2",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "LCIZB!ok(b",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-3",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "B]G/oq$h4#",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-4",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "vd<bVkeI0]",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-5",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "HJz2IlKcG[",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-6",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "m>?J9>7,DK",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-7",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "BAEYHa=Ekg",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-8",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "puw.b2T|70",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-9",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "iuRJNX|E]#",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-10",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "GceNo2l8uE",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Wie ist der Blutkreislauf von Lanzettfischchen aufgebaut?",
                                         "- kein Herz<div>- kontraktile ventrale Aorta pump lut nach anterior und über Kiemenarterien</div><div>- Leberpfortadersystem</div><div>- keine Erythrocyten, kein Hämoglobin</div><div><img src=\"paste-b53aa3f1d510f90bbf311881f00f8fb6f41d91b1.jpg\"><br></div>"
                                     ],
@@ -37546,6 +37855,226 @@
                                         "Evolution",
                                         "EvolutionsTheorie",
                                         "Synthetische"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-1",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "N{Tq3dGj.U",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-2",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "LCIZB!ok(b",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-3",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "B]G/oq$h4#",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-4",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vd<bVkeI0]",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-5",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "HJz2IlKcG[",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-6",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "m>?J9>7,DK",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-7",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "BAEYHa=Ekg",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-8",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "puw.b2T|70",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-9",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "iuRJNX|E]#",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-10",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "GceNo2l8uE",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
                                     ]
                                 }
                             ]
@@ -48112,34 +48641,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -53593,6 +54094,34 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
                         }
                     ]
                 }
@@ -53681,6 +54210,63 @@
                     ],
                     "guid": "b#/ws/S:Sg",
                     "note_model_uuid": "5d800576-9ae8-11eb-b44e-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-1",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "FMSF#:7k?$",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-2",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "K:&1.>IUT#",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-3",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "w*JNYCzsFh",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
                     "tags": []
                 },
                 {
@@ -53781,63 +54367,6 @@
                     ],
                     "guid": "Edr12kk[a,",
                     "note_model_uuid": "a526713b-9b90-11eb-827d-001a7dda7113",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-1",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "FMSF#:7k?$",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-2",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "K:&1.>IUT#",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-3",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "w*JNYCzsFh",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
                     "tags": []
                 },
                 {
@@ -54519,8 +55048,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "MBVO9",
-                "Ron"
+                "OCVO5",
+                "TobiS2"
             ],
             "tmpls": [
                 {
@@ -54533,6 +55062,129 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
             "type": 0
@@ -55382,7 +56034,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-50668",
             "req": [
                 [
                     0,
