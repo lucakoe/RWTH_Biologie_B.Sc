@@ -89,10 +89,13 @@
                                 "paste-2e562447b1f2879fd2c18720eb67ecdb97426af8.jpg",
                                 "paste-34d80d36ebfd3a65ee1ff811aff3c4612ec4fbb4.jpg",
                                 "paste-351a1bfefa43fd2fcb29898566425422f3db8ea7.jpg",
+                                "paste-47745b64ebe71853cfc9b564eee020dd78a6f304.jpg",
                                 "paste-493b0181ace9d748288afb42c77e8b60779b73ab.jpg",
                                 "paste-4ab039ab8ddee9e0c097ef71903ab954ff77c091.jpg",
                                 "paste-543abaaeefc02f0aac7dd3eb43081769ce50651e.jpg",
+                                "paste-5bc8d2c8412cc5022cc28eefae578224e8bf57e1.jpg",
                                 "paste-5e95d58e009844e75d7d788563360ea7cce4fa93.jpg",
+                                "paste-7b8b33e386da1b3f84b5cf24d51647dfb0a419c0.jpg",
                                 "paste-88f0d2449ff61c731821822aeb1100ae3dcec086.jpg",
                                 "paste-97f54c71bbf371bc7b6a5658e1beea20d592acdc.jpg",
                                 "paste-b384cf7a4ca225434d5ef2322f7523ba70092604.jpg",
@@ -100,6 +103,7 @@
                                 "paste-bb338496c2e53cdcc1cb3b1f9470b487b520cd20.jpg",
                                 "paste-c3dea06911bec3c583aa074b136e1df454bcdaa2.jpg",
                                 "paste-c6fb830082f15f829892e3f93b11da54effc9514.jpg",
+                                "paste-c7b1638a7df402b48006ac0eb1316a6967b568dd.jpg",
                                 "paste-d279f614b0b455801e8441b15447a7b33b8b99da.jpg",
                                 "paste-d4c346ff8ec8db28a216e910f44da6b483c68f59.jpg",
                                 "paste-d6950d2b434a015cec1225aaa475ea9605aa9e03.jpg",
@@ -304,6 +308,32 @@
                                         "OCVO6",
                                         "TobiS2"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Geben Sie die Produkte der Reaktionen an</div><img src=\"paste-7b8b33e386da1b3f84b5cf24d51647dfb0a419c0.jpg\">",
+                                        "<img src=\"paste-5bc8d2c8412cc5022cc28eefae578224e8bf57e1.jpg\">"
+                                    ],
+                                    "guid": "x~JTF+^iMV",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><span style=\"font-weight: bold;\">Geben Sie Möglichkeiten zur Bildung\nvon </span><span style=\"font-weight: bold;\">Benzylalkohol</span><span style=\"font-weight: bold;\"> mit\nMechanismen an.</span></div><div><img src=\"paste-47745b64ebe71853cfc9b564eee020dd78a6f304.jpg\"><span style=\"font-weight: bold;\"><br></span></div>",
+                                        "<img src=\"paste-c7b1638a7df402b48006ac0eb1316a6967b568dd.jpg\">"
+                                    ],
+                                    "guid": "j>>NNu+L_7",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "OCVO6",
+                                        "TobiS2"
+                                    ]
                                 }
                             ]
                         }
@@ -421,6 +451,8 @@
                         "paste-05f399910d7e862ef244a9863532ee0fc0e5a6ec.jpg",
                         "paste-0612af670038840f1227fc5e90521398e2b16eba.jpg",
                         "paste-086e3a4b5ad61e62ac50ae0fa25f91c8e6bb21d2.jpg",
+                        "paste-099ff994131e3bae115f5929a6c7990165e7f0fd.jpg",
+                        "paste-0d7c857b8801e8f2fb271af2f3289f416bf92626.jpg",
                         "paste-0e95d2352a3e3f0900e33b53a602b63700be6eac.jpg",
                         "paste-0eb0242d46cfe0a0f205f43c9643f460bf9c78fa.jpg",
                         "paste-0f0cb0a3c20f2fda50bfff56f9f51b76e102cb16.jpg",
@@ -438,22 +470,30 @@
                         "paste-25df5d054ed3e983050a384f2170f27cf5d7c494.jpg",
                         "paste-29512635f4ea1fc58cab62b51ff071ad901362e8.jpg",
                         "paste-2cfa779566623da3f8f48e4c56778976fb1c66a0.jpg",
+                        "paste-2d49f43661e8d29018d58100fa0e0fde418e0693.jpg",
                         "paste-2d5c640e751b4360c3429a7dff9f7c8c625fd453.jpg",
+                        "paste-2d9f32e2e3df2bec0d8cb754e0f9101a07c66c95.jpg",
                         "paste-2fe36c0d91247ac003712c90f1fe94f71b16dbd3.jpg",
                         "paste-302dee913dd8aa0cb02e5b16a7bbaa750efd5588.jpg",
+                        "paste-3208f2fb4e92b48be6107745f01b8499ad26495b.jpg",
                         "paste-321af9b02e572ed9bd6960fc9f239c7b343af75e.jpg",
                         "paste-3275933aa2ce7b7a27451eb6560d286d13c834fe.jpg",
                         "paste-358fa43ee388f66fcf635292168f2b3f289400ef.jpg",
                         "paste-379f2a097271e8fa236b42eb066b6cb8af022b5f.jpg",
                         "paste-3a06339391914d2e946de7957a2faa213222100b.jpg",
+                        "paste-3a4d95a97645e7c4dea3ddae4f4ef4f9629529ab.jpg",
                         "paste-3b7fdac1d3c25abb79b2e8e4df82d09f6ce2a033.jpg",
                         "paste-3bb42d32689874f0b0e95af606a2e07772d1c48c.jpg",
+                        "paste-3c7c20a3a90a699ec0bdf90d2c622b52af8b7d30.jpg",
                         "paste-41951ca1936c0a900c16a71b8801ed4ffc07b650.jpg",
                         "paste-433bc657b62a7cf97a17ebc22c26ec19ea4fa3dc.jpg",
                         "paste-4653d64ddaf599e7938fef57f4a79db2482be5c1.jpg",
                         "paste-4adce9becfea504a593e97c793d2f48b3950f7b9.jpg",
                         "paste-4b1eef483854370e0c97c848754194b8d7155c2c.jpg",
+                        "paste-4bb0de1e6fd265cdbe834294cd800f18b609ea7f.jpg",
                         "paste-4c900beea638fd22443d209d8ff0e0d864158e6f.jpg",
+                        "paste-4ee13338723a5b0d3dca5208cbc07fc69ea8ac6b.jpg",
+                        "paste-5077148ca593557e854f94e02a5e33f9f2d6ea19.jpg",
                         "paste-517aa12974b5143a872037eb5b2b46d3e040d67c.jpg",
                         "paste-52bf40a8fe70b037f0674966bb21b59dc83683f8.jpg",
                         "paste-5621d3aacb9ee82f9dfa97da3feead2af76667ea.jpg",
@@ -462,12 +502,14 @@
                         "paste-59d037838344a564af70bcc0b67a84159b0538ef.jpg",
                         "paste-5bc9b134937352a60341aec30c55de8b761d8602.jpg",
                         "paste-5d642eae87303aeb31ba7f06aab76d195373050b.jpg",
+                        "paste-5f4a6815bfb455e1a4a62e90c9326eb551fac096.jpg",
                         "paste-602b56713199a56d0473382524e6cf796afe7fd4.jpg",
                         "paste-621208542b143805940f422f9a246ad851ac13fb.jpg",
                         "paste-6450e566fffd1f7f230c7043e8611fe20353fd24.jpg",
                         "paste-669b7e594540cbdb6613c6bb0f793031db61e62d.jpg",
                         "paste-6776983964d8130c6ce79456082b43f8da50ef79.jpg",
                         "paste-67efb42a6fd756d0cd1761e221584066146435ad.jpg",
+                        "paste-6c02e8e3712d86bfd32799b82be231708444b099.jpg",
                         "paste-6c40b08b4d0caa3577a8a328dd6b6f55dcd0a1a5.jpg",
                         "paste-6d4398e5ed95f789c43a8af37b44c1c780717adf.jpg",
                         "paste-6e5b199a0040ba823c53fad68efa876dc958ec6a.jpg",
@@ -508,6 +550,7 @@
                         "paste-a31dbb14b9e6746fb6dc45caf9b078960da5b1ca.jpg",
                         "paste-a47609f5c9b2f0c408683c045eb73b8604460776.jpg",
                         "paste-a604f33334613b37e7c24de1cb21ebdbe6ec5d8b.jpg",
+                        "paste-a7aef828b091b34828ba359baefb4ddbe40b6b50.jpg",
                         "paste-a89a02d0b17bcd6cc8c1a1135cb61f025b6e83a8.jpg",
                         "paste-a9102ddcdc826ed5367a63af7bf948fe6f6bbaf2.jpg",
                         "paste-ad8d532933d754cd8ebad884903f5041d36537da.jpg",
@@ -518,12 +561,15 @@
                         "paste-bbe2a8f7a3d42f0fcf3807694833eceba2377c3b.jpg",
                         "paste-be9e8e61b51b8fab9762b8d787db1838e2c9c193.jpg",
                         "paste-bf0517b2e8cdb575f6338b781ce71aa11c923e09.jpg",
+                        "paste-c1531d294ba642a681a329d26ed649d24e584b16.jpg",
                         "paste-c23d920f1c4cf49880b9612241e7e2ee8f5ff347.jpg",
                         "paste-c2c9bf85cd459541e949567da2bbb9e419858e14.jpg",
                         "paste-c3932c28516dbf8821aed54b91a8ec1c44490eef.jpg",
                         "paste-c4fd2aed8dfd56454a37603e0897472ee4e76928.jpg",
                         "paste-c65f76725be2403da6f4404b857fcdeb0097e0c2.jpg",
                         "paste-c75c6c67221ac2071ea48a7a92c885fdac9f1862.jpg",
+                        "paste-c95f573f1fe1662d59bad16e60f7c3ed52c849cb.jpg",
+                        "paste-cadb051995f083e1cb991754c6f7774e8af33d21.jpg",
                         "paste-ceae10fc03b7bce3ec770afdd1dfffe70040d681.jpg",
                         "paste-d103a023e88f691d3c2c5041c65ed371b67983dd.jpg",
                         "paste-d18ee055483efb56c22cd2c8038d414ea7f9d2db.jpg",
@@ -536,6 +582,9 @@
                         "paste-e4fe9753fb0ee1ffd86033fe2bb15f76b9ccceaa.jpg",
                         "paste-e8633b5f37c432b1f931c503efe21313602c30ed.jpg",
                         "paste-e8fe6e05e7d1f670ddfbc7ab5ab0c2bd6a5d45c9.jpg",
+                        "paste-ec9d8ad1b570ba7a6dca91c5368774247db85387.jpg",
+                        "paste-ecc47a24a065dac269248cfdec6bb02f061734cd.jpg",
+                        "paste-ef4443e77151150d3cee46025162d47b497944b7.jpg",
                         "paste-f017913b368fb462f03b84759ab1450cd5694f8c.jpg",
                         "paste-f34a8062bcb85a10a65d6084af588cbfd66d1819.jpg",
                         "paste-f3b9b393d9e5152cafd81eb9920bfb7ed0b2e2f6.jpg",
@@ -545,6 +594,7 @@
                         "paste-f66f4e309efed885527c8ddfc872faad71c98ebf.jpg",
                         "paste-f826cca59dba4f6ae22ced1c761caf49f76d35b8.jpg",
                         "paste-fa7cb91e1e3c7ae531862b51e5fe558aa89dc49b.jpg",
+                        "paste-fc6a51ceeaa4fa6251fc30945687e1362740c335.jpg",
                         "paste-fd04e3abb98c66c8dbd207863c715c4dd653c6ae.jpg",
                         "tmp9imnxltp.png",
                         "tmpbuma6odk.png",
@@ -552,7 +602,7 @@
                         "tmpq1x9epfm.png",
                         "tmpz4a_3uk9.png"
                     ],
-                    "mid": 1604688678599,
+                    "mid": 1619206366862,
                     "name": "Allgemeine Organische Chemie",
                     "notes": [
                         {
@@ -2620,6 +2670,149 @@
                             "note_model_uuid": "4a9be875-cce1-11eb-8f3b-309c2362050c",
                             "tags": [
                                 "OCVO5",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind die Eigenschaften von Alkoholen?",
+                                "- Starke Polarisierung von der Alkoholgruppe (Wasserstoff pos./ Sauerstoff neg.)<div>-&gt; Wasserstoffbrückenbindung möglich zwischen Wasserstoff und Sauerstoff einer anderen Alkoholgruppe</div><div><font color=\"#ff5500\"><u><b>&nbsp; -&gt; hoher Siedepunkt, gut mischbar mit Wasser wegen den Wasserstoffbrückenbindungen</b></u></font></div><div><br></div><div><img src=\"paste-6c02e8e3712d86bfd32799b82be231708444b099.jpg\"><br></div><div>- umso länger der Alkohol wird, desto näher kommt er an den niedrigeren Siedepunkt der Alkane, da die Alkoholgruppen (und somit auch die Wasserstoffbrücken) prozentual abnehmen</div>"
+                            ],
+                            "guid": "bZ/mwnxc?!",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Regieren Alkohole eher als Base oder eher als Säure?",
+                                "<div>Können sowohl als schwache Base als auch als schwache Säure reagieren:</div><div><img src=\"paste-4ee13338723a5b0d3dca5208cbc07fc69ea8ac6b.jpg\"><sub><br></sub></div><sub>Oxoniumionen waren schon erwähnt bei der nukleophilen Substitution, damit man aus Alkoholen bessere Fluchtgruppen durch Protonierung macht</sub>"
+                            ],
+                            "guid": "d]2/u#}Sc^",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Alkohol mit berauschender Wirkung und wie wird er hergestellt?",
+                                "<div>Ethanol</div><div><br></div><b><u>Alkoholische Gärung:</u></b><div><img src=\"paste-fc6a51ceeaa4fa6251fc30945687e1362740c335.jpg\"><br></div><div>Zucker wird vergohren mit Hefe und dabei entsteht Hefe</div><div>-&gt; Glukose wird mittels Hefe zersetzt und CO<sub>2</sub>&nbsp;wird frei</div><div><br></div><div>~ Auch als Desinfektionsmittel, Kraftstoff, Lösungsmittel benutzt</div><div>-&gt; Jedoch Verhältnis zwischen Wirksame Dosis und Tödliche Dosis eher gering und damit gefährlich</div>"
+                            ],
+                            "guid": "sbhhi&Py4!",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Auf welchen chemischen Wegen kann man Alkohol synthetisieren?",
+                                "1. Reduktion von Kohlenstoff Sauerstoff Doppelbindungen (<img src=\"paste-3208f2fb4e92b48be6107745f01b8499ad26495b.jpg\">)&nbsp;<div>2. Alkene durch Addition von Wasser an die Kohlenstoff Kohlenstoff Doppelbindung (<img src=\"paste-099ff994131e3bae115f5929a6c7990165e7f0fd.jpg\">)</div><div>3. S<sub>N</sub>- Reaktion</div><div><img src=\"paste-3a4d95a97645e7c4dea3ddae4f4ef4f9629529ab.jpg\"><br></div>"
+                            ],
+                            "guid": "O8Iaf<nc2>",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei der Alkoholsynthese nach der S<sub>N</sub>-Reaktion wird hier Brom durch ein Hydroxyl ausgetauscht. Welche S<sub>N</sub>- Reaktion läuft ab und warum?<div><img src=\"paste-ecc47a24a065dac269248cfdec6bb02f061734cd.jpg\"><br></div>",
+                                "<div>Alkoholysnthese:</div><div>- S<sub>N</sub>2-Reaktion, obwohl das Molekül relativ groß ist</div><div>-&gt; Carbonyl-Gruppe am benachbarten Kohlenstoff würde das Kation bei der S<sub>N</sub>1- Reaktion destabilisieren</div><img src=\"paste-5f4a6815bfb455e1a4a62e90c9326eb551fac096.jpg\">"
+                            ],
+                            "guid": "bi;d-u!M,N",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Aldehyde und Ketone?",
+                                "Moleküle mit einer Kohlenstoff Sauerstoff Doppelbindung, sog. <font color=\"#ff5500\"><b>Carbonylverbindungen</b></font><div><img src=\"paste-ef4443e77151150d3cee46025162d47b497944b7.jpg\"><br></div>"
+                            ],
+                            "guid": "zc^rrS#0R{",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Erkläre grob wie durch die Reduktion Alkohol synthetisiert wird. Welche Möglichkeiten gibt es?",
+                                "<font color=\"#ff5500\">Anhängen von Wasserstoff an die Kohlenstoff Sauerstoff Doppelbindung von Carbonylverbindungen </font>(Aldehyd/ Keton)<div>-&gt; Entscheidend ist die Oxidationszahl von dem Kohlenstoff der Aldehydgruppe/ Ketongruppe</div><div>&nbsp; -&gt; Durch das Hinzufügen von einem Wasserstoffatom führt zu einer Aufnahme von zwei Elektronen am Kohlenstoffatom (Reduktion bzw. Aufnahme von Elektronen)</div><div><img src=\"paste-4bb0de1e6fd265cdbe834294cd800f18b609ea7f.jpg\"><br></div><div><i><font color=\"#ff5500\">Ketone reduzieren = Sekundärer Alkohol</font></i></div><div><i><font color=\"#ff5500\">Aldehyd reduzieren = Primärer Alkohol</font></i>&nbsp;</div><div><br></div><div><br></div><div>Zwei Möglichkeiten der Reduktion:</div><div>-&gt; Katalytische Hydrierung</div><div>-&gt; komplexe Hydride</div>"
+                            ],
+                            "guid": "CRh&6AZ]S?",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die katalytische Hydrierung und wofür ist diese gut?",
+                                "<div><u style=\"font-weight: bold;\">Katalysator:&nbsp;</u><br></div><div><font color=\"#ff5500\"><span style=\"font-weight: bold;\">Ein Katalysator beschleunigt die\nReaktion wird dabei jedoch nicht verbraucht, indem er die </span><span style=\"font-weight: bold;\">Aktivierungsernergie</span><span style=\"font-weight: bold;\">\nsenkt durch Bildung neuer Übergangsstoffe&nbsp;</span><br></font></div>\n<div>a) Heterogener Katalysator:\nPalladium auf Kohle, Platin, Platindioxid (feste\nEdelmetalle)</div>\n<div>b) Homogene Katalysatoren: lösliche\nMetallkomplexe (meist lösliche Edelmetalle)</div>\n<div><br>\n</div>\n<div><u><span style=\"font-weight: bold;\">katalytische\nHydrierung:</span></u></div><div><span style=\"font-weight: bold;\">-&gt; Reduktion von Carbonylverbindugen zur Synthese von Alkoholen</span></div>\n<div>1) Carbonylverbindung wird auf der\nOberfläche des Metalls gebunden und absorbiert</div>\n<div>2) Wasserstoff wird auch gebunden\nund gleichzeitig gespalten</div>\n<div>3) Wenn das Wasserstoff und\nCarbonyl sich nahe kommen wird ein Hydrid übertragen und der Kohlenstoff\nreduziert (H-)</div>\n<div>4) Proton wird auf das Sauerstoff\nübertragen (H+)</div>\n<div><font color=\"#ff5500\"><span style=\"font-weight: bold;\">-&gt; Stufenweise Addition von H</span><span style=\"font-weight: bold;\">-</span><span style=\"font-weight: bold;\">&nbsp;und\nH</span><span style=\"font-weight: bold;\">+</span></font></div>\n&nbsp; &nbsp;&nbsp;<div><img src=\"paste-2d9f32e2e3df2bec0d8cb754e0f9101a07c66c95.jpg\"><br></div>"
+                            ],
+                            "guid": "p(dI-V_dtA",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie läuft eine Reduktion von Alkohol mit komplexen Hydriden ab?",
+                                "1. Übertragung von H<sup>-</sup>&nbsp;von bestimmten Reagenzien (z.B NaBH<sub>4</sub>)<div>-&gt; NaBH<sub>4</sub>&nbsp;komplexes Anion (Anion besteht aus mehreren Atomen) mit ähnlicher Struktur wie Methan, nur dass Bor negativ geladen ist und ein Natriumkation hinzugefügt wurde</div><div>~ Hier Wasserstoff elektronegativer als Bor und deshalb Hydrid</div><div><img src=\"paste-3c7c20a3a90a699ec0bdf90d2c622b52af8b7d30.jpg\"><br></div><div>2. Ein Hydrid kann nun mit dem freien Elektronenpaar als Nukleophil am Kohlenstoff angreifen, sodass das Kohlenstoffatom vierbindig wird und die Kohlenstoff Sauerstoff Doppelbindung der Carbonylgruppe einbindig wird&nbsp;</div><div>3. Sauerstoff bekommt nun freies Elektronenpaar von der aufgelösten Doppelbindung</div><div>4. Dieses Elektronenpaar kann nun ein Proton vom Lösungmittel Ethanol binden (Ethanol auch Reagenz)</div><div><img src=\"paste-5077148ca593557e854f94e02a5e33f9f2d6ea19.jpg\"><br></div><div>(5). <sub>Natriumboranat mit <font color=\"#55ff00\">edoxi</font> Gruppe angfügt, welche hydrolysiert (abgespalten) werden kann durch Hinzufügen von Wasser<br></sub></div><div><img src=\"paste-2d49f43661e8d29018d58100fa0e0fde418e0693.jpg\"><br></div><div>Penthylaldehyd (Pentanal) + Natriumboranat + Ethanol -&gt; Pentanol</div>"
+                            ],
+                            "guid": "f[Mr]p>uSg",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie unterscheiden sich die komplexen Hydrite LiALH<sub>4</sub>&nbsp;und NaBH<sub>4</sub>&nbsp;voneinander? Wie läuft die Alkoholische Reduktion beim ersten ab?",
+                                "<div><b><u>Alkoholische Reduktion mit LiAlH<sub>4</sub>&nbsp;in Diethylether:</u></b><br></div><div><img src=\"paste-c1531d294ba642a681a329d26ed649d24e584b16.jpg\"><br></div><div>- Extrem <font color=\"#ff5500\">reaktiv </font>und polarisiert zum Wasser, da Al eine niedrige Elektronegativität besitzt</div><div>-&gt; Überträgt <font color=\"#ff5500\">4</font> Hydride</div><div><img src=\"paste-ec9d8ad1b570ba7a6dca91c5368774247db85387.jpg\"><br></div><div>1. Ein Hydrid wird auf den Kohlenstoff übertragen, sodass eine C-O Einfachbindung entsteht mit neg. Ladung am Sauerstoff</div><div>2. Sauerstoff bindet an die Lewis Säure Aluminium</div><div>-&gt; Aluminiumalkoholat</div><div>3. Die drei weiteren Hydride werden auf weitere Carbonyle übertragen, welche dann an das Aluminium binden (Aluminat mit Li<sup>+</sup>)</div><div>4.<font color=\"#ff5500\"> Wasser hinzugabe liefert Protonen</font> für den <font color=\"#ff5500\">Alkohol</font></div><div>5. Die zurückbleibenden OH-Gruppen bilden Aluminumhydroxid und Lithiumhydroxid (fallen als Diethylether aus und lassen sich abtrennen)</div><div><img src=\"paste-cadb051995f083e1cb991754c6f7774e8af33d21.jpg\"><br></div><div><br></div><div><u><b>Vergleich NaBH<sub>4</sub>&nbsp;und LiAlH<sub>4</sub></b></u></div><div>LiAlH<sub>4&nbsp;</sub>würde in Ethanol eine Explosion auslösen, da das Hydrid vom LiAlH<sub>4&nbsp;</sub>und das Proton vom Ethanol zu Wasserstoff werden würden<div>-&gt; Dieses fängt an zu brennen bei den Temperaturen der Reaktion</div><div>Bei NaBH<sub>4&nbsp;</sub>ist Ethanol ein entscheindender Reaktand, als Protonenquelle, für die vollständige Reduktion zu Alkohol</div><div><br></div></div>"
+                            ],
+                            "guid": "ib[&54~[(z",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "WIe können Alkohole wieder in die Carbonylverbindung umgewandelt werden?",
+                                "<b><u><font color=\"#ff5500\">Oxidation</font></u></b>:<div>Sekundärer Alkohol (Cyclohexanol) benötigt hochoxidierte anorganische Salze (z.B H<sub>2</sub>O) um Katon wieder herzustellen</div><div><img src=\"paste-a7aef828b091b34828ba359baefb4ddbe40b6b50.jpg\"><br></div><div>Primäre Alkohole können auf gleiche Weise zum Aldehyd oxidiert werden, benötigen jedoch länger</div><div><div><font color=\"#ff5500\">-&gt; Jedoch reagiert Aldehyd schnell weiter zur Carbonsäure</font></div><div><img src=\"paste-0d7c857b8801e8f2fb271af2f3289f416bf92626.jpg\"><font color=\"#ff5500\"><br></font></div><div><br></div></div><div><b><u>Lösung</u></b>:</div><div>- Pyridiniumchlorochromat ist blockiert in seiner reaktivität durch das Pyridinium</div><div>-&gt; Dadurch kann man das Aldehyd <b><font color=\"#ff5500\">meistens </font></b>erhalten</div><div><img src=\"paste-c95f573f1fe1662d59bad16e60f7c3ed52c849cb.jpg\"><br></div>"
+                            ],
+                            "guid": "np$$DDYS$]",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO6",
                                 "TobiS2"
                             ]
                         }
@@ -55138,7 +55331,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "OCVO5",
+                "OCVO6",
                 "TobiS2"
             ],
             "tmpls": [
