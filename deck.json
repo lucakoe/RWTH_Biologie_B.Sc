@@ -89,6 +89,7 @@
                                 "paste-2e562447b1f2879fd2c18720eb67ecdb97426af8.jpg",
                                 "paste-34d80d36ebfd3a65ee1ff811aff3c4612ec4fbb4.jpg",
                                 "paste-351a1bfefa43fd2fcb29898566425422f3db8ea7.jpg",
+                                "paste-472790f4b47dc653a604430d7219a3a61e0644e3.jpg",
                                 "paste-47745b64ebe71853cfc9b564eee020dd78a6f304.jpg",
                                 "paste-493b0181ace9d748288afb42c77e8b60779b73ab.jpg",
                                 "paste-4ab039ab8ddee9e0c097ef71903ab954ff77c091.jpg",
@@ -334,6 +335,19 @@
                                         "OCVO6",
                                         "TobiS2"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div></div>\n<div><span style=\"font-weight: bold;\">Geben Sie die für die Reaktionen </span><span style=\"font-weight: bold;\">von&nbsp; 3-Methyl-2-pentanol </span><span style=\"font-weight: bold;\">mit\njedem der folgenden Reagenzien Mechanismen und die jeweiligen Hauptprodukte an.</span></div><div><div>a)NaH</div><div>b)konzentrierte&nbsp;HBr</div><div>c)Konzentrierte H<sub>2</sub>SO<sup>4</sup>&nbsp;bei 130 °C</div><div>d)Verdünnte H<sub>2</sub>SO<sup>4</sup>&nbsp;in (H<sub>3</sub>C)<sub>3</sub>COH</div></div>",
+                                        "<img src=\"paste-472790f4b47dc653a604430d7219a3a61e0644e3.jpg\">"
+                                    ],
+                                    "guid": "jyjP.^RO/8",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "OCVO7",
+                                        "TobiS2"
+                                    ]
                                 }
                             ]
                         }
@@ -448,8 +462,10 @@
                         "e6b33183be014a2ea1b4cb3d1e526489-ao-O.svg",
                         "paste-02c6060f9f63d15aa0cb5eeabad143b8a369ad9a.jpg",
                         "paste-042e55c6e903be250eb8762254ee3964bbcbfab5.jpg",
+                        "paste-0444f54d3f0ec9f0a9fe401039a7280f03a8dfdd.jpg",
                         "paste-05f399910d7e862ef244a9863532ee0fc0e5a6ec.jpg",
                         "paste-0612af670038840f1227fc5e90521398e2b16eba.jpg",
+                        "paste-07de09623447a5354d6fe5dcfc11481f53b76379.jpg",
                         "paste-086e3a4b5ad61e62ac50ae0fa25f91c8e6bb21d2.jpg",
                         "paste-099ff994131e3bae115f5929a6c7990165e7f0fd.jpg",
                         "paste-0d7c857b8801e8f2fb271af2f3289f416bf92626.jpg",
@@ -459,7 +475,9 @@
                         "paste-110875184c6e4ce7393e8a2677529c33e4e8c857.jpg",
                         "paste-165e5462731596df8dc75ab5af0eeb13895d975a.jpg",
                         "paste-16cbe2f2121836cf14d1a218fb5ea4c13ec2ef9d.jpg",
+                        "paste-17cbdf4d1cb2fc0d73e6abad3456e54b5d826a98.jpg",
                         "paste-195a15703d22d33a74c30888fe8ca37ffb902289.jpg",
+                        "paste-19f1a8f590715f6caa4e293e07c220f9cb76d9f0.jpg",
                         "paste-1a9828affa0170b2230c94feed29ca6d2e757b5d.jpg",
                         "paste-1aab4be4ed643e5d248e18532ef47a61609eb0b8.jpg",
                         "paste-1b7ea1209909652cf81ce609f02bc46e7224b79c.jpg",
@@ -471,6 +489,7 @@
                         "paste-237b42a37f17dc9eb9197b1cebc6bd41d4f34cb9.jpg",
                         "paste-25df5d054ed3e983050a384f2170f27cf5d7c494.jpg",
                         "paste-29512635f4ea1fc58cab62b51ff071ad901362e8.jpg",
+                        "paste-2c7b090fa8285810e716161331c8ee89d54260d5.jpg",
                         "paste-2cd47e9fec27c770d0fd1e603c7883f09e1e38dd.jpg",
                         "paste-2cfa779566623da3f8f48e4c56778976fb1c66a0.jpg",
                         "paste-2d49f43661e8d29018d58100fa0e0fde418e0693.jpg",
@@ -488,7 +507,9 @@
                         "paste-3b7fdac1d3c25abb79b2e8e4df82d09f6ce2a033.jpg",
                         "paste-3bb42d32689874f0b0e95af606a2e07772d1c48c.jpg",
                         "paste-3c7c20a3a90a699ec0bdf90d2c622b52af8b7d30.jpg",
+                        "paste-40b988139c3e216a6a30389d3c7b3243304a9f7b.jpg",
                         "paste-41951ca1936c0a900c16a71b8801ed4ffc07b650.jpg",
+                        "paste-41d2759e61acdae0bce492ccda4202e856257b4f.jpg",
                         "paste-433bc657b62a7cf97a17ebc22c26ec19ea4fa3dc.jpg",
                         "paste-4653d64ddaf599e7938fef57f4a79db2482be5c1.jpg",
                         "paste-49a342af08f3cc0f6f9caa159ff7021c07014ef2.jpg",
@@ -496,8 +517,10 @@
                         "paste-4b1eef483854370e0c97c848754194b8d7155c2c.jpg",
                         "paste-4bb0de1e6fd265cdbe834294cd800f18b609ea7f.jpg",
                         "paste-4c900beea638fd22443d209d8ff0e0d864158e6f.jpg",
+                        "paste-4c9d319be656fb9f59a68b6b41a78fb97b6f78d5.jpg",
                         "paste-4ee13338723a5b0d3dca5208cbc07fc69ea8ac6b.jpg",
                         "paste-5077148ca593557e854f94e02a5e33f9f2d6ea19.jpg",
+                        "paste-515a74aed5489129c086213fe8c763037ecc3604.jpg",
                         "paste-517aa12974b5143a872037eb5b2b46d3e040d67c.jpg",
                         "paste-52bf40a8fe70b037f0674966bb21b59dc83683f8.jpg",
                         "paste-5621d3aacb9ee82f9dfa97da3feead2af76667ea.jpg",
@@ -514,6 +537,7 @@
                         "paste-669b7e594540cbdb6613c6bb0f793031db61e62d.jpg",
                         "paste-6776983964d8130c6ce79456082b43f8da50ef79.jpg",
                         "paste-67efb42a6fd756d0cd1761e221584066146435ad.jpg",
+                        "paste-67fd05541da0addc2a845e0c5cd48b0dad58711a.jpg",
                         "paste-696d54bc90601cfbac5dde6fd46c7fa6125b61b0.jpg",
                         "paste-6c02e8e3712d86bfd32799b82be231708444b099.jpg",
                         "paste-6c40b08b4d0caa3577a8a328dd6b6f55dcd0a1a5.jpg",
@@ -521,6 +545,7 @@
                         "paste-6e5b199a0040ba823c53fad68efa876dc958ec6a.jpg",
                         "paste-7021747f9f97e4e95c8591a669ae4691a8e82c70.jpg",
                         "paste-7169d25fd0cf41a042da986f5c2b324f25be4c62.jpg",
+                        "paste-72421330d0ae1a328625f10a3af009159859665d.jpg",
                         "paste-72f68c1b1339b8ebf759b717381dd3ef8bfe7860.jpg",
                         "paste-73a3e97d0cd5b2a77491351ca23b1078c8317994.jpg",
                         "paste-75ba5c5dc0de4996df6fd7577019741f024bd7f1.jpg",
@@ -535,9 +560,11 @@
                         "paste-86b5baa42492f6d5424bc5725f22783347e0b573.jpg",
                         "paste-88010317e2043371a9696f030cf42df61a05923e.jpg",
                         "paste-881e4ac4d0f165568661d8bdc930df73a17a5f81.jpg",
+                        "paste-88f8c3bcb54d8f534dc0da925d56e46edc0c8e85.jpg",
                         "paste-8ac31b3661c756f07e1015ba7c431681a925284f.jpg",
                         "paste-8d284c4f985390820b87823911e3447459515ee5.jpg",
                         "paste-8dc6a02db064fb6d2f41793751fd8dc1bc03df27.jpg",
+                        "paste-8eb34ef07027a14e6ed872a51953ad67bd8fb52f.jpg",
                         "paste-91d5a0dfc10ed1faad06f60e5bdbe646e41d9ccf.jpg",
                         "paste-92e0db05a4b75d4c52e97bb14d89f022214a0cf7.jpg",
                         "paste-9300cf981326f2978d4f00e98013fd5831a78f06.jpg",
@@ -545,18 +572,22 @@
                         "paste-940a76f9ccab8140c6e8d744e881b0686b3fa641.jpg",
                         "paste-94876e9797e920ab79e7b3daa99a20874c86208f.jpg",
                         "paste-94cce5317d5d74a111fd1b25a918dce12162000d.jpg",
+                        "paste-967ea9b57dc1638e0448a900ee188b43191b14bc.jpg",
                         "paste-969857e7fa7bff801852649b2e14b94ae3f70a6d.jpg",
                         "paste-96c48a450bba233103e85047975c0cd76c3a4e61.jpg",
                         "paste-98a1c8874261c3d3a89798fe12cbaa1dfd1433d2.jpg",
                         "paste-99a8439b471724f0225a365a8bc30204581e1b6b.jpg",
+                        "paste-9a25f97eec558af3cb649a16f95267fa145693ae.jpg",
                         "paste-9bc0910530d61d38ebb8c50ef6a802ff30385061.jpg",
                         "paste-9c9324313336066de5984e18d5591224c5e641a2.jpg",
                         "paste-9e0c82c4b95962b030921d39678ae788641cd693.jpg",
                         "paste-9ed24b5994da9f7bf0fe747b8fd4bfddcf065bd7.jpg",
                         "paste-9f76cec3741a98b3e1346420a7a7e922dab1e656.jpg",
+                        "paste-a2c8fbefa00446e7e371f23479e7534d8f61cc6e.jpg",
                         "paste-a31dbb14b9e6746fb6dc45caf9b078960da5b1ca.jpg",
                         "paste-a47609f5c9b2f0c408683c045eb73b8604460776.jpg",
                         "paste-a604f33334613b37e7c24de1cb21ebdbe6ec5d8b.jpg",
+                        "paste-a6d5c7a6747b7b7ff2e000af3327371c9ce24538.jpg",
                         "paste-a7aef828b091b34828ba359baefb4ddbe40b6b50.jpg",
                         "paste-a89a02d0b17bcd6cc8c1a1135cb61f025b6e83a8.jpg",
                         "paste-a9102ddcdc826ed5367a63af7bf948fe6f6bbaf2.jpg",
@@ -566,9 +597,12 @@
                         "paste-b6edfdc383e1c5af72e05ed37bda1e3355a2832b.jpg",
                         "paste-b8618f401a12b4fcb4444c7711432feb606cfc3d.jpg",
                         "paste-b8973ddb02975ddf5a4bd52700785edfec26dd3c.jpg",
+                        "paste-bb5912c19ee39d20491654cfc6470315ff0f514d.jpg",
                         "paste-bbe2a8f7a3d42f0fcf3807694833eceba2377c3b.jpg",
+                        "paste-bcd7451695a12812cd3f0871fe1aca07d0c7491f.jpg",
                         "paste-be9e8e61b51b8fab9762b8d787db1838e2c9c193.jpg",
                         "paste-bf0517b2e8cdb575f6338b781ce71aa11c923e09.jpg",
+                        "paste-c13c7ce49a8fcab26e7e73a3eafe1435ae2d4ae4.jpg",
                         "paste-c1531d294ba642a681a329d26ed649d24e584b16.jpg",
                         "paste-c23d920f1c4cf49880b9612241e7e2ee8f5ff347.jpg",
                         "paste-c2c9bf85cd459541e949567da2bbb9e419858e14.jpg",
@@ -577,19 +611,25 @@
                         "paste-c65f76725be2403da6f4404b857fcdeb0097e0c2.jpg",
                         "paste-c75c6c67221ac2071ea48a7a92c885fdac9f1862.jpg",
                         "paste-c95f573f1fe1662d59bad16e60f7c3ed52c849cb.jpg",
+                        "paste-c9c7a37fd48b2190d1dea248288de5ee4ef4a097.jpg",
+                        "paste-caa1e53add8e6a2b74afd73d454f1423da27a9c4.jpg",
                         "paste-cadb051995f083e1cb991754c6f7774e8af33d21.jpg",
                         "paste-ceae10fc03b7bce3ec770afdd1dfffe70040d681.jpg",
                         "paste-d103a023e88f691d3c2c5041c65ed371b67983dd.jpg",
                         "paste-d18ee055483efb56c22cd2c8038d414ea7f9d2db.jpg",
                         "paste-d3c71f153764a7a066b9b5da62ebcf300410cb09.jpg",
                         "paste-d6a429d6a09b5b968d2b61fde670df523e354576.jpg",
+                        "paste-d99cf988602fd9b9931bea6acdb5ded5a55dbd44.jpg",
                         "paste-db11d6a429507f9efe3bad06c1b521d9ffeb7c2c.jpg",
                         "paste-dd7c3c9f2a2ed2b68bcbe0f0a76a90558e193eaf.jpg",
+                        "paste-dd9c712139e64e9f8f7bfb12d548a5ae9891e277.jpg",
+                        "paste-e034964f91c87d9f4b551d435f31fd58e6be276c.jpg",
                         "paste-e0d8132aaf07c0000a3fa93085587d0463e1ad75.jpg",
                         "paste-e4a856d5d4e79c230d5c71b2cea54928f4447c53.jpg",
                         "paste-e4fe9753fb0ee1ffd86033fe2bb15f76b9ccceaa.jpg",
                         "paste-e8633b5f37c432b1f931c503efe21313602c30ed.jpg",
                         "paste-e8fe6e05e7d1f670ddfbc7ab5ab0c2bd6a5d45c9.jpg",
+                        "paste-eb92fe1867f11136e82392913bf8724f2e96bdc0.jpg",
                         "paste-ec9d8ad1b570ba7a6dca91c5368774247db85387.jpg",
                         "paste-ecc47a24a065dac269248cfdec6bb02f061734cd.jpg",
                         "paste-ef4443e77151150d3cee46025162d47b497944b7.jpg",
@@ -604,6 +644,7 @@
                         "paste-fa014c18c84611b212585365e054e389ad4cec3f.jpg",
                         "paste-fa7cb91e1e3c7ae531862b51e5fe558aa89dc49b.jpg",
                         "paste-fc6a51ceeaa4fa6251fc30945687e1362740c335.jpg",
+                        "paste-fcc50345f99bb40d5e733b316b1284792b9f22ab.jpg",
                         "paste-fd04e3abb98c66c8dbd207863c715c4dd653c6ae.jpg",
                         "tmp9imnxltp.png",
                         "tmpbuma6odk.png",
@@ -2858,6 +2899,149 @@
                                 "<b><u>S<sub>N</sub>1-Reaktion:</u></b><div>- Hydroxid Gruppe ist eine schlechte Fluchtgruppe</div><div>-&gt; Durch Protonierung mithilfe einer Säure (HBr) wird sie in die bessere Fluchtgruppe (H<sub>2</sub>O) umgewandelt (Oxoniumion)</div><div>- Das Nukleophil kann sich nach der Abspaltung dann an das Carboniumion binden</div><div><img src=\"paste-165e5462731596df8dc75ab5af0eeb13895d975a.jpg\"><br></div><div><br></div><div><u><b>E1-Eliminierung</b></u></div><div>- H<sub>2</sub>SO<sub>4</sub>&nbsp;ist eine Säure, damit ein schlechtes Nukleophil und gibt ein Proton ab</div><div>- Hydrogensulfat (HSO<sub>4</sub><sup>-</sup>) entsteht und ist ein schlechtes Nukleophil</div><div>-&gt; obwohl H<sub>2</sub>O wird abgespalten wird greift HSO<sub>4</sub><sup>-</sup>&nbsp;nicht an</div><div>-&gt; Proton spaltet sich eher ab und bildet wieder H<sub>2</sub>SO<sub>4</sub>&nbsp;</div><div>~ Reaktion nicht von Base abhängig</div><div>~ Säure ein Katalysator, da sie während der Reaktion nicht verbraucht wird</div><div><img src=\"paste-6635c93fd7a7a125c5eaa43983d8ef1355f9ad25.jpg\"><br></div>"
                             ],
                             "guid": "ksv>Xejd>r",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo kommen Carbeniumionen bei Alkoholen außer bei der Substitution und Eliminierung vor?",
+                                "<b><u>Wagner Meerwein-Umlagerung</u></b><div><div>Umlagerung von Molekülen in Carbeniumionen</div><div><font color=\"#ff5500\">-&gt; 1,2-Verschiebung eines Kohlenstoff-(oder Wasserstoff-) restes</font></div></div><div><img src=\"paste-41d2759e61acdae0bce492ccda4202e856257b4f.jpg\"><br></div><div><b><u>Ablauf</u></b>:</div><div><div>- Alkohol hat in Nachbarschaft eine Gruppe X (CH<sub>3</sub>&nbsp;oder Proton)</div><div>1. Alkohol nimmt Proton von einer Säure auf (HBr) und Wasser wird abgespalten</div><div>2. sekundäres Carbeniumion entstanden (sehr reaktiv)</div><div><br></div><div><b>Nebenprodukt</b>:</div><div>~ Eliminierung oder Nukleophil daraufhin direkt möglich, jedoch meist nur ein Nebenprodukt</div><div><br></div><div>ODER&nbsp;</div><div><br></div><div><b>Hauptprodukt</b>:</div><div>-&gt; Gruppe X verschiebt sich von dem Kohlenstoff zu dem Kationischen Kohlenstoff&nbsp;</div><div>-&gt; tertiäres Carbeniumion entstanden (Stabil)</div><div>~ Br<sup>-</sup>&nbsp;kann wieder als Nukleophil angreifen, sodass ein Hauptprodukt entsteht</div></div><div><img src=\"paste-a2c8fbefa00446e7e371f23479e7534d8f61cc6e.jpg\"><br></div>"
+                            ],
+                            "guid": "GfBS~vtP^s",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welcher Prozess ist für die Synthese oder Umwandlung zu Terpenen (z.B Duftstoffe in der Natur) wichtig?",
+                                "<div><b><u><font color=\"#ff5500\">Wagner Meerwein-Umlagerung</font></u></b></div><div><br></div><img src=\"paste-bcd7451695a12812cd3f0871fe1aca07d0c7491f.jpg\"><div>1. OH-Gruppe wird abgespalten durch Protonierung und darauffolgender Abspaltung des Wassers</div><div>-&gt; Sekundäres Carbeniumion (reaktiv)</div><div>2. Umlagerung eines Elektronenpaares (blau), sodass ein stabiles tertiäres Carbeniumion entsteht</div><div>3. Eliminierungsreaktion (abspaltung von einem Proton)</div><div><font color=\"#ff5500\">~ Wassereliminierungreaktion mit zwischengeschalteter Umlagerungsreaktion</font></div><div><br></div><div><font color=\"#ffff00\">Path A:</font></div><div><font color=\"#ffff00\">1. Kation wird generier, indem Dreiring mi Sauerstoff aceliert wird (Hinzufügen eines Acylkations)</font></div><div><font color=\"#ffff00\">-&gt; Spaltung von einer Kohlenstoff Sauerstoff Bindung, sodass das Acetat nach oben steht und nicht in der unteren Prosition (path B)</font></div><div><font color=\"#ffff00\">2. Elektronenpaar (Bindung) wandert und bildet ein neues Kation</font></div><div><font color=\"#ffff00\">3. Kation kann mit Essigsäureanhydrid versetzt werden, sodass ein umgelagertes Gerüst mit einem Acetat an der tert. Position</font></div><div><img src=\"paste-515a74aed5489129c086213fe8c763037ecc3604.jpg\"><font color=\"#ffff00\"><br></font></div>"
+                            ],
+                            "guid": "pHjir7=@De",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Ether? Wann/Wie ist dieser gefährlich?",
+                                "Eine Verbindung von zwei <font color=\"#ff5500\">Alkylresten </font>oder Organylresten mit einem <font color=\"#ff5500\">Sauerstoffatom </font>(R<sup>1</sup>-O-R<sup>2</sup>)<div>-&gt; Die Organylreste dürfen weiter nur Kohlenstoff oder Wasserstoffatome tragen</div><div><br></div><div><b><u>Strukturmerkmale</u></b>:</div><div>- zwei freie Elektronenpaare</div><div>- keine Wasserstoffbrückenbindungen mit sich selbst möglich, da keine Protonen vorhanden sind</div><div><br></div><div><b><u>Nomenklatur</u></b>:</div><div><font color=\"#ff0000\">1) Nach beiden Substituenten&nbsp;</font></div><div>2) Alkoxyalkane (Ein Arm ist der Substituent des anderen Arms des Ethers)</div><div><img src=\"paste-2c7b090fa8285810e716161331c8ee89d54260d5.jpg\"><br></div><div>~ Cyclischen Ether von Alkanen abgeleitet und Oxa- zeigt, dass ein Kohlenstoff durch einen Sauerstoff ersetzt wurde</div><div><br></div><div><b><u>Gefahr</u></b>:</div><div>- Tetrahydrofuran und Diethylether sind farblos, flüchtig, reaktionsträge und <b><i><u><font color=\"#ff5500\">hochexplosiv</font></u></i></b></div><div><i><sub>1. Ether wird durch Licht gespalten (Wassterstoffatom wird eliminiert)</sub></i></div><div><i><sub>2. Radikale entstehen, welche mit Luftsauerstoff reagieren können und ein Peroxidradikal synthetisieren</sub></i></div><div><i><sub>3. Peroxidradikal startet Kettenreaktion und deprotoniert Ether, sodass ein Hydroperoxid entsteht (explosiv)</sub></i></div><div><img src=\"paste-c13c7ce49a8fcab26e7e73a3eafe1435ae2d4ae4.jpg\"><br></div><div><br></div><div><b><u>Verwendung</u></b>:&nbsp;</div><div>- Narkotikum (Chirugie)</div><div>- Stärkungsmittel</div>"
+                            ],
+                            "guid": "DdJAd67vlG",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lassen sich Ether synthetisieren?",
+                                "<b><u>Williamson-Ethersynthese:</u></b><div>~ ähnlich zu Nukleophile Substitution</div><div>~ Halogenalkan wird umgesetzt mit Alkoholat</div><div><br></div><div><b><u>intermolekular (zwischen zwei Molekülen)</u></b></div><div>1. Natriumalkoholat ähnlich nukleophil wie Natriumhydroxid</div><div>2. Alkoxygruppe (Natriumalkoholat) greift am Halogenalkan an (S<sub>N</sub>2-Reaktion)</div><div>-&gt; Diethylether und Natriumbromid (fällt aus) entstehen</div><div><img src=\"paste-4c9d319be656fb9f59a68b6b41a78fb97b6f78d5.jpg\"><br></div><div><br></div><div><b><u style=\"\">intramolekular/ cyclisch (innerhalb eines Moleküls):</u></b></div><div><b><font color=\"#ff5500\">- Molekül benötigt Fluchtgruppe und Alkohol als Nukleophil&nbsp;</font></b></div><div>~ Alkohol<sup>&nbsp;</sup>wird deprotoniert, sodass Wasser abgespalten wird</div><div>-&gt; <font color=\"#ff5500\"><b>Übrig gebliebenes O<sup>- </sup>greift intramolekular als Nukleophil an</b></font>, sodass Fluchtgruppe abgespalten wird (Substitution; S<sub>N</sub>2)</div><div><br></div><div><b><u>Beispiel</u></b></div><div><img src=\"paste-d99cf988602fd9b9931bea6acdb5ded5a55dbd44.jpg\"><br></div><div>2-Brom-Ethanol wird mit OH<sup>-&nbsp;</sup>umgesetzt</div><div>-&gt; OH<sup>-</sup>&nbsp;deprotoniert den Alkohol, sodass Wasser abgespalten wird</div><div>-&gt; O<sup>- </sup>kann intramolekular das Brom substituieren</div><div>-&gt; Ocacyclopropan entsteht (Ether)</div><div><sub>Oxacyclopropan wichtig als Klebstoff oder Füllungen beim Zaharzt</sub></div><div><br></div><div>weitere:</div><div><img src=\"paste-72421330d0ae1a328625f10a3af009159859665d.jpg\"><br></div>"
+                            ],
+                            "guid": "pnVV7sY;e!",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<sub style=\"font-style: italic;\">Nenne einen cyclischen Ether, welcher in der Natur vorkommt.</sub>",
+                                "<b><u>Epothilon</u></b>:<div>- Extrahiert aus einem Pilz</div><div>-&gt; Mittel zur Krebsbekämpfung</div>"
+                            ],
+                            "guid": "jUH!lRPww[",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind Alkene/ Olefine?",
+                                "<div><b><u><font color=\"#ff5500\">Alkene/ Olefine</font></u></b></div>Organische Verbindungen, welche nicht nur aliphatische Kohlenstoffatome tragen (sp<sup>3</sup>&nbsp;Hybritisiert), sondern auch<font color=\"#ff5500\"> Kohlenstoff Kohlenstoff Verbindungen beinhalten (sp<sup>2</sup>&nbsp;hybritisiert)</font><div><br></div><div>~ Durch Entstehung der Sigma-Bindung kommen sich die p-Orbitale der Kohlenstoffmoleküle näher.</div><div>-&gt; Die p-Orbitale stehen parallel zueinander und bilden eine pi-Bindung aus, welche eine Elektronendichte ober und unterhalb der Kernverbindung (Sigma-Bindung) herstellt</div><div>- Kleine Lappen der sp<sup>2</sup>&nbsp;- Orbitale stellen Verbindungen mit dem Wasserstoff her&nbsp;</div><div><img src=\"paste-9a25f97eec558af3cb649a16f95267fa145693ae.jpg\"><br></div><div><br></div><div><b><u><font color=\"#ff5500\">Realtive Bindungsstärke in Alkenen:<br></font></u></b><img src=\"paste-88f8c3bcb54d8f534dc0da925d56e46edc0c8e85.jpg\"><br></div><div>-&gt; pi-Bindung trägt weniger zur Doppelbindung bei als die Sigma-Bindung da die p-Orbitale weniger überlappen als die s-Orbitale<br></div>"
+                            ],
+                            "guid": "LU|!>$[KGS",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das simpelste Alken?",
+                                "<b><u><font color=\"#ff5500\">Ethen -&nbsp; Ethylen (C<sub>2</sub>H<sub>4</sub>)</font></u></b><div>- Verwand mit Ethan (C<sub>2</sub>H<sub>6</sub>), besitzt jedoch zwei Wasserstoffe weniger</div><div>- leicht brennbar, farblos</div><div><img src=\"paste-c9c7a37fd48b2190d1dea248288de5ee4ef4a097.jpg\"><br></div><div>-&gt; Doppelbindung deutlich kürzer als die Einfachbindung in Alkanen zwischen den Kohlenstoffen (150pm)</div><div>-&gt; Winkel H-C-H (117,4°) ist etwas kleiner als der Winkel H-C-C Winkel (120) durch <font color=\"#ff5500\">sterische Zwänge</font></div><div><font color=\"#ff5500\"><br></font></div><div><b><u>Herstellung</u></b>:</div><div>- Wird vor allem beim cracken von Erdölen synthetisiert&nbsp;</div><div>-&gt; Lässt sich wegen seiner leichten Flüchtigkeit leicht abtrennen</div><div><br></div><div><b><u>Verwendung</u></b></div><div>- Polymerisation</div><div>- Sterol</div><div>- Ethylenoxid (cycl. Ether)</div><div><font color=\"#ff5500\">- Wirkt als Reifungshormon einiger Pflanzen</font></div>"
+                            ],
+                            "guid": "JOkb.wVrA4",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<sub>Was sind das für Moleküle? Erkläre die Nomenklatur für diese Verbindungsklasse.</sub><div><img src=\"paste-fcc50345f99bb40d5e733b316b1284792b9f22ab.jpg\">;&nbsp;<img src=\"paste-67fd05541da0addc2a845e0c5cd48b0dad58711a.jpg\"><br></div>",
+                                "<div><b><font color=\"#ffff00\"><u>Nomenklatur</u>:</font></b></div><div><font color=\"#ffff00\">- Ableitbar von Alkanen mit der Endung -en</font></div><div><div><sub><font color=\"#ffff00\">~ Ethen, Propen&nbsp;</font></sub></div></div><div><font color=\"#ffff00\">- Stammverbindung ist immer die längste Kette <b><u>mit einer Doppelbindun</u></b></font></div><div><font color=\"#ffff00\">- mehr als zwei Substituenten an einem Alken nach CIP-Regel bewerten</font></div><div><font color=\"#ffff00\">- Stelle der Doppelbindungen wird mit einer vorangestellten Zahl beschrieben</font><br></div><div><sub>~ 1,3- Butadien:&nbsp;<img src=\"paste-dd9c712139e64e9f8f7bfb12d548a5ae9891e277.jpg\"><br></sub></div><div><i>-&gt; kummulierte Doppelbindung:</i> Ein Kohlenstoffatom besitzt kein Wasserstoffatom, sondern zwei Doppelbindungen zu anderen Kohlenstoffen</div><div><br></div><div>Konstitutionsisomere:</div><div><div>~ 1-Buten:&nbsp;<img src=\"paste-caa1e53add8e6a2b74afd73d454f1423da27a9c4.jpg\"></div>~ 2-Buten:&nbsp;<img src=\"paste-eb92fe1867f11136e82392913bf8724f2e96bdc0.jpg\"></div><div><br></div><div>Konfigurationsisomere:</div><div><img src=\"paste-07de09623447a5354d6fe5dcfc11481f53b76379.jpg\"><br></div><div>-&gt; Diastereomere</div><div><br></div><div>cyclische Alkene:</div><div><img src=\"paste-17cbdf4d1cb2fc0d73e6abad3456e54b5d826a98.jpg\"><br></div><div>-&gt; Cyclohexen wäre in der E-Form zu sehr gespannt und ist unmöglich herzustellen</div><div>-&gt; Nur durch längere Ketten im Ring sind E-Konfigurationen möglich</div><div><sub>~ Cis = Z; trans = E</sub></div><div><br></div><div>Substituenten:</div><div><img src=\"paste-e034964f91c87d9f4b551d435f31fd58e6be276c.jpg\"><br></div>"
+                            ],
+                            "guid": "c.$<ta0,w&",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sind die Allg. Regeln zur Nomenklatur der Alkene?",
+                                "- Alkene\nerhalten die Endung –en, bei mehreren Doppelbindungen –dien, -trien,\n…<br>\n(Anhängung von Alkine: -in; Alkin + Alken: enin)<div><br></div><div>- Man\nwählt die längste Kette, die eine C=C Doppelbindung enthält<br></div><div><img src=\"paste-967ea9b57dc1638e0448a900ee188b43191b14bc.jpg\"><br></div><div><br></div><div>- Man nummeriert von dem Ende, das der Doppelbindung am nächsten ist</div><div><img src=\"paste-8eb34ef07027a14e6ed872a51953ad67bd8fb52f.jpg\"><br></div><div><br></div><div>- Man kennzeichnet nur das niedrigste C-Atom der Doppelbindung</div><div><img src=\"paste-19f1a8f590715f6caa4e293e07c220f9cb76d9f0.jpg\"><br></div><div><br></div><div>- Bei mehreren Doppelbindungen verfährt man entsprechend</div><div><img src=\"paste-40b988139c3e216a6a30389d3c7b3243304a9f7b.jpg\"><br></div><div>-&gt; Doppelbindungen stehen in der Priorität vor den Dreifachbindungen</div>"
+                            ],
+                            "guid": "M^b<k-U4wB",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<sub>Welche Alkene gibt es in der Natur?</sub>",
+                                "<b><u><font color=\"#ffaa00\">Terpene (Biosynthese):</font></u></b><div>~ reine Kohlenwasserstoffverbindungen (reaktiv)<br><div>- Extreme Vielfalt mit Doppelbindungen zwischen den Kohlenstoffen</div><div><br></div><div>Synthese:</div></div><div><img src=\"paste-bb5912c19ee39d20491654cfc6470315ff0f514d.jpg\"><br></div><div>Monoterpene werden enzymatisch gekoppelt und verlängert mit Phosphaten zu Famesylpyrophosphat</div><div>-&gt; Dieses lässt sich dimerisieren (An der Stelle mit dem Dimer koppeln) , sodass&nbsp;</div><div>... Squalen <sub>entsteht</sub></div><div>~ Squalen stellt eine Vorstufe von den Steroiden&nbsp;&nbsp;(Tetracyclische Systeme) dar<br></div><div>... 16-trans-Phytoen (Tetraterpene) <sub>entsteht</sub></div><div><img src=\"paste-0444f54d3f0ec9f0a9fe401039a7280f03a8dfdd.jpg\"><sub><br></sub></div><div><br></div><div><b><u><font color=\"#ffaa00\">Ungesättigte Fettsäuren:</font></u></b></div><div>- Säuren sind als Ester an die Glycerineinheit gekoppelt</div><div><font color=\"#0055ff\">gesättigte Fettsäure</font></div><div><font color=\"#00aa00\">Ungesättigte Fettsäure</font></div><div><font color=\"#ff0000\">mehrfachungesättigte Fettsäure</font></div><div><img src=\"paste-a6d5c7a6747b7b7ff2e000af3327371c9ce24538.jpg\"><br></div><div>- mittelkettige Fettsäure, mehrfach ungesättigt sind eher gesund</div><div>-&gt; Ungesättigte Fettsäuren senken Risikko von Herzerkankungen</div><div><br></div>"
+                            ],
+                            "guid": "cMT?jhH3}B",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "OCVO7",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<sub>Wie verwendet man Alkene?</sub>",
+                                "<div>- Doppelbindung sehr reaktiv</div><div>-&gt; Aus Ethylen können größere andere Moleküle hergestellt werden</div><div><br></div><div><b><u>Verwendung</u></b>:<br></div><div>- Zusatz zu Treibstoffen&nbsp;</div><div>- Herstellung von Halogenkohlenwasserstoffen</div><div>- Alkoholen</div><div>- Ketonen</div><div>- Glycolen</div><div>- Waschmittelkomponenten</div><div>...</div>"
+                            ],
+                            "guid": "M=@c`Uv$K/",
                             "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                             "tags": [
                                 "OCVO7",
@@ -21631,7 +21815,94 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
-                        "paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg"
+                        "paste-01de436e595f225ce383e57f0ab3e00d1cbeb09a.jpg",
+                        "paste-0762a3fd56ad53dd369eb8c9683ca92dce638bc1.jpg",
+                        "paste-080b58a41d73abef25295c47c69666bd7e89f995.jpg",
+                        "paste-08a1d8a791f29a739f6527dce0f0276e3fad4b29.jpg",
+                        "paste-094fca51145d32e7aea2b95e6cf5490e2b98e11b.jpg",
+                        "paste-0cb095878e2a26c6f8f9b306ca5b772b5c244ac9.jpg",
+                        "paste-0e27e14739a7da419a83b0fedfc9d4c8e2ea0d45.jpg",
+                        "paste-1144dbfa78ff2cbc467555a25b94a3a79318aab0.jpg",
+                        "paste-12d3fe132a46f41101b307c82c4a4b394da9aa52.jpg",
+                        "paste-144b973139267937961e7fc3b400e3979f72f7f2.jpg",
+                        "paste-14c8a80a957303040c948078bac4db0065b68034.jpg",
+                        "paste-1825c2aa65094289e813d5d8a51a1fed51085674.jpg",
+                        "paste-1a29f63fdd27876dc9a921f3d4b8a73846540122.jpg",
+                        "paste-1f44f55a1404170b490cef0c913f413559f982b0.jpg",
+                        "paste-2183e4035ed546ed8ebe5ccaa43430853fd68bf2.jpg",
+                        "paste-26a530faedd6eca70a09b3dcef29fdb81074c248.jpg",
+                        "paste-27c67de8e0603be7729a9cd2b7e06c1e5d29a894.jpg",
+                        "paste-292d05af63c943eb153bd484ffa4fdfb6d3d9da4.jpg",
+                        "paste-295ce0e853e1c67a8afe5c1922b3eedd7b54cc0e.jpg",
+                        "paste-323ba8463d8bfb49dce4c37c35f1c38bae3b533c.jpg",
+                        "paste-32a096188f0906eed8b6933b556039321958bece.jpg",
+                        "paste-344fd1a583e2f88c006adb6272afcd84fa80b13b.jpg",
+                        "paste-35c93a6ddfd8ee27c71f720aca291bd9e21a3f80.jpg",
+                        "paste-3751a5a241d4bf0d30dfeaa36b2790fcf68ca08e.jpg",
+                        "paste-3b80d36d4f5c900ac25e19157801cca58a03c942.jpg",
+                        "paste-3e43e1adc3cc2eb79abd05dcd90ee1ec2a55ee89.jpg",
+                        "paste-3f17516a92cc3211c702e26d8977454ff4fcb6a4.jpg",
+                        "paste-3f81dd643315e6fcccd59198a50152867ccb2082.jpg",
+                        "paste-4162ac6be1b7f90e877c989d35b3fc50b99fb56e.jpg",
+                        "paste-448dbfd22e1b62c17edcb58f003f8fe9d2cc0ab3.jpg",
+                        "paste-4491b41dfc51035ea4a723f01a273dc4e0831ca2.jpg",
+                        "paste-463d7d48d87b90347867400d173e0ed16eb8b6fa.jpg",
+                        "paste-48e2e06f6fa688336320cda1a178d56df3c36ea2.jpg",
+                        "paste-4cc88ac22819046a1c91e23666cdaea1547724ae.jpg",
+                        "paste-4d28fbaedf9d8fef219186755a0229fc210e2655.jpg",
+                        "paste-4eafa8a802b13b080b86f269d5147b3f5c1cbd64.jpg",
+                        "paste-4f7721b88a70c60d5fc95d604d33b41d5678bc8b.jpg",
+                        "paste-50596a3ec1f8d0e4d98729a72d0280611a2a809e.jpg",
+                        "paste-5123f9670f0a5d908e35d290fcaf64e384b59138.jpg",
+                        "paste-5487db7b852b79dd3ed18153e3c809216f112936.jpg",
+                        "paste-58ec213e69fa7d6468db2e1349c7e102deb2dcdc.jpg",
+                        "paste-5be02f0c05d944e7830f8c29271bccff044ed948.jpg",
+                        "paste-5c8073a3cba27c90388abfa0f1f452376719c7ca.jpg",
+                        "paste-5e1507b5ab075e1810b0f6ad54143dd967570169.jpg",
+                        "paste-5ee993ac603a5e4ace66788cbe541f4a2ef33939.jpg",
+                        "paste-639d0409cf232dd1e92626a78a9294777ef4e73a.jpg",
+                        "paste-6612a5573fa36cd5adeddcef6d0846f165c73fd9.jpg",
+                        "paste-6be4b62efaeae33317977001f0b426633d817605.jpg",
+                        "paste-6ce726a01b67b66c706c03b627ebece58e944392.jpg",
+                        "paste-6da2039069a0c3a141bb244c20223cdd8a803f18.jpg",
+                        "paste-73c467ec88403ff28f63c65b5dc88c7477003150.jpg",
+                        "paste-742c3ae88a85eaf2c44afc3d9651088a1494306a.jpg",
+                        "paste-76e35822700f370fa027d5577f668ccc09782f49.jpg",
+                        "paste-7d0a660998f55dd69a32d648f44363b72ca25da2.jpg",
+                        "paste-7ed3611cd8255db9ea3865ce9dbfaa7cdbbc6d43.jpg",
+                        "paste-81ec5b9ab745a74a9184150d8d56b219327bbc3f.jpg",
+                        "paste-87ac5f330680ca31452f1784f0a8a3983cba2a15.jpg",
+                        "paste-8a12ad8ee597c458e5fe07aaca765f12be5de8ed.jpg",
+                        "paste-8e614a184d3330545102f0c72c0aed8a5076857a.jpg",
+                        "paste-9483df949942977862b823094bc025d22b38b82b.jpg",
+                        "paste-95dbb943ee842a86d3df174aede63a18795198ab.jpg",
+                        "paste-9f4796513a7fedf9202d8feb00d2ff4e4c04f222.jpg",
+                        "paste-a752248ff9c0626383ff03e48d55ba98301a0dfe.jpg",
+                        "paste-aff89daacde08b0e6be489386872d2a18ff4d9b9.jpg",
+                        "paste-b0656ef2bddaccd56f46651981ec90ee7dee0e6c.jpg",
+                        "paste-b1bc14478e795a86746e04e41ecd2cedea16411e.jpg",
+                        "paste-b3f05fe27083c8e5230719e19ca425319059a39d.jpg",
+                        "paste-b47d02324567e8e22f257235f67eeb3137ebbd2c.jpg",
+                        "paste-b86834ed39bcbda6c077bba3ec4a9265b22fdcce.jpg",
+                        "paste-ba272f9b69b38c9903134dde8fc7a4e782645a59.jpg",
+                        "paste-ba6e5b42d279f42c6657686907eb3b864eff774a.jpg",
+                        "paste-cd778d92a57e7530d8ac1ba48de4ed877e706d0c.jpg",
+                        "paste-cf12f38dfda9bb11d13bd7acfcb60deff9b77bf7.jpg",
+                        "paste-d0642c3e10e27f2924fb584af5fecdd791dde385.jpg",
+                        "paste-d3bc5004fa3c6f0135ffc11584cdb68989efa5dd.jpg",
+                        "paste-d5ea2ff66fce1b1b61c02802aec54bdeb58909fc.jpg",
+                        "paste-d8553bc84746e9142e473547b00881ecf48ddccb.jpg",
+                        "paste-dce1e628c78c2b117f00e66dc1b9a2f389af7a0c.jpg",
+                        "paste-df42b2a4c40128090324af1602dd66f681098802.jpg",
+                        "paste-e13565191250f133e90a7c9036596ea92f77bb3d.jpg",
+                        "paste-e57c7550c8e5d3e140ad98228665e5517612efbb.jpg",
+                        "paste-e6e2199fc70614e71beac7ef51a742be6deb77f9.jpg",
+                        "paste-ef6188032c85117e82b84e08ba111364dd3bdc3b.jpg",
+                        "paste-f19cdae343be022fe512d2f49f9d8d284d1b7bed.jpg",
+                        "paste-f2724f4a0ad123bdd331b63e5d93cb1c22d10b62.jpg",
+                        "paste-f3f0690e8b7b0912323e1c8967cc526df1440742.jpg",
+                        "paste-f665a76c0e3a344cb3f812ead744ed8f6b8d49ee.jpg",
+                        "paste-fde5a4174b9a82c01a860c04ba87bc6b841623a8.jpg"
                     ],
                     "name": "Physik (für Biowissenschaften)",
                     "notes": [
@@ -21639,7 +21910,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<font color=\"#ffff00\">Wie werden Abläufe in der Natur von der Physik versucht zu beschreiben?</font>",
-                                "1) quantitative Beschreibung:&nbsp;<div>&nbsp;Messungen \nmathematische Erfassung in Formeln&nbsp;</div><div>2) Verständnis:\nModelle/Gesetze aufstellen und experimentell untersuchen; <font color=\"#ff5500\"><b>streng nur Falsifikation möglich</b></font>, keine Verifikation&nbsp;</div><div>~ Qualität gemessen durch konsistente Erklärung unterschiedlicher Phänomene aus einem Prinzip heraus&nbsp;</div><div>-&gt; Bsp.: Gravitation: freier Fall und Himmelsmechanik</div><div><br></div><div><b><font color=\"#ff5500\">Naturgesetze sind quantitative, allgemein gültige Zusammenhänge, die möglichst viele Phänomene korrekt beschreibe</font></b><br></div>"
+                                "1) quantitative Beschreibung:&nbsp;<div>&nbsp;Messungen \nmathematische Erfassung in Formeln&nbsp;</div><div>2) Verständnis:\nModelle/Gesetze aufstellen und experimentell untersuchen; <font color=\"#ff5500\"><b>streng nur Falsifikation möglich</b></font>, keine Verifikation&nbsp;</div><div>~ Qualität gemessen durch konsistente Erklärung unterschiedlicher Phänomene aus einem Prinzip heraus&nbsp;</div><div>-&gt; Bsp.: Gravitation: freier Fall und Himmelsmechanik</div><div><br></div><div><b><font color=\"#ff5500\">Naturgesetze sind quantitative, allgemein gültige Zusammenhänge, die möglichst viele Phänomene korrekt beschreiben</font></b><br></div>"
                             ],
                             "guid": "lO;wE%(`sb",
                             "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
@@ -21664,13 +21935,533 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was sind Einheiten?",
-                                "<div>Einheit:</div><div>Standardgröße</div><div><br></div><div>Messung:</div>Vergleich von beobachteten Größen mit Standardgröße"
+                                "<font color=\"#ffff00\">Was sind Einheiten?</font>",
+                                "<div>Einheit:</div><div>Standardgröße</div><div><br></div><div>Messung:</div>Vergleich von beobachteten Größen mit Standardgröße (Referenz)"
                             ],
                             "guid": "iu7L,.yCXo",
                             "note_model_uuid": "89904e25-9ae6-11eb-a5ef-309c2362050c",
                             "tags": [
                                 "PhyVO2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<sub>Sind Physikalische Größen abhängig von der Wahl der Einheit?</sub>",
+                                "Eine <font color=\"#ff5500\">physikalische Größe</font> ist das <font color=\"#ff5500\">mathematische Produkt</font> aus einer Maßzahl und einer Einheit<div>-&gt; Physikalische Größen sind <b><u><font color=\"#ff5500\">unabhängig </font></u></b>von der Wahl der EInheit, nur der Zahlenwert hängt von der Einheit ab</div>"
+                            ],
+                            "guid": "k3k5a-0tR|",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyVO2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Triangulation?",
+                                "- Aufteilen einer Fläche in Dreiecke<div><div>-&gt; Kann genutzt werden, um große Längen zu Messen</div></div><div><br></div><div>z.B Durchmesser der Erde</div><div>- Sonnenuntergang wird im Liegen und im Stehen beobachtet und gemessen, wie viel Zeit zwischen beiden Sonnenuntergängen vergeht</div><div>-&gt; Aus diesen Beobachtungen lassen sich Dreiecke bilden mit, welchen man den Erdradius ermitteln kann</div><div><img src=\"paste-f3f0690e8b7b0912323e1c8967cc526df1440742.jpg\"><br></div>"
+                            ],
+                            "guid": "G-t;0`U-d>",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyVO2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<sub>Wie vermisst man kleinere Längen?</sub>",
+                                "<img src=\"paste-b0656ef2bddaccd56f46651981ec90ee7dee0e6c.jpg\">"
+                            ],
+                            "guid": "Bt0b`{~l%%",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyVO2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lässt sich Zeit bestimmen?&nbsp;",
+                                "- Periodische Vorgänge wie Tag und Nacht (24h), Pendel<div>-&gt; Frequenz: v=1/T (T=Periodendauer)</div><div><br></div><div>Definition: Sekunde mithilfe der Frequenz einer Spektrallinie des Cs-Atoms</div>"
+                            ],
+                            "guid": "eBz@vZ]fb.",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyVO2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lässt sich die Materie mit Aggregatzuständen beschreiben?",
+                                "1. <b><u>Festkörper</u></b>:&nbsp;<div>- formstabil und volumenstabil\nAtome&nbsp;</div><div>- dicht gepackt&nbsp;</div><div>- feste Anordnung der Atome \n(falls kristallin -&gt; regelmäßige Anordnung als Gitter)</div><div><br></div><div>2. <b><u style=\"\">Flüssigkeiten</u></b>:&nbsp;</div><div>- nicht formstabil</div><div>- volumenstabil (V = const)</div><div>- Keine Fernordnung; Teilchen gegeneinander frei verschiebbar.&nbsp;</div><div>- Teilchen dicht gepackt aber schwach kompressibel, d.h. Flüssigkeiten widerstehen Kräften senkrecht zur Oberfläche, \naber nicht Scherkräften (= Kräften parallel zur Oberfläche).<br></div><div><br></div><div>3. <b><u>Gase</u></b>:</div><div>- keine Ordnung;&nbsp;</div><div>- Teilchen erfüllen den verfügbaren Raum\nAbstand zwischen Teilchen ist groß (-&gt; komprimierbar)<br></div><div><br></div><div>~ Festkörper &amp; Flüssigkeiten = kondensierte Materie</div><div>~ Flüssigkeiten &amp; Gase = Fluide</div>"
+                            ],
+                            "guid": "jVO!;1GvW[",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie sind Kristallstrukturen bestimmbar? Welche Moleküle werden miteiner ähnlichen Methode bestimmt?",
+                                "<b><u>Experimentelle Bestimmbarkeit von Kristallstrukturen mittels Röntgenstrahlen:</u></b><div>~ Wellenlänge der Strahlen hat die gleiche Länge wie der Abstand zwischen der Atome im Kristall</div><div>-&gt; Bei einer bestimmten Einfallsrichtung der Röntgenstrahlung tritt konstruktiv interferierende Strahlung (Reflexe) nur in bestimmte Richtungen auf</div><div>-&gt;<b><font color=\"#ff5500\"> Richtung abhängig von Wellenlänge der Röntgenstrahlung und dem Abstand der atomaren Ebenen (Netzebenen)</font></b></div><div><br></div><div>- Bedingung für Auftreten der Reflexe mittels <b><u><font color=\"#ff5500\">Bragg-Gleichung</font></u></b> beschrieben:</div><div><img src=\"paste-d0642c3e10e27f2924fb584af5fecdd791dde385.jpg\"><br></div><div>Lamda= Wellenlänge</div><div>d = Abstand der Netzebenen</div><div>Tetta = Winkel zwischen der Normalen der Netzebene und dem Austrittswinkel der Strahlung</div><div><img src=\"paste-448dbfd22e1b62c17edcb58f003f8fe9d2cc0ab3.jpg\"></div><div><br></div><div><b><u>Proteinkristsallographie: Größe von Proteinen<br></u></b></div><div>-&gt; Ganze Proteine müssen einen Gitterplatz einnehmen (mehrere tausend Atome)</div><div>1) Züchtung von Proteinkristallen&nbsp;</div><div>2) kristallographische Strukturanalyse</div><div>~ Bestrahlung mit Röntgenstrahlung und Aufnahme des darauffolgenden <font color=\"#ff5500\"><b>Beugungsmusters</b></font></div><div>-&gt; Modell der Proteinstruktur&nbsp;</div><div><img src=\"paste-dce1e628c78c2b117f00e66dc1b9a2f389af7a0c.jpg\"><br></div>"
+                            ],
+                            "guid": "A*8)jGSId!",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welche drei klassen kann man kondensierte Materie unterteilen?",
+                                "<div><b><u><font color=\"#ff5500\">Kristallin</font></u></b></div><div>~ Kristalle haben periodische Anordnung der Atome</div><div>-&gt; Kristallgitter legt Fernordnung der Atompositionen fest</div><div>- anisotrop, d.h. dass die Abstände zwischen den Atomen nicht in jede Richtung gleich sind und dadurch verschiedene Formen wie Spitzen zustandekommen</div><div><img src=\"paste-4491b41dfc51035ea4a723f01a273dc4e0831ca2.jpg\"></div><div><br></div><div><b><u><font color=\"#ff5500\">Amorphe Stoffe</font></u></b></div><div>- unregelmäßige Anordnung, <b><font color=\"#ffaa00\">keine </font></b>Fernordnung</div><div>-&gt; Abstand zwischen Nachbaratomen im Mittel konstant (Dichte)</div><div>- isotrop (Keine Vorzugsrichtung mit spezieller Ordnung)</div><div>- fest-flüssig nicht Eindeutig</div><div><br></div><div><font color=\"#ffaa00\"><b><u>Flüssigkeiten</u></b></font></div><div>- <font color=\"#ffaa00\"><b>Atomare Platzwechsel</b></font>, d.h keine festen Plätze der Atome im Molekül wie bei einem Kristallin, sind <font color=\"#ffaa00\"><b>häufiger </b></font>vorhanden als bei den amorphen Stoffen</div><div>-&gt; gut definierte Nahordnung (z.B durch Bindungswinkel)</div><div>- keine Fernordnung</div>"
+                            ],
+                            "guid": "LbVfy4!&M4",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kommt es zu einer dichten Anordnung der Atome?",
+                                "<font color=\"#ffaa00\">Elektrostatische Anziehung überwiegen gegenüber der Abstoßung</font><div><br></div><div>Bindungstypen</div><div>1) Ionische Bindung</div><div>2) Kovalente Bindungen</div><div>3) Metallische Bindungen (Elektronen sind nicht den Protonen im Kern zugeordnet -&gt; Elektronengas)</div><div>4) Van der Waals Bindung</div><div>5) Wasserstoffbrückenbindung</div>"
+                            ],
+                            "guid": "o<af@^#4*=",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "WIe kann man Bindungsabstände verändern?",
+                                "<div><b><u>Asymmetrische Potentialkurve:</u></b></div><img src=\"paste-b3f05fe27083c8e5230719e19ca425319059a39d.jpg\"><div>-&gt; r<sub>0</sub>&nbsp;beschreibt den Abstand zwischen den Atomen A und B bei 0°C</div><div><b>-&gt; Die Tiefe der Kurve gibt die Bindungsenergie an</b></div><div><br></div><div><b><u>Zufuhr von Wärmeenergie (E<sub>therm </sub>erhöht):</u></b></div><div>- kein eindeutiges Minimum vorhanden</div><div>- Mit steigender Temperatur auch größerer Mittlerer Abstand r<sub>0</sub>' &gt; r<sub>0</sub></div><div>-&gt; <font color=\"#ffaa00\"><b>thermische Ausdehnung</b></font> (Folge der Asymmetrie der Potenzialkurve)</div><div><br></div><div><b><u>Zufuhr von mechanischer Arbeit durch äußere Kräfte (Erhöhung E<sub>pot</sub>):</u></b></div><div>- Verschiebung von Atom B zu kürzeren Abständen kaum möglich, da E<sub>pot</sub>&nbsp;stark ins positive geht und starke Wiederstände/ Abstoßungskräfte aufweist</div><div>-&gt; nur geringe Kompressibilität für kondensierte Materie</div><div><br></div><div>~ Gase haben eine größere E<sub>therm </sub>als E<span style=\"font-size: 16.6667px;\"><sub>Bindung</sub>&nbsp;und sind somit nicht aneinander gebunden</span></div>"
+                            ],
+                            "guid": "q?hI@a$x-m",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lassen sich Festkörper durch Kräfter verformen?&nbsp;",
+                                "Formänderung mit Volumenänderung:<br><img src=\"paste-9483df949942977862b823094bc025d22b38b82b.jpg\"><div><br><div>Formänderung ohne Volumenänderung:</div><div><img src=\"paste-742c3ae88a85eaf2c44afc3d9651088a1494306a.jpg\"><br></div></div>"
+                            ],
+                            "guid": "JjTer,!sOC",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Formel für das Hooke'sche Gesetz für die Dehnung? Was beschreibt dieser Graph?<div><img src=\"paste-81ec5b9ab745a74a9184150d8d56b219327bbc3f.jpg\"><br></div>",
+                                "<img src=\"paste-1a29f63fdd27876dc9a921f3d4b8a73846540122.jpg\"><div>E= Der Wiederstand den dieser Körper der Dehnung entgegensetzt wird&nbsp;</div><div>deltaL/L= Größe der Längenänderung: deltaL/L wird gleichgesätzt mit</div><div>F/A (Sigma)= Kraft die pro Fläche wirkt&nbsp;</div><div><img src=\"paste-e57c7550c8e5d3e140ad98228665e5517612efbb.jpg\"><br></div><div>a) Linearer Bereich (Hooke'sches Gesetz)</div><div>b) elastische Verformung (reversibel)</div><div>c) plastische Verformung (irreversibel)</div><div>-&gt; Zerreißgrenze bei dem meisten Stoffen um deltaL/L &lt; 1%</div>"
+                            ],
+                            "guid": "f+`@q=Geux",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welcher Formel kann man die Kompression beschreiben?",
+                                "<b><u>Bei allseitigem Druck verkleinert sich das Volumen:</u></b><div><img src=\"paste-094fca51145d32e7aea2b95e6cf5490e2b98e11b.jpg\"><br></div><div>K= Kompressionsmodul [N/m<sup>2 </sup>= Pa]</div><div><img src=\"paste-4f7721b88a70c60d5fc95d604d33b41d5678bc8b.jpg\"><br></div><div>-&gt; K ist oft proportional zu E</div><div>deltaV/V= realtive Volumenänderung</div><div>p= Druck von außen auf den Körper</div><div><br></div><div>-&gt; Lineare Veränderung des Volumens mit zunehmenden Druck (Hooke'sches Gesetz)<br></div><div>-&gt; Minuszeichen wegen Volumenverkleinerung</div><div>-&gt; K ~ E (Elastizitätsmodul)</div>"
+                            ],
+                            "guid": "z6/HltQqE7",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Scherkraft charakterisiert?",
+                                "Scherkraft F greift tangential an Fläche A an (z.B Körper an Unterseite gespannt)<div><br></div><div><img src=\"paste-27c67de8e0603be7729a9cd2b7e06c1e5d29a894.jpg\"></div><div>alpha = Scherwinkel (im Bogenmaß)</div><div>T = Schubspannung</div><div>G = Schub- /Scher- / Torsionsmodul [N/m<sup>2</sup>&nbsp;rad)</div><div><br></div><div>-&gt; lineare Änderung für kleine alpha (Hooke'sche Gesetz)</div><div>-&gt; Elastische Verformung für kleine alpha (reversibel)</div>"
+                            ],
+                            "guid": "eLH_5->;F%",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was passiert, wenn zwei Kröfte tangential in entgegengesetzte Richtung an einem zylinder angreifen?",
+                                "Verdrillung:<div>Drehmoment verknüpft mit winkel phi, welcher die Verdrillung beschreibt (Richtgrößte)</div><div>-&gt; Abhängig von G, Länge des Drahtes und Radius des Drahtes</div><div><img src=\"paste-344fd1a583e2f88c006adb6272afcd84fa80b13b.jpg\"><br></div>"
+                            ],
+                            "guid": "s-2*ySyb3o",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie entsteht eine Biegung? Wie kann man Biegung größtenteils verhindern?",
+                                "Verformung außen maximal durch Zugkräfte und unten gestaucht durch Druckkröfte<div>-&gt; \"neutrale Faser\" in der Mitte spannungsfrei (gestrichelte Linie)</div><div><img src=\"paste-d5ea2ff66fce1b1b61c02802aec54bdeb58909fc.jpg\"><br></div><div><br></div><div>Stabile Formen gegenüber Biegung mit gleichz. geringem Gewicht:</div><div>-&gt; Rohr / Knochen bzw Doppel T-Träger</div><div>~ Knochen optimiert für Kombination aus Zug- / Druck- / Biege- / Torsionsbealstung&nbsp;</div>"
+                            ],
+                            "guid": "ukcKA>X=Nj",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.1",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<sub>Was ist eine ideale Flüssigkeit?</sub>",
+                                "- inkompressibel<div>- keine innere Reibung (Viskosität), jedoch Reibung mit Außenwand</div>"
+                            ],
+                            "guid": "swXOqe`p?Z",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie leitet man den hydrostatischen Druck / Schweredruck ab?&nbsp;<div><img src=\"paste-5e1507b5ab075e1810b0f6ad54143dd967570169.jpg\"><br></div>",
+                                "<img src=\"paste-144b973139267937961e7fc3b400e3979f72f7f2.jpg\"><div><br><div><img src=\"paste-6ce726a01b67b66c706c03b627ebece58e944392.jpg\"><br></div></div><div>-&gt; Die Kraft ist nun eine Funktion von h</div><div><br></div><div><img src=\"paste-14c8a80a957303040c948078bac4db0065b68034.jpg\"><br></div><div>-&gt; Teilt man nun durch A erhält man den <b><font color=\"#ffaa00\">Druck</font></b> als Produkt aus Dichte (<i>hier const.)</i>, Tiefe (h) und Erdbeschleunigung (g)</div><div>-&gt; Druck nimmt mit zunehmender Tiefe linear zu (Höhenabhängigkeit)</div><div><sub>~ h zeigt von der Wasseroberfläche in Richtung Schwerkraft</sub></div><div><img src=\"paste-e13565191250f133e90a7c9036596ea92f77bb3d.jpg\"><br></div><div><br></div><div><b><u>In Flüssigkeiten:</u></b></div><div>Allseitigkeit des Druckes</div><div>-&gt; Druck ist <b><font color=\"#ffaa00\">keine </font></b>Vektorgröße</div><div>-&gt; Wasser kann auch seitlich austreten, obwohl die Schwerkraft nach unten zeigt, jedoch nimmt der Druck und die Austrittsgeschwindigkeit zur Seite nach unten zu&nbsp;</div><div><img src=\"paste-639d0409cf232dd1e92626a78a9294777ef4e73a.jpg\"><br></div>"
+                            ],
+                            "guid": "lr8w>#Y~Yf",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In der Praxis kann man Drücke mithilfe eines Flüssigkeitsmanometer bestimmen. Wie funktioniert dies?",
+                                "<b><u>Flüssigkeitsmanometer:</u></b><div>-&gt; evakuiertes Rohr, Flüssigkeit bekannter Dichte p<span style=\"font-size: 16.6667px;\"><sub>fl</sub>&nbsp;</span></div><div><span style=\"font-size: 16.6667px;\">-&gt; Oberfläche der Flüssigkeit ist Luftdruck ausgesetzt (p<sub>0</sub>)</span></div><div><span style=\"font-size: 16.6667px;\">-&gt; Hydrostatischer Druck innerhalb der Säule wird aufgebaut&nbsp;</span></div><div><span style=\"font-size: 16.6667px;\"><font color=\"#ffaa00\">-&gt; Gleichgewicht zwischen Luftdruck und Hydrostatischen Druck wird aufgebaut</font></span></div><div><img src=\"paste-3f17516a92cc3211c702e26d8977454ff4fcb6a4.jpg\"><span style=\"font-size: 16.6667px;\"><br></span></div><div>~ Dichte Temperaturabhängig, Erdbeschleunigung abhängig von Ort</div><div>Messung der Dichte:</div><div><img src=\"paste-0e27e14739a7da419a83b0fedfc9d4c8e2ea0d45.jpg\"><br></div><div><br></div><div><b><u>offener Rohrschenkel:</u></b></div><div>-&gt; Vermessung des Gasdruckes in einem geschlossenen Tank</div><div>~ Rohrsystem mit einer Öffnung</div><div><img src=\"paste-4cc88ac22819046a1c91e23666cdaea1547724ae.jpg\"></div><div>-&gt; Gasdruck im Tank ist gleich die Summe aus hydrostatischem Druck (wassersäule) und des Luftdrucks</div><div><img src=\"paste-292d05af63c943eb153bd484ffa4fdfb6d3d9da4.jpg\"><br></div><div><br></div><div><b><u>Vergleich von relativen Dichten zweier Flüssigkeiten</u></b></div><div>- U-förmiges offenes Rohr</div><div>- Flüssigkeiten werden auf den jeweils anderen Seiten eingefüllt</div><div>-&gt; Durch das Druckgleichgewicht wird man unterschiedliche Höhen erhalten, welche den unterschiedlichen Schweredruck repräsentieren (abhängig von Dichte)</div><div><img src=\"paste-8e614a184d3330545102f0c72c0aed8a5076857a.jpg\"><br></div><div><i>~ unabhängig von p<sub>0</sub></i></div>"
+                            ],
+                            "guid": "umd&@u`%+2",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Hydrostatische Paradoxon und erkläre es",
+                                "<div><b><u>Hydrostatische Paradoxon:</u></b></div><div>Warum ist der Druck am Boden des Behälters bei der gleichen Füllhöhe in jeder Form gleich gleich</div>Der Druck hängt von der <b><font color=\"#ffaa00\">Höhendifferenz</font></b> ab, nicht jedoch von der Form des Behälters<div><br><div><b><u>Erklärung</u></b>:</div><div>Die Wände des Behälters können entweder den Druck erhöhen oder erniedriegen, sodass die Netto-Krafft der Flüssigkeitsteilchen immer = 0 ergibt&nbsp;</div><div><img src=\"paste-12d3fe132a46f41101b307c82c4a4b394da9aa52.jpg\"><br></div></div>"
+                            ],
+                            "guid": "m`CT|4GNTe",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lässt sich der Luftdruck / Atmosphärendruck bestimmen?",
+                                "Probelm:&nbsp;<div><i>~ Nicht bestimmbar mit Hydrolytischem Druck, da die Erdanziehung (g) nachlässt in größeren Höhen (z.B 8km)</i><div>-&gt; Dichte der Luft hängt von der Höhe und von dem Druck p ab</div><div><img src=\"paste-f665a76c0e3a344cb3f812ead744ed8f6b8d49ee.jpg\"><br></div><div>~ Gase sind kompressibel und können, sodass unterschiedlich Drücke unterschiedliche Dichten nach sich ziehen</div><div><font color=\"#ffaa00\">Propotionalität </font>zwischen Druckänderung <font color=\"#ffaa00\">dp </font>und Höhenänderung <font color=\"#ffaa00\">dh</font>'</div><div>-&gt; <font color=\"#ffaa00\"><i>Minus</i></font>: Verringerung des Drucks geht mit der Höhe einher</div><div><u><font color=\"#ffaa00\"><br></font></u></div><div><u><font color=\"#ffaa00\"><br></font></u></div><div><u><font color=\"#ffaa00\"><b><i>Barometrische Höhenformel</i></b>&nbsp; (</font></u>Druck als Funktion der Höhe):</div><div><img src=\"paste-35c93a6ddfd8ee27c71f720aca291bd9e21a3f80.jpg\"><img src=\"paste-87ac5f330680ca31452f1784f0a8a3983cba2a15.jpg\"><br></div><div>~ abfallende e-Funktion</div><div>-&gt; Luftdruck Maximal auf Meeresspiegel</div><div><img src=\"paste-cf12f38dfda9bb11d13bd7acfcb60deff9b77bf7.jpg\"><br></div></div>"
+                            ],
+                            "guid": "oD7vFr2L<O",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Pascal'sche Prinzip?",
+                                "<div><font color=\"#ffaa00\"><b><u>Pascal'sche Prinzip:&nbsp;</u></b></font></div><div>Eine Druckänderung in einem abgeschlossenen,\ninkompressiblen Fluid wird allseitig und unvermindert\nauf jeden Teil des Fluids und auf die Behälterwände\nübertragen<br></div><div>-&gt; Externer Druck: p<sub>ext</sub>: F<sub>g</sub>/A&nbsp; &nbsp; &nbsp; [F<sub>g</sub>&nbsp;steht seknrecht auf A]</div><div>&nbsp; -&gt; Druck in P (insgesamt):<b><font color=\"#ffaa00\"> p<sub>ges</sub>&nbsp;= p<sub>ext</sub>&nbsp;+ p(roh)*g*h</font></b></div><div><img src=\"paste-cd778d92a57e7530d8ac1ba48de4ed877e706d0c.jpg\"><br></div><div><br></div><div><b><u><font color=\"#ffaa00\">Volumenarbeit</font></u></b>:</div><div>Verschieben eines Stempels (F<sub>g</sub>&nbsp;/A) um Strecke s bei konstantem Druck (p)</div><div><font color=\"#ffaa00\">W</font>= F*s</div><div>&nbsp; &nbsp; = p*A*s</div><div>&nbsp; &nbsp; = <font color=\"#ffaa00\">p*dV </font>(Volumenänderung während der Arbeit multipliziert mit dem Druck)</div><div>~ bei nicht konstantem Druck muss integriert werden</div><div><img src=\"paste-fde5a4174b9a82c01a860c04ba87bc6b841623a8.jpg\"><br></div>"
+                            ],
+                            "guid": "qtjQ[(0C/Q",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie und nach welchem Prinzip funktioniert die hydraulische Hebebühne?",
+                                "hydraulische Hebebühne;<div>-&gt; Nutzt das Pascal'sche Prinzip</div><div><br></div><div>Umwandlung der kleinen Kraft F<sub>i </sub>in die große Kraft F<sub>o</sub>:</div><div>F<sub>i </sub>wirkt über den Stempel A<sub>i</sub>&nbsp;auf die große Strecke d<sub>i</sub>; F<sub>o&nbsp;</sub>wirkt über den Stempel A<span style=\"font-size: 16.6667px;\"><sub>o</sub></span>&nbsp;auf die große Strecke d<sub>o</sub></div><div><span style=\"font-size: 16.6667px;\">~ Der Druck ist auf beiden Flächen gleich groß</span></div><div><img src=\"paste-aff89daacde08b0e6be489386872d2a18ff4d9b9.jpg\"><span style=\"font-size: 16.6667px;\"><br></span></div><div>-&gt; F<sub>o</sub>&nbsp;größer als F<sub>i</sub></div><div><img src=\"paste-d3bc5004fa3c6f0135ffc11584cdb68989efa5dd.jpg\"><sub><br></sub></div>"
+                            ],
+                            "guid": "d-j7IF&Q][",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lassen sich Flüssigkeiten bewegen?",
+                                "Pumpvorgänge:<div>- Kolben/Membran erzeugt Über- bzw. Unterdruck</div><div>- Verntile werden durch Strömung geöffnet oder geschlossen</div><div><img src=\"paste-1144dbfa78ff2cbc467555a25b94a3a79318aab0.jpg\"><br></div><div>~ Beim Menschen das Zwerchfell als Membranpumpe bei der Atmung und das Herz als Pumpe beim Blutkreislauf</div>"
+                            ],
+                            "guid": "rn{{OxqU4V",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert der Blutkreislauf beim Menschen vor allem die Pumpe?",
+                                "<b><u>Herz</u></b>:<div>-&gt; Ist eine doppelte Pumpe</div><div><br></div><div><i><b><u>Ablauf:</u></b></i></div><div>- Blut gelangt von der rechten Kammer in die Lunge, welche sauerstoffreiches Blut über die Arteria pulmonalis in den linken Vorhof abgibt</div><div>-&gt; p<sub>Arteria pulmonalis </sub>~ 2,6kPa wegen Stömungswiderstand</div><div><br></div><div>- Von der linken Kammer (nach Vorhof) gelangt das Blut in die Aorta)</div><div>-&gt; p<sub>Aorta </sub>~ 16kPa</div><div><br></div><div><b><font color=\"#ffaa00\">&nbsp; -&gt; Beide Kammern müssen das gleiche Volumen pumpen/fördern</font></b></div><div><br></div><div><b><u>Volumenarbeit pro Schlag:</u></b></div><div>W= p<sub>Aorta pulmonalis </sub>* V + p<sub>Aorta </sub>*V = (2,6 + 16)kPa 70 cm<span style=\"font-size: 16.6667px;\"><sup>3</sup></span>&nbsp;= 1,3 J</div><div>~ Bei Pulsfrequenz 1 Hz:\nArbeit / Tag = 1,1* 10<sup>5</sup> J = 27 kcal</div><div><img src=\"paste-1825c2aa65094289e813d5d8a51a1fed51085674.jpg\"><br></div>"
+                            ],
+                            "guid": "p[1!&fBEtc",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist das Prinzip von Archimedes?&nbsp;",
+                                "<div><u><b>Drücke auf Körper innerhalb einer Flüssigkeit:</b></u></div><div><br></div><b><font color=\"#ffaa00\">Druck </font></b>nur abhängig von der <font color=\"#ffaa00\"><b>Höhe der Flüssigkeitssäule</b></font><div>- seitlicher Druck auf den Körper aus allen Richtungen gleich</div><div>- Druck auf die Flächen oben und unten spielen eine Rolle und sind abhängig von ihren jeweiligen speziellen Höhen</div><div><img src=\"paste-080b58a41d73abef25295c47c69666bd7e89f995.jpg\"><img src=\"paste-ba272f9b69b38c9903134dde8fc7a4e782645a59.jpg\"><br></div><div><br></div><div><b><font color=\"#ffaa00\"><u>Prinzip von Archimedes</u></font></b></div><div>~ Bei gleichen Flächen ist die <font color=\"#ffaa00\">Auftriebskraft proportional </font>der <font color=\"#ffaa00\">Differenz </font>des Drucks auf Ober- und Unterseite des Körpers</div><div>F<sub>A</sub>=F<sub>2</sub>-F<sub>1</sub></div><div><sub>-&gt;<b><u><font color=\"#ffaa00\"> </font></u></b></sub><b><u><font color=\"#ffaa00\">Differenz der Kräfte F<sub>1</sub>&nbsp;und F<sub>2</sub>&nbsp;= Auftriebskraft (Gewichtskraft der verdrängten Flüssigkeit)</font></u></b></div><div><img src=\"paste-58ec213e69fa7d6468db2e1349c7e102deb2dcdc.jpg\"><br></div><div>a) Die Höhendifferenz multipliziert mit der Fläche ergibt das Volumen</div><div>b) Das Volumen mit der Dichte der Flüssigkeit multipliziert ergibt die Masse</div><div>c) Die Masse multipliziert mit der Erdbeschleunigung ergibt die Auftriebskraft</div>"
+                            ],
+                            "guid": "lq]J(oR[d6",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie verhält sich ein Körper in einer Flüssigkeit?",
+                                "Resultierende Kraft F<sub>Res</sub>&nbsp;= F<sub>G</sub>&nbsp;(Gewichtskraft) - F<sub>A</sub>&nbsp;(Auftriebskraft)<div>-&gt; Mit diesen Kräften lassen sich Volumen und Dichte eines Körpers bestimmen:</div><div><img src=\"paste-6612a5573fa36cd5adeddcef6d0846f165c73fd9.jpg\"><br></div><div>-&gt; Dichte einer Flüssigkeit auch bestimmbar mithilfe eines Vergleiches mit einem Auftriebsexperiments von Wasser</div><div><img src=\"paste-95dbb943ee842a86d3df174aede63a18795198ab.jpg\"><br></div><div>3 Fälle:</div><div><img src=\"paste-0cb095878e2a26c6f8f9b306ca5b772b5c244ac9.jpg\"><br></div><div>~ Fische ändern ihre Dichte mit der Schwimmblase</div>"
+                            ],
+                            "guid": "gbLEmTiP}v",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie funktioniert eine Mostwaage?",
+                                "<b><u>Mostwaage:</u></b><div>Mostwaage schwimmt in Most, über die Eintauchtiefe wird die Dichte&nbsp;<img src=\"paste-5be02f0c05d944e7830f8c29271bccff044ed948.jpg\">&nbsp;bestimmt</div><div><br></div><div>h<sub>Eintauch </sub>~ V<sub>Eintauch </sub>= m<sub>Messgerät </sub>* g /&nbsp;<img src=\"paste-5be02f0c05d944e7830f8c29271bccff044ed948.jpg\">&nbsp;* g</div><div><img src=\"paste-b47d02324567e8e22f257235f67eeb3137ebbd2c.jpg\"><br></div><div><b><u>Einheit</u></b>:&nbsp;</div><div><img src=\"paste-08a1d8a791f29a739f6527dce0f0276e3fad4b29.jpg\"></div>"
+                            ],
+                            "guid": "fb-{1Z<EQJ",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum schwimmt eine Büroklammer auf der Wasseroberfläche?",
+                                "Die Oberflächenspannung trägt die Büroklammer<div>-&gt; Die Flüssigkeit grenzt bei der Oberflächenspannung an ihre eigene gesättigte Dampfphase</div><div>&nbsp; -&gt; Sonst handelt es sich um Grenzflächenspannung (Bei Benetzung von Gegenständen, Katalyse etc.)</div><div><br></div><div><b><u>Grenzfläche zwischen Flüssigkeit und Vakuum</u></b></div><div>- Moleküle in der Flüssigkeit ziehen sich gegenseitig an&nbsp;</div><div>-&gt; Im Flüssigkeitsinneren ist die resultierende Kraft F<sub>R</sub>= 0</div><div><img src=\"paste-df42b2a4c40128090324af1602dd66f681098802.jpg\"><br></div><div>~ An der Oberfläche gibt es weniger Nachbarn, sodass die potenzielle Energie höher ist und die Teilchen nach innen gezogen werden</div><div>-&gt; ohne äußere Kräfte versucht die Flüssigkeit die Oberfläche immer minimal zu halten</div><div><img src=\"paste-8a12ad8ee597c458e5fe07aaca765f12be5de8ed.jpg\"><br></div><div><br></div>"
+                            ],
+                            "guid": "BipGy#{@5D",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie berechnet man die Oberflächenspannung? Wo bemerken wir in unserem Alltag die Oberflächenspannung?",
+                                "<div><b><u>Oberflächenspannung (Sigma):&nbsp;</u></b></div><div>Arbeit, die pro Fläche geleistet werden muss, um die Oberläche einer Flüssigkeit zu vergrößern<br></div><div><img src=\"paste-5c8073a3cba27c90388abfa0f1f452376719c7ca.jpg\"><img src=\"paste-3b80d36d4f5c900ac25e19157801cca58a03c942.jpg\"><br></div><div>Wenn man nun den Bügel mit der<font color=\"#ffaa00\"> Kraft F um die Wegstrecke deltaS herunterzieht </font>erhöht sich die Oberfläche um die Größe <font color=\"#ffaa00\">deltaA</font></div><div><font color=\"#ffaa00\"><br></font></div><div>pot. Energie = F * deltaS (erbrachte Arbeit)</div><div>-&gt; Einfügen von Sigma</div><div><img src=\"paste-4162ac6be1b7f90e877c989d35b3fc50b99fb56e.jpg\"><br></div><div>~ 2 Oberflächen wegen vorne und hinten</div><div>-&gt; Auflösen nach Kraft F</div><div><img src=\"paste-463d7d48d87b90347867400d173e0ed16eb8b6fa.jpg\"><br></div><div><br></div><div>Beispiel: Ring wird aus Wasser gezogen</div><div><img src=\"paste-3e43e1adc3cc2eb79abd05dcd90ee1ec2a55ee89.jpg\"><br></div><div>~ F, Radius und der Umfang sind bekannt</div><div><br></div><div>Alltag:</div><div>1) Waschmittel</div><div>-&gt; Durch das hinzufügen von Waschmittel reduziert sich die Oberflächenspannung von Wasser und gelangt somit besser an den Schmutz</div><div><br>2) Wasserläufer</div><div>-&gt; Oberflächenspannung gewinnt gegen Gravitation, da die Beine des Wasserläufers nicht tief eintauchen und dadurch die Oberfläche der Flüssigkeit nicht vergrößert wird</div><div><img src=\"paste-d8553bc84746e9142e473547b00881ecf48ddccb.jpg\"><br></div><div>~ Nur bei leichten Insekten möglich</div>"
+                            ],
+                            "guid": "wNI^|<C@E/",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Grenzflächenspannung?",
+                                "Kräfte, welche welche zwischen Grenzen zwei verschiedener Phasen auftreten<div>-&gt; ohne äußere Kräfte ist die Oberfläche minimal</div><div>&nbsp; -&gt;&nbsp;Kugeln besitzt die kleinste Oberfläche bei gegebenem Volumen</div>"
+                            ],
+                            "guid": "tdn>BT(NU3",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür steht Sigma?",
+                                "1) <b><u>Oberflächenspannung</u></b>:<div><img src=\"paste-1f44f55a1404170b490cef0c913f413559f982b0.jpg\"><br></div><div><i><b>Energie pro Fläche</b></i></div><div>Einheit: J/m<sup>2</sup>&nbsp;= 1 N/m</div><div><br></div><div>Bei einer Oberflächenvergrößerung<font color=\"#ffaa00\"> wächst die Anzahl der Atome</font> und die <font color=\"#ffaa00\">Oberflächenspannung ist konstant</font></div><div><img src=\"paste-26a530faedd6eca70a09b3dcef29fdb81074c248.jpg\">&nbsp;Bsp Seifenblase<br></div><div><br></div><div>2) <b><u>elastische Spannung:</u></b></div><div><img src=\"paste-3f81dd643315e6fcccd59198a50152867ccb2082.jpg\"><br></div><div><b><i>Kraft pro Fläche</i></b></div><div>Einheit: N/m<sup>2</sup></div><div><sup><br></sup></div><div>Bei einer Oberflächenvergrößerung <font color=\"#ffaa00\">wächst die elastische Spannung</font> mit dem Radius, da es eine <font color=\"#ffaa00\">konstante Anzahl an Atomen</font> an der Oberfläche gibt</div><div><img src=\"paste-ef6188032c85117e82b84e08ba111364dd3bdc3b.jpg\">&nbsp;Bsp Ballon<br></div>"
+                            ],
+                            "guid": "hx-Wrz4nGv",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen Adhäsion und Kohäsion?",
+                                "<div><b><font color=\"#ffaa00\">Wechselwirkung an einer Grenzfläche <u><i>(Festkörper / Flüssigkeit):</i></u></font></b></div><b><font color=\"#ffaa00\"><div><b><font color=\"#ffaa00\"><br></font></b></div>Kohäsion</font></b>: Anziehung eines Oberflächenmoleküls ins Innere des eigenen Stoffes&nbsp;<div><div><b><font color=\"#ffaa00\">Adhäsion</font></b>: Anziehung eines Oberflächenmoleküls durch Nachbar-Stoff</div></div><div><br></div><div><b>Beispiele</b>:&nbsp;</div><div>Wasser + ...</div><div><br></div><div>1) Wachs: Kohäsion &gt; Adhäsion:</div><div>-&gt; Wasser versucht so wenig gemeinsame Oberfläche wie möglich mit dem Wachs zu haben</div><div>&nbsp; -&gt; Keine Benetzung&nbsp;</div><div><img src=\"paste-5123f9670f0a5d908e35d290fcaf64e384b59138.jpg\"><img src=\"paste-7d0a660998f55dd69a32d648f44363b72ca25da2.jpg\"><br></div><div><br></div><div>2) Glas: Kohäsion &lt; Adhäsion:</div><div>-&gt; Wasser wird stärker zum Glas angezogen versucht viel Oberfläche mit diesem zu haben</div><div>&nbsp; -&gt; Benetzung</div><div><img src=\"paste-48e2e06f6fa688336320cda1a178d56df3c36ea2.jpg\"><img src=\"paste-9f4796513a7fedf9202d8feb00d2ff4e4c04f222.jpg\"><br></div><div>~ auch bei Öltropfen zwischen zwei Glasplatten</div><div>-&gt; Große Kraft, jedoch geringer Abstand</div>"
+                            ],
+                            "guid": "cW8#dz&w<G",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Unterschiede gibt es in der Benetzung von Feststoffen?",
+                                "<b><u>Vollständig benetzende Flüssigkeit:</u></b><div>Kohäsion K &lt;&lt;&lt; Adhäsion A</div><div>-&gt; Randwinkel 0°</div><div><img src=\"paste-4eafa8a802b13b080b86f269d5147b3f5c1cbd64.jpg\"><img src=\"paste-e6e2199fc70614e71beac7ef51a742be6deb77f9.jpg\"><br></div><div><br></div><div><b><u>Partiell/ Teilweise benetzende Flüssigkeit:</u></b></div><div>Kohäsion K &lt; Adhäsion A</div><div>-&gt; resultierende Gesamtkraft F lässt sich berechnen, welche in den Feststoff hineinzeigt</div><div>~&gt; Randwinkel zw 0° bis 90°</div><div><img src=\"paste-76e35822700f370fa027d5577f668ccc09782f49.jpg\"></div><div><br></div><div><b><u>Nicht benetzende Flüssigkeiten:<br></u></b></div><div>Kohäsion K &gt; Adhäsion A</div><div>-&gt; resultierende Gesamtkraft F lässt sich berechnen, welche in die Flüssigkeit hineinzeigt</div><div>~&gt; Randwinkel &gt; 90°</div><div><img src=\"paste-6da2039069a0c3a141bb244c20223cdd8a803f18.jpg\"><br></div><div><img src=\"paste-7ed3611cd8255db9ea3865ce9dbfaa7cdbbc6d43.jpg\"><br></div>"
+                            ],
+                            "guid": "l(<o$_ZRAI",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welcher Vorteil ergibt sich aus superhydrophoben Strukturen in der Natur?",
+                                "- Nanostrukturierte hydrophobe Oberflächen werden nicht benetzt (superhydrophob) von Wasser und Verhindern somit die Eindringung von Keimen oder Algen"
+                            ],
+                            "guid": "l)NY*yEe.S",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Kapillaranhebung?",
+                                "<div><b><u>Gut benetzende Flüssigkeit:</u></b></div>Freie Flüssigkeitsoberfläche (Flüssigkeit – Luft) wird kleiner, wenn\ndie Flüssigkeit in einer Kapillare (Radius r) um Deltah ansteigt&nbsp;<br><div><img src=\"paste-0762a3fd56ad53dd369eb8c9683ca92dce638bc1.jpg\"><br></div><div>-&gt; <font color=\"#ffaa00\">potentielle Energie</font> der Oberfläche wird dabei verändert (E<sub>pot&nbsp;</sub>~&nbsp;deltaH)<br></div><div><img src=\"paste-5487db7b852b79dd3ed18153e3c809216f112936.jpg\"><br></div><div><br></div><div>-&gt;<font color=\"#ffaa00\"> Potentielle Energie </font>der Hubarbeit (Anhebung der Flüssigkeitsmasse)</div><div><img src=\"paste-3751a5a241d4bf0d30dfeaa36b2790fcf68ca08e.jpg\"><br></div><div><br></div><div><b><font color=\"#ffaa00\">~ Zwischen potentieller Energie der Oberfläche und potentieller Energie der Hubarbeit stellt sich ein Gleichgewicht ein (Gleichsetzten)</font></b></div><div><img src=\"paste-b86834ed39bcbda6c077bba3ec4a9265b22fdcce.jpg\"><br></div><div>-&gt; Steighöhe h umgekehrt proportional zum Radius r</div><div><img src=\"paste-f2724f4a0ad123bdd331b63e5d93cb1c22d10b62.jpg\">&nbsp;Bsp Wasserversorgung für Bäume<br></div><div><br></div><div><b><u>partiell benetzende Flüssigkeit:</u></b></div><div>-&gt; Berücksichtigung des Randwinkels</div><div><img src=\"paste-f19cdae343be022fe512d2f49f9d8d284d1b7bed.jpg\"><br></div>"
+                            ],
+                            "guid": "P|*2O/lFnr",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<font color=\"#55ff00\">Was passiert mit nicht benetzenden Flüssigkeiten in einer Kapillare?</font>",
+                                "Kapillar Depression:<div>Gleichgewicht zwischen Kräften aus den Oberflächenspannungen <font color=\"#ff0000\">fest-flüssig sigma<sup>23</sup> (nach unten)</font>,\n<font color=\"#00aaff\">fest-gasförmig sigma<sup>13</sup>&nbsp;(nach oben)</font> und <font color=\"#ffff00\">flüssig-gasförmig sigma<sup>12</sup> (schräg)</font><br></div><div><font color=\"#ffff00\"><br></font></div><div>-&gt; Im Gleichgewicht ist die resultierend Spannung in der Vertikalen = 0</div><div><br></div><div><img src=\"paste-01de436e595f225ce383e57f0ab3e00d1cbeb09a.jpg\"></div><div>~ Randwinkel sind größer als 90° innerhalb der Flüssigkeit, sodass cos Tetta negativ wird</div><div>-&gt; Höhenänderung ist negativ, weshalb die Grenzflächen zwischen fest-flüssig verkleinert wird</div>"
+                            ],
+                            "guid": "iZ>sg<faL-",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man die Bewegung von nicht festen Körpern unterscheiden?",
+                                "Hydrodynamid: Lehre von strömenden Flüssigkeiten (+ darin umströmten Körpern)<div>Aerodynamik: Lehre von strömenden Gasen (+ darin umströmten Körpern)</div><div><br></div><div>-&gt; Kein Beobachtung von einzelnen Teilchen sonder von Fluidpaketen am Ort (x,y,z) in Abhängigkeit von der Zeit</div><div><br></div><div>ideale Flüssigkeit:</div><div>- inkompressibel (Dichte r unabhängig vom Druck)</div><div>- nicht-viskos (keine innere Reibung zw den Flüssigkeitsteilchen nur äußere Reibung an der Wand</div><div><br></div><div>Strömungsformen</div><div>stationär - nichtstationär</div><div>laminar - turbulent (mit Wirbeln)</div>"
+                            ],
+                            "guid": "fTYF.43qXL",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine Stationäre Strömung?",
+                                "<div><b><font color=\"#ffaa00\"><u>Stationäre Strömung</u></font></b></div>Geschwindigkeit eines vorbeiströmenden Fluidpaketes hängt nur vom Ort ab&nbsp;<img src=\"paste-32a096188f0906eed8b6933b556039321958bece.jpg\"><div>-&gt; Vektorielle Größe, welche von Betrag und Richtung abhängt, jedoch nicht von der Zeit</div><div><br></div><div>~ Strömung einer Flüssigkeit lässt sich charakterisieren, indem man an verschiedenen Stellen den Betrag und die Richtung angibt</div><div>-&gt; Stromlinien lassen sich aus mehrern Stellen bilden und Tagenten von diesen<b><font color=\"#ffaa00\"> geben örtliche Geschwindigkeit</font></b> an</div><div><img src=\"paste-295ce0e853e1c67a8afe5c1922b3eedd7b54cc0e.jpg\"><br></div>"
+                            ],
+                            "guid": "j*i/1}2P-i",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Warum ändert sich die Ausströmgeschwindigkeit von z.B Wasserschläuchen, wenn wir die Öffnung verkleinern?",
+                                "Massenerhaltung:<div>- In einem gewissen Zeitabschnitt muss immer die gleiche Menge an Wasser austreten</div><div>-&gt; konstante Massenstromstärke (deltam/deltat)</div><div><br></div><div>Messenstromstärke:</div><div><img src=\"paste-a752248ff9c0626383ff03e48d55ba98301a0dfe.jpg\"><br></div><div><img src=\"paste-50596a3ec1f8d0e4d98729a72d0280611a2a809e.jpg\">&nbsp;Masse lässt sich umschreiben als Dichte * Volumen<br></div><div><img src=\"paste-4d28fbaedf9d8fef219186755a0229fc210e2655.jpg\">Volumen zerlegen als Produkt Querschnittsflöche (A) * zurückgelegter Wegstrecke (deltaS)<br></div><div><img src=\"paste-6be4b62efaeae33317977001f0b426633d817605.jpg\"><br></div><div>A<sub>1</sub>&nbsp;&gt; A<sub>2</sub></div><div><br></div><div>-&gt; Bei inkompressibelen Flüssigkeiten (Dichte konstant) lässt sich die Dichte herrausstreichen</div><div><img src=\"paste-5ee993ac603a5e4ace66788cbe541f4a2ef33939.jpg\"><img src=\"paste-2183e4035ed546ed8ebe5ccaa43430853fd68bf2.jpg\"><br></div><div><br></div><div>Bsp Wasserstrahl beim Wasserhahn:</div><div>Der Wasserstrahl schnürt sich weiter unten zusammen, da die Schwerkraft ihn beschleunigt, er jedoch die gleiche Flussrate beibehalten muss</div><div>-&gt; Deshalb muss der Querschnitt nach unten abnehmen</div><div><img src=\"paste-73c467ec88403ff28f63c65b5dc88c7477003150.jpg\"><br></div>"
+                            ],
+                            "guid": "O}m^[(a-.S",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
+                                "TobiS2"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "blubblub",
+                                "Die kinetische Energie für die Beschleunigung von v<span style=\"font-size: 16.6667px;\"><sub>1 </sub>-&gt; v<sub>2 </sub>(geringerer Querschnitt) wird aus der Volumenarbeit genommen</span><div><span style=\"font-size: 16.6667px;\">~ p<sub>1</sub>&nbsp;&gt; p<sub>2</sub>&nbsp;(Druckdifferenz beschleunigt die Flüssigkeit)</span></div><div><img src=\"paste-ba6e5b42d279f42c6657686907eb3b864eff774a.jpg\"></div><div>Volumenarbeit und kinetschie Energie kombinieren sich zu einer konstanten Größe<br><div><span style=\"font-size: 16.6667px;\"><br></span></div><div><img src=\"paste-b1bc14478e795a86746e04e41ecd2cedea16411e.jpg\"><span style=\"font-size: 16.6667px;\"><br></span></div></div>"
+                            ],
+                            "guid": "AnB<~|P+^a",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": [
+                                "PhyK4.2",
                                 "TobiS2"
                             ]
                         }
@@ -55379,7 +56170,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "OCVO7",
+                "PhyK4.2",
                 "TobiS2"
             ],
             "tmpls": [
