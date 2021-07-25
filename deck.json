@@ -5844,6 +5844,165 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
+                                        "Was versteht man unter Taxonomie?",
+                                        "Unter Taxonomie versteht man die Klassifizierung, Identifizierung und Bennung von Organismen (erst nach morphologischen Merkmalen)"
+                                    ],
+                                    "guid": "jJ@Y}qBV_n",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Kladistik?",
+                                        "Kladistik ist das Verfahren, Organismen nach gleichen erworbenen Merkmalen zu kategorisieren"
+                                    ],
+                                    "guid": "Hj!>zo9i_D",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO2",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was versteht man unter Phylogenie?",
+                                        "auch Stammesentwicklung genannt<br><br>Phylogenie ist eine Hypothese über die evolutionäre Geschichte der taxonomischen Gruppen"
+                                    ],
+                                    "guid": "KM>F-|gbs`",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO2",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Definition von Pflanzen ist die gängigste, welche Eigenschaften macht sie aus und wie viele Spezies umfasst sie?",
+                                        "1) die <font color=\"#aa0000\">Viridiplantae</font> (Grünpflanzen)<br><br>2)Organismen, welche:<br><br>- <font color=\"#aa0000\">Chlorophyll a und b </font>besitzen<br>- Plastiden mit <font color=\"#aa0000\">nur zwei Membranen</font> haben<br>- in der Lage sind, <font color=\"#aa0000\">Stärke zu speichern</font><br>- typischerweise <font color=\"#aa0000\">Cellulose in der Zellwand</font> besitzen (mit Ausnahmen)<br><br>- ca. 350.000 Spezies"
+                                    ],
+                                    "guid": "Ea%RBFZB]a",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Pyrenoid und was ist seine Bedeutung?",
+                                        "-der Pyrenoid ist eine spherischer, suborganelle Struktur in den Plastiden von Algen und manchen Hornmoosen<br><br>- der Pyrenoid ist ein Bereich im Stroma, frei von Thylokoiden<br><br>- dort sammeln sich parakristalline Aggregate von RuBisCo<br><br>- Pyrenoide sind oft von Fetttröpfchen umgeben (entsteht bei der Photosynthese)"
+                                    ],
+                                    "guid": "O|6wL[!G1!",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "2",
+                                        "BdOIIVO",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist der Unterschied zwischen einer&nbsp;<i>&nbsp;Kolonie&nbsp;</i>&nbsp;und einem <i>Aggregat</i>?",
+                                        "Kolonie:<br>- besteht aus undifferenzierten Zellen, die <font color=\"#aa0000\">direkt</font>&nbsp;<font color=\"#aa0000\">nach </font>Zellteilung beieinander bleiben&nbsp;<img src=\"paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg\"><br><br>Aggregat:<br>-besteht aus Zellen, die nicht direkt Nach der Zellteilung zusammenbleiben, sondern <font color=\"#aa0000\">später fusionieren können</font><br><img src=\"paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg\"><br>"
+                                    ],
+                                    "guid": "yu.OZ.CV3-",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Gewebe",
+                                        "Gewebe liegt auf einem Organisationsniveau zwischen Zellen und vollständigen Organen.&nbsp;<br><br>Gewebe sind eine Ansammlung ähnlicher Zellen des gleichen Ursprungs mit gleicher Funktion"
+                                    ],
+                                    "guid": "ErI]<f)>AO",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Organ",
+                                        "Ein Organ ist eine Gruppe von Geweben, die zusammen dieselbe Funktion ausüben"
+                                    ],
+                                    "guid": "P=5*Op1XaG",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Parenchym",
+                                        "Das Parenchym ist ein characteristisches Gewebe eines Organs (und macht damit den Großteil dessen Gewichts aus)"
+                                    ],
+                                    "guid": "Oey-BM`2~u",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere Pseudo-Parenchym",
+                                        "Eine Pseudoparenchym ist eine eng verknüpfte Ansammlung von Hyphen, Haaren oder Filamenten, die zusammen eine durchgehende Schicht von Gewebe bilden.<br><br>Dieses Gewebe spiegelt ein Parenchym wieder, ist aber nicht wirklich ein Parenchym."
+                                    ],
+                                    "guid": "JA4x6E&cye",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Erkläre das Konzept der \"Scheitelzelle\"",
+                                        "1) eine Scheitelzelle ist eine Zelle, die sich immer wieder teilt<br><br>2) diese Zelle hat eine Frontseite und bis zu drei \"Schneiden\"&nbsp;<img src=\"paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg\"><br>3) Entlang der Schneiden findet die Zellteilung statt, die Tochterzellen sind nicht symmetrisch<img src=\"paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg\"><br>"
+                                    ],
+                                    "guid": "p*n9P$GDA?",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Definiere \"Thallus\"",
+                                        "1) Thallus ist Gewebe von Algen, Pilzen und Flechten, welches nicht in echte Blätte, Stängel und Wurzeln differenziert ist<br><br>2) als Thallus kann man gesamte Organismen nennen, welche keine Differenzierung aufweisen<br><br>3) Thalli können analoge Strukturen (ähnlich in Funktion und makroskopischer Struktur) zu den Organen der Gefäßpflanzen bilden"
+                                    ],
+                                    "guid": "fTrAEvf#Lf",
+                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                                    "tags": [
+                                        "BdOIIVO3",
+                                        "Vince"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
                                         "Definiere Spore",
                                         "Eine Spore ist eine Einheit der <font color=\"#aa0000\">asexuellen </font>Reproduktion, die gut an schlechte Umweltbedingungen angepasst ist"
                                     ],
@@ -6920,165 +7079,6 @@
                                     "guid": "Ka#w4v):(i",
                                     "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                                     "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was versteht man unter Taxonomie?",
-                                        "Unter Taxonomie versteht man die Klassifizierung, Identifizierung und Bennung von Organismen (erst nach morphologischen Merkmalen)"
-                                    ],
-                                    "guid": "jJ@Y}qBV_n",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "2",
-                                        "BdOIIVO",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was versteht man unter Kladistik?",
-                                        "Kladistik ist das Verfahren, Organismen nach gleichen erworbenen Merkmalen zu kategorisieren"
-                                    ],
-                                    "guid": "Hj!>zo9i_D",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO2",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was versteht man unter Phylogenie?",
-                                        "auch Stammesentwicklung genannt<br><br>Phylogenie ist eine Hypothese über die evolutionäre Geschichte der taxonomischen Gruppen"
-                                    ],
-                                    "guid": "KM>F-|gbs`",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO2",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Definition von Pflanzen ist die gängigste, welche Eigenschaften macht sie aus und wie viele Spezies umfasst sie?",
-                                        "1) die <font color=\"#aa0000\">Viridiplantae</font> (Grünpflanzen)<br><br>2)Organismen, welche:<br><br>- <font color=\"#aa0000\">Chlorophyll a und b </font>besitzen<br>- Plastiden mit <font color=\"#aa0000\">nur zwei Membranen</font> haben<br>- in der Lage sind, <font color=\"#aa0000\">Stärke zu speichern</font><br>- typischerweise <font color=\"#aa0000\">Cellulose in der Zellwand</font> besitzen (mit Ausnahmen)<br><br>- ca. 350.000 Spezies"
-                                    ],
-                                    "guid": "Ea%RBFZB]a",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "2",
-                                        "BdOIIVO",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was ist der Pyrenoid und was ist seine Bedeutung?",
-                                        "-der Pyrenoid ist eine spherischer, suborganelle Struktur in den Plastiden von Algen und manchen Hornmoosen<br><br>- der Pyrenoid ist ein Bereich im Stroma, frei von Thylokoiden<br><br>- dort sammeln sich parakristalline Aggregate von RuBisCo<br><br>- Pyrenoide sind oft von Fetttröpfchen umgeben (entsteht bei der Photosynthese)"
-                                    ],
-                                    "guid": "O|6wL[!G1!",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "2",
-                                        "BdOIIVO",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Was ist der Unterschied zwischen einer&nbsp;<i>&nbsp;Kolonie&nbsp;</i>&nbsp;und einem <i>Aggregat</i>?",
-                                        "Kolonie:<br>- besteht aus undifferenzierten Zellen, die <font color=\"#aa0000\">direkt</font>&nbsp;<font color=\"#aa0000\">nach </font>Zellteilung beieinander bleiben&nbsp;<img src=\"paste-5d21da1103a0f76cbf271c287141f5ea615b8d92.jpg\"><br><br>Aggregat:<br>-besteht aus Zellen, die nicht direkt Nach der Zellteilung zusammenbleiben, sondern <font color=\"#aa0000\">später fusionieren können</font><br><img src=\"paste-437a41b17d65039d46d22a62c6829dd619afdaa0.jpg\"><br>"
-                                    ],
-                                    "guid": "yu.OZ.CV3-",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Gewebe",
-                                        "Gewebe liegt auf einem Organisationsniveau zwischen Zellen und vollständigen Organen.&nbsp;<br><br>Gewebe sind eine Ansammlung ähnlicher Zellen des gleichen Ursprungs mit gleicher Funktion"
-                                    ],
-                                    "guid": "ErI]<f)>AO",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Organ",
-                                        "Ein Organ ist eine Gruppe von Geweben, die zusammen dieselbe Funktion ausüben"
-                                    ],
-                                    "guid": "P=5*Op1XaG",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Parenchym",
-                                        "Das Parenchym ist ein characteristisches Gewebe eines Organs (und macht damit den Großteil dessen Gewichts aus)"
-                                    ],
-                                    "guid": "Oey-BM`2~u",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere Pseudo-Parenchym",
-                                        "Eine Pseudoparenchym ist eine eng verknüpfte Ansammlung von Hyphen, Haaren oder Filamenten, die zusammen eine durchgehende Schicht von Gewebe bilden.<br><br>Dieses Gewebe spiegelt ein Parenchym wieder, ist aber nicht wirklich ein Parenchym."
-                                    ],
-                                    "guid": "JA4x6E&cye",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Erkläre das Konzept der \"Scheitelzelle\"",
-                                        "1) eine Scheitelzelle ist eine Zelle, die sich immer wieder teilt<br><br>2) diese Zelle hat eine Frontseite und bis zu drei \"Schneiden\"&nbsp;<img src=\"paste-589881449acc37778aaff36e5f05f7912bd2627f.jpg\"><br>3) Entlang der Schneiden findet die Zellteilung statt, die Tochterzellen sind nicht symmetrisch<img src=\"paste-359b4a082a2e04a32a1bda529555ccac25733838.jpg\"><br>"
-                                    ],
-                                    "guid": "p*n9P$GDA?",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Definiere \"Thallus\"",
-                                        "1) Thallus ist Gewebe von Algen, Pilzen und Flechten, welches nicht in echte Blätte, Stängel und Wurzeln differenziert ist<br><br>2) als Thallus kann man gesamte Organismen nennen, welche keine Differenzierung aufweisen<br><br>3) Thalli können analoge Strukturen (ähnlich in Funktion und makroskopischer Struktur) zu den Organen der Gefäßpflanzen bilden"
-                                    ],
-                                    "guid": "fTrAEvf#Lf",
-                                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
-                                    "tags": [
-                                        "BdOIIVO3",
-                                        "Vince"
-                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -18154,12 +18154,14 @@
                         "f461a7b138214e24a3371a03dc3cf55c-ao-1-Q.svg",
                         "f461a7b138214e24a3371a03dc3cf55c-ao-O.svg",
                         "paste-03a3a1cf1f09efb4a59889f51609c9757bd6332f.jpg",
+                        "paste-1105a2c62e596a255261aaebc12c4cbc92246a1a.jpg",
                         "paste-15d1b959b228c7b764fc6844d8ba4ece726e4046.jpg",
                         "paste-16915bdeee3e42b91068eb8f009812258ec06a28.jpg",
                         "paste-19d73d0b00b327765f43bb01bed88a2884bd5501.jpg",
                         "paste-1b71d0669ab296a71e476428957092d74b40f0ab.jpg",
                         "paste-1da380a8815572aa0f6ee0a8bedeefb189c67286.jpg",
                         "paste-1ebf566a54724ea5fa68b61944416e7ff5a9e4c9.jpg",
+                        "paste-1f2ba1ee95ee2e4305478763b7d575acec3592e8.jpg",
                         "paste-2433008bb4fcf22371e45d0d5faa91beae156ce6.jpg",
                         "paste-316e05d742899e7a3e6bfe445e6f068e36824523.jpg",
                         "paste-31feba87934bcf58f9a6cb434fdbe7384e58c2ea.jpg",
@@ -18170,17 +18172,20 @@
                         "paste-40ad0a110f621e57c27f1fe5090709a54f685c9b.jpg",
                         "paste-4232952d683125b8db37c9b9ac6b00a729ffa6cd.jpg",
                         "paste-4e917481a8cb12c013017dc7764b535dad64bc1b.jpg",
+                        "paste-5b89c14ca591f81768a47ac36f61691d6cfa3542.jpg",
                         "paste-615d39fdf21576b02e5c6dfdf54f9e77a526aec1.jpg",
                         "paste-6b1b1d5daa52db7a2020a1c4f672a036d835c962.jpg",
                         "paste-6f3e2f6844420d3669adfeb04aa80cd4f4c23466.jpg",
                         "paste-7065a415cb53f18c855ae403a7fd8be2c1f605f4.jpg",
                         "paste-70c0e73821b59688952ad97d9eec4f6a044cc2a0.jpg",
+                        "paste-7c8a1c2bd1e6342ee04da5cd10a37ea73d62ee4c.jpg",
                         "paste-80a94235e5d90fa5359241b77bc7594af7aeaca0.jpg",
                         "paste-8a87ac72b68b23184ed8d524a79f90dc7fc1a8de.jpg",
                         "paste-8b6458468cd5f22f48cceb049a1e309f20f4dc96.jpg",
                         "paste-9caaf616ae3230851ccb85876202fd494cfb1b78.jpg",
                         "paste-9cada57c4dd587de3a1eca48bf5d1ea0bb6271c9.jpg",
                         "paste-9cd72b9d0e156c01ff3845eadc583a9ea47bb1fb.jpg",
+                        "paste-aba51c4a44d4ce92f192534ae6526c9dd3550daa.jpg",
                         "paste-ae60eef1c91321c82a7c7eac9bc2e2a64b9b6fbd.jpg",
                         "paste-b24443d4778da1c7e970597cc9c1704cb03a1998.jpg",
                         "paste-ba7d999b25c1e90355e958efe467effc497f0a68.jpg",
@@ -18188,6 +18193,7 @@
                         "paste-bd0a55286312d61e5155d9894d7e7247dd0fea2a.jpg",
                         "paste-c0cee891c4106b632e3b621d7169044520f59367.jpg",
                         "paste-c5ec90bca873ab41aa678604402ba9a782ff0123.jpg",
+                        "paste-c610da4f3ad358f06228598e897a719de5adb057.jpg",
                         "paste-c806a443fac9bb3a18d4900b7e0a89f91da8ac7b.jpg",
                         "paste-c91fe0f74d3148d85e004ccf062ea6251ee66708.jpg",
                         "paste-caff4bbe0d276768e2b9b3e0294131369a3fc6e9.jpg",
@@ -18196,12 +18202,14 @@
                         "paste-d5700dab9a8ceca50c3c554ced0eee392c8a39d4.jpg",
                         "paste-d69374fa010c858eb20e5f33ae5aef9b4195a75c.jpg",
                         "paste-d717e7f1248cd11a6092acff93ad454ba3a8f390.jpg",
+                        "paste-dd956c13f3068676a31452e65510f3618c735b32.jpg",
                         "paste-e056b3fb70df6e5d7cde0149eb1e86e45a2df4f8.jpg",
                         "paste-e1c95bb9f45bce555afe4d4002423fa6f98f2ded.jpg",
                         "paste-e4a0fb084747634d69e6404609cbf4fef2228a5e.jpg",
                         "paste-e825eab21f534b286eb2bab9ef00a40b3af76528.jpg",
                         "paste-eb83a13c235351a72ba213cbefc4ec10e19a1d37.jpg",
                         "paste-ef1c5fb3591a8f027998f24d6c0558ff7f8cf237.jpg",
+                        "paste-f0cb5cfee5561a3ce62ea87a76e2bd1b4a3e4234.jpg",
                         "paste-fcdc9c497d40206724208097d2f4cf93d7c7ec8a.jpg",
                         "paste-fcfdd3cbea528139669f9bd684cf9d314700afcc.jpg",
                         "paste-fd57b771f5aaa73d4f0e5debfee3131219999871.jpg",
@@ -20643,6 +20651,66 @@
                                 "GENVO5",
                                 "Luca"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Polyphänie (= Pleiotropie): Definition und Beispiele",
+                                "- EIN Gen --&gt; mehrere phänotypische Merkmale<br>--&gt;&nbsp;Alle phänotypischen Merkmale werden Mendelnd vererbt<br>--&gt; nur ein Gen beteiligt<br><br>z.B.&nbsp;Phenylketonurie (Mutation im Gen für das Enzym, das Phenylalanin zu Tyrosin umwandelt),&nbsp;Sichelzellanämie (Mutation im ß-Globin Polypeptide)"
+                            ],
+                            "guid": "IqA&{zr>UV",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Polygenie: Definition und Beispiel",
+                                "-&nbsp;EIN phänotypisches Merkmal wird durch mehrere Gene bewirkt<br>z.B.menschliche Hautfarbe (mindestens 3 Gene involviert (A/a, B/b, C/c)), Form des Hahnenkamm&nbsp;(Zwei Gene beteiligt: R/r und P/p):&nbsp;<br><br>AABBCC: very dark&nbsp;<br>aabbcc: very light<br><img src=\"paste-aba51c4a44d4ce92f192534ae6526c9dd3550daa.jpg\"><br><img src=\"paste-1f2ba1ee95ee2e4305478763b7d575acec3592e8.jpg\"><br>"
+                            ],
+                            "guid": "oDlu)g<--u",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Epistase",
+                                "-&nbsp;Ein Gen beeinflusst die phänotypische Ausprägung eines anderen Gens<br>- ein Sonderfall der Polygenie<br><br>z.B.&nbsp;Lathyrus Blütenfarbe<br><br>- Die Blütenfarbe wird durch zwei Gene bestimmt, die miteinander interagieren: Gene C und P<br>- Die violette Blütenfarbe tritt nur in Erscheinung, wenn zumindest ein dominantes Allel BEIDER Gene vorhanden ist: C+P+<br>- Wenn eines dieser Gene im homozygot rezessivem Zustand vorhanden ist (C+pp; ccP+; ccpp), wird kein Farbpigment produziert und die Blüte ist weiss<br><img src=\"paste-f0cb5cfee5561a3ce62ea87a76e2bd1b4a3e4234.jpg\"><img src=\"paste-1105a2c62e596a255261aaebc12c4cbc92246a1a.jpg\">"
+                            ],
+                            "guid": "BVzw1Vq?LE",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Multiple Allelie",
+                                "-&nbsp;Gene können in mehr als zwei Allelformen vorkommen.<br><br>z.B.&nbsp;Das menschliche AB0-Blutgruppensystem, Fellfarbe bei Säugetieren<br>- Das I Gen kann in DREI unterschiedlichen Allel-Formen vorkommen:<br>I<sup>A</sup>: produziert Antigen A <br>I<sup>B</sup>: produziert Antigen B <br>I<sup>0</sup>: defektes Enzym: kein terminaler Zucker<br><img src=\"paste-dd956c13f3068676a31452e65510f3618c735b32.jpg\"><br>- Die Fellfärbung bei Säugetieren wird durch das Zusammenwirken mehrerer Gene bestimmt (Polygenie).<br>Kaninchen:&nbsp;Gen C: vier Allel-Formen (Dominanz Hierarchie): C &gt; c<sup>ch</sup>&nbsp;&gt; c<sup>h</sup>&nbsp;&gt; c<br>"
+                            ],
+                            "guid": "d.P~$x(nfP",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Der Bombay-Phänotyp",
+                                "- Kombination verschiedener Erbmuster<br>Gen FuT1 (= H-Gen): Kodiert Enzym Fucosyltransferase<br>→Anhängen der Fucose an Pre-Precursor<br>→ reifer Precursor <br>Allelformen HH oder Hh:  reifer Precursor Terminale Zucker können angehängt werden<br>→ Antigen A, Antigen B <br>→Blutgruppen A, B oderAB (je nach Allel-Kombination)<br><br>Allelform hh: kein reifer Precursor Keine Addition der terminalen Zucker möglich (auch bei funktionsfähigen terminalenTransferasen!) → Kein Antigen → Blutgruppe 0 (unabhängig von der Allelform des I Gens)<br><img src=\"paste-c610da4f3ad358f06228598e897a719de5adb057.jpg\"><br>Obwohl beide Gene mendelnd vererbt werden, ist die phänotypische Segregation <b>nichtmendelnd</b>, da das H-Gen epistatisch über das I-Gen ist !<br><br>Genotypen nach forked-line Methode:<br><img src=\"paste-7c8a1c2bd1e6342ee04da5cd10a37ea73d62ee4c.jpg\">"
+                            ],
+                            "guid": "BlkNj;Abwx",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Fell-/Haarfarbe bei Säugetieren: Grundfarben",
+                                "Eumelanin: dunkles Pigment (schwarz oder braun); große Moleküle <br>Phäomelanin: rot gelbes Pigment; kleine Moleküle<br><img src=\"paste-5b89c14ca591f81768a47ac36f61691d6cfa3542.jpg\">"
+                            ],
+                            "guid": "F?gy6MZ*s$",
+                            "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                            "tags": []
                         }
                     ]
                 },
@@ -33214,6 +33282,226 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-1",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "N{Tq3dGj.U",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-2",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "LCIZB!ok(b",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-3",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "B]G/oq$h4#",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-4",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vd<bVkeI0]",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-5",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "HJz2IlKcG[",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-6",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "m>?J9>7,DK",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-7",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "BAEYHa=Ekg",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-8",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "puw.b2T|70",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-9",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "iuRJNX|E]#",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-10",
+                                        "Querschnitt Lanzettfischchen",
+                                        "<img src=\"tmpu18vms28.png\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-A.svg\" />",
+                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "GceNo2l8uE",
+                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
+                                    "tags": [
+                                        "BdOVO6",
+                                        "Chordata"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
                                         "Wie ist der Blutkreislauf von Lanzettfischchen aufgebaut?",
                                         "- kein Herz<div>- kontraktile ventrale Aorta pump lut nach anterior und über Kiemenarterien</div><div>- Leberpfortadersystem</div><div>- keine Erythrocyten, kein Hämoglobin</div><div><img src=\"paste-b53aa3f1d510f90bbf311881f00f8fb6f41d91b1.jpg\"><br></div>"
                                     ],
@@ -41540,226 +41828,6 @@
                                         "Evolution",
                                         "EvolutionsTheorie",
                                         "Synthetische"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-1",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-1-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "N{Tq3dGj.U",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-2",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-2-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "LCIZB!ok(b",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-3",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-3-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "B]G/oq$h4#",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-4",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-4-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "vd<bVkeI0]",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-5",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-5-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "HJz2IlKcG[",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-6",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-6-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "m>?J9>7,DK",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-7",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-7-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "BAEYHa=Ekg",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-8",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-8-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "puw.b2T|70",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-9",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-9-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "iuRJNX|E]#",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "914e8f3394f24662bac1cfcf8ccf079a-ao-10",
-                                        "Querschnitt Lanzettfischchen",
-                                        "<img src=\"tmpu18vms28.png\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-10-A.svg\" />",
-                                        "<img src=\"914e8f3394f24662bac1cfcf8ccf079a-ao-O.svg\" />"
-                                    ],
-                                    "guid": "GceNo2l8uE",
-                                    "note_model_uuid": "929e60a9-9a40-11eb-9d43-001a7dda7113",
-                                    "tags": [
-                                        "BdOVO6",
-                                        "Chordata"
                                     ]
                                 }
                             ]
@@ -52326,6 +52394,34 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Cell",
+                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
+                            ],
+                            "guid": "eO[g4S|Y]2",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cell biology (cytology)",
+                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
+                            ],
+                            "guid": "Ovsi}5L;Kr",
+                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
+                            "tags": [
+                                "1.",
+                                "Luca",
+                                "Zellen"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "Wie viele Zellen, Zelltypen, Mikroorganismen bilden den menschlichen Körper?",
                                 "3*10<sup>13</sup> Zellen, 220 Zelltypen, 4*10<sup>14</sup> Mikroorganismen"
                             ],
@@ -57779,34 +57875,6 @@
                             "guid": "gH+J+F=(/L",
                             "note_model_uuid": "a1b5a020-9aea-11eb-9ef8-309c2362050c",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell",
-                                "(from Latin: cellula; little chamber, cell) elementary unit of all living organisms"
-                            ],
-                            "guid": "eO[g4S|Y]2",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Cell biology (cytology)",
-                                "(also cytology, from Greek: kytos, „container”)<div>Scientific discipline that studies cells...</div><div>... their structure</div><div>... the organelles they contain</div><div>... their physiological properties</div><div>... their interactions with their environment</div><div>... their life cycle, divison and death</div><div>... both at the microscopic and molecular level<br></div>"
-                            ],
-                            "guid": "Ovsi}5L;Kr",
-                            "note_model_uuid": "436f1806-9a3b-11eb-a552-001a7dda7113",
-                            "tags": [
-                                "1.",
-                                "Luca",
-                                "Zellen"
-                            ]
                         }
                     ]
                 }
@@ -57852,7 +57920,7 @@
                 "paste-909efa76d3d383e140790d03d7efab4f52b6e15f.jpg",
                 "tmp1togv3yo.png"
             ],
-            "mid": 1627199672785,
+            "mid": 1619363409828,
             "name": "Test",
             "notes": [
                 {
@@ -57895,63 +57963,6 @@
                     ],
                     "guid": "b#/ws/S:Sg",
                     "note_model_uuid": "5d800576-9ae8-11eb-b44e-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-1",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "FMSF#:7k?$",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-2",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "K:&1.>IUT#",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "e09a7cec5b3c4f3ca66f637a17194840-ao-3",
-                        "",
-                        "<img src=\"tmp1togv3yo.png\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-A.svg\" />",
-                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
-                    ],
-                    "guid": "w*JNYCzsFh",
-                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
                     "tags": []
                 },
                 {
@@ -58057,6 +58068,63 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-1",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-1-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "FMSF#:7k?$",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-2",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-2-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "K:&1.>IUT#",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e09a7cec5b3c4f3ca66f637a17194840-ao-3",
+                        "",
+                        "<img src=\"tmp1togv3yo.png\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-3-A.svg\" />",
+                        "<img src=\"e09a7cec5b3c4f3ca66f637a17194840-ao-O.svg\" />"
+                    ],
+                    "guid": "w*JNYCzsFh",
+                    "note_model_uuid": "7fff5498-9b86-11eb-a4bc-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Test Luca 2",
                         ""
                     ],
@@ -58071,6 +58139,16 @@
                         "Roggenkemper"
                     ],
                     "guid": "mFQt2Qe>II",
+                    "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Luca Krasser Test für",
+                        "Lars"
+                    ],
+                    "guid": "wl%&qUD<{L",
                     "note_model_uuid": "533b0372-a3fb-11eb-b0c1-6c6a774fbdf6",
                     "tags": []
                 }
