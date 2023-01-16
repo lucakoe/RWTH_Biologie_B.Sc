@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="786" height="682">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="55ea50c70d6b4d63880d903c26adb3e9-ao-1" height="4.38957" width="31.82442" y="880.68868" x="626.3457" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="55ea50c70d6b4d63880d903c26adb3e9-ao-2" y="215.66808" x="681.21539" stroke-width="0" fill="#000000">selectivity filter/</text>
+  <g id="55ea50c70d6b4d63880d903c26adb3e9-ao-3">
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="420.88071" x="113.86283" stroke-width="0" fill="#000000">Cavity/&quot;Lake&quot;</text>
+   <line y2="366.01102" x2="361.87381" y1="413.19895" x1="197.26475" stroke-width="3" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="55ea50c70d6b4d63880d903c26adb3e9-ao-4" y="521.84093" x="100.6941" stroke-width="0" fill="#000000">inner pore</text>
+  <line id="55ea50c70d6b4d63880d903c26adb3e9-ao-5" y2="477.94518" x2="375.04254" y1="509.7696" x1="162.14815" stroke-width="3" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="55ea50c70d6b4d63880d903c26adb3e9-ao-6" height="91.08368" width="185.45954" y="168.48015" x="589.03431" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="55ea50c70d6b4d63880d903c26adb3e9-ao-7" height="70.2332" width="162.41427" y="375.88756" x="30.4609" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="55ea50c70d6b4d63880d903c26adb3e9-ao-8" height="60.35666" width="137.17422" y="482.33476" x="26.07133" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
